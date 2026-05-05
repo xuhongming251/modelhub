@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-05T22:33:17.681Z",
-  "lastRunId": 25393349836,
+  "updatedAt": "2026-05-05T23:28:20.541Z",
+  "lastRunId": 25405860055,
   "items": [
+    {
+      "id": "run_25405860055",
+      "run_id": 25405860055,
+      "artifact_id": 6818935725,
+      "filename": "suimeixlIllustrious_suimeixlIllustrious.safetensors",
+      "normalized_name": "suimeixlillustrious_suimeixlillustrious.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d9ba57026812",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-05T22:43:29Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25393349836",
       "run_id": 25393349836,
@@ -25729,7 +25742,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
