@@ -1,0 +1,45 @@
+name: Sync Data
+
+on:
+  schedule:
+    # Incremental sync every 30 minutes (resumes from last scan position)
+    - cron: '7,37 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Run incremental sync
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          GITHUB_OWNER: xuhongming251
+          GITHUB_REPO: upload_cloud_storage
+          GITHUB_WORKFLOWS: upload.yml
+          SYNC_DATA_DIR: ./data
+          SYNC_BATCH_SIZE: '30'
+        run: npm run sync
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/sync_cache.json data/sync_state.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update sync cache [skip ci]"
+            git push
+          fi

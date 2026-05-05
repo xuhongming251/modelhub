@@ -1,0 +1,16 @@
+{
+  "name": "ModelHub",
+  "version": "1.0.0",
+  "description": "ModelHub — file search over GitHub Actions artifacts, deployed via GitHub Pages",
+  "scripts": {
+    "sync": "node scripts/sync.js",
+    "sync:all": "node scripts/syncAll.js"
+  },
+  "author": "xuhongming251",
+  "license": "MIT",
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "axios": "^1.13.5",
+    "dotenv": "^16.4.7"
+  }
+}
