@@ -1,8 +1,177 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-05T11:50:21.206Z",
-  "lastRunId": 25372441344,
+  "updatedAt": "2026-05-05T13:18:32.080Z",
+  "lastRunId": 25378497187,
   "items": [
+    {
+      "id": "run_25378474139",
+      "run_id": 25378474139,
+      "artifact_id": 6807234211,
+      "filename": "one20obsessionMature.P0MG.safetensors",
+      "normalized_name": "one20obsessionmature.p0mg.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/66f91d334ab6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-05T13:13:15Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25378497187",
+      "run_id": 25378497187,
+      "artifact_id": 6807232116,
+      "filename": "ComfyUI-Manager.zip",
+      "normalized_name": "comfyui-manager.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5df63366d170",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-05T13:13:09Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25377700428",
+      "run_id": 25377700428,
+      "artifact_id": 6806897823,
+      "filename": "anima-matte-v01.safetensors",
+      "normalized_name": "anima-matte-v01.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/aa0c1e28a6b3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-05T12:58:03Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25377520411",
+      "run_id": 25377520411,
+      "artifact_id": 6806799102,
+      "filename": "rufus-4.14p.exe",
+      "normalized_name": "rufus-4.14p.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/86ede9c45909",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-05T12:53:33Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25377481648",
+      "run_id": 25377481648,
+      "artifact_id": 6806786534,
+      "filename": "ComfyUI-GGUF.zip",
+      "normalized_name": "comfyui-gguf.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0dd97d9a6714",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-05T12:52:56Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25377397746",
+      "run_id": 25377397746,
+      "artifact_id": 6806760842,
+      "filename": "steinillustrious.wF8D.safetensors",
+      "normalized_name": "steinillustrious.wf8d.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1ed032e88a45",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-05T12:51:45Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25376864874",
+      "run_id": 25376864874,
+      "artifact_id": 6806537556,
+      "filename": "anima-realism-v01.safetensors",
+      "normalized_name": "anima-realism-v01.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/58101e8df939",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-05T12:41:25Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25376284761",
+      "run_id": 25376284761,
+      "artifact_id": 6806261211,
+      "filename": "anima-sharpen-v01.safetensors",
+      "normalized_name": "anima-sharpen-v01.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6c82a6a1ce29",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-05T12:28:14Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25376181425",
+      "run_id": 25376181425,
+      "artifact_id": 6806199636,
+      "filename": "takedaHiromitsuStyle.auoq.safetensors",
+      "normalized_name": "takedahiromitsustyle.auoq.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/742af42d51df",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-05T12:25:21Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25375899730",
+      "run_id": 25375899730,
+      "artifact_id": 6806134220,
+      "filename": "waiIllustriousSDXL_v170.safetensors",
+      "normalized_name": "waiillustrioussdxl_v170.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f1b92e336e5e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-05T12:22:04Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25375642705",
+      "run_id": 25375642705,
+      "artifact_id": 6805988614,
+      "filename": "reednsfwillustrious.2GW2.safetensors",
+      "normalized_name": "reednsfwillustrious.2gw2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0a7698a2da17",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-05T12:14:49Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25375152179",
+      "run_id": 25375152179,
+      "artifact_id": 6805756018,
+      "filename": "babydoll.GYmq.safetensors",
+      "normalized_name": "babydoll.gymq.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/80522664ab63",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-05T12:02:32Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25373745131",
+      "run_id": 25373745131,
+      "artifact_id": 6805177810,
+      "filename": "FComic1to1000_Anima.safetensors",
+      "normalized_name": "fcomic1to1000_anima.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cba816334ee3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-05T11:31:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "filename": "umt5_xxl_fp8_e4m3fn_scaled.safetensors",
       "normalized_name": "umt5_xxl_fp8_e4m3fn_scaled.safetensors",
@@ -596,12 +765,6 @@
       "normalized_name": "photoreal-betternudes-nsfw",
       "share_url": "https://pan.quark.cn/s/05560d98d369",
       "completed_at": "2026-05-04T08:21:11Z"
-    },
-    {
-      "filename": "ComfyUI-Manager.zip",
-      "normalized_name": "comfyui-manager.zip",
-      "share_url": "https://pan.quark.cn/s/99d6a8a9e1aa",
-      "completed_at": "2026-05-04T08:04:21Z"
     },
     {
       "filename": "asumaxlIllustriousV4.lVDS.safetensors",
@@ -3818,12 +3981,6 @@
       "normalized_name": "anklegrabv2epoch10.gvze.safetensors",
       "share_url": "https://pan.quark.cn/s/fe11268a21fa",
       "completed_at": "2026-04-30T14:12:39Z"
-    },
-    {
-      "filename": "babydoll.GYmq.safetensors",
-      "normalized_name": "babydoll.gymq.safetensors",
-      "share_url": "https://pan.quark.cn/s/9c8b1391902f",
-      "completed_at": "2026-04-30T14:09:42Z"
     },
     {
       "filename": "HangedGirl_Anime_IL_V2.safetensors",
@@ -16888,12 +17045,6 @@
       "completed_at": "2026-03-24T20:37:48Z"
     },
     {
-      "filename": "ComfyUI-GGUF.zip",
-      "normalized_name": "comfyui-gguf.zip",
-      "share_url": "https://pan.quark.cn/s/e31ff373e7ea",
-      "completed_at": "2026-03-24T19:33:42Z"
-    },
-    {
       "filename": "SeargeSDXL.zip",
       "normalized_name": "seargesdxl.zip",
       "share_url": "https://pan.quark.cn/s/269f13c81d35",
@@ -25270,5 +25421,11 @@
       "completed_at": "2026-03-07T05:57:41Z"
     }
   ],
-  "scanState": {}
+  "scanState": {
+    "upload.yml": {
+      "page": 7,
+      "createdBefore": null,
+      "exhausted": false
+    }
+  }
 }
