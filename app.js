@@ -236,7 +236,7 @@
     render();
 
     try {
-      const resp = await fetch('/data/sync_cache.json');
+      const resp = await fetch('./data/sync_cache.json');
       if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
 
       const data = await resp.json();
