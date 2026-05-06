@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-06T23:21:01.348Z",
+  "updatedAt": "2026-05-06T23:30:43.875Z",
   "lastRunId": 25466536439,
   "items": [
+    {
+      "id": "run_25466159138",
+      "run_id": 25466159138,
+      "artifact_id": 6843704271,
+      "filename": "fzit0605FP16.safetensors",
+      "normalized_name": "fzit0605fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9bfb149f3747",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-06T23:29:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25466536439",
       "run_id": 25466536439,
