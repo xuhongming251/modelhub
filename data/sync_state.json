@@ -1,8 +1,229 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-06T12:15:58.698Z",
-  "lastRunId": 25434227567,
+  "updatedAt": "2026-05-06T13:44:20.604Z",
+  "lastRunId": 25438846360,
   "items": [
+    {
+      "id": "run_25438846360",
+      "run_id": 25438846360,
+      "artifact_id": 6831767346,
+      "filename": "jina_clip_v2_bf16.safetensors",
+      "normalized_name": "jina_clip_v2_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f994821b4075",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-06T13:40:08Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25438781370",
+      "run_id": 25438781370,
+      "artifact_id": 6831749865,
+      "filename": "gemma_3_4b_it_bf16.safetensors",
+      "normalized_name": "gemma_3_4b_it_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7572bc050065",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-06T13:39:25Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25438700874",
+      "run_id": 25438700874,
+      "artifact_id": 6831716599,
+      "filename": "NewBie-Image-Exp0.1-bf16.safetensors",
+      "normalized_name": "newbie-image-exp0.1-bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0b866d5c2a38",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-06T13:38:00Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25438560505",
+      "run_id": 25438560505,
+      "artifact_id": 6831641238,
+      "filename": "ComfyUI_windows_portable_nvidia.7z",
+      "normalized_name": "comfyui_windows_portable_nvidia.7z",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bb282eadd588",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-06T13:34:49Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25438400989",
+      "run_id": 25438400989,
+      "artifact_id": 6831586811,
+      "filename": "gemma-3-4b-it",
+      "normalized_name": "gemma-3-4b-it",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7e7262993d1a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-06T13:32:33Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25438357729",
+      "run_id": 25438357729,
+      "artifact_id": 6831550687,
+      "filename": "NewBie-image-Exp0.1",
+      "normalized_name": "newbie-image-exp0.1",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/88537befb2ea",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-06T13:31:00Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25437066198",
+      "run_id": 25437066198,
+      "artifact_id": 6831460691,
+      "filename": "moodyDesireMix_v20PRO-Q8_0.gguf",
+      "normalized_name": "moodydesiremix_v20pro-q8_0.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/114283d27f15",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-06T13:27:03Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25437902884",
+      "run_id": 25437902884,
+      "artifact_id": 6831439909,
+      "filename": "moodyDesireMix_v20PRO.safetensors",
+      "normalized_name": "moodydesiremix_v20pro.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a455286fa5c0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-06T13:26:14Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25437887986",
+      "run_id": 25437887986,
+      "artifact_id": 6831382927,
+      "filename": "dasiwaLTX2322B.cbJg.safetensors",
+      "normalized_name": "dasiwaltx2322b.cbjg.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1e0ffc190ace",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-06T13:23:43Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25437775691",
+      "run_id": 25437775691,
+      "artifact_id": 6831300811,
+      "filename": "u3da+1.1_epoch_12.safetensors",
+      "normalized_name": "u3da+1.1_epoch_12.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2909ef6edd50",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-06T13:20:04Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25437712526",
+      "run_id": 25437712526,
+      "artifact_id": 6831270053,
+      "filename": "HdJijbJD",
+      "normalized_name": "hdjijbjd",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8203f9607e53",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-06T13:18:42Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25436725630",
+      "run_id": 25436725630,
+      "artifact_id": 6830845791,
+      "filename": "dabaitunaitang.safetensors",
+      "normalized_name": "dabaitunaitang.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6b31b257c806",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-06T12:59:32Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25436152063",
+      "run_id": 25436152063,
+      "artifact_id": 6830625867,
+      "filename": "MouseBell_Curvy_Body_Shape.safetensors",
+      "normalized_name": "mousebell_curvy_body_shape.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dd02d7a872b7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-06T12:49:17Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25436054901",
+      "run_id": 25436054901,
+      "artifact_id": 6830556376,
+      "filename": "3D_Anime_Style.safetensors",
+      "normalized_name": "3d_anime_style.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dac0dfb7f36d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-06T12:45:58Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25435728242",
+      "run_id": 25435728242,
+      "artifact_id": 6830419538,
+      "filename": "dabaitu_anima_2.safetensors",
+      "normalized_name": "dabaitu_anima_2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/65c817be8272",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-06T12:39:23Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25434969080",
+      "run_id": 25434969080,
+      "artifact_id": 6830089348,
+      "filename": "cunnyfunky2_purged.safetensors",
+      "normalized_name": "cunnyfunky2_purged.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b54da8167309",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-06T12:23:19Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25434899280",
+      "run_id": 25434899280,
+      "artifact_id": 6830062340,
+      "filename": "LTX2-i2v-SexyMove.safetensors",
+      "normalized_name": "ltx2-i2v-sexymove.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b1ef7230050f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-06T12:21:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25434227567",
       "run_id": 25434227567,
@@ -3379,12 +3600,6 @@
       "normalized_name": "flanimev30ffp16.c20c.safetensors",
       "share_url": "https://pan.quark.cn/s/939bada97920",
       "completed_at": "2026-05-02T11:00:26Z"
-    },
-    {
-      "filename": "moodyDesireMix_v20PRO.safetensors",
-      "normalized_name": "moodydesiremix_v20pro.safetensors",
-      "share_url": "https://pan.quark.cn/s/9f4b27a24c4b",
-      "completed_at": "2026-05-02T10:38:34Z"
     },
     {
       "filename": "nikkeanimav0423.eAfO.safetensors",
@@ -11649,12 +11864,6 @@
       "completed_at": "2026-04-14T16:06:37Z"
     },
     {
-      "filename": "ComfyUI_windows_portable_nvidia.7z",
-      "normalized_name": "comfyui_windows_portable_nvidia.7z",
-      "share_url": "https://pan.quark.cn/s/15d38f87a086",
-      "completed_at": "2026-04-14T15:23:14Z"
-    },
-    {
       "filename": "wangblue02Epoch10.h4bz.safetensors",
       "normalized_name": "wangblue02epoch10.h4bz.safetensors",
       "share_url": "https://pan.quark.cn/s/c372bd92dad7",
@@ -12889,12 +13098,6 @@
       "normalized_name": "momoko20face20xlv1.vtp6.safetensors",
       "share_url": "https://pan.quark.cn/s/b77929d295ea",
       "completed_at": "2026-04-07T14:10:13Z"
-    },
-    {
-      "filename": "NewBie-Image-Exp0.1-bf16.safetensors",
-      "normalized_name": "newbie-image-exp0.1-bf16.safetensors",
-      "share_url": "https://pan.quark.cn/s/c2c76229c10a",
-      "completed_at": "2026-04-07T14:08:49Z"
     },
     {
       "filename": "OllamaSetup.exe",
@@ -24915,18 +25118,6 @@
       "completed_at": "2026-03-09T10:05:21Z"
     },
     {
-      "filename": "jina_clip_v2_bf16.safetensors",
-      "normalized_name": "jina_clip_v2_bf16.safetensors",
-      "share_url": "https://pan.baidu.com/s/1toa5DXKHPm3oWwGil2uuMg?pwd=2a5a",
-      "completed_at": "2026-03-09T09:39:36Z"
-    },
-    {
-      "filename": "gemma_3_4b_it_bf16.safetensors",
-      "normalized_name": "gemma_3_4b_it_bf16.safetensors",
-      "share_url": "https://pan.baidu.com/s/1uGF5O9KJHIESJ2HBhnhYrA?pwd=7b62",
-      "completed_at": "2026-03-09T09:38:44Z"
-    },
-    {
       "filename": "ComfyUI-QwenVL.zip",
       "normalized_name": "comfyui-qwenvl.zip",
       "share_url": "https://pan.quark.cn/s/ad6dcb65461c",
@@ -25417,12 +25608,6 @@
       "normalized_name": "933076d9e758",
       "share_url": "https://pan.quark.cn/s/981436c95753",
       "completed_at": "2026-03-08T11:55:58Z"
-    },
-    {
-      "filename": "NewBie-image-Exp0.1",
-      "normalized_name": "newbie-image-exp0.1",
-      "share_url": "https://pan.baidu.com/s/1uD7pYB9IX-Mbi6-9jJDrdg?pwd=3b65",
-      "completed_at": "2026-03-08T11:48:05Z"
     },
     {
       "filename": "moodyWildV1Distilled.XDMm.safetensors",
