@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-06T21:59:28.105Z",
-  "lastRunId": 25453007595,
+  "updatedAt": "2026-05-06T22:27:45.365Z",
+  "lastRunId": 25464626478,
   "items": [
+    {
+      "id": "run_25464626478",
+      "run_id": 25464626478,
+      "artifact_id": 6842838570,
+      "filename": "Wan21_Uni3C_controlnet_fp16.safetensors",
+      "normalized_name": "wan21_uni3c_controlnet_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/44ca6d77af8f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-06T22:27:12Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25453007595",
       "run_id": 25453007595,
