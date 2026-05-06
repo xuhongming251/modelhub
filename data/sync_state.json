@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-06T23:08:21.118Z",
-  "lastRunId": 25466065851,
+  "updatedAt": "2026-05-06T23:21:01.348Z",
+  "lastRunId": 25466536439,
   "items": [
+    {
+      "id": "run_25466536439",
+      "run_id": 25466536439,
+      "artifact_id": 6843575126,
+      "filename": "umt5-xxl-enc-bf16.safetensors",
+      "normalized_name": "umt5-xxl-enc-bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fa2d7572cc0c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-06T23:20:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25466065851",
       "run_id": 25466065851,
@@ -9842,12 +9855,6 @@
       "normalized_name": "亚洲气氛混合.safetensors",
       "share_url": "https://pan.quark.cn/s/f13bc196333e",
       "completed_at": "2026-04-20T13:57:19Z"
-    },
-    {
-      "filename": "umt5-xxl-enc-bf16.safetensors",
-      "normalized_name": "umt5-xxl-enc-bf16.safetensors",
-      "share_url": "https://pan.quark.cn/s/0ed32ce268c7",
-      "completed_at": "2026-04-20T13:54:38Z"
     },
     {
       "filename": "skin20texture20style.wh1X.safetensors",
