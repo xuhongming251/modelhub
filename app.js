@@ -65,6 +65,9 @@
 
 // ── Toast ──────────────────────────────────────────────────────────────
   let toastTimer;
+  function isMobile() {
+    return /Android|iPhone|iPad|iPod|webOS/i.test(navigator.userAgent);
+  }
   function showToast(msg, duration = 2000) {
     clearTimeout(toastTimer);
     dom.toast.textContent = msg;
@@ -304,7 +307,12 @@
     // Card button click — open share URL
     const btn = e.target.closest('.btn-share');
     if (btn && btn.dataset.url) {
-      window.open(btn.dataset.url, '_blank', 'noopener,noreferrer');
+      if (isMobile()) {
+        const quarkUrl = 'quark://open?url=' + encodeURIComponent(btn.dataset.url);
+        window.open(quarkUrl, '_self');
+      } else {
+        showToast('请使用手机打开，一键转存到网盘', 2500);
+      }
       return;
     }
 
@@ -313,7 +321,12 @@
     if (card) {
       const shareBtn = card.querySelector('.btn-share');
       if (shareBtn && shareBtn.dataset.url) {
-        window.open(shareBtn.dataset.url, '_blank', 'noopener,noreferrer');
+        if (isMobile()) {
+          const quarkUrl = 'quark://open?url=' + encodeURIComponent(shareBtn.dataset.url);
+          window.open(quarkUrl, '_self');
+        } else {
+          showToast('请使用手机打开，一键转存到网盘', 2500);
+        }
       }
     }
   }
