@@ -10,7 +10,20 @@
 (function () {
   'use strict';
 
-  // ── State ──────────────────────────────────────────────────────────────
+  // ── Allowed model file extensions ─────────────────────────────────────
+  const MODEL_EXTENSIONS = new Set([
+    '.pb', '.h5', '.ckpt',            // TensorFlow
+    '.pt', '.pth',                     // PyTorch
+    '.onnx',                           // ONNX
+    '.pkl', '.joblib',                 // Scikit-learn
+    '.bin', '.safetensors',           // Weights
+    '.gguf', '.ggml'                  // LLM local inference
+  ]);
+
+  function hasModelExtension(filename) {
+    const ext = filename.slice(filename.lastIndexOf('.')).toLowerCase();
+    return MODEL_EXTENSIONS.has(ext);
+  }
   const state = {
     query: '',
     items: [],
@@ -161,6 +174,9 @@
       );
     }
 
+    // Filter to only model file extensions
+    filtered = filtered.filter(i => hasModelExtension(i.filename));
+
     const totalFiltered = filtered.length;
     const totalPages = Math.max(1, Math.ceil(totalFiltered / state.pageSize));
 
@@ -188,10 +204,11 @@
     }
 
     // Update stats bar
-    if (state.query && filtered.length !== state.items.length) {
-      dom.statsBar.textContent = `找到 ${totalFiltered} 条（共 ${state.items.length} 条）`;
+    const modelTotal = state.items.filter(i => hasModelExtension(i.filename)).length;
+    if (state.query) {
+      dom.statsBar.textContent = `找到 ${totalFiltered} 条（共 ${modelTotal} 条）`;
     } else {
-      dom.statsBar.textContent = `共 ${state.items.length} 条记录`;
+      dom.statsBar.textContent = `共 ${modelTotal} 条记录`;
     }
 
     // Pagination
