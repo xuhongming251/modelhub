@@ -5,6 +5,10 @@ on:
     # Incremental sync every 30 minutes (resumes from last scan position)
     - cron: '*/30 * * * *'
   workflow_dispatch:
+    inputs:
+      from_upload:
+        required: false
+        default: 'false'
 
 permissions:
   contents: write
@@ -21,6 +25,12 @@ jobs:
           cache: 'npm'
 
       - run: npm ci
+
+      - name: Conditional delay
+        if: ${{ github.event.inputs.from_upload == 'true' }}
+        run: |
+          echo "⏳ Triggered by upload, waiting..."
+          sleep 10
 
       - name: Run incremental sync
         env:
