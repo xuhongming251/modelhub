@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-06T22:27:45.365Z",
-  "lastRunId": 25464626478,
+  "updatedAt": "2026-05-06T22:46:49.366Z",
+  "lastRunId": 25465371022,
   "items": [
+    {
+      "id": "run_25465371022",
+      "run_id": 25465371022,
+      "artifact_id": 6843121854,
+      "filename": "Wan2_1_VAE_bf16.safetensors",
+      "normalized_name": "wan2_1_vae_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/51ed662531bf",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-06T22:46:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25464626478",
       "run_id": 25464626478,
@@ -6744,12 +6757,6 @@
       "normalized_name": "wan2.1_infinitetalk_multi_fp16.safetensors",
       "share_url": "https://pan.quark.cn/s/e4cecb423fc7",
       "completed_at": "2026-04-27T21:05:32Z"
-    },
-    {
-      "filename": "Wan2_1_VAE_bf16.safetensors",
-      "normalized_name": "wan2_1_vae_bf16.safetensors",
-      "share_url": "https://pan.quark.cn/s/9893a53f02cc",
-      "completed_at": "2026-04-27T21:05:19Z"
     },
     {
       "filename": "lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors",
