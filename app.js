@@ -4,8 +4,6 @@
  * Vanilla JS, zero dependencies. Mobile-first design with:
  * - Real-time filename search
  * - Channel filter chips
- * - Auto-refresh every 10 seconds
- * - Pull-to-refresh gesture
  * - Copy-to-clipboard with toast feedback
  * - Dark mode support (follows OS preference)
  */
@@ -32,7 +30,6 @@
   const dom = {
     searchInput:  $('#searchInput'),
     clearBtn:     $('#clearBtn'),
-    refreshBtn:   $('#refreshBtn'),
     syncStatus:   $('#syncStatus'),
     statsBar:     $('#statsBar'),
     loading:      $('#loading'),
@@ -53,12 +50,7 @@
     if (el) el.scrollTop = 0;
   }
 
-  function getScrollContainer() {
-    return [dom.fileList, dom.loading, dom.errorState, dom.emptyState]
-      .find(e => e.style.display !== 'none');
-  }
-
-  // ── Toast ──────────────────────────────────────────────────────────────
+// ── Toast ──────────────────────────────────────────────────────────────
   let toastTimer;
   function showToast(msg, duration = 2000) {
     clearTimeout(toastTimer);
@@ -263,7 +255,7 @@
       }
     } catch (err) {
       console.error('Fetch error:', err);
-      state.error = '暂无数据，请稍后刷新';
+      state.error = '暂无数据，请稍后重试';
     } finally {
       state.loading = false;
       render();
@@ -309,58 +301,6 @@
     }
   }
 
-  // ── Pull-to-refresh ───────────────────────────────────────────────────
-  let touchStartY = 0;
-  let pulling = false;
-  let touchLastY = 0;
-  let pullIndicator;
-
-  function createPullIndicator() {
-    pullIndicator = document.createElement('div');
-    pullIndicator.className = 'pull-indicator';
-    pullIndicator.innerHTML = `
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M21.5 2v6h-6M2.5 22v-6h6M2 11.5a10 10 0 0 1 18.8-4.3M22 12.5a10 10 0 0 1-18.8 4.2"/>
-      </svg>
-    `;
-    document.body.insertBefore(pullIndicator, document.body.firstChild);
-  }
-
-  function setupPullToRefresh() {
-    createPullIndicator();
-
-    document.addEventListener('touchstart', function (e) {
-      const scroller = getScrollContainer();
-      if ((!scroller || scroller.scrollTop <= 0) && !state.loading) {
-        touchStartY = e.touches[0].clientY;
-        pulling = true;
-      }
-    }, { passive: true });
-
-    document.addEventListener('touchmove', function (e) {
-      if (!pulling) return;
-      touchLastY = e.touches[0].clientY;
-      const dy = touchLastY - touchStartY;
-      if (dy > 0 && dy < 120) {
-        pullIndicator.style.transform = `translateY(${dy - 40}px)`;
-        pullIndicator.style.opacity = Math.min(dy / 80, 1);
-      }
-    }, { passive: true });
-
-    document.addEventListener('touchend', function () {
-      if (!pulling) return;
-      pulling = false;
-      pullIndicator.style.transform = 'translateY(-40px)';
-      pullIndicator.style.opacity = '0';
-
-      const dy = touchLastY - touchStartY;
-      if (dy > 80) {
-        loadFiles();
-        showToast('正在刷新...');
-      }
-    });
-  }
-
   // ── Init ───────────────────────────────────────────────────────────────
   function init() {
     // Search input
@@ -380,14 +320,6 @@
       dom.clearBtn.style.display = 'none';
       render();
       dom.searchInput.focus();
-    });
-
-    // Refresh button — re-fetch from server (reads cache from disk)
-    dom.refreshBtn.addEventListener('click', async function () {
-      dom.refreshBtn.classList.add('spinning');
-      await loadFiles();
-      dom.refreshBtn.classList.remove('spinning');
-      showToast('已刷新');
     });
 
     // Retry button (error state)
@@ -422,9 +354,6 @@
         render();
       }
     });
-
-    // Pull-to-refresh
-    setupPullToRefresh();
 
     // Initial load
     loadFiles();

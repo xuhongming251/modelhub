@@ -96,32 +96,6 @@ button {
   height: 100%;
 }
 
-/* ── Pull Indicator ──────────────────────────────────────────────────── */
-.pull-indicator {
-  position: fixed;
-  top: 0;
-  left: 50%;
-  transform: translateX(-50%) translateY(-40px);
-  width: 36px;
-  height: 36px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: var(--color-surface);
-  border-radius: 50%;
-  box-shadow: var(--shadow);
-  z-index: 200;
-  opacity: 0;
-  transition: opacity 0.2s;
-  pointer-events: none;
-}
-
-.pull-indicator svg {
-  width: 20px;
-  height: 20px;
-  color: var(--color-primary);
-}
-
 /* ── Header ──────────────────────────────────────────────────────────── */
 .header {
   display: flex;
@@ -232,41 +206,6 @@ button {
   color: var(--color-text-secondary);
 }
 
-/* ── Refresh Button ──────────────────────────────────────────────────── */
-.btn-refresh {
-  width: 36px;
-  height: 36px;
-  border: 1.5px solid var(--color-border);
-  background: var(--color-surface);
-  border-radius: var(--radius-sm);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  cursor: pointer;
-  flex-shrink: 0;
-  transition: background var(--transition);
-  -webkit-tap-highlight-color: transparent;
-}
-
-.btn-refresh:active {
-  background: var(--color-border);
-}
-
-.btn-refresh svg {
-  width: 16px;
-  height: 16px;
-  color: var(--color-text-secondary);
-  transition: transform var(--transition);
-}
-
-.btn-refresh.spinning svg {
-  animation: spin 0.8s linear infinite;
-}
-
-@keyframes spin {
-  to { transform: rotate(360deg); }
-}
-
 /* ── Stats Bar ───────────────────────────────────────────────────────── */
 .stats-bar {
   font-size: 0.625rem;
@@ -349,6 +288,11 @@ button {
 
 .btn-share:active {
   background: var(--color-primary-dark);
+}
+
+/* ── Keyframes ───────────────────────────────────────────────────────── */
+@keyframes spin {
+  to { transform: rotate(360deg); }
 }
 
 /* ── Loading ──────────────────────────────────────────────────────────── */
