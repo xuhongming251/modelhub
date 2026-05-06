@@ -66,7 +66,8 @@
 // ── Toast ──────────────────────────────────────────────────────────────
   let toastTimer;
   function isMobile() {
-    return /Android|iPhone|iPad|iPod|webOS/i.test(navigator.userAgent);
+    return /Mobi|Android|iPhone|iPad|iPod|webOS/i.test(navigator.userAgent)
+      || (navigator.maxTouchPoints > 1 && window.innerWidth < 1024);
   }
   function showToast(msg, duration = 2000) {
     clearTimeout(toastTimer);
@@ -308,8 +309,7 @@
     const btn = e.target.closest('.btn-share');
     if (btn && btn.dataset.url) {
       if (isMobile()) {
-        const quarkUrl = encodeURIComponent(btn.dataset.url);
-        window.open(quarkUrl, '_self');
+        window.open(btn.dataset.url, '_blank', 'noopener,noreferrer');
       } else {
         showToast('请使用手机打开，一键转存到网盘', 2500);
       }
@@ -322,8 +322,7 @@
       const shareBtn = card.querySelector('.btn-share');
       if (shareBtn && shareBtn.dataset.url) {
         if (isMobile()) {
-          const quarkUrl = encodeURIComponent(shareBtn.dataset.url);
-          window.open(quarkUrl, '_self');
+          window.open(shareBtn.dataset.url, '_blank', 'noopener,noreferrer');
         } else {
           showToast('请使用手机打开，一键转存到网盘', 2500);
         }
