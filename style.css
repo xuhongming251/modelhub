@@ -422,15 +422,15 @@ button {
 }
 
 .page-btn {
-  width: 32px;
-  height: 32px;
+  width: 44px;
+  height: 44px;
   display: flex;
   align-items: center;
   justify-content: center;
   border: 1px solid var(--color-border);
   background: var(--color-surface);
   border-radius: var(--radius-sm);
-  font-size: 1rem;
+  font-size: 1.25rem;
   color: var(--color-primary);
   cursor: pointer;
   font-family: var(--font-sans);
