@@ -308,7 +308,7 @@
     const btn = e.target.closest('.btn-share');
     if (btn && btn.dataset.url) {
       if (isMobile()) {
-        const quarkUrl = 'quark://open?url=' + encodeURIComponent(btn.dataset.url);
+        const quarkUrl = encodeURIComponent(btn.dataset.url);
         window.open(quarkUrl, '_self');
       } else {
         showToast('请使用手机打开，一键转存到网盘', 2500);
@@ -322,7 +322,7 @@
       const shareBtn = card.querySelector('.btn-share');
       if (shareBtn && shareBtn.dataset.url) {
         if (isMobile()) {
-          const quarkUrl = 'quark://open?url=' + encodeURIComponent(shareBtn.dataset.url);
+          const quarkUrl = encodeURIComponent(shareBtn.dataset.url);
           window.open(quarkUrl, '_self');
         } else {
           showToast('请使用手机打开，一键转存到网盘', 2500);
