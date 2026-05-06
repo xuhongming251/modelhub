@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-06T09:44:18.984Z",
-  "lastRunId": 25427802288,
+  "updatedAt": "2026-05-06T10:21:40.106Z",
+  "lastRunId": 25428334505,
   "items": [
+    {
+      "id": "run_25428334505",
+      "run_id": 25428334505,
+      "artifact_id": 6827266358,
+      "filename": "ip-adapter-faceid-plusv2_sdxl_lora.safetensors",
+      "normalized_name": "ip-adapter-faceid-plusv2_sdxl_lora.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/85695604ea55",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-06T09:52:44Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25428009029",
+      "run_id": 25428009029,
+      "artifact_id": 6827251549,
+      "filename": "LTX-2-19b-IC-LoRA-Detailer.zip",
+      "normalized_name": "ltx-2-19b-ic-lora-detailer.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f763d47d7c25",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-06T09:51:58Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25427834667",
+      "run_id": 25427834667,
+      "artifact_id": 6827156062,
+      "filename": "HeroCam_LTX2_bucket113_step_02000.safetensors",
+      "normalized_name": "herocam_ltx2_bucket113_step_02000.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7c047b641f50",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-06T09:47:05Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25427793076",
       "run_id": 25427793076,
