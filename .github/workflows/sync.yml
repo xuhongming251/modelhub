@@ -3,7 +3,7 @@ name: Sync Data
 on:
   schedule:
     # Incremental sync every 30 minutes (resumes from last scan position)
-    - cron: '7,37 * * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 permissions:
