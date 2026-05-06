@@ -46,6 +46,18 @@
     toast:        $('#toast')
   };
 
+  // ── Scroll helper ─────────────────────────────────────────────────────
+  function scrollContentToTop() {
+    const el = [dom.fileList, dom.loading, dom.errorState, dom.emptyState]
+      .find(e => e.style.display !== 'none');
+    if (el) el.scrollTop = 0;
+  }
+
+  function getScrollContainer() {
+    return [dom.fileList, dom.loading, dom.errorState, dom.emptyState]
+      .find(e => e.style.display !== 'none');
+  }
+
   // ── Toast ──────────────────────────────────────────────────────────────
   let toastTimer;
   function showToast(msg, duration = 2000) {
@@ -275,7 +287,7 @@
       if (targetPage >= 1) {
         state.page = targetPage;
         render();
-        window.scrollTo({ top: 0, behavior: 'smooth' });
+        scrollContentToTop();
       }
       return;
     }
@@ -300,6 +312,7 @@
   // ── Pull-to-refresh ───────────────────────────────────────────────────
   let touchStartY = 0;
   let pulling = false;
+  let touchLastY = 0;
   let pullIndicator;
 
   function createPullIndicator() {
@@ -317,7 +330,8 @@
     createPullIndicator();
 
     document.addEventListener('touchstart', function (e) {
-      if (window.scrollY <= 0 && !state.loading) {
+      const scroller = getScrollContainer();
+      if ((!scroller || scroller.scrollTop <= 0) && !state.loading) {
         touchStartY = e.touches[0].clientY;
         pulling = true;
       }
@@ -325,7 +339,8 @@
 
     document.addEventListener('touchmove', function (e) {
       if (!pulling) return;
-      const dy = e.touches[0].clientY - touchStartY;
+      touchLastY = e.touches[0].clientY;
+      const dy = touchLastY - touchStartY;
       if (dy > 0 && dy < 120) {
         pullIndicator.style.transform = `translateY(${dy - 40}px)`;
         pullIndicator.style.opacity = Math.min(dy / 80, 1);
@@ -338,7 +353,7 @@
       pullIndicator.style.transform = 'translateY(-40px)';
       pullIndicator.style.opacity = '0';
 
-      const dy = (window._lastTouchY || 0) - touchStartY;
+      const dy = touchLastY - touchStartY;
       if (dy > 80) {
         loadFiles();
         showToast('正在刷新...');
@@ -389,7 +404,7 @@
         if (v >= 1 && v <= max) {
           state.page = v;
           render();
-          window.scrollTo({ top: 0, behavior: 'smooth' });
+          scrollContentToTop();
         } else {
           e.target.value = state.page;
         }

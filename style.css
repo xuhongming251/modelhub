@@ -66,7 +66,8 @@ html {
   font-size: 16px;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: transparent;
-  scroll-behavior: smooth;
+  height: 100dvh;
+  overflow: hidden;
 }
 
 body {
@@ -74,13 +75,11 @@ body {
   background: var(--color-bg);
   color: var(--color-text);
   line-height: 1.6;
-  min-height: 100vh;
-  min-height: 100dvh;
+  height: 100dvh;
+  overflow: hidden;
   padding-bottom: var(--safe-bottom);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  overscroll-behavior-y: contain;
-  -webkit-overflow-scrolling: touch;
 }
 
 button {
@@ -92,6 +91,9 @@ button {
   max-width: 480px;
   margin: 0 auto;
   padding: 0 12px;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
 }
 
 /* ── Pull Indicator ──────────────────────────────────────────────────── */
@@ -274,10 +276,14 @@ button {
 
 /* ── File List ───────────────────────────────────────────────────────── */
 .file-list {
+  flex: 1;
+  overflow-y: auto;
   display: flex;
   flex-direction: column;
   gap: 2px;
   padding-bottom: 8px;
+  -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
 }
 
 /* ── File Card ───────────────────────────────────────────────────────── */
@@ -347,6 +353,8 @@ button {
 
 /* ── Loading ──────────────────────────────────────────────────────────── */
 .loading {
+  flex: 1;
+  overflow-y: auto;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -371,6 +379,8 @@ button {
 
 /* ── Error State ─────────────────────────────────────────────────────── */
 .error-state {
+  flex: 1;
+  overflow-y: auto;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -413,6 +423,8 @@ button {
 
 /* ── Empty State ──────────────────────────────────────────────────────── */
 .empty-state {
+  flex: 1;
+  overflow-y: auto;
   display: flex;
   flex-direction: column;
   align-items: center;
