@@ -5,8 +5,10 @@ const axios = require('axios');
 /**
  * Persistent incremental sync manager.
  *
- * Stores only the latest processed run ID (lastRunId). Since GitHub Actions
- * run IDs are monotonically increasing, any run with id > lastRunId is new.
+ * Tracks processed run IDs via a Set built from the items list. Each sync
+ * call starts from page 1 (newest runs first) and processes only runs that
+ * aren't already in the local DB. lastRunId is updated after all new runs
+ * are processed so it reflects the actual max ID in the items.
  */
 class SyncManager {
   constructor(githubService, searchService, options = {}) {
@@ -87,44 +89,38 @@ class SyncManager {
 
   async syncNewBatch(workflows, batchSize = 10, maxExtraPages = 5) {
     let newCount = 0;
+    let maxProcessedId = this.lastRunId;
+    const existingRunIds = new Set(this.state.items.map(item => item.run_id));
 
     for (const wf of workflows) {
       if (newCount >= batchSize) break;
 
-      let scan = this.state.scanState[wf] || { page: 1, createdBefore: null, exhausted: false };
-      const lastSync = this.state.updatedAt ? Date.now() - new Date(this.state.updatedAt).getTime() : Infinity;
-      const RESET_THRESHOLD = 30 * 60 * 1000; // 30 min — match CI schedule
+      // Always start from page 1 — the newest runs are there, and the Set-based
+      // filter correctly skips already-processed runs regardless of page position.
+      console.log(`[sync] Scanning ${wf} from page 1`);
 
-      // Reset exhausted workflows so new runs are discovered. Already-processed
-      // runs are still skipped via lastRunId, so this is cheap (at most a few
-      // empty pages before emptyStreak stops the scan).
-      if (scan.exhausted) {
-        console.log(`[sync] ${wf} was exhausted — resetting to check for new runs`);
-        scan = { page: 1, createdBefore: null, exhausted: false };
-      } else if (lastSync > RESET_THRESHOLD) {
-        // If the last sync was long ago, fresh scan is more efficient than
-        // resuming a stale page/date-window position.
-        console.log(`[sync] ${wf} last sync was ${Math.round(lastSync / 60000)}min ago — fresh scan`);
-        scan = { page: 1, createdBefore: null, exhausted: false };
-      }
-
-      console.log(`[sync] Scanning ${wf} from page ${scan.page}`);
-
+      let page = 1;
+      let createdBefore = null;
       let emptyStreak = 0;
+
       while (newCount < batchSize) {
-        const result = await this._fetchRunsPage(wf, scan.page, scan.createdBefore);
+        const result = await this._fetchRunsPage(wf, page, createdBefore);
         const runs = result.runs;
 
-        if (runs.length === 0) {
-          scan.exhausted = true;
+        if (runs.length === 0) break;
+
+        // Use Set-based filtering instead of r.id > lastRunId. The ID filter
+        // breaks when runs span multiple pages because newer pages have higher
+        // IDs — once lastRunId is updated with a high ID, all remaining runs
+        // on subsequent pages (with lower IDs) would be permanently invisible.
+        const newRuns = runs.filter(r => !existingRunIds.has(r.id));
+
+        if (newRuns.length === 0 && page === 1 && createdBefore === null) {
+          // The very first (newest) page has no new runs — we're fully caught up.
           break;
         }
 
-        const oldestDate = runs[runs.length - 1].created_at;
-        const newRuns = runs.filter(r => r.id > this.lastRunId);
-        const hasNew = newRuns.length > 0;
-
-        if (hasNew) {
+        if (newRuns.length > 0) {
           const needed = batchSize - newCount;
           const toProcess = newRuns.slice(0, needed);
           const concurrency = 5;
@@ -133,27 +129,37 @@ class SyncManager {
             const results = await Promise.all(
               batch.map(run => this._processAndAdd(run, wf))
             );
-            newCount += results.filter(Boolean).length;
+            const addedIds = results.filter(Boolean);
+            newCount += addedIds.length;
+            for (const id of addedIds) {
+              existingRunIds.add(id);
+              maxProcessedId = Math.max(maxProcessedId, id);
+            }
           }
         }
 
-        if (newCount < batchSize) scan.page++;
-        if (!hasNew) emptyStreak++;
+        if (newCount < batchSize) page++;
+
+        if (newRuns.length === 0) emptyStreak++;
         else emptyStreak = 0;
         if (emptyStreak >= maxExtraPages) break;
 
-        if (scan.page > 10 && oldestDate) {
+        if (page > 10 && runs.length > 0) {
+          const oldestDate = runs[runs.length - 1].created_at;
           console.log(`[sync]   sliding window to before ${oldestDate.slice(0,10)}`);
-          scan.createdBefore = oldestDate;
-          scan.page = 1;
+          createdBefore = oldestDate;
+          page = 1;
           emptyStreak = 0;
         }
       }
 
-      this.state.scanState[wf] = scan;
+      this.state.scanState[wf] = { page, createdBefore, exhausted: false };
     }
 
-    this._finalize();
+    if (newCount > 0) {
+      this.lastRunId = maxProcessedId;
+      this._finalize();
+    }
     const done = newCount === 0;
     console.log(`[sync] Batch: +${newCount} new, ${this.state.items.length} total${done ? ' (done)' : ''}`);
     return { newCount, totalItems: this.state.items.length, done };
@@ -162,19 +168,21 @@ class SyncManager {
   // ── Sync: all remaining ─────────────────────────────────────────────────
 
   /**
-   * Always starts from page 1 (newest first). Stops when hitting a run with
-   * id <= lastRunId, since all subsequent runs are older and already processed.
+   * Full sync — starts from page 1 and processes all un-synced runs.
+   * Uses Set-based dedup to avoid re-processing runs that are already in the DB.
    */
   async syncAll(workflows, batchSize = 50) {
     let grandTotal = 0;
     let saveEvery = 50;
+    let maxProcessedId = this.lastRunId;
+    const existingRunIds = new Set(this.state.items.map(item => item.run_id));
 
     for (const wf of workflows) {
       let page = 1;
       let sinceSave = 0;
       let seenStreak = 0;
 
-      console.log(`[sync] Full scan ${wf} from page 1 (lastRunId=${this.lastRunId})`);
+      console.log(`[sync] Full scan ${wf} from page 1 (${this.state.items.length} items)`);
 
       while (seenStreak < 3) {
         const result = await this._fetchRunsPage(wf, page);
@@ -186,11 +194,11 @@ class SyncManager {
           continue;
         }
 
-        const newRuns = runs.filter(r => r.id > this.lastRunId);
+        const newRuns = runs.filter(r => !existingRunIds.has(r.id));
 
         if (newRuns.length === 0) {
           seenStreak++;
-          console.log(`[sync]   page ${page}: all ${runs.length} runs <= lastRunId, caught up`);
+          console.log(`[sync]   page ${page}: all ${runs.length} runs already synced, caught up`);
           page++;
           await new Promise(r => setTimeout(r, 200));
           continue;
@@ -205,11 +213,17 @@ class SyncManager {
           const results = await Promise.all(
             batch.map(run => this._processAndAdd(run, wf))
           );
-          const added = results.filter(Boolean).length;
+          const addedIds = results.filter(Boolean);
+          const added = addedIds.length;
           grandTotal += added;
           sinceSave += added;
+          for (const id of addedIds) {
+            existingRunIds.add(id);
+            maxProcessedId = Math.max(maxProcessedId, id);
+          }
 
           if (sinceSave >= saveEvery) {
+            this.lastRunId = maxProcessedId;
             this._finalize();
             sinceSave = 0;
             console.log(`[sync]   progress: ${this.state.items.length} items, lastRunId=${this.lastRunId}`);
@@ -223,6 +237,7 @@ class SyncManager {
       this.state.scanState[wf] = { page };
     }
 
+    this.lastRunId = maxProcessedId;
     this._finalize();
     console.log(`[sync] All done: ${grandTotal} new, ${this.state.items.length} total, lastRunId=${this.lastRunId}`);
     return { newCount: grandTotal, totalItems: this.state.items.length };
@@ -233,16 +248,15 @@ class SyncManager {
   async _processAndAdd(run, workflowFile) {
     try {
       const record = await this.githubService.processRun(run, workflowFile);
-      if (!record) return false;
-      if (!this.searchService.validateRecord(record)) return false;
+      if (!record) return null;
+      if (!this.searchService.validateRecord(record)) return null;
 
       const item = this.searchService.transformRecord(record);
       this.state.items.push(item);
-      this.lastRunId = Math.max(this.lastRunId, run.id);
-      return true;
+      return run.id;
     } catch (err) {
       console.error(`[sync] Error processing run ${run.id}: ${err.message}`);
-      return false;
+      return null;
     }
   }
 
