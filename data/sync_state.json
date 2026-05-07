@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T10:39:18.084Z",
-  "lastRunId": 25490735064,
+  "updatedAt": "2026-05-07T10:43:42.203Z",
+  "lastRunId": 25490842233,
   "items": [
+    {
+      "id": "run_25490842233",
+      "run_id": 25490842233,
+      "artifact_id": 6853008526,
+      "filename": "wan22I2VLowDasiwa.nxVx.gguf",
+      "normalized_name": "wan22i2vlowdasiwa.nxvx.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fdd59ff19346",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T10:43:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25490735064",
       "run_id": 25490735064,
@@ -14750,12 +14763,6 @@
       "normalized_name": "malenpcokaasanonline.safetensors",
       "share_url": "https://pan.quark.cn/s/339f5aa6bfeb",
       "completed_at": "2026-04-04T16:25:45Z"
-    },
-    {
-      "filename": "wan22I2VLowDasiwa.nxVx.gguf",
-      "normalized_name": "wan22i2vlowdasiwa.nxvx.gguf",
-      "share_url": "https://pan.quark.cn/s/d8e453b1ac67",
-      "completed_at": "2026-04-04T16:22:35Z"
     },
     {
       "filename": "wan22I2VHighDasiwa.0LkI.safetensors",
