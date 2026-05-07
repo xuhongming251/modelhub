@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T03:24:07.136Z",
-  "lastRunId": 25474283954,
+  "updatedAt": "2026-05-07T03:36:23.563Z",
+  "lastRunId": 25474622695,
   "items": [
+    {
+      "id": "run_25474622695",
+      "run_id": 25474622695,
+      "artifact_id": 6846468117,
+      "filename": "nfcs_v1-000002.safetensors",
+      "normalized_name": "nfcs_v1-000002.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3d550dab5aff",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T03:35:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25474283954",
       "run_id": 25474283954,
