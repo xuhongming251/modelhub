@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T03:16:02.293Z",
-  "lastRunId": 25474047527,
+  "updatedAt": "2026-05-07T03:19:41.239Z",
+  "lastRunId": 25474156340,
   "items": [
+    {
+      "id": "run_25474156340",
+      "run_id": 25474156340,
+      "artifact_id": 6846298198,
+      "filename": "app-arm64-v8a-release-0.3.2.apk",
+      "normalized_name": "app-arm64-v8a-release-0.3.2.apk",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2d459284e877",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T03:19:19Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25474047527",
       "run_id": 25474047527,
