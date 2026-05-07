@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T14:04:37.263Z",
-  "lastRunId": 25500498378,
+  "updatedAt": "2026-05-07T14:29:43.128Z",
+  "lastRunId": 25502046348,
   "items": [
+    {
+      "id": "run_25502046348",
+      "run_id": 25502046348,
+      "artifact_id": 6857830297,
+      "filename": "chilloutmix_NiPrunedFp32Fix.safetensors",
+      "normalized_name": "chilloutmix_niprunedfp32fix.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/65a374cef22e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T14:28:55Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25500481131",
       "run_id": 25500481131,
@@ -5979,12 +5992,6 @@
       "normalized_name": "majicmixrealistic_v7.safetensors",
       "share_url": "https://pan.quark.cn/s/c36c03fb8736",
       "completed_at": "2026-05-01T10:38:59Z"
-    },
-    {
-      "filename": "chilloutmix_NiPrunedFp32Fix.safetensors",
-      "normalized_name": "chilloutmix_niprunedfp32fix.safetensors",
-      "share_url": "https://pan.quark.cn/s/2614a5c8e419",
-      "completed_at": "2026-05-01T10:38:22Z"
     },
     {
       "filename": "lazymixRealAmateur_v40.safetensors",
