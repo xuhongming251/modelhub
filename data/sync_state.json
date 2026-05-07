@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T11:47:53.072Z",
-  "lastRunId": 25493850323,
+  "updatedAt": "2026-05-07T12:04:00.357Z",
+  "lastRunId": 25494577006,
   "items": [
+    {
+      "id": "run_25494577006",
+      "run_id": 25494577006,
+      "artifact_id": 6854537850,
+      "filename": "main",
+      "normalized_name": "main",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b46360d58c75",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T12:03:20Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25493850323",
       "run_id": 25493850323,
@@ -3826,12 +3839,6 @@
       "normalized_name": "holymix00002.3vxo.safetensors",
       "share_url": "https://pan.quark.cn/s/67cd1737bcd1",
       "completed_at": "2026-05-03T09:51:28Z"
-    },
-    {
-      "filename": "main",
-      "normalized_name": "main",
-      "share_url": "https://pan.quark.cn/s/bb8a89b36e32",
-      "completed_at": "2026-05-03T09:50:26Z"
     },
     {
       "filename": "rabbithole2.InDB.safetensors",
