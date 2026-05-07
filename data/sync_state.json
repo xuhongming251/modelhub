@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T09:49:42.855Z",
+  "updatedAt": "2026-05-07T09:52:44.388Z",
   "lastRunId": 25488486104,
   "items": [
+    {
+      "id": "run_25488454703",
+      "run_id": 25488454703,
+      "artifact_id": 6852018496,
+      "filename": "ltx-2.3-22b-dev_transformer_only_fp8_scaled.safetensors",
+      "normalized_name": "ltx-2.3-22b-dev_transformer_only_fp8_scaled.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4288984d7b05",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T09:52:03Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25488486104",
       "run_id": 25488486104,
@@ -22433,12 +22446,6 @@
       "normalized_name": "gemma312bhereticx.safetensors",
       "share_url": "https://pan.quark.cn/s/a22b230f2301",
       "completed_at": "2026-03-17T09:14:15Z"
-    },
-    {
-      "filename": "ltx-2.3-22b-dev_transformer_only_fp8_scaled.safetensors",
-      "normalized_name": "ltx-2.3-22b-dev_transformer_only_fp8_scaled.safetensors",
-      "share_url": "https://pan.quark.cn/s/6c7574abcef0",
-      "completed_at": "2026-03-17T09:08:43Z"
     },
     {
       "filename": "gemma312bAbliterated.m6gA.safetensors",
