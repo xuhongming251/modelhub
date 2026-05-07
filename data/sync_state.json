@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T18:05:03.042Z",
+  "updatedAt": "2026-05-07T18:06:16.445Z",
   "lastRunId": 25512787777,
   "items": [
+    {
+      "id": "run_25512103273",
+      "run_id": 25512103273,
+      "artifact_id": 6862782606,
+      "filename": "Wan_2.2_I2V_SVI_2_PRO_LowNoise_8steps_fp8.safetensors",
+      "normalized_name": "wan_2.2_i2v_svi_2_pro_lownoise_8steps_fp8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c251b0031406",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T18:05:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25512080342",
       "run_id": 25512080342,
