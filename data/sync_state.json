@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T16:38:54.613Z",
-  "lastRunId": 25508979705,
+  "updatedAt": "2026-05-07T16:41:26.151Z",
+  "lastRunId": 25509248577,
   "items": [
+    {
+      "id": "run_25509248577",
+      "run_id": 25509248577,
+      "artifact_id": 6860982056,
+      "filename": "2772932",
+      "normalized_name": "2772932",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a672c07686f2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T16:40:48Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25508979705",
       "run_id": 25508979705,
@@ -23839,12 +23852,6 @@
       "normalized_name": "nsfw_master_zit_000008766.safetensors",
       "share_url": "https://pan.quark.cn/s/5df330746384",
       "completed_at": "2026-03-15T06:14:03Z"
-    },
-    {
-      "filename": "2772932",
-      "normalized_name": "2772932",
-      "share_url": "https://pan.quark.cn/s/b3a3dbfaff7b",
-      "completed_at": "2026-03-15T06:11:35Z"
     },
     {
       "filename": "Tifa_Lockhart_v1.safetensors",
