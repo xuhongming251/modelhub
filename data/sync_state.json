@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T07:43:19.752Z",
-  "lastRunId": 25482803382,
+  "updatedAt": "2026-05-07T08:36:43.587Z",
+  "lastRunId": 25485151344,
   "items": [
+    {
+      "id": "run_25485151344",
+      "run_id": 25485151344,
+      "artifact_id": 6850510823,
+      "filename": "LTX23_Obscura_Remova_v1.safetensors",
+      "normalized_name": "ltx23_obscura_remova_v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/af90542f7f5b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T08:36:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25482803382",
       "run_id": 25482803382,
@@ -27343,7 +27356,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
