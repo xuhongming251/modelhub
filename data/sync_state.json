@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T06:37:59.008Z",
+  "updatedAt": "2026-05-07T06:42:29.531Z",
   "lastRunId": 25480101683,
   "items": [
+    {
+      "id": "run_25480081121",
+      "run_id": 25480081121,
+      "artifact_id": 6848477528,
+      "filename": "LTX-2.3 Sulphur - Cameltoe.safetensors",
+      "normalized_name": "ltx-2.3 sulphur - cameltoe.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e9f2a958de2c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T06:37:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25480101683",
       "run_id": 25480101683,
@@ -27265,7 +27278,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
