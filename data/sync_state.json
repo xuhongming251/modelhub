@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T11:41:32.512Z",
-  "lastRunId": 25493561974,
+  "updatedAt": "2026-05-07T11:47:53.072Z",
+  "lastRunId": 25493850323,
   "items": [
+    {
+      "id": "run_25493850323",
+      "run_id": 25493850323,
+      "artifact_id": 6854234085,
+      "filename": "GitHubDesktopSetup-x64.exe",
+      "normalized_name": "githubdesktopsetup-x64.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b8140df8f878",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T11:47:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25493561974",
       "run_id": 25493561974,
@@ -11571,12 +11584,6 @@
       "normalized_name": "bitchsuit lora | 杰出之作v1.0贱人装",
       "share_url": "https://pan.quark.cn/s/50c3fbc40045",
       "completed_at": "2026-04-18T16:38:43Z"
-    },
-    {
-      "filename": "GitHubDesktopSetup-x64.exe",
-      "normalized_name": "githubdesktopsetup-x64.exe",
-      "share_url": "https://pan.quark.cn/s/79c1b3fdcbbb",
-      "completed_at": "2026-04-18T16:36:21Z"
     },
     {
       "filename": "rimixo2main.PhVC.safetensors",
