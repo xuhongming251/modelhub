@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T12:35:22.308Z",
-  "lastRunId": 25496015639,
+  "updatedAt": "2026-05-07T12:38:47.232Z",
+  "lastRunId": 25496158625,
   "items": [
+    {
+      "id": "run_25496158625",
+      "run_id": 25496158625,
+      "artifact_id": 6855247064,
+      "filename": "qwen_3_8b_fp8mixed.safetensors",
+      "normalized_name": "qwen_3_8b_fp8mixed.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cd14efb9db60",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T12:38:05Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25496015639",
       "run_id": 25496015639,
@@ -9952,12 +9965,6 @@
       "normalized_name": "illustriouspersonalmerge_v10.safetensors",
       "share_url": "https://pan.quark.cn/s/7f9eab1b7cc1",
       "completed_at": "2026-04-23T16:45:43Z"
-    },
-    {
-      "filename": "qwen_3_8b_fp8mixed.safetensors",
-      "normalized_name": "qwen_3_8b_fp8mixed.safetensors",
-      "share_url": "https://pan.quark.cn/s/9c21b13bb643",
-      "completed_at": "2026-04-23T13:14:38Z"
     },
     {
       "filename": "rufus-4.7.exe",
