@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T06:30:40.439Z",
+  "updatedAt": "2026-05-07T06:31:48.392Z",
   "lastRunId": 25479827906,
   "items": [
+    {
+      "id": "run_25479716897",
+      "run_id": 25479716897,
+      "artifact_id": 6848374637,
+      "filename": "mocha-Q4_K_M.gguf",
+      "normalized_name": "mocha-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/705187601541",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T06:31:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25479827906",
       "run_id": 25479827906,
