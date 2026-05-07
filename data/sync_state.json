@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T14:30:41.155Z",
-  "lastRunId": 25502153794,
+  "updatedAt": "2026-05-07T14:34:38.535Z",
+  "lastRunId": 25502325218,
   "items": [
+    {
+      "id": "run_25502325218",
+      "run_id": 25502325218,
+      "artifact_id": 6857947555,
+      "filename": "qwen_4b_ace15.safetensors",
+      "normalized_name": "qwen_4b_ace15.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9ee47bd2d96a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T14:33:48Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25502153794",
       "run_id": 25502153794,
@@ -7781,12 +7794,6 @@
       "normalized_name": "lightx2v_i2v_14b_480p_cfg_step_distill_rank64_bf16.safetensors",
       "share_url": "https://pan.quark.cn/s/c1f993bd8f22",
       "completed_at": "2026-04-27T21:04:48Z"
-    },
-    {
-      "filename": "qwen_4b_ace15.safetensors",
-      "normalized_name": "qwen_4b_ace15.safetensors",
-      "share_url": "https://pan.quark.cn/s/1f1139cc5a57",
-      "completed_at": "2026-04-27T20:39:13Z"
     },
     {
       "filename": "qwen_0.6b_ace15.safetensors",
