@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T16:21:01.208Z",
-  "lastRunId": 25508189083,
+  "updatedAt": "2026-05-07T16:32:40.538Z",
+  "lastRunId": 25508801656,
   "items": [
+    {
+      "id": "run_25508801656",
+      "run_id": 25508801656,
+      "artifact_id": 6860780598,
+      "filename": "ltx-23-video-reasoning-lora-vbvr",
+      "normalized_name": "ltx-23-video-reasoning-lora-vbvr",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2623255e5c4d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T16:31:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25508189083",
       "run_id": 25508189083,
@@ -15941,12 +15954,6 @@
       "normalized_name": "reazit20v10.yn5k.safetensors",
       "share_url": "https://pan.quark.cn/s/7f1f93fd316a",
       "completed_at": "2026-04-02T05:35:11Z"
-    },
-    {
-      "filename": "ltx-23-video-reasoning-lora-vbvr",
-      "normalized_name": "ltx-23-video-reasoning-lora-vbvr",
-      "share_url": "https://pan.quark.cn/s/aca3a42776fb",
-      "completed_at": "2026-04-02T04:50:36Z"
     },
     {
       "filename": "buffalo_l.zip",
