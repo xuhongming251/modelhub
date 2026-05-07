@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T12:51:57.612Z",
-  "lastRunId": 25496833311,
+  "updatedAt": "2026-05-07T13:25:56.724Z",
+  "lastRunId": 25498605211,
   "items": [
+    {
+      "id": "run_25498605211",
+      "run_id": 25498605211,
+      "artifact_id": 6856291945,
+      "filename": "ip-adapter-plus_sd15.safetensors",
+      "normalized_name": "ip-adapter-plus_sd15.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5873cc8081b9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T13:25:07Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25496833311",
       "run_id": 25496833311,
@@ -9990,12 +10003,6 @@
       "normalized_name": "animacolorfixv04.cz8r.safetensors",
       "share_url": "https://pan.quark.cn/s/e2bbb6699491",
       "completed_at": "2026-04-23T10:18:59Z"
-    },
-    {
-      "filename": "ip-adapter-plus_sd15.safetensors",
-      "normalized_name": "ip-adapter-plus_sd15.safetensors",
-      "share_url": "https://pan.quark.cn/s/5f746dfe5f0f",
-      "completed_at": "2026-04-23T09:53:31Z"
     },
     {
       "filename": "seedvr2_ema_7b-Q8_0.gguf",
