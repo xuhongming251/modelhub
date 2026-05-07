@@ -1,8 +1,151 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T05:26:10.415Z",
-  "lastRunId": 25475280388,
+  "updatedAt": "2026-05-07T06:20:45.082Z",
+  "lastRunId": 25479418165,
   "items": [
+    {
+      "id": "run_25479418165",
+      "run_id": 25479418165,
+      "artifact_id": 6848212208,
+      "filename": "ComfyUI-TDNodes.zip",
+      "normalized_name": "comfyui-tdnodes.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ce5fbd87d078",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T06:20:04Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25477641785",
+      "run_id": 25477641785,
+      "artifact_id": 6847560920,
+      "filename": "Comfyui_TTP_Toolset.zip",
+      "normalized_name": "comfyui_ttp_toolset.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f256d5349869",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T05:25:42Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25477591741",
+      "run_id": 25477591741,
+      "artifact_id": 6847538956,
+      "filename": "ComfyUI-SeedVR2_VideoUpscaler.zip",
+      "normalized_name": "comfyui-seedvr2_videoupscaler.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e0b87a0d6323",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T05:23:43Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25476959991",
+      "run_id": 25476959991,
+      "artifact_id": 6847310512,
+      "filename": "models",
+      "normalized_name": "models",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2d34492fa1b6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T05:02:06Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25476440813",
+      "run_id": 25476440813,
+      "artifact_id": 6847153981,
+      "filename": "Wan2.2-I2V-A14B-LowNoise-Q8_0.gguf",
+      "normalized_name": "wan2.2-i2v-a14b-lownoise-q8_0.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/703c3ce4948c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T04:45:15Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25476452856",
+      "run_id": 25476452856,
+      "artifact_id": 6847122442,
+      "filename": "RealESRGAN_x2plus.pth",
+      "normalized_name": "realesrgan_x2plus.pth",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b55653328a3f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T04:41:55Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25476392356",
+      "run_id": 25476392356,
+      "artifact_id": 6847105545,
+      "filename": "Wan22_FFGO-LoRA-LOW_bf16.safetensors",
+      "normalized_name": "wan22_ffgo-lora-low_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3f701b4b0c70",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T04:40:03Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25476388365",
+      "run_id": 25476388365,
+      "artifact_id": 6847105583,
+      "filename": "Wan22_FFGO-LoRA-HIGH_bf16.safetensors",
+      "normalized_name": "wan22_ffgo-lora-high_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a8b55449d71c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T04:40:02Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25476217161",
+      "run_id": 25476217161,
+      "artifact_id": 6847057354,
+      "filename": "wan2.2_i2v_high_noise_14B_fp8_scaled.safetensors",
+      "normalized_name": "wan2.2_i2v_high_noise_14b_fp8_scaled.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/12c418a0d73e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T04:34:51Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25476256769",
+      "run_id": 25476256769,
+      "artifact_id": 6847056682,
+      "filename": "wan_2.1_vae.safetensors",
+      "normalized_name": "wan_2.1_vae.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d2d0c388120a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T04:34:46Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25476220957",
+      "run_id": 25476220957,
+      "artifact_id": 6847054954,
+      "filename": "wan2.2_i2v_low_noise_14B_fp8_scaled.safetensors",
+      "normalized_name": "wan2.2_i2v_low_noise_14b_fp8_scaled.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/acf3c92ace88",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T04:34:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25475280388",
       "run_id": 25475280388,
@@ -2142,28 +2285,10 @@
       "completed_at": "2026-05-05T11:01:19Z"
     },
     {
-      "filename": "wan2.2_i2v_high_noise_14B_fp8_scaled.safetensors",
-      "normalized_name": "wan2.2_i2v_high_noise_14b_fp8_scaled.safetensors",
-      "share_url": "https://pan.quark.cn/s/7581e38aa31e",
-      "completed_at": "2026-05-05T11:01:17Z"
-    },
-    {
-      "filename": "wan2.2_i2v_low_noise_14B_fp8_scaled.safetensors",
-      "normalized_name": "wan2.2_i2v_low_noise_14b_fp8_scaled.safetensors",
-      "share_url": "https://pan.quark.cn/s/c50916c52de1",
-      "completed_at": "2026-05-05T11:01:05Z"
-    },
-    {
       "filename": "wan2.2_i2v_lightx2v_4steps_lora_v1_low_noise.safetensors",
       "normalized_name": "wan2.2_i2v_lightx2v_4steps_lora_v1_low_noise.safetensors",
       "share_url": "https://pan.quark.cn/s/81e23dba98e3",
       "completed_at": "2026-05-05T11:00:54Z"
-    },
-    {
-      "filename": "wan_2.1_vae.safetensors",
-      "normalized_name": "wan_2.1_vae.safetensors",
-      "share_url": "https://pan.quark.cn/s/26f45fb344da",
-      "completed_at": "2026-05-05T11:00:50Z"
     },
     {
       "filename": "wan2.2_i2v_lightx2v_4steps_lora_v1_high_noise.safetensors",
@@ -8304,12 +8429,6 @@
       "completed_at": "2026-04-25T23:37:15Z"
     },
     {
-      "filename": "models",
-      "normalized_name": "models",
-      "share_url": "https://pan.quark.cn/s/e18e6a37347b",
-      "completed_at": "2026-04-25T22:09:58Z"
-    },
-    {
       "filename": "flux2-vae.safetensors",
       "normalized_name": "flux2-vae.safetensors",
       "share_url": "https://pan.quark.cn/s/3f5757f8329c",
@@ -10198,12 +10317,6 @@
       "normalized_name": "ckshadowcircuit.uzut.safetensors",
       "share_url": "https://pan.quark.cn/s/454a9ed39c1d",
       "completed_at": "2026-04-20T15:04:50Z"
-    },
-    {
-      "filename": "Wan2.2-I2V-A14B-LowNoise-Q8_0.gguf",
-      "normalized_name": "wan2.2-i2v-a14b-lownoise-q8_0.gguf",
-      "share_url": "https://pan.quark.cn/s/5af546e2e682",
-      "completed_at": "2026-04-20T14:57:34Z"
     },
     {
       "filename": "nidhoggurmecha.YNwv.safetensors",
@@ -14622,12 +14735,6 @@
       "completed_at": "2026-04-04T09:46:15Z"
     },
     {
-      "filename": "ComfyUI-SeedVR2_VideoUpscaler.zip",
-      "normalized_name": "comfyui-seedvr2_videoupscaler.zip",
-      "share_url": "https://pan.quark.cn/s/9fca3e0ca78d",
-      "completed_at": "2026-04-04T09:45:19Z"
-    },
-    {
       "filename": "2043505",
       "normalized_name": "2043505",
       "share_url": "https://pan.quark.cn/s/51acba842f6a",
@@ -15202,12 +15309,6 @@
       "normalized_name": "cu121",
       "share_url": "https://pan.quark.cn/s/460e57aa35ef",
       "completed_at": "2026-04-02T16:50:48Z"
-    },
-    {
-      "filename": "Comfyui_TTP_Toolset.zip",
-      "normalized_name": "comfyui_ttp_toolset.zip",
-      "share_url": "https://pan.quark.cn/s/70a3df150ca0",
-      "completed_at": "2026-04-02T15:50:22Z"
     },
     {
       "filename": "Qwen3-VL-8B-Instruct-c_abliterated-v3.mmproj-Q8_0.gguf",
