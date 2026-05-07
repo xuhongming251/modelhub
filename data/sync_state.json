@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T06:28:24.391Z",
-  "lastRunId": 25479729852,
+  "updatedAt": "2026-05-07T06:30:40.439Z",
+  "lastRunId": 25479827906,
   "items": [
+    {
+      "id": "run_25479827906",
+      "run_id": 25479827906,
+      "artifact_id": 6848361428,
+      "filename": "ltx23BetterPhysics.7xHy.safetensors",
+      "normalized_name": "ltx23betterphysics.7xhy.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/03da96434fbd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T06:30:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25479729852",
       "run_id": 25479729852,
@@ -53,6 +66,19 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-07T05:23:43Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25477237978",
+      "run_id": 25477237978,
+      "artifact_id": 6847401552,
+      "filename": "eden_comfy_pipelines.zip",
+      "normalized_name": "eden_comfy_pipelines.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/717a47cdf3ea",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T05:11:16Z",
       "workflow": "upload.yml"
     },
     {
@@ -3142,12 +3168,6 @@
       "normalized_name": "llama_cpp_python-0.3.16+cuda13.0.sm100.blackwell-cp313-cp313-win_amd64.whl",
       "share_url": "https://pan.quark.cn/s/99c759b4e36e",
       "completed_at": "2026-05-03T15:33:29Z"
-    },
-    {
-      "filename": "ltx23BetterPhysics.7xHy.safetensors",
-      "normalized_name": "ltx23betterphysics.7xhy.safetensors",
-      "share_url": "https://pan.quark.cn/s/1ab170055f66",
-      "completed_at": "2026-05-03T15:27:24Z"
     },
     {
       "filename": "ltx23UltimatedtNSFW.pzJO.safetensors",
