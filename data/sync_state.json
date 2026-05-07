@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T03:39:11.618Z",
-  "lastRunId": 25474699608,
+  "updatedAt": "2026-05-07T03:41:49.313Z",
+  "lastRunId": 25474725980,
   "items": [
+    {
+      "id": "run_25474725980",
+      "run_id": 25474725980,
+      "artifact_id": 6846518880,
+      "filename": "Qwen-Image-Lightning-8steps-V2.0-bf16.safetensors",
+      "normalized_name": "qwen-image-lightning-8steps-v2.0-bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/82547c7b8e35",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T03:41:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25474699608",
       "run_id": 25474699608,
