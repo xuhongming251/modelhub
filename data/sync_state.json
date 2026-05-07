@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T11:36:17.780Z",
-  "lastRunId": 25493335044,
+  "updatedAt": "2026-05-07T11:41:32.512Z",
+  "lastRunId": 25493561974,
   "items": [
+    {
+      "id": "run_25493561974",
+      "run_id": 25493561974,
+      "artifact_id": 6854111670,
+      "filename": "QOS_WAIILL.safetensors",
+      "normalized_name": "qos_waiill.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cfb50c0708d5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T11:40:48Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25493335044",
       "run_id": 25493335044,
