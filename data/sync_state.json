@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T09:09:55.191Z",
-  "lastRunId": 25486691784,
+  "updatedAt": "2026-05-07T09:49:42.855Z",
+  "lastRunId": 25488486104,
   "items": [
+    {
+      "id": "run_25488486104",
+      "run_id": 25488486104,
+      "artifact_id": 6851959140,
+      "filename": "ploraSulfer.5rn2.safetensors",
+      "normalized_name": "plorasulfer.5rn2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/303dce26caca",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T09:49:02Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25486691784",
       "run_id": 25486691784,
@@ -1275,19 +1288,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-06T12:06:45Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25434165343",
-      "run_id": 25434165343,
-      "artifact_id": 6829751086,
-      "filename": "ploraSulfer.5rn2.safetensors",
-      "normalized_name": "plorasulfer.5rn2.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/1d62870674e6",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-06T12:05:53Z",
       "workflow": "upload.yml"
     },
     {
