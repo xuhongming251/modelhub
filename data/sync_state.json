@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T11:29:22.804Z",
-  "lastRunId": 25493013872,
+  "updatedAt": "2026-05-07T11:31:36.924Z",
+  "lastRunId": 25493131204,
   "items": [
+    {
+      "id": "run_25493131204",
+      "run_id": 25493131204,
+      "artifact_id": 6853925631,
+      "filename": "LTX2-i2v-SexyMove.safetensors",
+      "normalized_name": "ltx2-i2v-sexymove.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/80b10ddb2298",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-07T11:31:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25493013872",
       "run_id": 25493013872,
@@ -1353,19 +1366,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-06T12:23:19Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25434899280",
-      "run_id": 25434899280,
-      "artifact_id": 6830062340,
-      "filename": "LTX2-i2v-SexyMove.safetensors",
-      "normalized_name": "ltx2-i2v-sexymove.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/b1ef7230050f",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-06T12:21:57Z",
       "workflow": "upload.yml"
     },
     {
