@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T13:26:02.659Z",
-  "lastRunId": 25557927158,
+  "updatedAt": "2026-05-08T13:26:50.449Z",
+  "lastRunId": 25558083963,
   "items": [
+    {
+      "id": "run_25558083963",
+      "run_id": 25558083963,
+      "artifact_id": 6880140770,
+      "filename": "pdv99.lhmG.safetensors",
+      "normalized_name": "pdv99.lhmg.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/28d227c4fbe7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-08T13:26:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25557924034",
       "run_id": 25557924034,
@@ -10665,12 +10678,6 @@
       "normalized_name": "gemma-4-e4b-uncensored-hauhaucs-aggressive-q5_k_m.gguf",
       "share_url": "https://pan.quark.cn/s/42be32c7c9f6",
       "completed_at": "2026-04-24T10:56:02Z"
-    },
-    {
-      "filename": "pdv99.lhmG.safetensors",
-      "normalized_name": "pdv99.lhmg.safetensors",
-      "share_url": "https://pan.quark.cn/s/b4253af91021",
-      "completed_at": "2026-04-24T10:35:34Z"
     },
     {
       "filename": "lolE7BE8EE5AEA38.iwkF.safetensors",
