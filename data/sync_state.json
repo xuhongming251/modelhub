@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T17:35:18.730Z",
-  "lastRunId": 25569995471,
+  "updatedAt": "2026-05-08T17:39:40.555Z",
+  "lastRunId": 25570136026,
   "items": [
+    {
+      "id": "run_25570136026",
+      "run_id": 25570136026,
+      "artifact_id": 6885111448,
+      "filename": "Ahiru_One_Piece.safetensors",
+      "normalized_name": "ahiru_one_piece.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1916b495f9ef",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-08T17:38:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25569995471",
       "run_id": 25569995471,
@@ -28697,7 +28710,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
