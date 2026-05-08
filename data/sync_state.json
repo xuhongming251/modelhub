@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T04:42:55.009Z",
-  "lastRunId": 25537121073,
+  "updatedAt": "2026-05-08T04:53:46.926Z",
+  "lastRunId": 25537488323,
   "items": [
+    {
+      "id": "run_25537488323",
+      "run_id": 25537488323,
+      "artifact_id": 6872047375,
+      "filename": "illustriousTsundere.QDJE.safetensors",
+      "normalized_name": "illustrioustsundere.qdje.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/85c0b5dcde1d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-08T04:52:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25537121073",
       "run_id": 25537121073,
@@ -24802,12 +24815,6 @@
       "normalized_name": "anima-preview.safetensors",
       "share_url": "https://pan.quark.cn/s/1934064078b4",
       "completed_at": "2026-03-14T02:08:04Z"
-    },
-    {
-      "filename": "illustriousTsundere.QDJE.safetensors",
-      "normalized_name": "illustrioustsundere.qdje.safetensors",
-      "share_url": "https://pan.quark.cn/s/2853aa54c03f",
-      "completed_at": "2026-03-14T02:06:22Z"
     },
     {
       "filename": "illustriousxlAdaWong.ZfCZ.safetensors",
