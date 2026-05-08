@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T18:12:42.989Z",
-  "lastRunId": 25571640062,
+  "updatedAt": "2026-05-08T18:14:58.470Z",
+  "lastRunId": 25571800496,
   "items": [
+    {
+      "id": "run_25571800496",
+      "run_id": 25571800496,
+      "artifact_id": 6885766685,
+      "filename": "hiyoriShiinai3Outfits.Hl4i.safetensors",
+      "normalized_name": "hiyorishiinai3outfits.hl4i.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d265e0794408",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-08T18:14:16Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25571640062",
       "run_id": 25571640062,
@@ -14,19 +27,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-08T18:11:00Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25571632258",
-      "run_id": 25571632258,
-      "artifact_id": 6885699353,
-      "filename": "hiyoriShiinai3Outfits.Hl4i.safetensors",
-      "normalized_name": "hiyorishiinai3outfits.hl4i.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/07863b7d1e1d",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-08T18:10:40Z",
       "workflow": "upload.yml"
     },
     {
