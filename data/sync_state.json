@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T12:59:17.709Z",
-  "lastRunId": 25556856024,
+  "updatedAt": "2026-05-08T13:11:19.629Z",
+  "lastRunId": 25557394869,
   "items": [
+    {
+      "id": "run_25557394869",
+      "run_id": 25557394869,
+      "artifact_id": 6879850865,
+      "filename": "nijiSemiRealismFNR.tnCM.safetensors",
+      "normalized_name": "nijisemirealismfnr.tncm.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bbc9457918eb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-08T13:10:39Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25556841894",
       "run_id": 25556841894,
@@ -5224,12 +5237,6 @@
       "normalized_name": "96000204.d94j.safetensors",
       "share_url": "https://pan.quark.cn/s/7259fe20a09a",
       "completed_at": "2026-05-02T15:27:28Z"
-    },
-    {
-      "filename": "nijiSemiRealismFNR.tnCM.safetensors",
-      "normalized_name": "nijisemirealismfnr.tncm.safetensors",
-      "share_url": "https://pan.quark.cn/s/34675b66fb29",
-      "completed_at": "2026-05-02T15:18:57Z"
     },
     {
       "filename": "flashpolaroidEpoch4.eikg.safetensors",
