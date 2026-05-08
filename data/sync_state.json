@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T13:22:44.201Z",
+  "updatedAt": "2026-05-08T13:26:02.659Z",
   "lastRunId": 25557927158,
   "items": [
+    {
+      "id": "run_25557924034",
+      "run_id": 25557924034,
+      "artifact_id": 6880127278,
+      "filename": "zImageTurboBf16.lzvQ.safetensors",
+      "normalized_name": "zimageturbobf16.lzvq.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8bcafe109ae7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-08T13:25:26Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25557927158",
       "run_id": 25557927158,
@@ -7322,12 +7335,6 @@
       "normalized_name": "animescreencappony.npbt.safetensors",
       "share_url": "https://pan.quark.cn/s/ab1526735a76",
       "completed_at": "2026-04-30T09:58:44Z"
-    },
-    {
-      "filename": "zImageTurboBf16.lzvQ.safetensors",
-      "normalized_name": "zimageturbobf16.lzvq.safetensors",
-      "share_url": "https://pan.quark.cn/s/af8d311bbcf1",
-      "completed_at": "2026-04-30T09:53:14Z"
     },
     {
       "filename": "chenbin.e3Pa.safetensors",
