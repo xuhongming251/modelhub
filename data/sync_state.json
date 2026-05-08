@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T18:10:37.789Z",
-  "lastRunId": 25571594673,
+  "updatedAt": "2026-05-08T18:11:38.540Z",
+  "lastRunId": 25571640062,
   "items": [
+    {
+      "id": "run_25571640062",
+      "run_id": 25571640062,
+      "artifact_id": 6885705026,
+      "filename": "ichinoseHonami7.NysX.safetensors",
+      "normalized_name": "ichinosehonami7.nysx.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/85f5e743a48b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-08T18:11:00Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25571632258",
+      "run_id": 25571632258,
+      "artifact_id": 6885699353,
+      "filename": "hiyoriShiinai3Outfits.Hl4i.safetensors",
+      "normalized_name": "hiyorishiinai3outfits.hl4i.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/07863b7d1e1d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-08T18:10:40Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25571622305",
+      "run_id": 25571622305,
+      "artifact_id": 6885697201,
+      "filename": "kushidaKikyo4Outfits.r6kY.safetensors",
+      "normalized_name": "kushidakikyo4outfits.r6ky.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bd98fd806ace",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-08T18:10:34Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25571594673",
       "run_id": 25571594673,
@@ -28814,7 +28853,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
