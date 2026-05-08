@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T13:35:39.726Z",
-  "lastRunId": 25558526706,
+  "updatedAt": "2026-05-08T13:42:22.050Z",
+  "lastRunId": 25558533965,
   "items": [
+    {
+      "id": "run_25558295988",
+      "run_id": 25558295988,
+      "artifact_id": 6880445931,
+      "filename": "realism20by20stable20yogi.atdG.safetensors",
+      "normalized_name": "realism20by20stable20yogi.atdg.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e4d99de6e80f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-08T13:41:41Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25558533965",
+      "run_id": 25558533965,
+      "artifact_id": 6880322405,
+      "filename": "anima3LightConcepts.GFrU.safetensors",
+      "normalized_name": "anima3lightconcepts.gfru.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1e3d5eac6622",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-08T13:35:39Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25558526706",
       "run_id": 25558526706,
@@ -28430,7 +28456,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
