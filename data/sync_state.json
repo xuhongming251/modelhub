@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T08:25:58.092Z",
-  "lastRunId": 25543429658,
+  "updatedAt": "2026-05-08T08:48:40.860Z",
+  "lastRunId": 25546266971,
   "items": [
+    {
+      "id": "run_25546266971",
+      "run_id": 25546266971,
+      "artifact_id": 6875358908,
+      "filename": "Wan2.2-I2V-A14B-HighNoise-Q8_0.gguf",
+      "normalized_name": "wan2.2-i2v-a14b-highnoise-q8_0.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c453c2ca7289",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-08T08:48:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25543429658",
       "run_id": 25543429658,
@@ -11315,12 +11328,6 @@
       "normalized_name": "meetymecha.07fe.safetensors",
       "share_url": "https://pan.quark.cn/s/25fb58e96998",
       "completed_at": "2026-04-20T14:55:04Z"
-    },
-    {
-      "filename": "Wan2.2-I2V-A14B-HighNoise-Q8_0.gguf",
-      "normalized_name": "wan2.2-i2v-a14b-highnoise-q8_0.gguf",
-      "share_url": "https://pan.quark.cn/s/cdd5ef351b11",
-      "completed_at": "2026-04-20T14:45:44Z"
     },
     {
       "filename": "E59BBDE9A38EE68F92E7.Pbxg.safetensors",
