@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T00:48:15.932Z",
-  "lastRunId": 25530091349,
+  "updatedAt": "2026-05-08T01:06:49.675Z",
+  "lastRunId": 25530751496,
   "items": [
+    {
+      "id": "run_25530751496",
+      "run_id": 25530751496,
+      "artifact_id": 6869750616,
+      "filename": "ltx23_inpaint_masked_r2v_rank32_v1_3000steps.safetensors",
+      "normalized_name": "ltx23_inpaint_masked_r2v_rank32_v1_3000steps.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/835af22cc324",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-08T01:06:13Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25529937196",
       "run_id": 25529937196,
@@ -27989,7 +28002,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
