@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T15:41:53.604Z",
-  "lastRunId": 25564721078,
+  "updatedAt": "2026-05-08T15:53:07.170Z",
+  "lastRunId": 25565209859,
   "items": [
+    {
+      "id": "run_25565209859",
+      "run_id": 25565209859,
+      "artifact_id": 6883138004,
+      "filename": "DarkBeast.safetensors",
+      "normalized_name": "darkbeast.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9212f559864e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-08T15:52:22Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25564721078",
       "run_id": 25564721078,
@@ -28632,7 +28645,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
