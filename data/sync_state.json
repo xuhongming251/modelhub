@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T13:32:39.083Z",
-  "lastRunId": 25558362564,
+  "updatedAt": "2026-05-08T13:33:53.533Z",
+  "lastRunId": 25558449512,
   "items": [
+    {
+      "id": "run_25558449512",
+      "run_id": 25558449512,
+      "artifact_id": 6880273718,
+      "filename": "zitSkinnySliderV11.B63H.safetensors",
+      "normalized_name": "zitskinnysliderv11.b63h.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b20ed0856560",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-08T13:33:14Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25558441121",
+      "run_id": 25558441121,
+      "artifact_id": 6880270698,
+      "filename": "realisticsnapshot.sZI5.safetensors",
+      "normalized_name": "realisticsnapshot.szi5.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/da6f8ebea5f4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-08T13:33:05Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25558362564",
       "run_id": 25558362564,
@@ -23928,12 +23954,6 @@
       "normalized_name": "193819",
       "share_url": "https://pan.quark.cn/s/d29af0b8f5ef",
       "completed_at": "2026-03-16T06:20:58Z"
-    },
-    {
-      "filename": "realisticsnapshot.sZI5.safetensors",
-      "normalized_name": "realisticsnapshot.szi5.safetensors",
-      "share_url": "https://pan.quark.cn/s/0f90c06c57cb",
-      "completed_at": "2026-03-16T05:38:13Z"
     },
     {
       "filename": "hadrian-delice-sdxl-ill-nsfw",
