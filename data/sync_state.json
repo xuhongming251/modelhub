@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T13:14:33.343Z",
-  "lastRunId": 25557525843,
+  "updatedAt": "2026-05-08T13:15:27.174Z",
+  "lastRunId": 25557585441,
   "items": [
+    {
+      "id": "run_25557574045",
+      "run_id": 25557574045,
+      "artifact_id": 6879931500,
+      "filename": "novaanimeam10.66K2.safetensors",
+      "normalized_name": "novaanimeam10.66k2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d716244edf05",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-08T13:14:48Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25557585441",
+      "run_id": 25557585441,
+      "artifact_id": 6879929819,
+      "filename": "rimixxo2.xRFU.safetensors",
+      "normalized_name": "rimixxo2.xrfu.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4e3f3e73dc14",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-08T13:14:43Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25557525843",
       "run_id": 25557525843,
@@ -9240,12 +9266,6 @@
       "normalized_name": "intorealismzit30fp16.mejw.safetensors",
       "share_url": "https://pan.quark.cn/s/152f3f80bc0f",
       "completed_at": "2026-04-26T12:50:23Z"
-    },
-    {
-      "filename": "rimixxo2.xRFU.safetensors",
-      "normalized_name": "rimixxo2.xrfu.safetensors",
-      "share_url": "https://pan.quark.cn/s/a8891883fac8",
-      "completed_at": "2026-04-26T12:46:16Z"
     },
     {
       "filename": "ComfyUI-Prompt-Assistant.zip",
