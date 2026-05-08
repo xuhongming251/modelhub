@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T07:35:00.338Z",
-  "lastRunId": 25543223251,
+  "updatedAt": "2026-05-08T07:39:03.804Z",
+  "lastRunId": 25543300613,
   "items": [
+    {
+      "id": "run_25543300613",
+      "run_id": 25543300613,
+      "artifact_id": 6874231880,
+      "filename": "10Eros_v1-fp8mixed_learned.safetensors",
+      "normalized_name": "10eros_v1-fp8mixed_learned.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6fb0c36a79f5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-08T07:38:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25543223251",
       "run_id": 25543223251,
@@ -3903,12 +3916,6 @@
       "normalized_name": "penis bendv3_alpha1.0_rank4_noxattn_last.safetensors",
       "share_url": "https://pan.quark.cn/s/0429e54a3570",
       "completed_at": "2026-05-04T03:15:27Z"
-    },
-    {
-      "filename": "10Eros_v1-fp8mixed_learned.safetensors",
-      "normalized_name": "10eros_v1-fp8mixed_learned.safetensors",
-      "share_url": "https://pan.quark.cn/s/e266d83479ba",
-      "completed_at": "2026-05-04T03:11:14Z"
     },
     {
       "filename": "anima-boldline-v01.safetensors",
