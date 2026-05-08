@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T13:15:27.174Z",
-  "lastRunId": 25557585441,
+  "updatedAt": "2026-05-08T13:16:48.734Z",
+  "lastRunId": 25557612849,
   "items": [
+    {
+      "id": "run_25557605217",
+      "run_id": 25557605217,
+      "artifact_id": 6879956794,
+      "filename": "Expressive_H-000001.safetensors",
+      "normalized_name": "expressive_h-000001.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/af6bfa3424ec",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-08T13:16:10Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25557612849",
+      "run_id": 25557612849,
+      "artifact_id": 6879942924,
+      "filename": "sdxlLightning8step.Kme5.safetensors",
+      "normalized_name": "sdxllightning8step.kme5.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2b732244f0a2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-08T13:15:26Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25557596213",
+      "run_id": 25557596213,
+      "artifact_id": 6879942713,
+      "filename": "gonzalomozpopV30Fp8.A9q4.safetensors",
+      "normalized_name": "gonzalomozpopv30fp8.a9q4.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/65b6877589f7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-08T13:15:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25557574045",
       "run_id": 25557574045,
@@ -5228,12 +5267,6 @@
       "normalized_name": "stoiqoafroditef1d.vpt5.safetensors",
       "share_url": "https://pan.quark.cn/s/76c5f75a0776",
       "completed_at": "2026-05-02T15:54:56Z"
-    },
-    {
-      "filename": "Expressive_H-000001.safetensors",
-      "normalized_name": "expressive_h-000001.safetensors",
-      "share_url": "https://pan.quark.cn/s/18735a7bbc20",
-      "completed_at": "2026-05-02T15:52:12Z"
     },
     {
       "filename": "fabricatedXL_v70.safetensors",
