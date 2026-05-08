@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T17:59:55.778Z",
-  "lastRunId": 25571060784,
+  "updatedAt": "2026-05-08T18:01:13.948Z",
+  "lastRunId": 25571131070,
   "items": [
+    {
+      "id": "run_25571131070",
+      "run_id": 25571131070,
+      "artifact_id": 6885514472,
+      "filename": "boudica.DilK.safetensors",
+      "normalized_name": "boudica.dilk.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/443d53f0c397",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-08T18:00:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25571060784",
       "run_id": 25571060784,
