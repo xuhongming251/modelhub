@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-09T09:53:08.812Z",
-  "lastRunId": 25597938935,
+  "updatedAt": "2026-05-09T09:55:24.429Z",
+  "lastRunId": 25598193759,
   "items": [
+    {
+      "id": "run_25598193759",
+      "run_id": 25598193759,
+      "artifact_id": 6894794125,
+      "filename": "darkbeastz9Rclaw.UnjE.safetensors",
+      "normalized_name": "darkbeastz9rclaw.unje.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fbbf0f859814",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-09T09:54:50Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25597938935",
       "run_id": 25597938935,
@@ -17964,12 +17977,6 @@
       "completed_at": "2026-03-31T16:23:17Z"
     },
     {
-      "filename": "darkbeastz9Rclaw.UnjE.safetensors",
-      "normalized_name": "darkbeastz9rclaw.unje.safetensors",
-      "share_url": "https://pan.quark.cn/s/85e1bcd2d36a",
-      "completed_at": "2026-03-31T16:17:48Z"
-    },
-    {
       "filename": "Qwen3.5-4B.mmproj-F32.gguf",
       "normalized_name": "qwen3.5-4b.mmproj-f32.gguf",
       "share_url": "https://pan.quark.cn/s/fe63ca12b9c3",
@@ -29042,7 +29049,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
