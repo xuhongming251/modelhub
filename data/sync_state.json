@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-09T22:08:25.400Z",
-  "lastRunId": 25608706952,
+  "updatedAt": "2026-05-09T22:56:09.026Z",
+  "lastRunId": 25613904115,
   "items": [
+    {
+      "id": "run_25613904115",
+      "run_id": 25613904115,
+      "artifact_id": 6899222046,
+      "filename": "comfyui_controlnet_aux.zip",
+      "normalized_name": "comfyui_controlnet_aux.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b0b07e1af7ca",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-09T22:55:28Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25608706952",
       "run_id": 25608706952,
@@ -6141,12 +6154,6 @@
       "normalized_name": "arona (blue archive).safetensors",
       "share_url": "https://pan.quark.cn/s/be6bcdd0eed3",
       "completed_at": "2026-05-03T03:31:20Z"
-    },
-    {
-      "filename": "comfyui_controlnet_aux.zip",
-      "normalized_name": "comfyui_controlnet_aux.zip",
-      "share_url": "https://pan.quark.cn/s/9d263936a693",
-      "completed_at": "2026-05-03T03:19:07Z"
     },
     {
       "filename": "ComfyUI_IPAdapter_plus.zip",
