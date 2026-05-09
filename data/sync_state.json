@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-09T02:42:13.968Z",
-  "lastRunId": 25589391768,
+  "updatedAt": "2026-05-09T02:46:45.703Z",
+  "lastRunId": 25589488767,
   "items": [
+    {
+      "id": "run_25589488767",
+      "run_id": 25589488767,
+      "artifact_id": 6892177995,
+      "filename": "Wan2.2-T2V-A14B-HighNoise-Q8_0.gguf",
+      "normalized_name": "wan2.2-t2v-a14b-highnoise-q8_0.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4845e0da3a96",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-09T02:46:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25589391768",
       "run_id": 25589391768,
