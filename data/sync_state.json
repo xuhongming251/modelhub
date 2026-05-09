@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T23:58:08.384Z",
-  "lastRunId": 25571800496,
+  "updatedAt": "2026-05-09T00:22:57.234Z",
+  "lastRunId": 25586010259,
   "items": [
+    {
+      "id": "run_25586010259",
+      "run_id": 25586010259,
+      "artifact_id": 6891087855,
+      "filename": "fp16a.VHqm.safetensors",
+      "normalized_name": "fp16a.vhqm.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/24fbab7fccda",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-09T00:22:25Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25571800496",
       "run_id": 25571800496,
