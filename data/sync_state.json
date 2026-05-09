@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-09T10:40:42.521Z",
-  "lastRunId": 25599090867,
+  "updatedAt": "2026-05-09T10:56:27.673Z",
+  "lastRunId": 25599392107,
   "items": [
+    {
+      "id": "run_25599392107",
+      "run_id": 25599392107,
+      "artifact_id": 6895131980,
+      "filename": "controlnetLllteAnima_canny.safetensors",
+      "normalized_name": "controlnetlllteanima_canny.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3f4343d0daca",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-09T10:55:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25599090867",
       "run_id": 25599090867,
