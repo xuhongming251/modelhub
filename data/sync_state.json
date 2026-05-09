@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-09T01:06:57.774Z",
-  "lastRunId": 25587206486,
+  "updatedAt": "2026-05-09T01:27:39.080Z",
+  "lastRunId": 25587680253,
   "items": [
+    {
+      "id": "run_25587680253",
+      "run_id": 25587680253,
+      "artifact_id": 6891640351,
+      "filename": "qwen_2.5_vl_7b.safetensors",
+      "normalized_name": "qwen_2.5_vl_7b.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e48d888a85ab",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-09T01:27:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25587206486",
       "run_id": 25587206486,
@@ -4403,12 +4416,6 @@
       "normalized_name": "57-suspender_stockings.safetensors",
       "share_url": "https://pan.quark.cn/s/b4b27a8b9f1f",
       "completed_at": "2026-05-05T03:06:47Z"
-    },
-    {
-      "filename": "qwen_2.5_vl_7b.safetensors",
-      "normalized_name": "qwen_2.5_vl_7b.safetensors",
-      "share_url": "https://pan.quark.cn/s/47db582e87d6",
-      "completed_at": "2026-05-05T03:01:05Z"
     },
     {
       "filename": "KayTool.zip",
