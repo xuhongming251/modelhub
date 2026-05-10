@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-10T17:13:28.062Z",
-  "lastRunId": 25634715372,
+  "updatedAt": "2026-05-10T17:35:13.977Z",
+  "lastRunId": 25635164227,
   "items": [
+    {
+      "id": "run_25635164227",
+      "run_id": 25635164227,
+      "artifact_id": 6905608006,
+      "filename": "control_v11f1e_sd15_tile.pth",
+      "normalized_name": "control_v11f1e_sd15_tile.pth",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ea97cd6078aa",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-10T17:34:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25634715372",
       "run_id": 25634715372,
@@ -25538,12 +25551,6 @@
       "normalized_name": "control_v11e_sd15_shuffle.pth",
       "share_url": "https://pan.quark.cn/s/404088744ec0",
       "completed_at": "2026-03-16T04:54:53Z"
-    },
-    {
-      "filename": "control_v11f1e_sd15_tile.pth",
-      "normalized_name": "control_v11f1e_sd15_tile.pth",
-      "share_url": "https://pan.quark.cn/s/988080803d8e",
-      "completed_at": "2026-03-16T04:54:45Z"
     },
     {
       "filename": "control_v11p_sd15_inpaint.pth",
