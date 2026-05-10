@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-10T22:58:26.774Z",
-  "lastRunId": 25640806015,
+  "updatedAt": "2026-05-10T23:16:24.548Z",
+  "lastRunId": 25642330886,
   "items": [
+    {
+      "id": "run_25642330886",
+      "run_id": 25642330886,
+      "artifact_id": 6907767469,
+      "filename": "rdbtAnima-V032-12step.safetensors",
+      "normalized_name": "rdbtanima-v032-12step.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7bb6f5c8f981",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-10T23:15:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25640806015",
       "run_id": 25640806015,
