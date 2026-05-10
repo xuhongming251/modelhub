@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-10T06:51:47.781Z",
-  "lastRunId": 25622225163,
+  "updatedAt": "2026-05-10T06:56:05.870Z",
+  "lastRunId": 25622300370,
   "items": [
+    {
+      "id": "run_25622300370",
+      "run_id": 25622300370,
+      "artifact_id": 6901740810,
+      "filename": "animayumeTunedV04.RBPP.safetensors",
+      "normalized_name": "animayumetunedv04.rbpp.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/32774d5863b3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-10T06:55:31Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25622225163",
       "run_id": 25622225163,
@@ -13577,12 +13590,6 @@
       "normalized_name": "sm套装",
       "share_url": "https://pan.quark.cn/s/5aed988bdcc8",
       "completed_at": "2026-04-18T16:57:40Z"
-    },
-    {
-      "filename": "animayumeTunedV04.RBPP.safetensors",
-      "normalized_name": "animayumetunedv04.rbpp.safetensors",
-      "share_url": "https://pan.quark.cn/s/2336aa8c590e",
-      "completed_at": "2026-04-18T16:56:41Z"
     },
     {
       "filename": "被困在机器前/无法动弹",
