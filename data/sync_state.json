@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-10T12:31:15.694Z",
+  "updatedAt": "2026-05-10T12:48:15.294Z",
   "lastRunId": 25628774143,
   "items": [
+    {
+      "id": "run_25628584613",
+      "run_id": 25628584613,
+      "artifact_id": 6903821117,
+      "filename": "HiDream-O1-Image-BF16.safetensors",
+      "normalized_name": "hidream-o1-image-bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/83a456de67b4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-10T12:47:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25628774143",
       "run_id": 25628774143,
