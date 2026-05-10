@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-10T07:45:35.494Z",
-  "lastRunId": 25623211325,
+  "updatedAt": "2026-05-10T08:02:32.672Z",
+  "lastRunId": 25623542357,
   "items": [
+    {
+      "id": "run_25623542357",
+      "run_id": 25623542357,
+      "artifact_id": 6902150151,
+      "filename": "2385399",
+      "normalized_name": "2385399",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/248d27e87d66",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-10T08:02:03Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25623211325",
       "run_id": 25623211325,
@@ -26618,12 +26631,6 @@
       "normalized_name": "akium20lumen20base.infy.safetensors",
       "share_url": "https://pan.quark.cn/s/e665d33ad642",
       "completed_at": "2026-03-12T21:24:22Z"
-    },
-    {
-      "filename": "2385399",
-      "normalized_name": "2385399",
-      "share_url": "https://pan.quark.cn/s/0609a5bb9cec",
-      "completed_at": "2026-03-12T20:59:41Z"
     },
     {
       "filename": "wan22I2VLowDasiwa.7ZUA.gguf",
