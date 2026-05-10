@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-10T17:04:40.470Z",
-  "lastRunId": 25634460903,
+  "updatedAt": "2026-05-10T17:13:28.062Z",
+  "lastRunId": 25634715372,
   "items": [
+    {
+      "id": "run_25634715372",
+      "run_id": 25634715372,
+      "artifact_id": 6905468873,
+      "filename": "control_v11p_sd15_mlsd.pth",
+      "normalized_name": "control_v11p_sd15_mlsd.pth",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/74859c6bf835",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-10T17:12:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25634460903",
       "run_id": 25634460903,
@@ -25549,12 +25562,6 @@
       "normalized_name": "control_v11e_sd15_shuffle.yaml",
       "share_url": "https://pan.quark.cn/s/516a7bba5535",
       "completed_at": "2026-03-16T04:52:06Z"
-    },
-    {
-      "filename": "control_v11p_sd15_mlsd.pth",
-      "normalized_name": "control_v11p_sd15_mlsd.pth",
-      "share_url": "https://pan.quark.cn/s/21df2c81bed7",
-      "completed_at": "2026-03-16T04:52:00Z"
     },
     {
       "filename": "control_v11p_sd15_normalbae.pth",
