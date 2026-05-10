@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-10T08:44:22.583Z",
-  "lastRunId": 25624010182,
+  "updatedAt": "2026-05-10T09:01:20.964Z",
+  "lastRunId": 25624593171,
   "items": [
+    {
+      "id": "run_25624593171",
+      "run_id": 25624593171,
+      "artifact_id": 6902498918,
+      "filename": "hidream_o1_image_bf16.safetensors",
+      "normalized_name": "hidream_o1_image_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/40cd325e5500",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-10T09:00:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25623898211",
       "run_id": 25623898211,
