@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-10T14:17:16.541Z",
-  "lastRunId": 25630971176,
+  "updatedAt": "2026-05-10T14:30:09.336Z",
+  "lastRunId": 25631240920,
   "items": [
+    {
+      "id": "run_25631240920",
+      "run_id": 25631240920,
+      "artifact_id": 6904438575,
+      "filename": "komanoCiv.GOcS.safetensors",
+      "normalized_name": "komanociv.gocs.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/07e5f8a1dddb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-10T14:29:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25630971176",
       "run_id": 25630971176,
