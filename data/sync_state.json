@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-10T16:18:25.122Z",
-  "lastRunId": 25633612366,
+  "updatedAt": "2026-05-10T16:29:56.269Z",
+  "lastRunId": 25633804317,
   "items": [
+    {
+      "id": "run_25633804317",
+      "run_id": 25633804317,
+      "artifact_id": 6905204903,
+      "filename": "control_v11p_sd15_openpose.pth",
+      "normalized_name": "control_v11p_sd15_openpose.pth",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fc99fbd58e32",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-10T16:29:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25633612366",
       "run_id": 25633612366,
@@ -7485,12 +7498,6 @@
       "normalized_name": "control_v11f1p_sd15_depth.pth",
       "share_url": "https://pan.quark.cn/s/ac804333e97f",
       "completed_at": "2026-05-02T03:45:58Z"
-    },
-    {
-      "filename": "control_v11p_sd15_openpose.pth",
-      "normalized_name": "control_v11p_sd15_openpose.pth",
-      "share_url": "https://pan.quark.cn/s/5de1ebcd6ff2",
-      "completed_at": "2026-05-02T03:43:25Z"
     },
     {
       "filename": "PornWorks Anime Desire.safetensors",
