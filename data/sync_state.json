@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-10T10:45:53.083Z",
-  "lastRunId": 25626215881,
+  "updatedAt": "2026-05-10T10:51:19.139Z",
+  "lastRunId": 25626785644,
   "items": [
+    {
+      "id": "run_25626785644",
+      "run_id": 25626785644,
+      "artifact_id": 6903135781,
+      "filename": "56d81d07-5651-435c-83a6-6dadb8d34e27",
+      "normalized_name": "56d81d07-5651-435c-83a6-6dadb8d34e27",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2bde8a2ba1b8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-10T10:50:44Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25626215881",
       "run_id": 25626215881,
@@ -15377,12 +15390,6 @@
       "normalized_name": "12a96198-0fe2-48e6-89e9-e191a4efd927",
       "share_url": "https://pan.quark.cn/s/a93c3a43708a",
       "completed_at": "2026-04-13T05:34:06Z"
-    },
-    {
-      "filename": "56d81d07-5651-435c-83a6-6dadb8d34e27",
-      "normalized_name": "56d81d07-5651-435c-83a6-6dadb8d34e27",
-      "share_url": "https://pan.quark.cn/s/371f646982b4",
-      "completed_at": "2026-04-13T05:28:11Z"
     },
     {
       "filename": "dishwasher1910V2.YkFG.safetensors",
