@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-10T16:10:56.945Z",
-  "lastRunId": 25633451669,
+  "updatedAt": "2026-05-10T16:15:29.084Z",
+  "lastRunId": 25633489936,
   "items": [
+    {
+      "id": "run_25633489936",
+      "run_id": 25633489936,
+      "artifact_id": 6905108487,
+      "filename": "control_v11p_sd15_canny.pth",
+      "normalized_name": "control_v11p_sd15_canny.pth",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/891f9b676f21",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-10T16:14:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25633451669",
       "run_id": 25633451669,
@@ -25483,12 +25496,6 @@
       "normalized_name": "control_v11e_sd15_ip2p.yaml",
       "share_url": "https://pan.quark.cn/s/a13724df9739",
       "completed_at": "2026-03-16T04:53:17Z"
-    },
-    {
-      "filename": "control_v11p_sd15_canny.pth",
-      "normalized_name": "control_v11p_sd15_canny.pth",
-      "share_url": "https://pan.quark.cn/s/b6d4f3274b86",
-      "completed_at": "2026-03-16T04:53:00Z"
     },
     {
       "filename": "control_v11e_sd15_shuffle.yaml",
