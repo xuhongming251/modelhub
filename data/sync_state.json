@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-10T08:21:03.842Z",
-  "lastRunId": 25623886649,
+  "updatedAt": "2026-05-10T08:44:22.583Z",
+  "lastRunId": 25624010182,
   "items": [
+    {
+      "id": "run_25623898211",
+      "run_id": 25623898211,
+      "artifact_id": 6902394461,
+      "filename": "HiDream-O1-Image-FP16.safetensors",
+      "normalized_name": "hidream-o1-image-fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6ac5f8ebad07",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-10T08:43:56Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25624010182",
+      "run_id": 25624010182,
+      "artifact_id": 6902393949,
+      "filename": "HiDream-O1-Image-FP8.safetensors",
+      "normalized_name": "hidream-o1-image-fp8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/02eef94f6b39",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-10T08:43:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25623886649",
       "run_id": 25623886649,
