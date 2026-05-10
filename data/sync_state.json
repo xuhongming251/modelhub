@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-10T16:38:13.526Z",
-  "lastRunId": 25633980378,
+  "updatedAt": "2026-05-10T16:52:00.735Z",
+  "lastRunId": 25634269338,
   "items": [
+    {
+      "id": "run_25634269338",
+      "run_id": 25634269338,
+      "artifact_id": 6905342231,
+      "filename": "control_v11p_sd15s2_lineart_anime.pth",
+      "normalized_name": "control_v11p_sd15s2_lineart_anime.pth",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/534d63843895",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-10T16:51:25Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25633980378",
       "run_id": 25633980378,
@@ -7499,12 +7512,6 @@
       "normalized_name": "comfyui_swwan.zip",
       "share_url": "https://pan.quark.cn/s/29c2a41d91cd",
       "completed_at": "2026-05-02T03:54:57Z"
-    },
-    {
-      "filename": "control_v11p_sd15s2_lineart_anime.pth",
-      "normalized_name": "control_v11p_sd15s2_lineart_anime.pth",
-      "share_url": "https://pan.quark.cn/s/331a4a28d6a5",
-      "completed_at": "2026-05-02T03:47:05Z"
     },
     {
       "filename": "control_v11f1p_sd15_depth.pth",
