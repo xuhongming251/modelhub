@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-10T02:53:39.029Z",
-  "lastRunId": 25618085528,
+  "updatedAt": "2026-05-10T03:16:03.268Z",
+  "lastRunId": 25618486320,
   "items": [
+    {
+      "id": "run_25618486320",
+      "run_id": 25618486320,
+      "artifact_id": 6900553316,
+      "filename": "1714002",
+      "normalized_name": "1714002",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8e6a98b2eed1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-10T03:15:26Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25618085528",
       "run_id": 25618085528,
@@ -27002,12 +27015,6 @@
       "normalized_name": "comfyui-gemini-api.zip",
       "share_url": "https://pan.quark.cn/s/8d67fe5daae1",
       "completed_at": "2026-03-11T10:56:46Z"
-    },
-    {
-      "filename": "1714002",
-      "normalized_name": "1714002",
-      "share_url": "https://pan.quark.cn/s/82b8cbb365e2",
-      "completed_at": "2026-03-11T10:50:25Z"
     },
     {
       "filename": "ComfyUI_TiledKSampler.zip",
