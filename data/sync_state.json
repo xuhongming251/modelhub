@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-10T16:29:56.269Z",
-  "lastRunId": 25633804317,
+  "updatedAt": "2026-05-10T16:38:13.526Z",
+  "lastRunId": 25633980378,
   "items": [
+    {
+      "id": "run_25633980378",
+      "run_id": 25633980378,
+      "artifact_id": 6905257284,
+      "filename": "control_v11p_sd15_lineart.pth",
+      "normalized_name": "control_v11p_sd15_lineart.pth",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/98ea89283f1d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-10T16:37:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25633804317",
       "run_id": 25633804317,
@@ -25528,12 +25541,6 @@
       "normalized_name": "control_v11p_sd15_mlsd.pth",
       "share_url": "https://pan.quark.cn/s/21df2c81bed7",
       "completed_at": "2026-03-16T04:52:00Z"
-    },
-    {
-      "filename": "control_v11p_sd15_lineart.pth",
-      "normalized_name": "control_v11p_sd15_lineart.pth",
-      "share_url": "https://pan.quark.cn/s/7ba5b445e5d3",
-      "completed_at": "2026-03-16T04:51:34Z"
     },
     {
       "filename": "control_v11p_sd15_normalbae.pth",
