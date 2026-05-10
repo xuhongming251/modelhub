@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-10T12:48:15.294Z",
-  "lastRunId": 25628774143,
+  "updatedAt": "2026-05-10T12:58:08.236Z",
+  "lastRunId": 25629100958,
   "items": [
+    {
+      "id": "run_25629100958",
+      "run_id": 25629100958,
+      "artifact_id": 6903880838,
+      "filename": "6681e8e4b134c81f16533acedb0d406d7e5e366e1624b4105178c64d00b05d51.safetensors",
+      "normalized_name": "6681e8e4b134c81f16533acedb0d406d7e5e366e1624b4105178c64d00b05d51.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/33a5d4acf840",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-10T12:57:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25628584613",
       "run_id": 25628584613,
@@ -22485,12 +22498,6 @@
       "normalized_name": "2675808",
       "share_url": "https://pan.quark.cn/s/7f86bd877ced",
       "completed_at": "2026-03-21T18:38:07Z"
-    },
-    {
-      "filename": "6681e8e4b134c81f16533acedb0d406d7e5e366e1624b4105178c64d00b05d51.safetensors",
-      "normalized_name": "6681e8e4b134c81f16533acedb0d406d7e5e366e1624b4105178c64d00b05d51.safetensors",
-      "share_url": "https://pan.quark.cn/s/3006f9ff91f8",
-      "completed_at": "2026-03-21T16:42:02Z"
     },
     {
       "filename": "noobai-xl-nai-xl",
