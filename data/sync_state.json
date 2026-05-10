@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-10T13:24:21.356Z",
-  "lastRunId": 25629100958,
+  "updatedAt": "2026-05-10T13:30:26.596Z",
+  "lastRunId": 25629797068,
   "items": [
+    {
+      "id": "run_25629797068",
+      "run_id": 25629797068,
+      "artifact_id": 6904068015,
+      "filename": "Huihui-Qwen3.5-27B-abliterated.Q4_K_S.gguf",
+      "normalized_name": "huihui-qwen3.5-27b-abliterated.q4_k_s.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/95e7008a9f6c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-10T13:29:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25629100958",
       "run_id": 25629100958,
