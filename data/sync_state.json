@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-11T06:22:31.075Z",
-  "lastRunId": 25653824756,
+  "updatedAt": "2026-05-11T06:23:34.092Z",
+  "lastRunId": 25653845592,
   "items": [
+    {
+      "id": "run_25653845592",
+      "run_id": 25653845592,
+      "artifact_id": 6911599467,
+      "filename": "matureritualV204.wUL0.safetensors",
+      "normalized_name": "matureritualv204.wul0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f2ce479b9956",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-11T06:22:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25653824756",
       "run_id": 25653824756,
@@ -10028,12 +10041,6 @@
       "normalized_name": "anim8drawv20fp16.ayhq.safetensors",
       "share_url": "https://pan.quark.cn/s/58d89aecdf8f",
       "completed_at": "2026-04-28T16:40:04Z"
-    },
-    {
-      "filename": "matureritualV204.wUL0.safetensors",
-      "normalized_name": "matureritualv204.wul0.safetensors",
-      "share_url": "https://pan.quark.cn/s/55c0f5c0ed34",
-      "completed_at": "2026-04-28T15:03:14Z"
     },
     {
       "filename": "Qwen3.5-9B-Uncensored-HauhauCS-Aggressive-Q4_K_M.gguf",
