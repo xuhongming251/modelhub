@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-11T11:42:26.851Z",
-  "lastRunId": 25667899379,
+  "updatedAt": "2026-05-11T13:16:10.600Z",
+  "lastRunId": 25672380545,
   "items": [
+    {
+      "id": "run_25672380545",
+      "run_id": 25672380545,
+      "artifact_id": 6919407899,
+      "filename": "miaomiao20harem20EPS2.safetensors",
+      "normalized_name": "miaomiao20harem20eps2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3d8012866c67",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-11T13:15:18Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25667899379",
       "run_id": 25667899379,
@@ -30242,7 +30255,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
