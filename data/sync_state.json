@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-11T16:52:41.505Z",
-  "lastRunId": 25684266365,
+  "updatedAt": "2026-05-11T16:54:51.730Z",
+  "lastRunId": 25684396014,
   "items": [
+    {
+      "id": "run_25684396014",
+      "run_id": 25684396014,
+      "artifact_id": 6924615478,
+      "filename": "ComfyUI-Impact-Subpack.zip",
+      "normalized_name": "comfyui-impact-subpack.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6aa5e80f602a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-11T16:54:25Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25684391614",
+      "run_id": 25684391614,
+      "artifact_id": 6924609712,
+      "filename": "was-node-suite-comfyui.zip",
+      "normalized_name": "was-node-suite-comfyui.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/10261600fc79",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-11T16:54:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25684266365",
       "run_id": 25684266365,
@@ -2185,19 +2211,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-08T15:01:41Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25561125023",
-      "run_id": 25561125023,
-      "artifact_id": 6881413774,
-      "filename": "was-node-suite-comfyui.zip",
-      "normalized_name": "was-node-suite-comfyui.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/d6fb1302e7a4",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-08T14:28:37Z",
       "workflow": "upload.yml"
     },
     {
@@ -16391,12 +16404,6 @@
       "normalized_name": "segment-anything.zip",
       "share_url": "https://pan.quark.cn/s/291b5074be1a",
       "completed_at": "2026-04-13T08:37:52Z"
-    },
-    {
-      "filename": "ComfyUI-Impact-Subpack.zip",
-      "normalized_name": "comfyui-impact-subpack.zip",
-      "share_url": "https://pan.quark.cn/s/486c127b87d7",
-      "completed_at": "2026-04-13T08:01:09Z"
     },
     {
       "filename": "main face_yolov8m.pt.zip",
