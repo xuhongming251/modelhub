@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-11T01:09:08.393Z",
-  "lastRunId": 25645053514,
+  "updatedAt": "2026-05-11T01:46:09.297Z",
+  "lastRunId": 25646016119,
   "items": [
+    {
+      "id": "run_25646016119",
+      "run_id": 25646016119,
+      "artifact_id": 6908944990,
+      "filename": "yolo11x-pose.pt",
+      "normalized_name": "yolo11x-pose.pt",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b7f35a446fe0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-11T01:45:34Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25645053514",
       "run_id": 25645053514,
