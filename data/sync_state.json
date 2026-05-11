@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-11T15:05:50.013Z",
-  "lastRunId": 25678415084,
+  "updatedAt": "2026-05-11T15:06:55.737Z",
+  "lastRunId": 25678420199,
   "items": [
+    {
+      "id": "run_25678420199",
+      "run_id": 25678420199,
+      "artifact_id": 6922044419,
+      "filename": "t5xxl_fp16.safetensors",
+      "normalized_name": "t5xxl_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/554b776bf4f9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-11T15:06:07Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25678415084",
       "run_id": 25678415084,
@@ -20997,12 +21010,6 @@
       "normalized_name": "flux1-schnell-fp8-e4m3fn.safetensors",
       "share_url": "https://pan.quark.cn/s/7cbd52bbef97",
       "completed_at": "2026-03-27T14:39:40Z"
-    },
-    {
-      "filename": "t5xxl_fp16.safetensors",
-      "normalized_name": "t5xxl_fp16.safetensors",
-      "share_url": "https://pan.quark.cn/s/187e6165a824",
-      "completed_at": "2026-03-27T14:33:12Z"
     },
     {
       "filename": "silvermoonmix01.ZWWW.safetensors",
