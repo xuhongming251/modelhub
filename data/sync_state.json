@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-11T16:50:13.418Z",
-  "lastRunId": 25684139831,
+  "updatedAt": "2026-05-11T16:52:41.505Z",
+  "lastRunId": 25684266365,
   "items": [
+    {
+      "id": "run_25684266365",
+      "run_id": 25684266365,
+      "artifact_id": 6924560630,
+      "filename": "ComfyUI_essentials.zip",
+      "normalized_name": "comfyui_essentials.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c8d17e90867a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-11T16:51:52Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25684139831",
       "run_id": 25684139831,
@@ -21616,12 +21629,6 @@
       "normalized_name": "comfyui-qweneditutils.zip",
       "share_url": "https://pan.quark.cn/s/a9eaf8d26b50",
       "completed_at": "2026-03-26T16:42:03Z"
-    },
-    {
-      "filename": "ComfyUI_essentials.zip",
-      "normalized_name": "comfyui_essentials.zip",
-      "share_url": "https://pan.quark.cn/s/5e7da63732ee",
-      "completed_at": "2026-03-26T16:36:53Z"
     },
     {
       "filename": "wan2.2_animate_14B_bf16.safetensors",
