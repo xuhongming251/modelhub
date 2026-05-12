@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T01:27:17.638Z",
-  "lastRunId": 25707530134,
+  "updatedAt": "2026-05-12T01:30:56.354Z",
+  "lastRunId": 25707574984,
   "items": [
+    {
+      "id": "run_25707574984",
+      "run_id": 25707574984,
+      "artifact_id": 6933703772,
+      "filename": "LTX-2.3-22b-IC-LoRA-Union-Control.zip",
+      "normalized_name": "ltx-2.3-22b-ic-lora-union-control.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0e988edb75c2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-12T01:30:22Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25707530134",
       "run_id": 25707530134,
@@ -23983,12 +23996,6 @@
       "normalized_name": "ltx-2.3-22b-ic-lora-motion-track-control.zip",
       "share_url": "https://pan.quark.cn/s/8e7187f36909",
       "completed_at": "2026-03-20T12:02:07Z"
-    },
-    {
-      "filename": "LTX-2.3-22b-IC-LoRA-Union-Control.zip",
-      "normalized_name": "ltx-2.3-22b-ic-lora-union-control.zip",
-      "share_url": "https://pan.quark.cn/s/515c2f250ad0",
-      "completed_at": "2026-03-20T12:02:05Z"
     },
     {
       "filename": "ikastriousV210.pZet.safetensors",
