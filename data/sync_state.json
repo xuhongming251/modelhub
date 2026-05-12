@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T16:06:46.991Z",
-  "lastRunId": 25746652359,
+  "updatedAt": "2026-05-12T16:09:07.071Z",
+  "lastRunId": 25746779310,
   "items": [
+    {
+      "id": "run_25746779310",
+      "run_id": 25746779310,
+      "artifact_id": 6949412378,
+      "filename": "I2V-WAN2.2-EdibleAnus-LowNoise-1.1_-000060.safetensors",
+      "normalized_name": "i2v-wan2.2-edibleanus-lownoise-1.1_-000060.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2b466d1ab993",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-12T16:08:31Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25746652359",
       "run_id": 25746652359,
@@ -31468,7 +31481,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
