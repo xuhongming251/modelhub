@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T02:57:36.737Z",
-  "lastRunId": 25710491688,
+  "updatedAt": "2026-05-12T03:02:51.871Z",
+  "lastRunId": 25710673048,
   "items": [
+    {
+      "id": "run_25710673048",
+      "run_id": 25710673048,
+      "artifact_id": 6934714588,
+      "filename": "cowgirl_position_nonpov_pony-000010.safetensors",
+      "normalized_name": "cowgirl_position_nonpov_pony-000010.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e00945eea0d2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-12T03:02:23Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25710665352",
+      "run_id": 25710665352,
+      "artifact_id": 6934712237,
+      "filename": "cowgirl_position_nonpov_xl.safetensors",
+      "normalized_name": "cowgirl_position_nonpov_xl.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3ee73bfe1f7a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-12T03:02:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25710491688",
       "run_id": 25710491688,
