@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T15:56:53.879Z",
-  "lastRunId": 25746069455,
+  "updatedAt": "2026-05-12T16:01:19.166Z",
+  "lastRunId": 25746314586,
   "items": [
+    {
+      "id": "run_25746314586",
+      "run_id": 25746314586,
+      "artifact_id": 6949215156,
+      "filename": "ComfyUI-Frame-Interpolation.zip",
+      "normalized_name": "comfyui-frame-interpolation.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5f1654bd7de2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-12T16:00:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25746069455",
       "run_id": 25746069455,
@@ -12659,12 +12672,6 @@
       "normalized_name": "comfyui-prompt-assistant.zip",
       "share_url": "https://pan.quark.cn/s/c027b5d5441e",
       "completed_at": "2026-04-26T12:45:13Z"
-    },
-    {
-      "filename": "ComfyUI-Frame-Interpolation.zip",
-      "normalized_name": "comfyui-frame-interpolation.zip",
-      "share_url": "https://pan.quark.cn/s/d1818a8b9f6e",
-      "completed_at": "2026-04-26T12:44:10Z"
     },
     {
       "filename": "ComfyUI-Custom-Scripts.zip",
