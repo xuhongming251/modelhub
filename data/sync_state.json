@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T17:33:20.487Z",
-  "lastRunId": 25749119126,
+  "updatedAt": "2026-05-12T18:29:36.305Z",
+  "lastRunId": 25754156090,
   "items": [
+    {
+      "id": "run_25754156090",
+      "run_id": 25754156090,
+      "artifact_id": 6952539468,
+      "filename": "ComfyUI-WD14-Tagger.zip",
+      "normalized_name": "comfyui-wd14-tagger.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dc855d715443",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-12T18:28:52Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25749119126",
       "run_id": 25749119126,
@@ -19482,12 +19495,6 @@
       "normalized_name": "gemma-4-26b-a4b-it-q8_0.gguf",
       "share_url": "https://pan.quark.cn/s/352be4057e98",
       "completed_at": "2026-04-03T14:18:40Z"
-    },
-    {
-      "filename": "ComfyUI-WD14-Tagger.zip",
-      "normalized_name": "comfyui-wd14-tagger.zip",
-      "share_url": "https://pan.quark.cn/s/8a422d0ea8f2",
-      "completed_at": "2026-04-03T14:09:50Z"
     },
     {
       "filename": "qwen-imagensfwadv1",
