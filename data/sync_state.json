@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T03:20:18.784Z",
-  "lastRunId": 25711199081,
+  "updatedAt": "2026-05-12T03:23:13.033Z",
+  "lastRunId": 25711271984,
   "items": [
+    {
+      "id": "run_25711271984",
+      "run_id": 25711271984,
+      "artifact_id": 6934956312,
+      "filename": "QwenRebalanceV10_v10.safetensors",
+      "normalized_name": "qwenrebalancev10_v10.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3d012d9e2629",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-12T03:22:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25711199081",
       "run_id": 25711199081,
