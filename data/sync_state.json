@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T11:04:42.781Z",
-  "lastRunId": 25730312256,
+  "updatedAt": "2026-05-12T11:06:09.794Z",
+  "lastRunId": 25730366013,
   "items": [
+    {
+      "id": "run_25730366013",
+      "run_id": 25730366013,
+      "artifact_id": 6942423111,
+      "filename": "dreamshaperxlTurbo.cRog.safetensors",
+      "normalized_name": "dreamshaperxlturbo.crog.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/167d549c26d0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-12T11:05:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25730312256",
       "run_id": 25730312256,
@@ -14718,12 +14731,6 @@
       "normalized_name": "dark beast | 黑兽.safetensors",
       "share_url": "https://pan.quark.cn/s/00da2b9906f3",
       "completed_at": "2026-04-20T13:42:20Z"
-    },
-    {
-      "filename": "dreamshaperxlTurbo.cRog.safetensors",
-      "normalized_name": "dreamshaperxlturbo.crog.safetensors",
-      "share_url": "https://pan.quark.cn/s/a581c9bb55df",
-      "completed_at": "2026-04-20T13:29:32Z"
     },
     {
       "filename": "XXMix_9realisticSDXL.safetensors",
