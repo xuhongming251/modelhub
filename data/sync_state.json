@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T15:26:24.923Z",
-  "lastRunId": 25744365704,
+  "updatedAt": "2026-05-12T15:35:43.464Z",
+  "lastRunId": 25744895479,
   "items": [
+    {
+      "id": "run_25744895479",
+      "run_id": 25744895479,
+      "artifact_id": 6948584694,
+      "filename": "I2V-WAN2.2-EdibleAnus-LowNoise_-000030.safetensors",
+      "normalized_name": "i2v-wan2.2-edibleanus-lownoise_-000030.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5c099a68e5a7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-12T15:34:55Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25744142054",
+      "run_id": 25744142054,
+      "artifact_id": 6948357608,
+      "filename": "darkBeast_darkblitz6Beyondnsfwfp8.safetensors",
+      "normalized_name": "darkbeast_darkblitz6beyondnsfwfp8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d007c5b355a4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-12T15:25:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25744365704",
       "run_id": 25744365704,
@@ -31435,7 +31461,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
