@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T10:41:14.129Z",
-  "lastRunId": 25729133770,
+  "updatedAt": "2026-05-12T11:04:42.781Z",
+  "lastRunId": 25730312256,
   "items": [
+    {
+      "id": "run_25730312256",
+      "run_id": 25730312256,
+      "artifact_id": 6942397822,
+      "filename": "realvisxlV50Lightning.Ng9I.safetensors",
+      "normalized_name": "realvisxlv50lightning.ng9i.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/59c90b9caf59",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-12T11:04:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25729133770",
       "run_id": 25729133770,
@@ -22787,12 +22800,6 @@
       "normalized_name": "wan22i2vhighnoise14b.duhn.safetensors",
       "share_url": "https://pan.quark.cn/s/a859fb3dd429",
       "completed_at": "2026-03-26T01:48:08Z"
-    },
-    {
-      "filename": "realvisxlV50Lightning.Ng9I.safetensors",
-      "normalized_name": "realvisxlv50lightning.ng9i.safetensors",
-      "share_url": "https://pan.quark.cn/s/88d21eb0cdda",
-      "completed_at": "2026-03-26T01:39:32Z"
     },
     {
       "filename": "animaPreview2.HhBT.safetensors",
