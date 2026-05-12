@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T03:02:51.871Z",
-  "lastRunId": 25710673048,
+  "updatedAt": "2026-05-12T03:06:21.175Z",
+  "lastRunId": 25710782324,
   "items": [
+    {
+      "id": "run_25710782324",
+      "run_id": 25710782324,
+      "artifact_id": 6934753500,
+      "filename": "lotusposition.safetensors",
+      "normalized_name": "lotusposition.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5cc752367abb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-12T03:05:49Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25710772173",
+      "run_id": 25710772173,
+      "artifact_id": 6934750340,
+      "filename": "lotus.safetensors",
+      "normalized_name": "lotus.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/521a35813872",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-12T03:05:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25710673048",
       "run_id": 25710673048,
