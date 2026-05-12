@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T13:31:07.543Z",
-  "lastRunId": 25737262902,
+  "updatedAt": "2026-05-12T14:06:50.570Z",
+  "lastRunId": 25739695378,
   "items": [
+    {
+      "id": "run_25739695378",
+      "run_id": 25739695378,
+      "artifact_id": 6946330706,
+      "filename": "waiSHUFFLENOOB_vPred04.safetensors",
+      "normalized_name": "waishufflenoob_vpred04.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1769a6e2d92f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-12T14:06:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25737100775",
       "run_id": 25737100775,
@@ -9745,12 +9758,6 @@
       "normalized_name": "xeroxrealmix_v40.safetensors",
       "share_url": "https://pan.quark.cn/s/08a094ed3442",
       "completed_at": "2026-05-01T11:29:42Z"
-    },
-    {
-      "filename": "waiSHUFFLENOOB_vPred04.safetensors",
-      "normalized_name": "waishufflenoob_vpred04.safetensors",
-      "share_url": "https://pan.quark.cn/s/3edae2cac8d1",
-      "completed_at": "2026-05-01T11:29:19Z"
     },
     {
       "filename": "blueberrymix_10.safetensors",
