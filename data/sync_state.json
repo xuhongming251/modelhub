@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T13:24:26.030Z",
+  "updatedAt": "2026-05-12T13:31:07.543Z",
   "lastRunId": 25737262902,
   "items": [
+    {
+      "id": "run_25737100775",
+      "run_id": 25737100775,
+      "artifact_id": 6945455184,
+      "filename": "RedZFUN-v6-ZIB-Distilled-AGILE-8steps-BF16-ComfyUI.safetensors",
+      "normalized_name": "redzfun-v6-zib-distilled-agile-8steps-bf16-comfyui.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5fd8ed834c30",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-12T13:30:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25737262902",
       "run_id": 25737262902,
@@ -28314,12 +28327,6 @@
       "normalized_name": "189_femalefaceportraitsdetailedskin-zimage_dec18.safetensors",
       "share_url": "https://pan.quark.cn/s/949b178172bc",
       "completed_at": "2026-03-13T13:54:22Z"
-    },
-    {
-      "filename": "RedZFUN-v6-ZIB-Distilled-AGILE-8steps-BF16-ComfyUI.safetensors",
-      "normalized_name": "redzfun-v6-zib-distilled-agile-8steps-bf16-comfyui.safetensors",
-      "share_url": "https://pan.quark.cn/s/856e9f83fcf4",
-      "completed_at": "2026-03-13T13:28:52Z"
     },
     {
       "filename": "c3b3756ef099",
