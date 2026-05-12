@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T20:01:57.624Z",
+  "updatedAt": "2026-05-12T20:03:25.553Z",
   "lastRunId": 25758915246,
   "items": [
+    {
+      "id": "run_25758905658",
+      "run_id": 25758905658,
+      "artifact_id": 6954565207,
+      "filename": "Qwen3.6-27B-NEO-CODE-HERE-2T-OT-IQ3_M.gguf",
+      "normalized_name": "qwen3.6-27b-neo-code-here-2t-ot-iq3_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0b4d9e643b1d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-12T20:02:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25758915246",
       "run_id": 25758915246,
