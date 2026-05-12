@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T06:35:51.091Z",
-  "lastRunId": 25717804611,
+  "updatedAt": "2026-05-12T06:42:44.182Z",
+  "lastRunId": 25718071095,
   "items": [
+    {
+      "id": "run_25718071095",
+      "run_id": 25718071095,
+      "artifact_id": 6937380007,
+      "filename": "LCM_LoRA_Weights_SDXL.safetensors",
+      "normalized_name": "lcm_lora_weights_sdxl.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/efdbab6eb1cf",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-12T06:42:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25717804611",
       "run_id": 25717804611,
