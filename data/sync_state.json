@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T16:43:29.615Z",
-  "lastRunId": 25748594785,
+  "updatedAt": "2026-05-12T16:50:39.006Z",
+  "lastRunId": 25748880128,
   "items": [
+    {
+      "id": "run_25748880128",
+      "run_id": 25748880128,
+      "artifact_id": 6950368944,
+      "filename": "wan22-ultimatedeepthroat-i2v-102epoc-high-k3nk.safetensors.zip",
+      "normalized_name": "wan22-ultimatedeepthroat-i2v-102epoc-high-k3nk.safetensors.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/36e913de7075",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-12T16:50:04Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25748638239",
+      "run_id": 25748638239,
+      "artifact_id": 6950219472,
+      "filename": "ComfyUI-PromptRelay.git.zip",
+      "normalized_name": "comfyui-promptrelay.git.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ee36d2e22271",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-12T16:43:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25748594785",
       "run_id": 25748594785,
