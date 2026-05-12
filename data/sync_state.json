@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T19:52:21.543Z",
-  "lastRunId": 25758398181,
+  "updatedAt": "2026-05-12T19:55:47.268Z",
+  "lastRunId": 25758589672,
   "items": [
+    {
+      "id": "run_25758589672",
+      "run_id": 25758589672,
+      "artifact_id": 6954413152,
+      "filename": "mmproj-BF16.gguf",
+      "normalized_name": "mmproj-bf16.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4a3d70af2faa",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-12T19:55:05Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25758398181",
       "run_id": 25758398181,
@@ -18470,12 +18483,6 @@
       "normalized_name": "1221869",
       "share_url": "https://pan.quark.cn/s/f36d633d8aee",
       "completed_at": "2026-04-07T07:26:46Z"
-    },
-    {
-      "filename": "mmproj-BF16.gguf",
-      "normalized_name": "mmproj-bf16.gguf",
-      "share_url": "https://pan.quark.cn/s/bcc644d1965c",
-      "completed_at": "2026-04-07T06:35:06Z"
     },
     {
       "filename": "gemma-4-26B-A4B-it-UD-Q4_K_XL.gguf",
