@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T04:57:33.340Z",
-  "lastRunId": 25779151374,
+  "updatedAt": "2026-05-13T05:03:12.214Z",
+  "lastRunId": 25779408825,
   "items": [
+    {
+      "id": "run_25779408825",
+      "run_id": 25779408825,
+      "artifact_id": 6961995943,
+      "filename": "LTX2.3_reasoning_I2V_V3.safetensors",
+      "normalized_name": "ltx2.3_reasoning_i2v_v3.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1fbc3d7d9e06",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-13T05:02:51Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25779395948",
+      "run_id": 25779395948,
+      "artifact_id": 6961993147,
+      "filename": "DR34ML4Y_LTXXX_V1.safetensors",
+      "normalized_name": "dr34ml4y_ltxxx_v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0c6be6aa0de2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-13T05:02:36Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25779151374",
       "run_id": 25779151374,
