@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T23:30:17.458Z",
-  "lastRunId": 25832373383,
+  "updatedAt": "2026-05-13T23:33:28.396Z",
+  "lastRunId": 25832485727,
   "items": [
+    {
+      "id": "run_25832485727",
+      "run_id": 25832485727,
+      "artifact_id": 6983882657,
+      "filename": "minimalistflat-000006.safetensors",
+      "normalized_name": "minimalistflat-000006.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7cd799c7bae9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-13T23:32:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25832373383",
       "run_id": 25832373383,
@@ -32415,7 +32428,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 3,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
