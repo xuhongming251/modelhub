@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T00:29:59.401Z",
-  "lastRunId": 25768693102,
+  "updatedAt": "2026-05-13T00:50:34.562Z",
+  "lastRunId": 25771119241,
   "items": [
+    {
+      "id": "run_25771119241",
+      "run_id": 25771119241,
+      "artifact_id": 6959189095,
+      "filename": "moodyWildV4Undistilled.GIMw.safetensors",
+      "normalized_name": "moodywildv4undistilled.gimw.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/df4af86e505f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-13T00:49:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25768693102",
       "run_id": 25768693102,
