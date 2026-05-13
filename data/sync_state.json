@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T11:03:49.176Z",
-  "lastRunId": 25795023552,
+  "updatedAt": "2026-05-13T11:28:45.297Z",
+  "lastRunId": 25796178648,
   "items": [
+    {
+      "id": "run_25796178648",
+      "run_id": 25796178648,
+      "artifact_id": 6968805948,
+      "filename": "t5xxl_fp8_e4m3fn.safetensors",
+      "normalized_name": "t5xxl_fp8_e4m3fn.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7d4acede2e23",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-13T11:28:07Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25795023552",
       "run_id": 25795023552,
@@ -22636,12 +22649,6 @@
       "completed_at": "2026-03-27T17:34:56Z"
     },
     {
-      "filename": "t5xxl_fp8_e4m3fn.safetensors",
-      "normalized_name": "t5xxl_fp8_e4m3fn.safetensors",
-      "share_url": "https://pan.quark.cn/s/ba61acf70f64",
-      "completed_at": "2026-03-27T17:34:18Z"
-    },
-    {
       "filename": "Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-Q5_K_M.gguf",
       "normalized_name": "qwen3.5-9b-claude-4.6-opus-reasoning-distilled-v2-q5_k_m.gguf",
       "share_url": "https://pan.quark.cn/s/bc915395825a",
@@ -31998,7 +32005,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
