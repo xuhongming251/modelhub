@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T23:06:51.298Z",
-  "lastRunId": 25829896991,
+  "updatedAt": "2026-05-13T23:08:46.472Z",
+  "lastRunId": 25831583567,
   "items": [
+    {
+      "id": "run_25831583567",
+      "run_id": 25831583567,
+      "artifact_id": 6983555289,
+      "filename": "Turbo-ANIMA.safetensors",
+      "normalized_name": "turbo-anima.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b94fc055e652",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-13T23:08:19Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25829896991",
       "run_id": 25829896991,
@@ -32363,7 +32376,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 3,
       "createdBefore": null,
       "exhausted": false
     }
