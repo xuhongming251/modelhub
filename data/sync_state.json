@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T12:03:47.400Z",
-  "lastRunId": 25797853664,
+  "updatedAt": "2026-05-13T12:08:29.827Z",
+  "lastRunId": 25798093102,
   "items": [
+    {
+      "id": "run_25798093102",
+      "run_id": 25798093102,
+      "artifact_id": 6969594017,
+      "filename": "BounceLowWan2_2.safetensors",
+      "normalized_name": "bouncelowwan2_2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/31498e1d0f47",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-13T12:08:07Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25798077491",
+      "run_id": 25798077491,
+      "artifact_id": 6969588710,
+      "filename": "BounceHighWan2_2.safetensors",
+      "normalized_name": "bouncehighwan2_2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bb9bc3c5da90",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-13T12:07:51Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25797853664",
       "run_id": 25797853664,
