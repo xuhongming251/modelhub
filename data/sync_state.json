@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T13:58:15.919Z",
-  "lastRunId": 25803709686,
+  "updatedAt": "2026-05-13T14:03:23.867Z",
+  "lastRunId": 25804076229,
   "items": [
+    {
+      "id": "run_25804076229",
+      "run_id": 25804076229,
+      "artifact_id": 6972200833,
+      "filename": "zitMidjourneyLuneva.JYiR.safetensors",
+      "normalized_name": "zitmidjourneyluneva.jyir.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/936e783d58a8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-13T14:02:39Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25803709686",
       "run_id": 25803709686,
@@ -4421,19 +4434,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-08T13:35:39Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25558526706",
-      "run_id": 25558526706,
-      "artifact_id": 6880308315,
-      "filename": "zitMidjourneyLuneva.JYiR.safetensors",
-      "normalized_name": "zitmidjourneyluneva.jyir.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/da21dcedec28",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-08T13:34:59Z",
       "workflow": "upload.yml"
     },
     {
@@ -32259,7 +32259,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
