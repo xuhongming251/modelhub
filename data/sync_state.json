@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T02:14:47.950Z",
-  "lastRunId": 25773519492,
+  "updatedAt": "2026-05-13T02:26:43.763Z",
+  "lastRunId": 25774398071,
   "items": [
+    {
+      "id": "run_25774398071",
+      "run_id": 25774398071,
+      "artifact_id": 6960317920,
+      "filename": "animaPreview3Base.c30F.safetensors",
+      "normalized_name": "animapreview3base.c30f.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8a6dd5895946",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-13T02:26:13Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25773090174",
       "run_id": 25773090174,
@@ -9265,12 +9278,6 @@
       "normalized_name": "qwen306bbase.zyvm.safetensors",
       "share_url": "https://pan.quark.cn/s/1e5d7c4034ae",
       "completed_at": "2026-05-02T11:03:45Z"
-    },
-    {
-      "filename": "animaPreview3Base.c30F.safetensors",
-      "normalized_name": "animapreview3base.c30f.safetensors",
-      "share_url": "https://pan.quark.cn/s/315505e14638",
-      "completed_at": "2026-05-02T11:01:49Z"
     },
     {
       "filename": "flanimeV30fFp16.c20c.safetensors",
