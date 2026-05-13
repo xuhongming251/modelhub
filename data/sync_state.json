@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T10:37:25.866Z",
-  "lastRunId": 25793801736,
+  "updatedAt": "2026-05-13T10:43:54.133Z",
+  "lastRunId": 25794072882,
   "items": [
+    {
+      "id": "run_25794072882",
+      "run_id": 25794072882,
+      "artifact_id": 6967928979,
+      "filename": "oneobsession21experim.HaI8.safetensors",
+      "normalized_name": "oneobsession21experim.hai8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8dbacad5ce2e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-13T10:43:16Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25793801736",
       "run_id": 25793801736,
@@ -10783,12 +10796,6 @@
       "normalized_name": "realmixponyv121.ua71.safetensors",
       "share_url": "https://pan.quark.cn/s/e0102a754244",
       "completed_at": "2026-05-01T06:58:28Z"
-    },
-    {
-      "filename": "oneobsession21experim.HaI8.safetensors",
-      "normalized_name": "oneobsession21experim.hai8.safetensors",
-      "share_url": "https://pan.quark.cn/s/9fee713cc2e1",
-      "completed_at": "2026-05-01T06:47:08Z"
     },
     {
       "filename": "lightingV2.aRx1.safetensors",
