@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T09:32:35.684Z",
-  "lastRunId": 25790682602,
+  "updatedAt": "2026-05-13T10:04:08.831Z",
+  "lastRunId": 25791828778,
   "items": [
+    {
+      "id": "run_25791828778",
+      "run_id": 25791828778,
+      "artifact_id": 6967134807,
+      "filename": "siglip-so400m-patch14-384.zip",
+      "normalized_name": "siglip-so400m-patch14-384.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c8be9a08c93c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-13T10:03:36Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25790682602",
       "run_id": 25790682602,
