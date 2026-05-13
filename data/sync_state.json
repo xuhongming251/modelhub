@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T12:47:12.545Z",
-  "lastRunId": 25799959511,
+  "updatedAt": "2026-05-13T12:48:47.737Z",
+  "lastRunId": 25800013301,
   "items": [
+    {
+      "id": "run_25800013301",
+      "run_id": 25800013301,
+      "artifact_id": 6970427261,
+      "filename": "DR34ML4Y_一体式_NSFW_i2v_HIGH_v2.safetensors",
+      "normalized_name": "dr34ml4y_一体式_nsfw_i2v_high_v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/adc5d6581872",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-13T12:48:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25799959511",
       "run_id": 25799959511,
@@ -32239,7 +32252,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
