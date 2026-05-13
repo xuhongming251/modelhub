@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T05:42:46.586Z",
-  "lastRunId": 25780636658,
+  "updatedAt": "2026-05-13T05:48:19.553Z",
+  "lastRunId": 25780926105,
   "items": [
+    {
+      "id": "run_25780926105",
+      "run_id": 25780926105,
+      "artifact_id": 6962528056,
+      "filename": "FastWan_T2V_14B_480p_lora_rank_128_bf16.safetensors",
+      "normalized_name": "fastwan_t2v_14b_480p_lora_rank_128_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/60f80e7bad5c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-13T05:47:44Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25780636658",
       "run_id": 25780636658,
