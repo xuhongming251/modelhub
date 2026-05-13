@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T14:03:23.867Z",
+  "updatedAt": "2026-05-13T14:06:23.872Z",
   "lastRunId": 25804076229,
   "items": [
+    {
+      "id": "run_25802964249",
+      "run_id": 25802964249,
+      "artifact_id": 6972278239,
+      "filename": "wan2.2_i2v_A14b_low_noise_lightx2v_4step_720p_260412-Q5_K_M.gguf",
+      "normalized_name": "wan2.2_i2v_a14b_low_noise_lightx2v_4step_720p_260412-q5_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c7af870e88b8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-13T14:05:45Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25804076229",
       "run_id": 25804076229,
