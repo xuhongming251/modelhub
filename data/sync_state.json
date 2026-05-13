@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T07:39:08.527Z",
-  "lastRunId": 25784833551,
+  "updatedAt": "2026-05-13T07:41:25.064Z",
+  "lastRunId": 25784890214,
   "items": [
+    {
+      "id": "run_25784890214",
+      "run_id": 25784890214,
+      "artifact_id": 6964267386,
+      "filename": "kemomimicoreHigh_nova.safetensors",
+      "normalized_name": "kemomimicorehigh_nova.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/694b2af3f467",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-13T07:40:48Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25784833551",
       "run_id": 25784833551,
