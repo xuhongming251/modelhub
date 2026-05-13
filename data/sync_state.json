@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T10:57:30.844Z",
-  "lastRunId": 25794699233,
+  "updatedAt": "2026-05-13T11:03:49.176Z",
+  "lastRunId": 25795023552,
   "items": [
+    {
+      "id": "run_25795023552",
+      "run_id": 25795023552,
+      "artifact_id": 6968321831,
+      "filename": "ComfyUI_windows_portable_nvidia.7z",
+      "normalized_name": "comfyui_windows_portable_nvidia.7z",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b213a7103242",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-13T11:03:16Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25794731439",
+      "run_id": 25794731439,
+      "artifact_id": 6968206481,
+      "filename": "waiNsfwIllustrious17.Fa3Z.safetensors",
+      "normalized_name": "wainsfwillustrious17.fa3z.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0ccd09d71d1d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-13T10:57:34Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25794699233",
       "run_id": 25794699233,
@@ -53,19 +79,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-13T10:03:36Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25790682602",
-      "run_id": 25790682602,
-      "artifact_id": 6966470238,
-      "filename": "ComfyUI_windows_portable_nvidia.7z",
-      "normalized_name": "comfyui_windows_portable_nvidia.7z",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/e12d09fd7619",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-13T09:31:57Z",
       "workflow": "upload.yml"
     },
     {
@@ -170,19 +183,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-13T06:34:45Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25782561119",
-      "run_id": 25782561119,
-      "artifact_id": 6963150999,
-      "filename": "waiNsfwIllustrious17.Fa3Z.safetensors",
-      "normalized_name": "wainsfwillustrious17.fa3z.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/61e2f0871cc9",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-13T06:32:27Z",
       "workflow": "upload.yml"
     },
     {
