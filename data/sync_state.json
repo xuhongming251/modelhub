@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T15:54:04.067Z",
-  "lastRunId": 25870139182,
+  "updatedAt": "2026-05-14T16:06:42.922Z",
+  "lastRunId": 25870747218,
   "items": [
+    {
+      "id": "run_25870747218",
+      "run_id": 25870747218,
+      "artifact_id": 6998803421,
+      "filename": "miaomiao20realskin14.BnBE.safetensors",
+      "normalized_name": "miaomiao20realskin14.bnbe.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b12eda9a7ff9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-14T16:06:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25870139182",
       "run_id": 25870139182,
@@ -17936,12 +17949,6 @@
       "normalized_name": "animagregrutkowski.gcye.safetensors",
       "share_url": "https://pan.quark.cn/s/a8d191e5d09e",
       "completed_at": "2026-04-18T08:18:30Z"
-    },
-    {
-      "filename": "miaomiao20realskin14.BnBE.safetensors",
-      "normalized_name": "miaomiao20realskin14.bnbe.safetensors",
-      "share_url": "https://pan.quark.cn/s/83bc44fdb856",
-      "completed_at": "2026-04-18T06:01:23Z"
     },
     {
       "filename": "realisticVisionV51.KY5Q.safetensors",
