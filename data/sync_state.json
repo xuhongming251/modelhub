@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T15:34:44.666Z",
+  "updatedAt": "2026-05-14T15:38:50.224Z",
   "lastRunId": 25869042308,
   "items": [
+    {
+      "id": "run_25868841866",
+      "run_id": 25868841866,
+      "artifact_id": 6998200816,
+      "filename": "NetaYumev35_pretrained_all_in_one.safetensors",
+      "normalized_name": "netayumev35_pretrained_all_in_one.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/73af8bb759d0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-14T15:38:13Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25869042308",
       "run_id": 25869042308,
@@ -31858,12 +31871,6 @@
       "normalized_name": "wan2.1_t2v_1.3b_fp16.safetensors",
       "share_url": "https://pan.quark.cn/s/c2a10cbe6b9b",
       "completed_at": "2026-03-09T08:50:33Z"
-    },
-    {
-      "filename": "NetaYumev35_pretrained_all_in_one.safetensors",
-      "normalized_name": "netayumev35_pretrained_all_in_one.safetensors",
-      "share_url": "https://pan.baidu.com/s/1GwWWiSA_GOERRqcAy20o0w?pwd=36fb",
-      "completed_at": "2026-03-09T08:45:14Z"
     },
     {
       "filename": "24350",
