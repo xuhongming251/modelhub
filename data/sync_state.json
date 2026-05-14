@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T14:24:25.404Z",
-  "lastRunId": 25865478544,
+  "updatedAt": "2026-05-14T14:54:24.101Z",
+  "lastRunId": 25867029058,
   "items": [
+    {
+      "id": "run_25867029058",
+      "run_id": 25867029058,
+      "artifact_id": 6997219149,
+      "filename": "clip_vision_h.safetensors",
+      "normalized_name": "clip_vision_h.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9bd978a391f4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-14T14:53:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25865478544",
       "run_id": 25865478544,
@@ -14619,12 +14632,6 @@
       "normalized_name": "cmake-3.31.0-windows-x86_64.msi",
       "share_url": "https://pan.quark.cn/s/ab11853de94f",
       "completed_at": "2026-04-26T05:56:48Z"
-    },
-    {
-      "filename": "clip_vision_h.safetensors",
-      "normalized_name": "clip_vision_h.safetensors",
-      "share_url": "https://pan.quark.cn/s/b0449ee4e2c5",
-      "completed_at": "2026-04-26T05:43:00Z"
     },
     {
       "filename": "Qwen3.5-9B-Q4_K_M.gguf",
