@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T17:23:43.519Z",
-  "lastRunId": 25874652934,
+  "updatedAt": "2026-05-14T18:56:04.895Z",
+  "lastRunId": 25879252430,
   "items": [
+    {
+      "id": "run_25879252430",
+      "run_id": 25879252430,
+      "artifact_id": 7002267253,
+      "filename": "I2V-WAN2.2-POVFaceSitting-2.0-HighNoise_-000032.safetensors",
+      "normalized_name": "i2v-wan2.2-povfacesitting-2.0-highnoise_-000032.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/67fb92c0d304",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-14T18:55:35Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25874672021",
+      "run_id": 25874672021,
+      "artifact_id": 7000393402,
+      "filename": "IntimateContact_LOW.safetensors",
+      "normalized_name": "intimatecontact_low.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/58a03c660c11",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-14T17:23:26Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25874652934",
       "run_id": 25874652934,
