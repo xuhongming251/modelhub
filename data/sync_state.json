@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T05:17:30.708Z",
-  "lastRunId": 25843161548,
+  "updatedAt": "2026-05-14T05:27:36.400Z",
+  "lastRunId": 25843483482,
   "items": [
+    {
+      "id": "run_25843483482",
+      "run_id": 25843483482,
+      "artifact_id": 6987783186,
+      "filename": "aixiaoni_v20.safetensors",
+      "normalized_name": "aixiaoni_v20.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d423876c91bb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-14T05:27:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25843161548",
       "run_id": 25843161548,
