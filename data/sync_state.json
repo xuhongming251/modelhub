@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T06:00:24.884Z",
-  "lastRunId": 25844564648,
+  "updatedAt": "2026-05-14T06:09:51.764Z",
+  "lastRunId": 25844881769,
   "items": [
+    {
+      "id": "run_25844881769",
+      "run_id": 25844881769,
+      "artifact_id": 6988297595,
+      "filename": "ComfyUI_LayerStyle.zip",
+      "normalized_name": "comfyui_layerstyle.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8a8ee71ca25e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-14T06:09:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25844564648",
       "run_id": 25844564648,
@@ -8240,12 +8253,6 @@
       "normalized_name": "novarealityziv15.kf67.safetensors",
       "share_url": "https://pan.quark.cn/s/b587f3adf593",
       "completed_at": "2026-05-05T07:39:46Z"
-    },
-    {
-      "filename": "ComfyUI_LayerStyle.zip",
-      "normalized_name": "comfyui_layerstyle.zip",
-      "share_url": "https://pan.quark.cn/s/6b2f5d57e4e3",
-      "completed_at": "2026-05-05T07:14:52Z"
     },
     {
       "filename": "ComfyUI_Windows_portable_cu130.7z.002",
