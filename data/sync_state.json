@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T05:27:36.400Z",
-  "lastRunId": 25843483482,
+  "updatedAt": "2026-05-14T06:00:24.884Z",
+  "lastRunId": 25844564648,
   "items": [
+    {
+      "id": "run_25844564648",
+      "run_id": 25844564648,
+      "artifact_id": 6988179661,
+      "filename": "rgthree-comfy.zip",
+      "normalized_name": "rgthree-comfy.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cd69c4c24086",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-14T05:59:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25843483482",
       "run_id": 25843483482,
@@ -9337,12 +9350,6 @@
       "normalized_name": "e4ba8ce6aca1e58583e8b4a8e6.kqb7.safetensors",
       "share_url": "https://pan.quark.cn/s/3f3cf7881c5c",
       "completed_at": "2026-05-03T09:19:42Z"
-    },
-    {
-      "filename": "rgthree-comfy.zip",
-      "normalized_name": "rgthree-comfy.zip",
-      "share_url": "https://pan.quark.cn/s/92c8094047e1",
-      "completed_at": "2026-05-03T09:09:46Z"
     },
     {
       "filename": "cloudflared-windows-amd64.exe",
