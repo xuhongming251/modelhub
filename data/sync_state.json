@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T13:44:20.630Z",
-  "lastRunId": 25863319622,
+  "updatedAt": "2026-05-14T13:45:19.821Z",
+  "lastRunId": 25863497392,
   "items": [
+    {
+      "id": "run_25863497392",
+      "run_id": 25863497392,
+      "artifact_id": 6995743431,
+      "filename": "klein_snofs_v1_1.safetensors",
+      "normalized_name": "klein_snofs_v1_1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5defe9007102",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-14T13:44:50Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25863319622",
       "run_id": 25863319622,
@@ -30722,12 +30735,6 @@
       "normalized_name": "dragon_and_lizard_babes 907610.safetensors",
       "share_url": "https://pan.quark.cn/s/339bf963492e",
       "completed_at": "2026-03-11T10:29:41Z"
-    },
-    {
-      "filename": "klein_snofs_v1_1.safetensors",
-      "normalized_name": "klein_snofs_v1_1.safetensors",
-      "share_url": "https://pan.quark.cn/s/e8cf911fa350",
-      "completed_at": "2026-03-11T08:20:24Z"
     },
     {
       "filename": "bibidongSDXLILV2.7Qks.safetensors",
