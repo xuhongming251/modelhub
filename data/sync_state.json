@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T02:07:09.685Z",
-  "lastRunId": 25837398386,
+  "updatedAt": "2026-05-14T04:39:49.854Z",
+  "lastRunId": 25842003073,
   "items": [
+    {
+      "id": "run_25842003073",
+      "run_id": 25842003073,
+      "artifact_id": 6987263501,
+      "filename": "Comfyui-Memory_Cleanup.zip",
+      "normalized_name": "comfyui-memory_cleanup.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bd8b0553008a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-14T04:39:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25837398386",
       "run_id": 25837398386,
@@ -24688,12 +24701,6 @@
       "normalized_name": "kook_imagecompression.zip",
       "share_url": "https://pan.quark.cn/s/a9b243ec4883",
       "completed_at": "2026-03-23T15:23:30Z"
-    },
-    {
-      "filename": "Comfyui-Memory_Cleanup.zip",
-      "normalized_name": "comfyui-memory_cleanup.zip",
-      "share_url": "https://pan.quark.cn/s/093879258f60",
-      "completed_at": "2026-03-23T15:18:25Z"
     },
     {
       "filename": "ComfyUI_StringOps.zip",
