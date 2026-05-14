@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T05:10:42.369Z",
-  "lastRunId": 25842003073,
+  "updatedAt": "2026-05-14T05:17:30.708Z",
+  "lastRunId": 25843161548,
   "items": [
+    {
+      "id": "run_25843161548",
+      "run_id": 25843161548,
+      "artifact_id": 6987661338,
+      "filename": "ComfyUI-Easy-Use.zip",
+      "normalized_name": "comfyui-easy-use.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/75fb83870826",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-14T05:16:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25842003073",
       "run_id": 25842003073,
@@ -16085,12 +16098,6 @@
       "normalized_name": "comfyui-allor.zip",
       "share_url": "https://pan.quark.cn/s/285f9f8ecf1f",
       "completed_at": "2026-04-20T06:26:43Z"
-    },
-    {
-      "filename": "ComfyUI-Easy-Use.zip",
-      "normalized_name": "comfyui-easy-use.zip",
-      "share_url": "https://pan.quark.cn/s/ed1ae0653864",
-      "completed_at": "2026-04-20T06:21:04Z"
     },
     {
       "filename": "ip-adapter-faceid-portrait_sdxl_unnorm.bin",
