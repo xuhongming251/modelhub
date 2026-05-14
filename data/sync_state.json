@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T11:31:35.451Z",
-  "lastRunId": 25857652245,
+  "updatedAt": "2026-05-14T11:39:14.569Z",
+  "lastRunId": 25857849652,
   "items": [
+    {
+      "id": "run_25857849652",
+      "run_id": 25857849652,
+      "artifact_id": 6993454999,
+      "filename": "wan2.1-i2v-14b-720p-Q4_K_M.gguf",
+      "normalized_name": "wan2.1-i2v-14b-720p-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1fee6666f7a2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-14T11:38:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25857652245",
       "run_id": 25857652245,
