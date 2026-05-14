@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T10:01:49.209Z",
-  "lastRunId": 25853983794,
+  "updatedAt": "2026-05-14T10:16:55.049Z",
+  "lastRunId": 25854361469,
   "items": [
+    {
+      "id": "run_25854361469",
+      "run_id": 25854361469,
+      "artifact_id": 6992120518,
+      "filename": "qwen_3_8b.safetensors",
+      "normalized_name": "qwen_3_8b.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f81e5e5cc2e4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-14T10:16:26Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25853983794",
       "run_id": 25853983794,
@@ -27785,12 +27798,6 @@
       "normalized_name": "auranimaar025.jujv.safetensors",
       "share_url": "https://pan.quark.cn/s/eac83572e599",
       "completed_at": "2026-03-17T07:55:36Z"
-    },
-    {
-      "filename": "qwen_3_8b.safetensors",
-      "normalized_name": "qwen_3_8b.safetensors",
-      "share_url": "https://pan.quark.cn/s/665a1fd32831",
-      "completed_at": "2026-03-17T06:50:37Z"
     },
     {
       "filename": "舌头-L.safetensors",
