@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T09:58:15.972Z",
-  "lastRunId": 25853789904,
+  "updatedAt": "2026-05-14T10:01:49.209Z",
+  "lastRunId": 25853983794,
   "items": [
+    {
+      "id": "run_25853983794",
+      "run_id": 25853983794,
+      "artifact_id": 6991866151,
+      "filename": "ComfyUI_Comfyroll_CustomNodes.zip",
+      "normalized_name": "comfyui_comfyroll_customnodes.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e4e85573cdf4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-14T10:01:12Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25853789904",
       "run_id": 25853789904,
@@ -18190,12 +18203,6 @@
       "normalized_name": "ltx-2.3-22b-distilled-1.1-q8_0.gguf",
       "share_url": "https://pan.quark.cn/s/fe1cc9bb204c",
       "completed_at": "2026-04-15T07:47:05Z"
-    },
-    {
-      "filename": "ComfyUI_Comfyroll_CustomNodes.zip",
-      "normalized_name": "comfyui_comfyroll_customnodes.zip",
-      "share_url": "https://pan.quark.cn/s/aa73ad5ea09f",
-      "completed_at": "2026-04-15T07:43:36Z"
     },
     {
       "filename": "ltx-2.3-22b-distilled-lora-384-1.1.safetensors",
