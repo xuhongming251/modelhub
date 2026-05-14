@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T11:45:37.289Z",
-  "lastRunId": 25858206883,
+  "updatedAt": "2026-05-14T11:46:22.944Z",
+  "lastRunId": 25858235799,
   "items": [
+    {
+      "id": "run_25858235799",
+      "run_id": 25858235799,
+      "artifact_id": 6993570085,
+      "filename": "wan_2.1_vae.safetensors",
+      "normalized_name": "wan_2.1_vae.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/07edcf0a5471",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-14T11:45:55Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25858170958",
+      "run_id": 25858170958,
+      "artifact_id": 6993565639,
+      "filename": "wan2.2_i2v_low_noise_14B_fp8_scaled.safetensors",
+      "normalized_name": "wan2.2_i2v_low_noise_14b_fp8_scaled.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/60e0343091f6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-14T11:45:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25858206883",
       "run_id": 25858206883,
@@ -40,19 +66,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-14T11:44:44Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25858124037",
-      "run_id": 25858124037,
-      "artifact_id": 6993544340,
-      "filename": "wan2.2_i2v_low_noise_14B_fp8_scaled.safetensors",
-      "normalized_name": "wan2.2_i2v_low_noise_14b_fp8_scaled.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/c9fe759a0283",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-14T11:44:14Z",
       "workflow": "upload.yml"
     },
     {
@@ -5643,19 +5656,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-07T18:04:24Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25512787777",
-      "run_id": 25512787777,
-      "artifact_id": 6862517441,
-      "filename": "wan_2.1_vae.safetensors",
-      "normalized_name": "wan_2.1_vae.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/07a4393f5f24",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-07T17:52:58Z",
       "workflow": "upload.yml"
     },
     {
