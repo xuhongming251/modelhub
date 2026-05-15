@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T11:44:49.511Z",
-  "lastRunId": 25915994326,
+  "updatedAt": "2026-05-15T11:49:34.681Z",
+  "lastRunId": 25916159594,
   "items": [
+    {
+      "id": "run_25916159594",
+      "run_id": 25916159594,
+      "artifact_id": 7016384978,
+      "filename": "zImageXkjTurboBf16.WroA.safetensors",
+      "normalized_name": "zimagexkjturbobf16.wroa.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e67f5fccc2c9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-15T11:48:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25915977657",
       "run_id": 25915977657,
@@ -10743,12 +10756,6 @@
       "normalized_name": "cloudflared-windows-amd64.exe",
       "share_url": "https://pan.quark.cn/s/0151f1840030",
       "completed_at": "2026-05-03T08:58:54Z"
-    },
-    {
-      "filename": "zImageXkjTurboBf16.WroA.safetensors",
-      "normalized_name": "zimagexkjturbobf16.wroa.safetensors",
-      "share_url": "https://pan.quark.cn/s/0c446484aa06",
-      "completed_at": "2026-05-03T08:58:29Z"
     },
     {
       "filename": "smoothmixI2VLowV2.yqcO.safetensors",
