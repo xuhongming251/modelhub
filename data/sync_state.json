@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T01:54:19.009Z",
-  "lastRunId": 25895924390,
+  "updatedAt": "2026-05-15T01:57:34.727Z",
+  "lastRunId": 25896038080,
   "items": [
+    {
+      "id": "run_25896038080",
+      "run_id": 25896038080,
+      "artifact_id": 7008647961,
+      "filename": "qwen_3_4b.safetensors",
+      "normalized_name": "qwen_3_4b.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e2474e52f10e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-15T01:57:03Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25895924390",
       "run_id": 25895924390,
@@ -9134,12 +9147,6 @@
       "normalized_name": "luisap-z-image-agressive-uncesored-text-encoder-clip-safetensors-qwen34b",
       "share_url": "https://pan.quark.cn/s/fdad55ccb494",
       "completed_at": "2026-05-05T07:55:18Z"
-    },
-    {
-      "filename": "qwen_3_4b.safetensors",
-      "normalized_name": "qwen_3_4b.safetensors",
-      "share_url": "https://pan.quark.cn/s/d0cae7935325",
-      "completed_at": "2026-05-05T07:54:27Z"
     },
     {
       "filename": "97d75124-837c-4f83-834d-525694b2ed02",
