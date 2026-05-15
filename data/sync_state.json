@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T14:22:12.550Z",
-  "lastRunId": 25922932680,
+  "updatedAt": "2026-05-15T14:23:06.071Z",
+  "lastRunId": 25922973149,
   "items": [
+    {
+      "id": "run_25922973149",
+      "run_id": 25922973149,
+      "artifact_id": 7019189266,
+      "filename": "Wan22_ThroatV3_Low.safetensors",
+      "normalized_name": "wan22_throatv3_low.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/99f5f910321a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-15T14:22:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25922932680",
       "run_id": 25922932680,
