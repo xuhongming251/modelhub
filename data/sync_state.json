@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T13:35:50.594Z",
-  "lastRunId": 25920670670,
+  "updatedAt": "2026-05-15T13:37:57.050Z",
+  "lastRunId": 25920806340,
   "items": [
+    {
+      "id": "run_25920768854",
+      "run_id": 25920768854,
+      "artifact_id": 7018291779,
+      "filename": "盛装.safetensors",
+      "normalized_name": "盛装.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cbca8fa0a8b6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-15T13:37:28Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25920806340",
+      "run_id": 25920806340,
+      "artifact_id": 7018288332,
+      "filename": "拍立得 BAES.safetensors",
+      "normalized_name": "拍立得 baes.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1aa9434f99ed",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-15T13:37:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25920670670",
       "run_id": 25920670670,
