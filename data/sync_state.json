@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T14:01:30.753Z",
+  "updatedAt": "2026-05-15T14:02:36.075Z",
   "lastRunId": 25921933611,
   "items": [
+    {
+      "id": "run_25921887434",
+      "run_id": 25921887434,
+      "artifact_id": 7018780370,
+      "filename": "klein_snofs_v1_2.safetensors",
+      "normalized_name": "klein_snofs_v1_2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/57061c38dfde",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-15T14:01:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25921933611",
       "run_id": 25921933611,
@@ -2341,19 +2354,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-13T14:02:39Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25803709686",
-      "run_id": 25803709686,
-      "artifact_id": 6972073359,
-      "filename": "klein_snofs_v1_2.safetensors",
-      "normalized_name": "klein_snofs_v1_2.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/8e92756312b6",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-13T13:57:35Z",
       "workflow": "upload.yml"
     },
     {
