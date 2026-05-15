@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T06:28:11.588Z",
-  "lastRunId": 25903868438,
+  "updatedAt": "2026-05-15T06:31:50.049Z",
+  "lastRunId": 25903995331,
   "items": [
+    {
+      "id": "run_25903995331",
+      "run_id": 25903995331,
+      "artifact_id": 7011441626,
+      "filename": "babydoll.GYmq.safetensors",
+      "normalized_name": "babydoll.gymq.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a5b522d4e722",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-15T06:31:19Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25903868438",
       "run_id": 25903868438,
@@ -9127,19 +9140,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-05T12:14:49Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25375152179",
-      "run_id": 25375152179,
-      "artifact_id": 6805756018,
-      "filename": "babydoll.GYmq.safetensors",
-      "normalized_name": "babydoll.gymq.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/80522664ab63",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-05T12:02:32Z",
       "workflow": "upload.yml"
     },
     {
