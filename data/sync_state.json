@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T06:33:40.700Z",
-  "lastRunId": 25904065048,
+  "updatedAt": "2026-05-15T06:34:43.374Z",
+  "lastRunId": 25904084561,
   "items": [
+    {
+      "id": "run_25904084561",
+      "run_id": 25904084561,
+      "artifact_id": 7011479729,
+      "filename": "chosen20impastoMix.Xg9D.safetensors",
+      "normalized_name": "chosen20impastomix.xg9d.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2b611dfd49b1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-15T06:34:21Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25904075962",
+      "run_id": 25904075962,
+      "artifact_id": 7011477982,
+      "filename": "flanimeV30fFp16.c20c.safetensors",
+      "normalized_name": "flanimev30ffp16.c20c.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ef63c32977d2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-15T06:34:12Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25904052975",
+      "run_id": 25904052975,
+      "artifact_id": 7011477450,
+      "filename": "doggyMissionSulphur2.y0CK.safetensors",
+      "normalized_name": "doggymissionsulphur2.y0ck.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2d6ef28b27f9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-15T06:34:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25904065048",
       "run_id": 25904065048,
@@ -11192,12 +11231,6 @@
       "normalized_name": "qwen306bbase.zyvm.safetensors",
       "share_url": "https://pan.quark.cn/s/1e5d7c4034ae",
       "completed_at": "2026-05-02T11:03:45Z"
-    },
-    {
-      "filename": "flanimeV30fFp16.c20c.safetensors",
-      "normalized_name": "flanimev30ffp16.c20c.safetensors",
-      "share_url": "https://pan.quark.cn/s/939bada97920",
-      "completed_at": "2026-05-02T11:00:26Z"
     },
     {
       "filename": "nikkeanimav0423.eAfO.safetensors",
