@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T13:04:32.988Z",
-  "lastRunId": 25919292530,
+  "updatedAt": "2026-05-15T13:09:13.400Z",
+  "lastRunId": 25919502570,
   "items": [
+    {
+      "id": "run_25919502570",
+      "run_id": 25919502570,
+      "artifact_id": 7017760499,
+      "filename": "Wan22_CumV2_Low.safetensors",
+      "normalized_name": "wan22_cumv2_low.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c846d865a013",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-15T13:08:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25919292530",
       "run_id": 25919292530,
