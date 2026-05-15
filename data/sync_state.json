@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T01:24:43.453Z",
-  "lastRunId": 25893407643,
+  "updatedAt": "2026-05-15T01:54:19.009Z",
+  "lastRunId": 25895924390,
   "items": [
+    {
+      "id": "run_25895924390",
+      "run_id": 25895924390,
+      "artifact_id": 7008611698,
+      "filename": "z_image_turbo_bf16.safetensors",
+      "normalized_name": "z_image_turbo_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/503e3ccf1312",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-15T01:53:48Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25893407643",
       "run_id": 25893407643,
@@ -11467,12 +11480,6 @@
       "normalized_name": "illustrious_noobai_epsilon_pred_1_best_quality_v1.safetensors",
       "share_url": "https://pan.quark.cn/s/02db87aed0c7",
       "completed_at": "2026-05-01T14:41:07Z"
-    },
-    {
-      "filename": "z_image_turbo_bf16.safetensors",
-      "normalized_name": "z_image_turbo_bf16.safetensors",
-      "share_url": "https://pan.quark.cn/s/df743fc5a4ce",
-      "completed_at": "2026-05-01T14:26:01Z"
     },
     {
       "filename": "fingering_i2v_e248.safetensors",
