@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T13:58:49.623Z",
-  "lastRunId": 25921324443,
+  "updatedAt": "2026-05-15T14:01:30.753Z",
+  "lastRunId": 25921933611,
   "items": [
+    {
+      "id": "run_25921933611",
+      "run_id": 25921933611,
+      "artifact_id": 7018759437,
+      "filename": "qwen-PENISLORA.safetensors",
+      "normalized_name": "qwen-penislora.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/01b5920f26ea",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-15T14:00:51Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25921181930",
       "run_id": 25921181930,
