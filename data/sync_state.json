@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-16T12:52:55.181Z",
-  "lastRunId": 25962399643,
+  "updatedAt": "2026-05-16T13:07:51.796Z",
+  "lastRunId": 25962497003,
   "items": [
+    {
+      "id": "run_25962497003",
+      "run_id": 25962497003,
+      "artifact_id": 7033613375,
+      "filename": "rdbtAnimaV032B12step.GSsn.safetensors",
+      "normalized_name": "rdbtanimav032b12step.gssn.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f79b1d724efd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-16T13:07:19Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25962399643",
       "run_id": 25962399643,
@@ -34634,7 +34647,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
