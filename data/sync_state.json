@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-16T18:31:20.976Z",
-  "lastRunId": 25969486981,
+  "updatedAt": "2026-05-16T18:46:54.927Z",
+  "lastRunId": 25969769248,
   "items": [
+    {
+      "id": "run_25969769248",
+      "run_id": 25969769248,
+      "artifact_id": 7035806911,
+      "filename": "Qwen-Rapid-AIO-NSFW-v23.safetensors",
+      "normalized_name": "qwen-rapid-aio-nsfw-v23.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fb7c75e42412",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-16T18:46:26Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25969486981",
       "run_id": 25969486981,
@@ -16832,12 +16845,6 @@
       "normalized_name": "mm_sd_v15_v2.ckpt.zip",
       "share_url": "https://pan.quark.cn/s/338c02e7b509",
       "completed_at": "2026-04-25T06:56:29Z"
-    },
-    {
-      "filename": "Qwen-Rapid-AIO-NSFW-v23.safetensors",
-      "normalized_name": "qwen-rapid-aio-nsfw-v23.safetensors",
-      "share_url": "https://pan.quark.cn/s/d183eba1c110",
-      "completed_at": "2026-04-25T05:47:52Z"
     },
     {
       "filename": "沐竹油腻画风.safetensors",
