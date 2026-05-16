@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-16T16:30:56.118Z",
-  "lastRunId": 25967056830,
+  "updatedAt": "2026-05-16T16:35:24.556Z",
+  "lastRunId": 25967159296,
   "items": [
+    {
+      "id": "run_25967159296",
+      "run_id": 25967159296,
+      "artifact_id": 7034968515,
+      "filename": "realism20by20stable20yogi.Pf6k.safetensors",
+      "normalized_name": "realism20by20stable20yogi.pf6k.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5a3a47e08d93",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-16T16:34:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25967056830",
       "run_id": 25967056830,
@@ -16806,12 +16819,6 @@
       "normalized_name": "mm_sd_v15_v2.ckpt.zip",
       "share_url": "https://pan.quark.cn/s/338c02e7b509",
       "completed_at": "2026-04-25T06:56:29Z"
-    },
-    {
-      "filename": "realism20by20stable20yogi.Pf6k.safetensors",
-      "normalized_name": "realism20by20stable20yogi.pf6k.safetensors",
-      "share_url": "https://pan.quark.cn/s/4abfc48c07e6",
-      "completed_at": "2026-04-25T05:53:00Z"
     },
     {
       "filename": "Qwen-Rapid-AIO-NSFW-v23.safetensors",
