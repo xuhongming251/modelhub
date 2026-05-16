@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-16T09:01:23.140Z",
-  "lastRunId": 25957917073,
+  "updatedAt": "2026-05-16T09:11:23.639Z",
+  "lastRunId": 25958126910,
   "items": [
+    {
+      "id": "run_25958126910",
+      "run_id": 25958126910,
+      "artifact_id": 7032203094,
+      "filename": "CloudFileRelay",
+      "normalized_name": "cloudfilerelay",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5e33f6255477",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-16T09:10:43Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25957917073",
       "run_id": 25957917073,
@@ -11022,12 +11035,6 @@
       "normalized_name": "comfyui_layerstyle_advance.zip",
       "share_url": "https://pan.quark.cn/s/e4d96379df5a",
       "completed_at": "2026-05-04T00:12:49Z"
-    },
-    {
-      "filename": "CloudFileRelay",
-      "normalized_name": "cloudfilerelay",
-      "share_url": "https://pan.quark.cn/s/b1aab35df6b8",
-      "completed_at": "2026-05-04T00:08:29Z"
     },
     {
       "filename": "moodyDesireV2ProFp8.a1zL.safetensors",
@@ -34510,7 +34517,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
