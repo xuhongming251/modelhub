@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-16T15:56:22.428Z",
-  "lastRunId": 25966289692,
+  "updatedAt": "2026-05-16T16:00:02.299Z",
+  "lastRunId": 25966387919,
   "items": [
+    {
+      "id": "run_25966361210",
+      "run_id": 25966361210,
+      "artifact_id": 7034729435,
+      "filename": "Kaguya-Houraisan_IllustriousV2.safetensors",
+      "normalized_name": "kaguya-houraisan_illustriousv2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f84c053589ca",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-16T15:59:38Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_25966387919",
+      "run_id": 25966387919,
+      "artifact_id": 7034728747,
+      "filename": "animaTurboLoraV01.bJdx.safetensors",
+      "normalized_name": "animaturbolorav01.bjdx.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/002904fb28c1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-16T15:59:31Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25966289692",
       "run_id": 25966289692,
