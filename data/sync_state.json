@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-16T12:09:27.836Z",
-  "lastRunId": 25961546612,
+  "updatedAt": "2026-05-16T12:24:07.266Z",
+  "lastRunId": 25961794968,
   "items": [
+    {
+      "id": "run_25961794968",
+      "run_id": 25961794968,
+      "artifact_id": 7033336093,
+      "filename": "DMD2-enhanced-v4.safetensors",
+      "normalized_name": "dmd2-enhanced-v4.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4d6e85abf83f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-16T12:23:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25961546612",
       "run_id": 25961546612,
