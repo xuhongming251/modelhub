@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-16T11:17:27.010Z",
-  "lastRunId": 25960529877,
+  "updatedAt": "2026-05-16T11:35:40.439Z",
+  "lastRunId": 25960890256,
   "items": [
+    {
+      "id": "run_25960890256",
+      "run_id": 25960890256,
+      "artifact_id": 7033055985,
+      "filename": "dmd2_sdxl_extracted_12step_lora_fp16.safetensors",
+      "normalized_name": "dmd2_sdxl_extracted_12step_lora_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9f059ac9cb7e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-16T11:35:12Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25960529877",
       "run_id": 25960529877,
