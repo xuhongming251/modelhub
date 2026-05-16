@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-16T20:02:24.698Z",
-  "lastRunId": 25970144003,
+  "updatedAt": "2026-05-16T20:44:08.493Z",
+  "lastRunId": 25972425309,
   "items": [
+    {
+      "id": "run_25972425309",
+      "run_id": 25972425309,
+      "artifact_id": 7036564231,
+      "filename": "noobaiXlVpredV10.0zE1.safetensors",
+      "normalized_name": "noobaixlvpredv10.0ze1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e1584cde9548",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-16T20:43:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25970144003",
       "run_id": 25970144003,
@@ -17793,12 +17806,6 @@
       "normalized_name": "slat_flow_imgshape2tex_dit_1_3b_1024_bf16_q4_k_m.gguf",
       "share_url": "https://pan.quark.cn/s/3bf0964e8940",
       "completed_at": "2026-04-22T11:21:37Z"
-    },
-    {
-      "filename": "noobaiXlVpredV10.0zE1.safetensors",
-      "normalized_name": "noobaixlvpredv10.0ze1.safetensors",
-      "share_url": "https://pan.quark.cn/s/d5d0e2493d11",
-      "completed_at": "2026-04-22T10:52:00Z"
     },
     {
       "filename": "gemma4-31b-abliterated-Q8_0.gguf",
