@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-16T11:08:10.863Z",
-  "lastRunId": 25958126910,
+  "updatedAt": "2026-05-16T11:15:21.765Z",
+  "lastRunId": 25960495194,
   "items": [
+    {
+      "id": "run_25960495194",
+      "run_id": 25960495194,
+      "artifact_id": 7032937867,
+      "filename": "slat_flow_img2shape_dit_1_3B_512_bf16.safetensors",
+      "normalized_name": "slat_flow_img2shape_dit_1_3b_512_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0beb2b98d38e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-16T11:14:51Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25958126910",
       "run_id": 25958126910,
