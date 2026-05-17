@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-17T20:02:22.904Z",
-  "lastRunId": 26001213629,
+  "updatedAt": "2026-05-17T20:36:59.250Z",
+  "lastRunId": 26001979895,
   "items": [
+    {
+      "id": "run_26001979895",
+      "run_id": 26001979895,
+      "artifact_id": 7045834633,
+      "filename": "seedvr2_ema_7b_sharp_fp16.safetensors",
+      "normalized_name": "seedvr2_ema_7b_sharp_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a282a98ba7c3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-17T20:36:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26001213629",
       "run_id": 26001213629,
@@ -25909,12 +25922,6 @@
       "normalized_name": "jankuv4nsfwtrainednoobaieps_v40.safetensors",
       "share_url": "https://pan.quark.cn/s/e087fc4d244a",
       "completed_at": "2026-03-30T00:41:38Z"
-    },
-    {
-      "filename": "seedvr2_ema_7b_sharp_fp16.safetensors",
-      "normalized_name": "seedvr2_ema_7b_sharp_fp16.safetensors",
-      "share_url": "https://pan.quark.cn/s/017ea4ad15a7",
-      "completed_at": "2026-03-29T21:30:24Z"
     },
     {
       "filename": "Qwen3.5-27B-Q4_0.gguf",
