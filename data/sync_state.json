@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-17T14:11:53.862Z",
-  "lastRunId": 25993135230,
+  "updatedAt": "2026-05-17T14:35:48.134Z",
+  "lastRunId": 25993655342,
   "items": [
+    {
+      "id": "run_25993655342",
+      "run_id": 25993655342,
+      "artifact_id": 7043284837,
+      "filename": "FLUX.2-dev-Fun-Controlnet-Union-2602.safetensors",
+      "normalized_name": "flux.2-dev-fun-controlnet-union-2602.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b6d526173a20",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-17T14:35:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25993135230",
       "run_id": 25993135230,
