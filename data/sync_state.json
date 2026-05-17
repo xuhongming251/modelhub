@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-17T16:01:14.755Z",
-  "lastRunId": 25995712593,
+  "updatedAt": "2026-05-17T16:03:00.418Z",
+  "lastRunId": 25995758705,
   "items": [
+    {
+      "id": "run_25995758705",
+      "run_id": 25995758705,
+      "artifact_id": 7043914363,
+      "filename": "master.zip",
+      "normalized_name": "master.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8d2434d098fc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-17T16:02:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25995712593",
       "run_id": 25995712593,
@@ -12486,12 +12499,6 @@
       "normalized_name": "nsfw-22-h-e8.safetensors",
       "share_url": "https://pan.quark.cn/s/01139c392b11",
       "completed_at": "2026-05-04T01:02:28Z"
-    },
-    {
-      "filename": "master.zip",
-      "normalized_name": "master.zip",
-      "share_url": "https://pan.quark.cn/s/171ee1348966",
-      "completed_at": "2026-05-04T00:23:22Z"
     },
     {
       "filename": "ComfyUI-WanVideoWrapper.zip",
