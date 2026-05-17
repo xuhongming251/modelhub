@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-17T08:29:43.405Z",
-  "lastRunId": 25985876084,
+  "updatedAt": "2026-05-17T08:40:48.692Z",
+  "lastRunId": 25986106134,
   "items": [
+    {
+      "id": "run_25986106134",
+      "run_id": 25986106134,
+      "artifact_id": 7040890995,
+      "filename": "Z-Image-Turbo-fp16.git",
+      "normalized_name": "z-image-turbo-fp16.git",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/661bc7718a7f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-17T08:40:20Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25985876084",
       "run_id": 25985876084,
