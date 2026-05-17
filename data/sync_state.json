@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-17T20:36:59.250Z",
-  "lastRunId": 26001979895,
+  "updatedAt": "2026-05-17T20:44:11.407Z",
+  "lastRunId": 26002151052,
   "items": [
+    {
+      "id": "run_26002151052",
+      "run_id": 26002151052,
+      "artifact_id": 7045884870,
+      "filename": "seedvr2_ema_7b_sharp_fp8_e4m3fn_mixed_block35_fp16.safetensors",
+      "normalized_name": "seedvr2_ema_7b_sharp_fp8_e4m3fn_mixed_block35_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/09857386a750",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-17T20:43:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26001979895",
       "run_id": 26001979895,
@@ -28316,12 +28329,6 @@
       "normalized_name": "seedvr2_ema_7b_fp8_e4m3fn_mixed_block35_fp16.safetensors",
       "share_url": "https://pan.quark.cn/s/755aaaaeb096",
       "completed_at": "2026-03-23T16:22:22Z"
-    },
-    {
-      "filename": "seedvr2_ema_7b_sharp_fp8_e4m3fn_mixed_block35_fp16.safetensors",
-      "normalized_name": "seedvr2_ema_7b_sharp_fp8_e4m3fn_mixed_block35_fp16.safetensors",
-      "share_url": "https://pan.quark.cn/s/6d6346a8a026",
-      "completed_at": "2026-03-23T16:16:32Z"
     },
     {
       "filename": "seedvr2_ema_7b_fp16.safetensors",
