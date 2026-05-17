@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-17T07:56:29.625Z",
-  "lastRunId": 25984827996,
+  "updatedAt": "2026-05-17T08:29:43.405Z",
+  "lastRunId": 25985876084,
   "items": [
+    {
+      "id": "run_25985876084",
+      "run_id": 25985876084,
+      "artifact_id": 7040818702,
+      "filename": "ComfyUI-MingNodes.zip",
+      "normalized_name": "comfyui-mingnodes.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/680636db7fca",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-17T08:29:16Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25984827996",
       "run_id": 25984827996,
@@ -31420,12 +31433,6 @@
       "normalized_name": "yuu-nozaki-ova-illustriousxl-lora-nochekaiser.safetensors",
       "share_url": "https://pan.quark.cn/s/67fed8c95fda",
       "completed_at": "2026-03-15T12:29:46Z"
-    },
-    {
-      "filename": "ComfyUI-MingNodes.zip",
-      "normalized_name": "comfyui-mingnodes.zip",
-      "share_url": "https://pan.quark.cn/s/d7f1821e037f",
-      "completed_at": "2026-03-15T12:13:21Z"
     },
     {
       "filename": "HivisionIDPhotos-ComfyUI.zip",
