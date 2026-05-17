@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-17T23:02:42.258Z",
-  "lastRunId": 26003413293,
+  "updatedAt": "2026-05-17T23:09:49.952Z",
+  "lastRunId": 26005429359,
   "items": [
+    {
+      "id": "run_26005429359",
+      "run_id": 26005429359,
+      "artifact_id": 7046890610,
+      "filename": "releases",
+      "normalized_name": "releases",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/72fd0fcdb326",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-17T23:09:20Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26003413293",
       "run_id": 26003413293,
@@ -18090,12 +18103,6 @@
       "normalized_name": "clandestine-xl-1.0.safetensors",
       "share_url": "https://pan.quark.cn/s/d1033c0811fa",
       "completed_at": "2026-04-25T13:37:44Z"
-    },
-    {
-      "filename": "releases",
-      "normalized_name": "releases",
-      "share_url": "https://pan.quark.cn/s/e012c86d0852",
-      "completed_at": "2026-04-25T13:25:40Z"
     },
     {
       "filename": "beyond20REALITY20SUPER20Z20IMAGE203.jIbL.safetensors",
