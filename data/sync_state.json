@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-17T20:56:17.281Z",
-  "lastRunId": 26002379134,
+  "updatedAt": "2026-05-17T21:02:38.408Z",
+  "lastRunId": 26002549034,
   "items": [
+    {
+      "id": "run_26002549034",
+      "run_id": 26002549034,
+      "artifact_id": 7046014641,
+      "filename": "seedvr2_ema_7b_fp8_e4m3fn_mixed_block35_fp16.safetensors",
+      "normalized_name": "seedvr2_ema_7b_fp8_e4m3fn_mixed_block35_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1f6708abb0b2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-17T21:02:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26002379134",
       "run_id": 26002379134,
@@ -28349,12 +28362,6 @@
       "normalized_name": "qos20tattoo.y78q.safetensors",
       "share_url": "https://pan.quark.cn/s/c5d3381881a2",
       "completed_at": "2026-03-23T16:33:54Z"
-    },
-    {
-      "filename": "seedvr2_ema_7b_fp8_e4m3fn_mixed_block35_fp16.safetensors",
-      "normalized_name": "seedvr2_ema_7b_fp8_e4m3fn_mixed_block35_fp16.safetensors",
-      "share_url": "https://pan.quark.cn/s/755aaaaeb096",
-      "completed_at": "2026-03-23T16:22:22Z"
     },
     {
       "filename": "Meta-Llama-3.1-8B-bnb-4bit.zip",
