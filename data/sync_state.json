@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-17T12:26:25.763Z",
-  "lastRunId": 25990789081,
+  "updatedAt": "2026-05-17T12:31:51.220Z",
+  "lastRunId": 25990908659,
   "items": [
+    {
+      "id": "run_25990908659",
+      "run_id": 25990908659,
+      "artifact_id": 7042415798,
+      "filename": "WAN-2.2-I2V-Handjob-HIGH-v1.safetensors",
+      "normalized_name": "wan-2.2-i2v-handjob-high-v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0afbc90e5b16",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-17T12:31:20Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25990789081",
       "run_id": 25990789081,
@@ -2978,19 +2991,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-14T13:51:15Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25863692272",
-      "run_id": 25863692272,
-      "artifact_id": 6995826734,
-      "filename": "WAN-2.2-I2V-Handjob-HIGH-v1.safetensors",
-      "normalized_name": "wan-2.2-i2v-handjob-high-v1.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/71d76b436662",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-14T13:48:47Z",
       "workflow": "upload.yml"
     },
     {
