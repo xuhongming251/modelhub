@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-17T20:48:03.190Z",
-  "lastRunId": 26002272225,
+  "updatedAt": "2026-05-17T20:54:00.154Z",
+  "lastRunId": 26002379134,
   "items": [
+    {
+      "id": "run_26002379134",
+      "run_id": 26002379134,
+      "artifact_id": 7045955980,
+      "filename": "seedvr2_ema_7b_fp16.safetensors",
+      "normalized_name": "seedvr2_ema_7b_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4435a3d8a314",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-17T20:53:45Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26002272225",
       "run_id": 26002272225,
@@ -28342,12 +28355,6 @@
       "normalized_name": "seedvr2_ema_7b_fp8_e4m3fn_mixed_block35_fp16.safetensors",
       "share_url": "https://pan.quark.cn/s/755aaaaeb096",
       "completed_at": "2026-03-23T16:22:22Z"
-    },
-    {
-      "filename": "seedvr2_ema_7b_fp16.safetensors",
-      "normalized_name": "seedvr2_ema_7b_fp16.safetensors",
-      "share_url": "https://pan.quark.cn/s/18aa6182d1ea",
-      "completed_at": "2026-03-23T16:04:21Z"
     },
     {
       "filename": "Meta-Llama-3.1-8B-bnb-4bit.zip",
