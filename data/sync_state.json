@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-17T11:17:23.652Z",
-  "lastRunId": 25989313701,
+  "updatedAt": "2026-05-17T11:39:37.629Z",
+  "lastRunId": 25989731647,
   "items": [
+    {
+      "id": "run_25989731647",
+      "run_id": 25989731647,
+      "artifact_id": 7042062893,
+      "filename": "mongodb-windows-x86_64-8.0.23-signed.msi",
+      "normalized_name": "mongodb-windows-x86_64-8.0.23-signed.msi",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bfcd1e13c405",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-17T11:39:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25989313701",
       "run_id": 25989313701,
