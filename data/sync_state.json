@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-17T05:05:19.059Z",
-  "lastRunId": 25981942266,
+  "updatedAt": "2026-05-17T05:08:33.477Z",
+  "lastRunId": 25981978993,
   "items": [
+    {
+      "id": "run_25981978993",
+      "run_id": 25981978993,
+      "artifact_id": 7039495932,
+      "filename": "MeMaAni_V1_x1792.safetensors",
+      "normalized_name": "memaani_v1_x1792.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6eb258092bad",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-17T05:08:00Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25981942266",
       "run_id": 25981942266,
