@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-17T16:27:06.739Z",
-  "lastRunId": 25996316780,
+  "updatedAt": "2026-05-17T16:28:38.851Z",
+  "lastRunId": 25996349774,
   "items": [
+    {
+      "id": "run_25996349774",
+      "run_id": 25996349774,
+      "artifact_id": 7044090593,
+      "filename": "DR34ML4Y_I2V_14B_LOW_V2.safetensors",
+      "normalized_name": "dr34ml4y_i2v_14b_low_v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/63d32ff6d9dd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-17T16:28:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25996316780",
       "run_id": 25996316780,
@@ -25501,12 +25514,6 @@
       "normalized_name": "wan2.2_14b_i2v_ahegao_irl_low_noise.safetensors",
       "share_url": "https://pan.quark.cn/s/bac35faeeb2d",
       "completed_at": "2026-03-30T15:47:23Z"
-    },
-    {
-      "filename": "DR34ML4Y_I2V_14B_LOW_V2.safetensors",
-      "normalized_name": "dr34ml4y_i2v_14b_low_v2.safetensors",
-      "share_url": "https://pan.quark.cn/s/937b52579d74",
-      "completed_at": "2026-03-30T15:39:29Z"
     },
     {
       "filename": "ltxv2.3-触发词pussy job_v1.1_merged_ltx23.safetensors",
