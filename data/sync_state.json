@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-17T16:21:55.752Z",
-  "lastRunId": 25996194788,
+  "updatedAt": "2026-05-17T16:27:06.739Z",
+  "lastRunId": 25996316780,
   "items": [
+    {
+      "id": "run_25996316780",
+      "run_id": 25996316780,
+      "artifact_id": 7044079939,
+      "filename": "NVIDIA_app_v11.0.7.247.exe",
+      "normalized_name": "nvidia_app_v11.0.7.247.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c9390750271a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-17T16:26:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25996194788",
       "run_id": 25996194788,
