@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-17T04:39:05.820Z",
-  "lastRunId": 25981477795,
+  "updatedAt": "2026-05-17T04:42:14.077Z",
+  "lastRunId": 25981541921,
   "items": [
+    {
+      "id": "run_25981541921",
+      "run_id": 25981541921,
+      "artifact_id": 7039354994,
+      "filename": "transparent-watercolor_IL_MIX.safetensors",
+      "normalized_name": "transparent-watercolor_il_mix.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6c15073720b5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-17T04:41:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25981477795",
       "run_id": 25981477795,
@@ -35000,7 +35013,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
