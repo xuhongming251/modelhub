@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-17T15:53:51.496Z",
-  "lastRunId": 25995535439,
+  "updatedAt": "2026-05-17T15:57:17.088Z",
+  "lastRunId": 25995623482,
   "items": [
+    {
+      "id": "run_25995623482",
+      "run_id": 25995623482,
+      "artifact_id": 7043875810,
+      "filename": "wan_cowgirl_v1.3.safetensors",
+      "normalized_name": "wan_cowgirl_v1.3.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9ae6e1c4ec4b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-17T15:56:52Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_25995535439",
       "run_id": 25995535439,
