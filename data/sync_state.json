@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-17T21:02:38.408Z",
-  "lastRunId": 26002549034,
+  "updatedAt": "2026-05-17T21:06:46.793Z",
+  "lastRunId": 26002697557,
   "items": [
+    {
+      "id": "run_26002697557",
+      "run_id": 26002697557,
+      "artifact_id": 7046044129,
+      "filename": "seedvr2_ema_7b-Q4_K_M.gguf",
+      "normalized_name": "seedvr2_ema_7b-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7170909b9473",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-17T21:06:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26002549034",
       "run_id": 26002549034,
