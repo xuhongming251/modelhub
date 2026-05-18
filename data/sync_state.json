@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-18T14:38:29.250Z",
-  "lastRunId": 26040359041,
+  "updatedAt": "2026-05-18T14:44:55.876Z",
+  "lastRunId": 26040702076,
   "items": [
+    {
+      "id": "run_26040702076",
+      "run_id": 26040702076,
+      "artifact_id": 7060982536,
+      "filename": "ComfyUI-WanVideoWrapper.zip",
+      "normalized_name": "comfyui-wanvideowrapper.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3af2c4ccd962",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-18T14:44:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26040359041",
       "run_id": 26040359041,
@@ -13266,12 +13279,6 @@
       "normalized_name": "nsfw-22-h-e8.safetensors",
       "share_url": "https://pan.quark.cn/s/01139c392b11",
       "completed_at": "2026-05-04T01:02:28Z"
-    },
-    {
-      "filename": "ComfyUI-WanVideoWrapper.zip",
-      "normalized_name": "comfyui-wanvideowrapper.zip",
-      "share_url": "https://pan.quark.cn/s/fb2d3ef911be",
-      "completed_at": "2026-05-04T00:22:45Z"
     },
     {
       "filename": "ComfyUI_LayerStyle_Advance.zip",
