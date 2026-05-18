@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-18T08:08:54.546Z",
-  "lastRunId": 26021336419,
+  "updatedAt": "2026-05-18T08:11:44.255Z",
+  "lastRunId": 26021459478,
   "items": [
+    {
+      "id": "run_26021459478",
+      "run_id": 26021459478,
+      "artifact_id": 7052590992,
+      "filename": "tabby-1.0.234-setup-x64.exe",
+      "normalized_name": "tabby-1.0.234-setup-x64.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/96663bbcdbd9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-18T08:11:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26021336419",
       "run_id": 26021336419,
