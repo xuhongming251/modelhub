@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-18T21:29:59.587Z",
-  "lastRunId": 26061538633,
+  "updatedAt": "2026-05-18T21:39:19.962Z",
+  "lastRunId": 26061888736,
   "items": [
+    {
+      "id": "run_26061888736",
+      "run_id": 26061888736,
+      "artifact_id": 7069714299,
+      "filename": "LTX-2.3-22B-distilled-1.1-Q4_K_M.gguf",
+      "normalized_name": "ltx-2.3-22b-distilled-1.1-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/06451bc28e50",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-18T21:38:47Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26061538633",
       "run_id": 26061538633,
