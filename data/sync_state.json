@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-18T14:06:56.505Z",
-  "lastRunId": 26038404244,
+  "updatedAt": "2026-05-18T14:08:34.717Z",
+  "lastRunId": 26038691634,
   "items": [
+    {
+      "id": "run_26038691634",
+      "run_id": 26038691634,
+      "artifact_id": 7060074135,
+      "filename": "ComfyUI-KJNodes.zip",
+      "normalized_name": "comfyui-kjnodes.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e7883b173ff7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-18T14:07:59Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26038622054",
+      "run_id": 26038622054,
+      "artifact_id": 7060049525,
+      "filename": "animaBaseV10.lCmh.safetensors",
+      "normalized_name": "animabasev10.lcmh.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a4eeb79fdb7b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-18T14:06:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26038404244",
       "run_id": 26038404244,
@@ -2474,19 +2500,6 @@
       "workflow": "upload.yml"
     },
     {
-      "id": "run_25963812763",
-      "run_id": 25963812763,
-      "artifact_id": 7033944892,
-      "filename": "animaBaseV10.lCmh.safetensors",
-      "normalized_name": "animabasev10.lcmh.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/f04fbf3a4c37",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-16T14:01:19Z",
-      "workflow": "upload.yml"
-    },
-    {
       "id": "run_25963702226",
       "run_id": 25963702226,
       "artifact_id": 7033904395,
@@ -3537,19 +3550,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-15T11:40:37Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25915444202",
-      "run_id": 25915444202,
-      "artifact_id": 7016085109,
-      "filename": "ComfyUI-KJNodes.zip",
-      "normalized_name": "comfyui-kjnodes.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/3fa066789e76",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-15T11:30:00Z",
       "workflow": "upload.yml"
     },
     {
@@ -36591,7 +36591,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
