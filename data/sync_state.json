@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-18T13:41:27.991Z",
-  "lastRunId": 26037146121,
+  "updatedAt": "2026-05-18T13:44:27.240Z",
+  "lastRunId": 26037282876,
   "items": [
+    {
+      "id": "run_26037282876",
+      "run_id": 26037282876,
+      "artifact_id": 7059474397,
+      "filename": "sam_vit_b_01ec64.pth",
+      "normalized_name": "sam_vit_b_01ec64.pth",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d5dae80b80f8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-18T13:43:45Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26037146121",
       "run_id": 26037146121,
