@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T11:28:30.406Z",
-  "lastRunId": 26094134363,
+  "updatedAt": "2026-05-19T11:29:54.790Z",
+  "lastRunId": 26094170067,
   "items": [
+    {
+      "id": "run_26094170067",
+      "run_id": 26094170067,
+      "artifact_id": 7082164933,
+      "filename": "UMT5_XXL_NVFP4.safetensors",
+      "normalized_name": "umt5_xxl_nvfp4.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b8f6e1d274eb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-19T11:29:25Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26094134363",
       "run_id": 26094134363,
@@ -34957,12 +34970,6 @@
       "normalized_name": "wan2.2-animate-14b-nf4.safetensors",
       "share_url": "https://pan.quark.cn/s/3a7220926843",
       "completed_at": "2026-03-10T17:52:07Z"
-    },
-    {
-      "filename": "UMT5_XXL_NVFP4.safetensors",
-      "normalized_name": "umt5_xxl_nvfp4.safetensors",
-      "share_url": "https://pan.quark.cn/s/0c3aeacdc4d2",
-      "completed_at": "2026-03-10T17:43:21Z"
     },
     {
       "filename": "ltx-2.3-22b-distilled-lora-r128.safetensors",
