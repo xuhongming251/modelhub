@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T14:03:44.291Z",
-  "lastRunId": 26102311642,
+  "updatedAt": "2026-05-19T14:05:32.128Z",
+  "lastRunId": 26102409355,
   "items": [
+    {
+      "id": "run_26102409355",
+      "run_id": 26102409355,
+      "artifact_id": 7085720500,
+      "filename": "WAN2.2-BreastRubv2_HighNoise.safetensors",
+      "normalized_name": "wan2.2-breastrubv2_highnoise.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/33e04105c183",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-19T14:04:51Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26102311642",
       "run_id": 26102311642,
