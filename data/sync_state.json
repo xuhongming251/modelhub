@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T13:40:06.412Z",
+  "updatedAt": "2026-05-19T13:40:56.498Z",
   "lastRunId": 26100945125,
   "items": [
+    {
+      "id": "run_26100931886",
+      "run_id": 26100931886,
+      "artifact_id": 7085082551,
+      "filename": "umamusumeSatono.doBV.safetensors",
+      "normalized_name": "umamusumesatono.dobv.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/92f12f37af2e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-19T13:40:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26100945125",
       "run_id": 26100945125,
@@ -37243,7 +37256,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
