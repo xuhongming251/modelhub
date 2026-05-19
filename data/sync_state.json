@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T12:47:37.437Z",
-  "lastRunId": 26098087100,
+  "updatedAt": "2026-05-19T12:52:08.347Z",
+  "lastRunId": 26098318784,
   "items": [
+    {
+      "id": "run_26098318784",
+      "run_id": 26098318784,
+      "artifact_id": 7083900046,
+      "filename": "Blink_Squatting_Cowgirl_Position_I2V_LOW.safetensors",
+      "normalized_name": "blink_squatting_cowgirl_position_i2v_low.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/788387b748cb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-19T12:51:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26098018247",
       "run_id": 26098018247,
@@ -7840,19 +7853,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-11T17:00:00Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25684568697",
-      "run_id": 25684568697,
-      "artifact_id": 6924678994,
-      "filename": "Blink_Squatting_Cowgirl_Position_I2V_LOW.safetensors",
-      "normalized_name": "blink_squatting_cowgirl_position_i2v_low.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/28af27c15bfc",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-11T16:57:12Z",
       "workflow": "upload.yml"
     },
     {
