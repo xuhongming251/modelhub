@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T16:01:24.951Z",
-  "lastRunId": 26109125017,
+  "updatedAt": "2026-05-19T16:17:00.947Z",
+  "lastRunId": 26109397630,
   "items": [
+    {
+      "id": "run_26109397630",
+      "run_id": 26109397630,
+      "artifact_id": 7089084735,
+      "filename": "gemma-4-E4B-it-Coder.Q4_K_M.gguf",
+      "normalized_name": "gemma-4-e4b-it-coder.q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a57456b8fc35",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-19T16:16:22Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26109125017",
       "run_id": 26109125017,
