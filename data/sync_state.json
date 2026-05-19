@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T08:17:55.150Z",
-  "lastRunId": 26085010589,
+  "updatedAt": "2026-05-19T09:06:39.235Z",
+  "lastRunId": 26087420615,
   "items": [
+    {
+      "id": "run_26087420615",
+      "run_id": 26087420615,
+      "artifact_id": 7079253388,
+      "filename": "nova-anime-xl",
+      "normalized_name": "nova-anime-xl",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6b4d30818f5e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-19T09:05:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26085010589",
       "run_id": 26085010589,
@@ -36858,12 +36871,6 @@
       "normalized_name": "sketch20portrait.vjv4.safetensors",
       "share_url": "https://pan.quark.cn/s/313e3ba96e3c",
       "completed_at": "2026-03-07T09:05:24Z"
-    },
-    {
-      "filename": "nova-anime-xl",
-      "normalized_name": "nova-anime-xl",
-      "share_url": "https://pan.quark.cn/s/5362e51106cf",
-      "completed_at": "2026-03-07T08:29:31Z"
     },
     {
       "filename": "nova-anime3d-xl",
