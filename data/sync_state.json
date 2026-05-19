@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T12:40:41.323Z",
-  "lastRunId": 26097735373,
+  "updatedAt": "2026-05-19T12:41:29.601Z",
+  "lastRunId": 26097736108,
   "items": [
+    {
+      "id": "run_26097736108",
+      "run_id": 26097736108,
+      "artifact_id": 7083660195,
+      "filename": "prefectPonyV6Fp16.w74H.safetensors",
+      "normalized_name": "prefectponyv6fp16.w74h.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ca63b657e641",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-19T12:40:51Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26097735373",
       "run_id": 26097735373,
