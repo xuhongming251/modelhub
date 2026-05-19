@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T11:29:54.790Z",
-  "lastRunId": 26094170067,
+  "updatedAt": "2026-05-19T11:36:37.501Z",
+  "lastRunId": 26094565586,
   "items": [
+    {
+      "id": "run_26094565586",
+      "run_id": 26094565586,
+      "artifact_id": 7082300702,
+      "filename": "Wan2.1_VAE.pth",
+      "normalized_name": "wan2.1_vae.pth",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a763d4ce5f99",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-19T11:36:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26094170067",
       "run_id": 26094170067,
