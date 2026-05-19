@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T01:10:01.510Z",
-  "lastRunId": 26069926776,
+  "updatedAt": "2026-05-19T02:01:35.949Z",
+  "lastRunId": 26071601091,
   "items": [
+    {
+      "id": "run_26071601091",
+      "run_id": 26071601091,
+      "artifact_id": 7073317543,
+      "filename": "OllamaSetup.exe",
+      "normalized_name": "ollamasetup.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fdfac2354382",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-19T02:01:03Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26069926776",
       "run_id": 26069926776,
@@ -23979,12 +23992,6 @@
       "normalized_name": "momoko20face20xlv1.vtp6.safetensors",
       "share_url": "https://pan.quark.cn/s/b77929d295ea",
       "completed_at": "2026-04-07T14:10:13Z"
-    },
-    {
-      "filename": "OllamaSetup.exe",
-      "normalized_name": "ollamasetup.exe",
-      "share_url": "https://pan.quark.cn/s/82d7ae611092",
-      "completed_at": "2026-04-07T14:04:42Z"
     },
     {
       "filename": "mitsuboshilMMDStyle.qcUy.safetensors",
