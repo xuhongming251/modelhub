@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T11:45:39.528Z",
-  "lastRunId": 26095002580,
+  "updatedAt": "2026-05-19T11:47:14.945Z",
+  "lastRunId": 26095079013,
   "items": [
+    {
+      "id": "run_26095079013",
+      "run_id": 26095079013,
+      "artifact_id": 7082507106,
+      "filename": "umt5-xxl-enc-fp8_e4m3fn.safetensors",
+      "normalized_name": "umt5-xxl-enc-fp8_e4m3fn.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c4a926565b13",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-19T11:46:39Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26095002580",
       "run_id": 26095002580,
@@ -20536,12 +20549,6 @@
       "normalized_name": "gemma-4-e4b-claude-4.6-opus-reasoning-distilled.zip",
       "share_url": "https://pan.quark.cn/s/d547deedaeea",
       "completed_at": "2026-04-21T11:05:45Z"
-    },
-    {
-      "filename": "umt5-xxl-enc-fp8_e4m3fn.safetensors",
-      "normalized_name": "umt5-xxl-enc-fp8_e4m3fn.safetensors",
-      "share_url": "https://pan.quark.cn/s/314bd7fdd589",
-      "completed_at": "2026-04-21T11:03:35Z"
     },
     {
       "filename": "yanjiaV1000011.LFyW.safetensors",
