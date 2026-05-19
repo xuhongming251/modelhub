@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19T14:05:32.128Z",
-  "lastRunId": 26102409355,
+  "updatedAt": "2026-05-19T14:08:19.648Z",
+  "lastRunId": 26102564992,
   "items": [
+    {
+      "id": "run_26102564992",
+      "run_id": 26102564992,
+      "artifact_id": 7085794422,
+      "filename": "WAN2.2-BreastRubv2_LowNoise.safetensors",
+      "normalized_name": "wan2.2-breastrubv2_lownoise.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/31ed2eccb667",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-19T14:07:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26102409355",
       "run_id": 26102409355,
