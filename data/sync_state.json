@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T14:11:55.606Z",
-  "lastRunId": 26168104928,
+  "updatedAt": "2026-05-20T14:13:36.172Z",
+  "lastRunId": 26168142497,
   "items": [
+    {
+      "id": "run_26168142497",
+      "run_id": 26168142497,
+      "artifact_id": 7112400686,
+      "filename": "sulphur_prompt_enhancer_model-q8_0.gguf",
+      "normalized_name": "sulphur_prompt_enhancer_model-q8_0.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bd288a9cd9b1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-20T14:12:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26168104928",
       "run_id": 26168104928,
@@ -8516,19 +8529,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-12T02:32:07Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25708547790",
-      "run_id": 25708547790,
-      "artifact_id": 6934034958,
-      "filename": "sulphur_prompt_enhancer_model-q8_0.gguf",
-      "normalized_name": "sulphur_prompt_enhancer_model-q8_0.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/2f8145eaa088",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-12T01:58:09Z",
       "workflow": "upload.yml"
     },
     {
