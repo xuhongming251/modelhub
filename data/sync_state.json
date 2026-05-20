@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T13:45:34.692Z",
-  "lastRunId": 26166599107,
+  "updatedAt": "2026-05-20T13:48:45.863Z",
+  "lastRunId": 26166773717,
   "items": [
+    {
+      "id": "run_26166773717",
+      "run_id": 26166773717,
+      "artifact_id": 7111776920,
+      "filename": "blender-5.1.2-windows-x64.msi",
+      "normalized_name": "blender-5.1.2-windows-x64.msi",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ccc958c906db",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-20T13:48:02Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26166599107",
       "run_id": 26166599107,
