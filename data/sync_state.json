@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T12:07:06.797Z",
-  "lastRunId": 26161388737,
+  "updatedAt": "2026-05-20T13:23:02.671Z",
+  "lastRunId": 26165260446,
   "items": [
+    {
+      "id": "run_26165260446",
+      "run_id": 26165260446,
+      "artifact_id": 7111144796,
+      "filename": "d4ffodillEpoch10.bCma.safetensors",
+      "normalized_name": "d4ffodillepoch10.bcma.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c61d1497a374",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-20T13:22:13Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26161388737",
       "run_id": 26161388737,
@@ -37817,7 +37830,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
