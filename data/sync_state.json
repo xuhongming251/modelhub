@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T03:11:13.229Z",
-  "lastRunId": 26138853370,
+  "updatedAt": "2026-05-20T03:24:10.285Z",
+  "lastRunId": 26139253163,
   "items": [
+    {
+      "id": "run_26139253163",
+      "run_id": 26139253163,
+      "artifact_id": 7100594171,
+      "filename": "Cum_V2_High.safetensors",
+      "normalized_name": "cum_v2_high.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/27cab3dfb252",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-20T03:23:36Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26138870128",
+      "run_id": 26138870128,
+      "artifact_id": 7100439815,
+      "filename": "Breast Expansion_i2v_v5_Low_noise.safetensors",
+      "normalized_name": "breast expansion_i2v_v5_low_noise.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/99bd93d5fae5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-20T03:11:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26138853370",
       "run_id": 26138853370,
