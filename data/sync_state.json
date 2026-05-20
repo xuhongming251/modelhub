@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T06:41:07.823Z",
-  "lastRunId": 26145982507,
+  "updatedAt": "2026-05-20T06:45:06.324Z",
+  "lastRunId": 26146123053,
   "items": [
+    {
+      "id": "run_26146123053",
+      "run_id": 26146123053,
+      "artifact_id": 7103035119,
+      "filename": "comfyui-mixlab-nodes.zip",
+      "normalized_name": "comfyui-mixlab-nodes.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/178ef2532476",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-20T06:44:34Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26145982507",
       "run_id": 26145982507,
@@ -29383,12 +29396,6 @@
       "normalized_name": "cyberpunk-style-diy.zip",
       "share_url": "https://pan.quark.cn/s/cc6fda92c477",
       "completed_at": "2026-03-26T06:33:41Z"
-    },
-    {
-      "filename": "comfyui-mixlab-nodes.zip",
-      "normalized_name": "comfyui-mixlab-nodes.zip",
-      "share_url": "https://pan.quark.cn/s/e9f69ce6820b",
-      "completed_at": "2026-03-26T06:33:20Z"
     },
     {
       "filename": "ComfyUI-EditUtils.zip",
