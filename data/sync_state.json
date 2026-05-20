@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T16:22:10.507Z",
-  "lastRunId": 26175470990,
+  "updatedAt": "2026-05-20T16:24:49.145Z",
+  "lastRunId": 26175560928,
   "items": [
+    {
+      "id": "run_26175560928",
+      "run_id": 26175560928,
+      "artifact_id": 7115540789,
+      "filename": "Wan22_ThroatV3_High.safetensors",
+      "normalized_name": "wan22_throatv3_high.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/22f80f85b18d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-20T16:22:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26175470990",
       "run_id": 26175470990,
@@ -4954,19 +4967,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-15T15:12:29Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25922932680",
-      "run_id": 25922932680,
-      "artifact_id": 7019170216,
-      "filename": "Wan22_ThroatV3_High.safetensors",
-      "normalized_name": "wan22_throatv3_high.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/7f78a28c14a9",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-15T14:21:39Z",
       "workflow": "upload.yml"
     },
     {
