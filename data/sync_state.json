@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T13:40:31.224Z",
-  "lastRunId": 26166305716,
+  "updatedAt": "2026-05-20T13:45:34.692Z",
+  "lastRunId": 26166599107,
   "items": [
+    {
+      "id": "run_26166599107",
+      "run_id": 26166599107,
+      "artifact_id": 7111700005,
+      "filename": "sulphur_prompt_enhancer-mmproj-BF16.gguf",
+      "normalized_name": "sulphur_prompt_enhancer-mmproj-bf16.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a4022bb99e8b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-20T13:44:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26166305716",
       "run_id": 26166305716,
@@ -37856,7 +37869,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
