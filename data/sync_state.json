@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-21T10:24:58.153Z",
+  "updatedAt": "2026-05-21T10:29:28.111Z",
   "lastRunId": 26219812564,
   "items": [
+    {
+      "id": "run_26219776514",
+      "run_id": 26219776514,
+      "artifact_id": 7133351220,
+      "filename": "ltx-2.3-22b-distilled.safetensors",
+      "normalized_name": "ltx-2.3-22b-distilled.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/64f38aeaa242",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-21T10:28:48Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26219706620",
       "run_id": 26219706620,
