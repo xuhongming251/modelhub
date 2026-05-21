@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-21T07:17:06.341Z",
-  "lastRunId": 26211287530,
+  "updatedAt": "2026-05-21T07:36:05.052Z",
+  "lastRunId": 26212259592,
   "items": [
+    {
+      "id": "run_26212259592",
+      "run_id": 26212259592,
+      "artifact_id": 7129844402,
+      "filename": "comfyui_segment_anything.zip",
+      "normalized_name": "comfyui_segment_anything.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bdd0bf36ba8b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-21T07:35:29Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26211287530",
       "run_id": 26211287530,
@@ -26277,12 +26290,6 @@
       "normalized_name": "dasiwawan22i2v14b.rryk.gguf",
       "share_url": "https://pan.quark.cn/s/380d3f30fee6",
       "completed_at": "2026-04-04T05:55:53Z"
-    },
-    {
-      "filename": "comfyui_segment_anything.zip",
-      "normalized_name": "comfyui_segment_anything.zip",
-      "share_url": "https://pan.quark.cn/s/7cd54ae845b5",
-      "completed_at": "2026-04-04T05:25:58Z"
     },
     {
       "filename": "animaPreview2Rdbt.vVBW.safetensors",
