@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-21T09:01:34.983Z",
-  "lastRunId": 26216254865,
+  "updatedAt": "2026-05-21T09:08:20.089Z",
+  "lastRunId": 26216586376,
   "items": [
+    {
+      "id": "run_26216586376",
+      "run_id": 26216586376,
+      "artifact_id": 7131681526,
+      "filename": "editanything",
+      "normalized_name": "editanything",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d4c5d1c2dd23",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-21T09:07:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26216254865",
       "run_id": 26216254865,
@@ -21889,12 +21902,6 @@
       "normalized_name": "elaina_v1.0.safetensors",
       "share_url": "https://pan.quark.cn/s/b6ab35f7c102",
       "completed_at": "2026-04-21T05:32:15Z"
-    },
-    {
-      "filename": "editanything",
-      "normalized_name": "editanything",
-      "share_url": "https://pan.quark.cn/s/92214437dc32",
-      "completed_at": "2026-04-21T05:29:00Z"
     },
     {
       "filename": "cameltoe.Zzeb.safetensors",
