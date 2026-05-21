@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-21T10:03:13.900Z",
-  "lastRunId": 26218916770,
+  "updatedAt": "2026-05-21T10:15:41.673Z",
+  "lastRunId": 26219812564,
   "items": [
+    {
+      "id": "run_26219812564",
+      "run_id": 26219812564,
+      "artifact_id": 7133075918,
+      "filename": "lightx2v_T2V_14B_cfg_step_distill_v2_lora_rank64_bf16.safetensors",
+      "normalized_name": "lightx2v_t2v_14b_cfg_step_distill_v2_lora_rank64_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c9c73ecf9a4f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-21T10:14:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26218628259",
       "run_id": 26218628259,
