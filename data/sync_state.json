@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-21T18:04:56.244Z",
-  "lastRunId": 26244044831,
+  "updatedAt": "2026-05-21T18:19:15.005Z",
+  "lastRunId": 26244762187,
   "items": [
+    {
+      "id": "run_26244762187",
+      "run_id": 26244762187,
+      "artifact_id": 7143806761,
+      "filename": "Aerith-GainsboroughIV2.safetensors",
+      "normalized_name": "aerith-gainsboroughiv2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/be8b8b5f6feb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-21T18:18:44Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26244683716",
+      "run_id": 26244683716,
+      "artifact_id": 7143806360,
+      "filename": "WOG_Aerith_WAN2.2_v1_HIGH_and_LOW.safetensors",
+      "normalized_name": "wog_aerith_wan2.2_v1_high_and_low.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c8f51e10e9ec",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-21T18:18:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26244044831",
       "run_id": 26244044831,
