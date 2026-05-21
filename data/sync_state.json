@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-21T14:14:49.695Z",
-  "lastRunId": 26231392089,
+  "updatedAt": "2026-05-21T14:23:06.618Z",
+  "lastRunId": 26231937330,
   "items": [
+    {
+      "id": "run_26231937330",
+      "run_id": 26231937330,
+      "artifact_id": 7138374044,
+      "filename": "janku20v5020by.MLgU.safetensors",
+      "normalized_name": "janku20v5020by.mlgu.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e5fa79f5bd2a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-21T14:22:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26231355077",
       "run_id": 26231355077,
@@ -16890,12 +16903,6 @@
       "normalized_name": "firered-steps-lora.safetensors",
       "share_url": "https://pan.quark.cn/s/16cfc81e2bab",
       "completed_at": "2026-05-02T07:06:57Z"
-    },
-    {
-      "filename": "janku20v5020by.MLgU.safetensors",
-      "normalized_name": "janku20v5020by.mlgu.safetensors",
-      "share_url": "https://pan.quark.cn/s/c287825fe329",
-      "completed_at": "2026-05-02T06:43:21Z"
     },
     {
       "filename": "handfixerPdxlIncrsV1 pony.safetensors",
