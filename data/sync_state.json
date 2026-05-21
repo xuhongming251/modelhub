@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-21T04:38:25.203Z",
-  "lastRunId": 26205688445,
+  "updatedAt": "2026-05-21T05:35:27.619Z",
+  "lastRunId": 26207543246,
   "items": [
+    {
+      "id": "run_26207543246",
+      "run_id": 26207543246,
+      "artifact_id": 7128013125,
+      "filename": "WAI-ANIMA.safetensors",
+      "normalized_name": "wai-anima.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6287a28ec382",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-21T05:34:52Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26205688445",
       "run_id": 26205688445,
