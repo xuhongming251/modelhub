@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-21T11:50:25.869Z",
-  "lastRunId": 26224065671,
+  "updatedAt": "2026-05-21T11:54:21.267Z",
+  "lastRunId": 26224262471,
   "items": [
+    {
+      "id": "run_26224262471",
+      "run_id": 26224262471,
+      "artifact_id": 7134974504,
+      "filename": "pantyhoseSd.LCb2.safetensors",
+      "normalized_name": "pantyhosesd.lcb2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/936900016570",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-21T11:53:39Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26224007803",
+      "run_id": 26224007803,
+      "artifact_id": 7134905169,
+      "filename": "ltx-2.3-22b-distilled-1.1-Q4_K_M.gguf",
+      "normalized_name": "ltx-2.3-22b-distilled-1.1-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/44cf3290ae89",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-21T11:50:03Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26224065671",
       "run_id": 26224065671,
@@ -2393,19 +2419,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-18T22:58:17Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26061888736",
-      "run_id": 26061888736,
-      "artifact_id": 7069714299,
-      "filename": "LTX-2.3-22B-distilled-1.1-Q4_K_M.gguf",
-      "normalized_name": "ltx-2.3-22b-distilled-1.1-q4_k_m.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/06451bc28e50",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-18T21:38:47Z",
       "workflow": "upload.yml"
     },
     {
@@ -21044,12 +21057,6 @@
       "normalized_name": "xlmmdv02000044.ytia.safetensors",
       "share_url": "https://pan.quark.cn/s/f4d8c9da990c",
       "completed_at": "2026-04-25T03:11:00Z"
-    },
-    {
-      "filename": "pantyhoseSd.LCb2.safetensors",
-      "normalized_name": "pantyhosesd.lcb2.safetensors",
-      "share_url": "https://pan.quark.cn/s/9a958150c702",
-      "completed_at": "2026-04-25T03:07:06Z"
     },
     {
       "filename": "hoaubAsstkflmOnenk.FD2n.safetensors",
