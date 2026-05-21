@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-21T10:29:28.111Z",
-  "lastRunId": 26219812564,
+  "updatedAt": "2026-05-21T10:51:44.527Z",
+  "lastRunId": 26221375656,
   "items": [
+    {
+      "id": "run_26221375656",
+      "run_id": 26221375656,
+      "artifact_id": 7133774933,
+      "filename": "Wan2_2-T2V-A14B-LOW_fp8_e4m3fn_scaled_KJ.safetensors",
+      "normalized_name": "wan2_2-t2v-a14b-low_fp8_e4m3fn_scaled_kj.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9c0b3c4744d6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-21T10:51:02Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26219776514",
       "run_id": 26219776514,
@@ -29513,12 +29526,6 @@
       "normalized_name": "b4eaa98b-a8d1-49ea-a618-057e02d7bc80.safetensors",
       "share_url": "https://pan.quark.cn/s/4e7debb271ea",
       "completed_at": "2026-03-27T11:07:42Z"
-    },
-    {
-      "filename": "Wan2_2-T2V-A14B-LOW_fp8_e4m3fn_scaled_KJ.safetensors",
-      "normalized_name": "wan2_2-t2v-a14b-low_fp8_e4m3fn_scaled_kj.safetensors",
-      "share_url": "https://pan.quark.cn/s/5ecc852036b7",
-      "completed_at": "2026-03-27T10:53:16Z"
     },
     {
       "filename": "Flat chest V1.safetensors",
