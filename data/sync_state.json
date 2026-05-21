@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-21T13:57:45.112Z",
-  "lastRunId": 26230542238,
+  "updatedAt": "2026-05-21T14:04:39.033Z",
+  "lastRunId": 26230919880,
   "items": [
+    {
+      "id": "run_26230919880",
+      "run_id": 26230919880,
+      "artifact_id": 7137909250,
+      "filename": "tmndMixSPRAINBOW.Y23I.safetensors",
+      "normalized_name": "tmndmixsprainbow.y23i.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4ab133bdd165",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-21T14:03:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26230542238",
       "run_id": 26230542238,
@@ -33756,12 +33769,6 @@
       "completed_at": "2026-03-17T14:25:10Z"
     },
     {
-      "filename": "tmndMixSPRAINBOW.Y23I.safetensors",
-      "normalized_name": "tmndmixsprainbow.y23i.safetensors",
-      "share_url": "https://pan.baidu.com/s/1Bh-q1VN2M54j9v_UUsJP0w?pwd=6583",
-      "completed_at": "2026-03-17T14:22:52Z"
-    },
-    {
       "filename": "realcartoonpixarv12p.sQKm.safetensors",
       "normalized_name": "realcartoonpixarv12p.sqkm.safetensors",
       "share_url": "https://pan.baidu.com/s/1oIms6jS2J-68N3fry-NU1g?pwd=a7bd",
@@ -38654,7 +38661,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
