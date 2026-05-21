@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-21T11:12:45.904Z",
-  "lastRunId": 26222278362,
+  "updatedAt": "2026-05-21T11:45:24.970Z",
+  "lastRunId": 26223857355,
   "items": [
+    {
+      "id": "run_26223857355",
+      "run_id": 26223857355,
+      "artifact_id": 7134808346,
+      "filename": "styleLaoyb.VR2j.safetensors",
+      "normalized_name": "stylelaoyb.vr2j.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/93333a5609ff",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-21T11:44:51Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26223739337",
+      "run_id": 26223739337,
+      "artifact_id": 7134806833,
+      "filename": "Qwen-image-edit-2511-Q3_K_M.gguf",
+      "normalized_name": "qwen-image-edit-2511-q3_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2f46cf3c6c6e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-21T11:44:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26222235765",
       "run_id": 26222235765,
@@ -20702,12 +20728,6 @@
       "normalized_name": "blackpantyhosev70.5awg.safetensors",
       "share_url": "https://pan.quark.cn/s/242eb1109fec",
       "completed_at": "2026-04-25T05:29:43Z"
-    },
-    {
-      "filename": "styleLaoyb.VR2j.safetensors",
-      "normalized_name": "stylelaoyb.vr2j.safetensors",
-      "share_url": "https://pan.quark.cn/s/d3a34738dc7a",
-      "completed_at": "2026-04-25T05:28:28Z"
     },
     {
       "filename": "wugan1Noob11000193.r94U.safetensors",
