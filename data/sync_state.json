@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-21T13:55:09.019Z",
-  "lastRunId": 26230395783,
+  "updatedAt": "2026-05-21T13:57:45.112Z",
+  "lastRunId": 26230542238,
   "items": [
+    {
+      "id": "run_26230542238",
+      "run_id": 26230542238,
+      "artifact_id": 7137732972,
+      "filename": "cuteyukimix.nuT0.safetensors",
+      "normalized_name": "cuteyukimix.nut0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b3594cc2e099",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-21T13:56:56Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26230377297",
+      "run_id": 26230377297,
+      "artifact_id": 7137685050,
+      "filename": "anima_ Iokr_yoneyamaiV2.safetensors",
+      "normalized_name": "anima_ iokr_yoneyamaiv2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/05f9bd14ff96",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-21T13:55:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26230395783",
       "run_id": 26230395783,
@@ -18386,12 +18412,6 @@
       "normalized_name": "maturefemaleslider.1nz6.safetensors",
       "share_url": "https://pan.quark.cn/s/c589c70fcadc",
       "completed_at": "2026-04-30T06:00:07Z"
-    },
-    {
-      "filename": "cuteyukimix.nuT0.safetensors",
-      "normalized_name": "cuteyukimix.nut0.safetensors",
-      "share_url": "https://pan.quark.cn/s/a9de1f30588c",
-      "completed_at": "2026-04-30T05:54:30Z"
     },
     {
       "filename": "divingZimageturboReal.yCgY.safetensors",
@@ -38634,7 +38654,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
