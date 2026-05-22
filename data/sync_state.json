@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-22T14:27:09.003Z",
-  "lastRunId": 26293525738,
+  "updatedAt": "2026-05-22T14:38:17.013Z",
+  "lastRunId": 26294058797,
   "items": [
+    {
+      "id": "run_26294058797",
+      "run_id": 26294058797,
+      "artifact_id": 7163151556,
+      "filename": "sk-step00001400.safetensors",
+      "normalized_name": "sk-step00001400.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dbe98167148e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-22T14:37:27Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26293525738",
       "run_id": 26293525738,
