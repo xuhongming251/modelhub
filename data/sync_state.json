@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-22T07:35:11.807Z",
-  "lastRunId": 26274097787,
+  "updatedAt": "2026-05-22T07:55:23.633Z",
+  "lastRunId": 26275621237,
   "items": [
+    {
+      "id": "run_26275621237",
+      "run_id": 26275621237,
+      "artifact_id": 7155552036,
+      "filename": "janku20v7777.gtZK.safetensors",
+      "normalized_name": "janku20v7777.gtzk.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3baf7252cd60",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-22T07:54:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26274097787",
       "run_id": 26274097787,
@@ -20564,12 +20577,6 @@
       "normalized_name": "gpzimage000008000.mljj.safetensors",
       "share_url": "https://pan.quark.cn/s/f107fb4caa3a",
       "completed_at": "2026-04-26T13:55:06Z"
-    },
-    {
-      "filename": "janku20v7777.gtZK.safetensors",
-      "normalized_name": "janku20v7777.gtzk.safetensors",
-      "share_url": "https://pan.quark.cn/s/56080d78296a",
-      "completed_at": "2026-04-26T13:51:31Z"
     },
     {
       "filename": "lyuyangMixZIT_b384.safetensors",
