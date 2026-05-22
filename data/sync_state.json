@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-22T17:18:38.073Z",
-  "lastRunId": 26301839009,
+  "updatedAt": "2026-05-22T17:27:12.437Z",
+  "lastRunId": 26302266430,
   "items": [
+    {
+      "id": "run_26302266430",
+      "run_id": 26302266430,
+      "artifact_id": 7166533802,
+      "filename": "flux2TinyVae.nLpc.safetensors",
+      "normalized_name": "flux2tinyvae.nlpc.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/67bee778f7aa",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-22T17:26:26Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26301839009",
       "run_id": 26301839009,
