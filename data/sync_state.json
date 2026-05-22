@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-22T05:46:27.203Z",
-  "lastRunId": 26270727563,
+  "updatedAt": "2026-05-22T06:23:38.967Z",
+  "lastRunId": 26271990064,
   "items": [
+    {
+      "id": "run_26271990064",
+      "run_id": 26271990064,
+      "artifact_id": 7154065736,
+      "filename": "4xNomos8k_atd_jpg.safetensors",
+      "normalized_name": "4xnomos8k_atd_jpg.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a3fa7cb2b2ae",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-22T06:22:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26270727563",
       "run_id": 26270727563,
@@ -24933,12 +24946,6 @@
       "normalized_name": "wangblue02epoch10.h4bz.safetensors",
       "share_url": "https://pan.quark.cn/s/c372bd92dad7",
       "completed_at": "2026-04-14T11:35:02Z"
-    },
-    {
-      "filename": "4xNomos8k_atd_jpg.safetensors",
-      "normalized_name": "4xnomos8k_atd_jpg.safetensors",
-      "share_url": "https://pan.quark.cn/s/8ecfff4dd993",
-      "completed_at": "2026-04-14T09:56:41Z"
     },
     {
       "filename": "llama_cpp_python-0.3.35+cu130.basic-cp313-cp313-win_amd64.whl",
