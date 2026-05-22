@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-22T17:27:12.437Z",
-  "lastRunId": 26302266430,
+  "updatedAt": "2026-05-22T17:40:29.172Z",
+  "lastRunId": 26302870359,
   "items": [
+    {
+      "id": "run_26302870359",
+      "run_id": 26302870359,
+      "artifact_id": 7166776631,
+      "filename": "xxmixBiracial34fp16.477s.safetensors",
+      "normalized_name": "xxmixbiracial34fp16.477s.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/88da657c288f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-22T17:39:51Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26302266430",
       "run_id": 26302266430,
@@ -34471,12 +34484,6 @@
       "normalized_name": "lofiv5bakedfp16.ty07.safetensors",
       "share_url": "https://pan.baidu.com/s/1a_QlKT-vEaIVNHCHQIx6aA?pwd=d647",
       "completed_at": "2026-03-17T14:00:46Z"
-    },
-    {
-      "filename": "xxmixBiracial34fp16.477s.safetensors",
-      "normalized_name": "xxmixbiracial34fp16.477s.safetensors",
-      "share_url": "https://pan.baidu.com/s/1VpAFwiy2M_h6sBmBqcb9dw?pwd=65e5",
-      "completed_at": "2026-03-17T13:52:03Z"
     },
     {
       "filename": "Qwen-Rapid-AIO-NSFW-v19.safetensors",
