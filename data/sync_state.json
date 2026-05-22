@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-22T14:38:17.013Z",
-  "lastRunId": 26294058797,
+  "updatedAt": "2026-05-22T14:49:53.301Z",
+  "lastRunId": 26294683240,
   "items": [
+    {
+      "id": "run_26294683240",
+      "run_id": 26294683240,
+      "artifact_id": 7163408378,
+      "filename": "v6.78PX.safetensors",
+      "normalized_name": "v6.78px.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/050e7571f4cf",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-22T14:49:13Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26294058797",
       "run_id": 26294058797,
@@ -15737,12 +15750,6 @@
       "normalized_name": "animevae.pt",
       "share_url": "https://pan.quark.cn/s/5ed32965e89e",
       "completed_at": "2026-05-04T16:58:47Z"
-    },
-    {
-      "filename": "v6.78PX.safetensors",
-      "normalized_name": "v6.78px.safetensors",
-      "share_url": "https://pan.quark.cn/s/2a99e92d190c",
-      "completed_at": "2026-05-04T16:41:25Z"
     },
     {
       "filename": "mannequin.KHJv.safetensors",
