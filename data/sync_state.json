@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-23T09:26:38.012Z",
-  "lastRunId": 26329203316,
+  "updatedAt": "2026-05-23T09:31:12.889Z",
+  "lastRunId": 26329285325,
   "items": [
+    {
+      "id": "run_26329285325",
+      "run_id": 26329285325,
+      "artifact_id": 7175960687,
+      "filename": "anima-realism-v11.safetensors",
+      "normalized_name": "anima-realism-v11.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/90bb642f95be",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-23T09:30:36Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26329203316",
       "run_id": 26329203316,
