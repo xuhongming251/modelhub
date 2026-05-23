@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-23T09:22:03.639Z",
-  "lastRunId": 26327769129,
+  "updatedAt": "2026-05-23T09:26:38.012Z",
+  "lastRunId": 26329203316,
   "items": [
+    {
+      "id": "run_26329203316",
+      "run_id": 26329203316,
+      "artifact_id": 7175939178,
+      "filename": "anima-sharpen-v10.safetensors",
+      "normalized_name": "anima-sharpen-v10.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0f463589c0fc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-23T09:26:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26327769129",
       "run_id": 26327769129,
