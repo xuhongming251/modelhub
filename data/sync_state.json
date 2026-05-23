@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-23T14:09:34.482Z",
-  "lastRunId": 26334130306,
+  "updatedAt": "2026-05-23T14:14:03.115Z",
+  "lastRunId": 26334888891,
   "items": [
+    {
+      "id": "run_26334888891",
+      "run_id": 26334888891,
+      "artifact_id": 7177431768,
+      "filename": "mistral_3_small_flux2_fp8.safetensors",
+      "normalized_name": "mistral_3_small_flux2_fp8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5600580073c2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-23T14:13:28Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26334130306",
       "run_id": 26334130306,
