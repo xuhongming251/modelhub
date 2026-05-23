@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-23T09:31:12.889Z",
-  "lastRunId": 26329285325,
+  "updatedAt": "2026-05-23T09:46:54.263Z",
+  "lastRunId": 26329548495,
   "items": [
+    {
+      "id": "run_26329548495",
+      "run_id": 26329548495,
+      "artifact_id": 7176046687,
+      "filename": "ltx-2.3-22b-dev-Q4_K_M.gguf",
+      "normalized_name": "ltx-2.3-22b-dev-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d2fe5bf86aa2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-23T09:46:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26329285325",
       "run_id": 26329285325,
@@ -39384,12 +39397,6 @@
       "normalized_name": "1.zip",
       "share_url": "https://pan.quark.cn/s/b8c25c4eff3b",
       "completed_at": "2026-03-07T20:16:22Z"
-    },
-    {
-      "filename": "ltx-2.3-22b-dev-Q4_K_M.gguf",
-      "normalized_name": "ltx-2.3-22b-dev-q4_k_m.gguf",
-      "share_url": "https://pan.quark.cn/s/2f66c717b519",
-      "completed_at": "2026-03-07T19:00:16Z"
     },
     {
       "filename": "2206377",
