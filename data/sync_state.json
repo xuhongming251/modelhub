@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-23T11:54:42.699Z",
-  "lastRunId": 26331943549,
+  "updatedAt": "2026-05-23T12:01:28.691Z",
+  "lastRunId": 26331991117,
   "items": [
+    {
+      "id": "run_26331991117",
+      "run_id": 26331991117,
+      "artifact_id": 7176692984,
+      "filename": "Ltx2.3-Licon-VBVR-I2V-390K-R32.safetensors",
+      "normalized_name": "ltx2.3-licon-vbvr-i2v-390k-r32.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d6e586c9fd44",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-23T11:55:19Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26331939547",
       "run_id": 26331939547,
@@ -27,19 +40,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-23T11:52:58Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26331896863",
-      "run_id": 26331896863,
-      "artifact_id": 7176669589,
-      "filename": "Ltx2.3-Licon-VBVR-I2V-390K-R32.safetensors",
-      "normalized_name": "ltx2.3-licon-vbvr-i2v-390k-r32.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/da4ca5a50b9a",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-23T11:50:23Z",
       "workflow": "upload.yml"
     },
     {
