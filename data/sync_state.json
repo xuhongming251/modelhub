@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-23T11:51:04.326Z",
-  "lastRunId": 26331896863,
+  "updatedAt": "2026-05-23T11:53:31.205Z",
+  "lastRunId": 26331943549,
   "items": [
+    {
+      "id": "run_26331943549",
+      "run_id": 26331943549,
+      "artifact_id": 7176682166,
+      "filename": "Ltx2.3-Licon-VBVR-I2V-240K-R32.safetensors",
+      "normalized_name": "ltx2.3-licon-vbvr-i2v-240k-r32.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c10342a52786",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-23T11:52:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26331896863",
       "run_id": 26331896863,
@@ -23236,12 +23249,6 @@
       "normalized_name": "ramthrustspinkalchemy.6bud.safetensors",
       "share_url": "https://pan.quark.cn/s/aaeb9a3f7817",
       "completed_at": "2026-04-21T19:40:01Z"
-    },
-    {
-      "filename": "Ltx2.3-Licon-VBVR-I2V-240K-R32.safetensors",
-      "normalized_name": "ltx2.3-licon-vbvr-i2v-240k-r32.safetensors",
-      "share_url": "https://pan.quark.cn/s/0d9199de45f5",
-      "completed_at": "2026-04-21T18:48:11Z"
     },
     {
       "filename": "1771855",
