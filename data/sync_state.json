@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-23T01:45:08.333Z",
-  "lastRunId": 26320150855,
+  "updatedAt": "2026-05-23T01:51:18.303Z",
+  "lastRunId": 26320283979,
   "items": [
+    {
+      "id": "run_26320283979",
+      "run_id": 26320283979,
+      "artifact_id": 7173210641,
+      "filename": "dxz-step00002300.safetensors",
+      "normalized_name": "dxz-step00002300.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a5a4e8d9bf37",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-23T01:50:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26320150855",
       "run_id": 26320150855,
