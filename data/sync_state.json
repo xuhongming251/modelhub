@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-23T14:56:24.537Z",
-  "lastRunId": 26335781104,
+  "updatedAt": "2026-05-23T15:03:06.890Z",
+  "lastRunId": 26336008464,
   "items": [
+    {
+      "id": "run_26336008464",
+      "run_id": 26336008464,
+      "artifact_id": 7177705725,
+      "filename": "DR34MJOB_I2V_14b_Low.safetensors",
+      "normalized_name": "dr34mjob_i2v_14b_low.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/055ee0c4f644",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-23T15:02:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26335781104",
       "run_id": 26335781104,
