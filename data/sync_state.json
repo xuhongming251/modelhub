@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-23T14:16:31.061Z",
-  "lastRunId": 26334907030,
+  "updatedAt": "2026-05-23T14:44:43.838Z",
+  "lastRunId": 26335592783,
   "items": [
+    {
+      "id": "run_26335592783",
+      "run_id": 26335592783,
+      "artifact_id": 7177598797,
+      "filename": "x-ray_i2v_high_v1.1.safetensors",
+      "normalized_name": "x-ray_i2v_high_v1.1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8c2410f11d0d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-23T14:44:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26334907030",
       "run_id": 26334907030,
