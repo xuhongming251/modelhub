@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-23T15:11:06.250Z",
-  "lastRunId": 26336169191,
+  "updatedAt": "2026-05-23T15:17:09.599Z",
+  "lastRunId": 26336238822,
   "items": [
+    {
+      "id": "run_26336238822",
+      "run_id": 26336238822,
+      "artifact_id": 7177778416,
+      "filename": "flux1-kontext-dev-Q6_K.gguf",
+      "normalized_name": "flux1-kontext-dev-q6_k.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6cb473a1d252",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-23T15:16:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26336169191",
       "run_id": 26336169191,
