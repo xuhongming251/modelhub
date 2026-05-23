@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-23T01:38:11.243Z",
-  "lastRunId": 26320005726,
+  "updatedAt": "2026-05-23T01:45:08.333Z",
+  "lastRunId": 26320150855,
   "items": [
+    {
+      "id": "run_26320150855",
+      "run_id": 26320150855,
+      "artifact_id": 7173167943,
+      "filename": "keta_v1_epoch60.safetensors",
+      "normalized_name": "keta_v1_epoch60.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a92382874319",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-23T01:44:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26320005726",
       "run_id": 26320005726,
