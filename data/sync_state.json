@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-23T14:14:03.115Z",
-  "lastRunId": 26334888891,
+  "updatedAt": "2026-05-23T14:16:31.061Z",
+  "lastRunId": 26334907030,
   "items": [
+    {
+      "id": "run_26334907030",
+      "run_id": 26334907030,
+      "artifact_id": 7177443841,
+      "filename": "flux2_dev_fp8mixed.safetensors",
+      "normalized_name": "flux2_dev_fp8mixed.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/035b83350de3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-23T14:15:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26334888891",
       "run_id": 26334888891,
@@ -20121,12 +20134,6 @@
       "normalized_name": "mistral_3_small_flux2_bf16.safetensors",
       "share_url": "https://pan.quark.cn/s/7de50deeafaf",
       "completed_at": "2026-04-29T15:33:08Z"
-    },
-    {
-      "filename": "flux2_dev_fp8mixed.safetensors",
-      "normalized_name": "flux2_dev_fp8mixed.safetensors",
-      "share_url": "https://pan.quark.cn/s/2d87d1a71826",
-      "completed_at": "2026-04-29T15:32:26Z"
     },
     {
       "filename": "mistral_3_small_flux2_bf16.safetensor",
