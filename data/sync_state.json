@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-23T07:14:34.083Z",
-  "lastRunId": 26326643882,
+  "updatedAt": "2026-05-23T07:16:16.421Z",
+  "lastRunId": 26326648771,
   "items": [
+    {
+      "id": "run_26326648771",
+      "run_id": 26326648771,
+      "artifact_id": 7175217675,
+      "filename": "Wan2.2_i2v_A14b_low_noise_lora_rank64_lightx2v_4step_1022.safetensors",
+      "normalized_name": "wan2.2_i2v_a14b_low_noise_lora_rank64_lightx2v_4step_1022.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1c5994e7802e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-23T07:14:20Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26326643882",
       "run_id": 26326643882,
@@ -1366,19 +1379,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-21T15:48:39Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26235701959",
-      "run_id": 26235701959,
-      "artifact_id": 7140016342,
-      "filename": "wan2.2_i2v_A14b_low_noise_lora_rank64_lightx2v_4step_1022.safetensors",
-      "normalized_name": "wan2.2_i2v_a14b_low_noise_lora_rank64_lightx2v_4step_1022.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/e74343735e85",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-21T15:28:05Z",
       "workflow": "upload.yml"
     },
     {
