@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-23T00:09:31.278Z",
-  "lastRunId": 26315589268,
+  "updatedAt": "2026-05-23T00:16:42.578Z",
+  "lastRunId": 26318104096,
   "items": [
+    {
+      "id": "run_26318104096",
+      "run_id": 26318104096,
+      "artifact_id": 7172458611,
+      "filename": "psydiffusion-f2-klein-9b_v2.safetensors",
+      "normalized_name": "psydiffusion-f2-klein-9b_v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8d35c2f39725",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-23T00:16:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26315589268",
       "run_id": 26315589268,
