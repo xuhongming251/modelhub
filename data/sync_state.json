@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-24T03:00:00.787Z",
-  "lastRunId": 26350246616,
+  "updatedAt": "2026-05-24T03:00:49.095Z",
+  "lastRunId": 26350264167,
   "items": [
+    {
+      "id": "run_26350264167",
+      "run_id": 26350264167,
+      "artifact_id": 7181709325,
+      "filename": "ip-adapter-full-face_sd15.safetensors",
+      "normalized_name": "ip-adapter-full-face_sd15.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4a8e88b89260",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-24T03:00:30Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26350258202",
+      "run_id": 26350258202,
+      "artifact_id": 7181708179,
+      "filename": "ip-adapter-plus_sd15.safetensors",
+      "normalized_name": "ip-adapter-plus_sd15.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6062d225932e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-24T03:00:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26350246616",
       "run_id": 26350246616,
@@ -14600,19 +14626,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-07T14:00:02Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25498605211",
-      "run_id": 25498605211,
-      "artifact_id": 6856291945,
-      "filename": "ip-adapter-plus_sd15.safetensors",
-      "normalized_name": "ip-adapter-plus_sd15.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/5873cc8081b9",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-07T13:25:07Z",
       "workflow": "upload.yml"
     },
     {
