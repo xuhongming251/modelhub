@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-24T06:57:04.148Z",
-  "lastRunId": 26354529563,
+  "updatedAt": "2026-05-24T07:00:22.336Z",
+  "lastRunId": 26354585890,
   "items": [
+    {
+      "id": "run_26354585890",
+      "run_id": 26354585890,
+      "artifact_id": 7183061868,
+      "filename": "penilePraxisV4.AwUL.safetensors",
+      "normalized_name": "penilepraxisv4.awul.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8b0622db6989",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-24T06:59:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26354529563",
       "run_id": 26354529563,
@@ -14613,19 +14626,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-07T18:04:24Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25510827081",
-      "run_id": 25510827081,
-      "artifact_id": 6861671394,
-      "filename": "penilePraxisV4.AwUL.safetensors",
-      "normalized_name": "penilepraxisv4.awul.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/d1772132dfc4",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-07T17:12:44Z",
       "workflow": "upload.yml"
     },
     {
