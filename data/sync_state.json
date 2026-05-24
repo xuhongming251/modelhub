@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-24T01:56:18.516Z",
-  "lastRunId": 26349028098,
+  "updatedAt": "2026-05-24T02:07:02.456Z",
+  "lastRunId": 26349238991,
   "items": [
+    {
+      "id": "run_26349238991",
+      "run_id": 26349238991,
+      "artifact_id": 7181439926,
+      "filename": "Qwopus3.5-9B-coder-Exp-Q4_K_M.gguf",
+      "normalized_name": "qwopus3.5-9b-coder-exp-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/09f7ab7181fb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-24T02:06:31Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26349028098",
       "run_id": 26349028098,
