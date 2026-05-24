@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-24T04:34:35.698Z",
-  "lastRunId": 26351972647,
+  "updatedAt": "2026-05-24T04:36:00.579Z",
+  "lastRunId": 26351994858,
   "items": [
+    {
+      "id": "run_26351994858",
+      "run_id": 26351994858,
+      "artifact_id": 7182224975,
+      "filename": "vinci-v_v1.safetensors",
+      "normalized_name": "vinci-v_v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/db0065935b84",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-24T04:35:28Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26351972647",
       "run_id": 26351972647,
