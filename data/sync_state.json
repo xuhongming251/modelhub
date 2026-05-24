@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-24T02:42:15.516Z",
-  "lastRunId": 26349910818,
+  "updatedAt": "2026-05-24T03:00:00.787Z",
+  "lastRunId": 26350246616,
   "items": [
+    {
+      "id": "run_26350246616",
+      "run_id": 26350246616,
+      "artifact_id": 7181704328,
+      "filename": "ip-adapter_sd15_vit-G.safetensors",
+      "normalized_name": "ip-adapter_sd15_vit-g.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/edfe76c4bd3f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-24T02:59:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26349910818",
       "run_id": 26349910818,
