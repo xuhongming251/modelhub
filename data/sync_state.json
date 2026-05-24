@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-24T04:06:35.024Z",
-  "lastRunId": 26351459943,
+  "updatedAt": "2026-05-24T04:07:42.116Z",
+  "lastRunId": 26351482652,
   "items": [
+    {
+      "id": "run_26351482652",
+      "run_id": 26351482652,
+      "artifact_id": 7182078289,
+      "filename": "iwaocivitai.49KG.safetensors",
+      "normalized_name": "iwaocivitai.49kg.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3862e9d351aa",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-24T04:07:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26351459943",
       "run_id": 26351459943,
