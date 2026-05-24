@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-24T12:31:07.277Z",
-  "lastRunId": 26361282714,
+  "updatedAt": "2026-05-24T12:31:59.157Z",
+  "lastRunId": 26361300187,
   "items": [
+    {
+      "id": "run_26361300187",
+      "run_id": 26361300187,
+      "artifact_id": 7185137352,
+      "filename": "ComfyUI-qwenmultiangle.zip",
+      "normalized_name": "comfyui-qwenmultiangle.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ea16f424ac9f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-24T12:31:25Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26361294895",
+      "run_id": 26361294895,
+      "artifact_id": 7185135506,
+      "filename": "ComfyUI-Easy-Use.zip",
+      "normalized_name": "comfyui-easy-use.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/59ff4abf28ae",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-24T12:31:07Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26361282714",
       "run_id": 26361282714,
@@ -5578,19 +5604,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-18T14:09:50Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26038404244",
-      "run_id": 26038404244,
-      "artifact_id": 7059946661,
-      "filename": "ComfyUI-Easy-Use.zip",
-      "normalized_name": "comfyui-easy-use.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/e5ae46fa5e7e",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-18T14:02:44Z",
       "workflow": "upload.yml"
     },
     {
@@ -32636,12 +32649,6 @@
       "normalized_name": "f2kconsist20260225.f3vo.safetensors",
       "share_url": "https://pan.quark.cn/s/629ce44fdcb7",
       "completed_at": "2026-03-26T05:08:01Z"
-    },
-    {
-      "filename": "ComfyUI-qwenmultiangle.zip",
-      "normalized_name": "comfyui-qwenmultiangle.zip",
-      "share_url": "https://pan.quark.cn/s/a96df2c3f5a7",
-      "completed_at": "2026-03-26T04:47:50Z"
     },
     {
       "filename": "animaCatTowerV04.rA0A.safetensors",
