@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-24T12:31:59.157Z",
-  "lastRunId": 26361300187,
+  "updatedAt": "2026-05-24T12:32:55.074Z",
+  "lastRunId": 26361323278,
   "items": [
+    {
+      "id": "run_26361323278",
+      "run_id": 26361323278,
+      "artifact_id": 7185144462,
+      "filename": "ComfyUI-llama-cpp_vlm.zip",
+      "normalized_name": "comfyui-llama-cpp_vlm.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/32b6368a4e02",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-24T12:32:22Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26361300187",
       "run_id": 26361300187,
@@ -22995,12 +23008,6 @@
       "normalized_name": "qwen-image-edit-lightning-4steps-v1.0-bf16.safetensors",
       "share_url": "https://pan.quark.cn/s/f80cbb50fadf",
       "completed_at": "2026-04-25T19:36:57Z"
-    },
-    {
-      "filename": "ComfyUI-llama-cpp_vlm.zip",
-      "normalized_name": "comfyui-llama-cpp_vlm.zip",
-      "share_url": "https://pan.quark.cn/s/8c77fca97555",
-      "completed_at": "2026-04-25T18:59:32Z"
     },
     {
       "filename": "Qwen-Image-Edit-2509-Lightning-8steps-V1.0-bf16.safetensors",
