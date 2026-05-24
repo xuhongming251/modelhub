@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-24T02:10:13.030Z",
-  "lastRunId": 26349301612,
+  "updatedAt": "2026-05-24T02:15:02.852Z",
+  "lastRunId": 26349395426,
   "items": [
+    {
+      "id": "run_26349395426",
+      "run_id": 26349395426,
+      "artifact_id": 7181483390,
+      "filename": "OmniCoder-Claude-uncensored-V2-Q4_K_M.gguf",
+      "normalized_name": "omnicoder-claude-uncensored-v2-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1abec2271e82",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-24T02:14:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26349301612",
       "run_id": 26349301612,
@@ -21359,12 +21372,6 @@
       "normalized_name": "manacystfurrymix33.2pnm.safetensors",
       "share_url": "https://pan.quark.cn/s/3c4f5fb7f4e2",
       "completed_at": "2026-04-28T03:37:03Z"
-    },
-    {
-      "filename": "OmniCoder-Claude-uncensored-V2-Q4_K_M.gguf",
-      "normalized_name": "omnicoder-claude-uncensored-v2-q4_k_m.gguf",
-      "share_url": "https://pan.quark.cn/s/600691aa3cfc",
-      "completed_at": "2026-04-28T02:43:47Z"
     },
     {
       "filename": "c0b9b0ad-b335-4f96-a9b0-bebf78923b9b",
