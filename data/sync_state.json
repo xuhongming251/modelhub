@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-24T08:33:53.993Z",
-  "lastRunId": 26356452071,
+  "updatedAt": "2026-05-24T08:35:02.385Z",
+  "lastRunId": 26356472925,
   "items": [
+    {
+      "id": "run_26356472925",
+      "run_id": 26356472925,
+      "artifact_id": 7183685144,
+      "filename": "wan2.2_vae.safetensors",
+      "normalized_name": "wan2.2_vae.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9ebffc6d99cf",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-24T08:34:27Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26356452071",
       "run_id": 26356452071,
@@ -20286,12 +20299,6 @@
       "normalized_name": "zitc71bf16diffusion.cpcc.safetensors",
       "share_url": "https://pan.quark.cn/s/13d15049131b",
       "completed_at": "2026-05-01T05:18:38Z"
-    },
-    {
-      "filename": "wan2.2_vae.safetensors",
-      "normalized_name": "wan2.2_vae.safetensors",
-      "share_url": "https://pan.quark.cn/s/6a6db0b6d30c",
-      "completed_at": "2026-05-01T04:44:55Z"
     },
     {
       "filename": "Chilloutmix-Ni-pruned-fp32-fix.safetensors",
