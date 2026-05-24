@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-24T06:03:32.931Z",
-  "lastRunId": 26353532715,
+  "updatedAt": "2026-05-24T06:08:02.340Z",
+  "lastRunId": 26353548091,
   "items": [
+    {
+      "id": "run_26353548091",
+      "run_id": 26353548091,
+      "artifact_id": 7182741117,
+      "filename": "flux1-dev-kontext_fp8_scaled.safetensors",
+      "normalized_name": "flux1-dev-kontext_fp8_scaled.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f53e04e52da4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-24T06:07:23Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26353532715",
       "run_id": 26353532715,
@@ -34090,12 +34103,6 @@
       "completed_at": "2026-03-21T00:55:21Z"
     },
     {
-      "filename": "flux1-dev-kontext_fp8_scaled.safetensors",
-      "normalized_name": "flux1-dev-kontext_fp8_scaled.safetensors",
-      "share_url": "https://pan.quark.cn/s/407688b5645d",
-      "completed_at": "2026-03-20T20:34:35Z"
-    },
-    {
       "filename": "llama_cpp_python-0.3.33+cu128.basic-cp312-cp312-win_amd64.whl",
       "normalized_name": "llama_cpp_python-0.3.33+cu128.basic-cp312-cp312-win_amd64.whl",
       "share_url": "https://pan.quark.cn/s/4567942a8917",
@@ -40764,7 +40771,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
