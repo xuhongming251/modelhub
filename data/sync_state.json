@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-24T05:24:35.465Z",
-  "lastRunId": 26352843240,
+  "updatedAt": "2026-05-24T05:31:10.477Z",
+  "lastRunId": 26352973870,
   "items": [
+    {
+      "id": "run_26352973870",
+      "run_id": 26352973870,
+      "artifact_id": 7182526462,
+      "filename": "ltx-2-19b-lora-camera-control-dolly-left.safetensors",
+      "normalized_name": "ltx-2-19b-lora-camera-control-dolly-left.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8edb8fa76b0a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-24T05:30:41Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26352969944",
+      "run_id": 26352969944,
+      "artifact_id": 7182525830,
+      "filename": "ltx-2-spatial-upscaler-x2-1.0.safetensors",
+      "normalized_name": "ltx-2-spatial-upscaler-x2-1.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/87c1f2574a94",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-24T05:30:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26352843240",
       "run_id": 26352843240,
