@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-24T02:07:02.456Z",
-  "lastRunId": 26349238991,
+  "updatedAt": "2026-05-24T02:10:13.030Z",
+  "lastRunId": 26349301612,
   "items": [
+    {
+      "id": "run_26349301612",
+      "run_id": 26349301612,
+      "artifact_id": 7181456553,
+      "filename": "Qwen3.5-9B-DeepSeek-V4-Flash-Q4_K_M.gguf",
+      "normalized_name": "qwen3.5-9b-deepseek-v4-flash-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fd5dad3a75f8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-24T02:09:34Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26349238991",
       "run_id": 26349238991,
