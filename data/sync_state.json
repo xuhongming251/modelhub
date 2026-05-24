@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-24T12:06:06.992Z",
-  "lastRunId": 26356472925,
+  "updatedAt": "2026-05-24T12:31:07.277Z",
+  "lastRunId": 26361282714,
   "items": [
+    {
+      "id": "run_26361282714",
+      "run_id": 26361282714,
+      "artifact_id": 7185131730,
+      "filename": "ComfyUI-Custom-Scripts.zip",
+      "normalized_name": "comfyui-custom-scripts.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2184a0b874ef",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-24T12:30:36Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26361274135",
+      "run_id": 26361274135,
+      "artifact_id": 7185131613,
+      "filename": "ComfyUI_LayerStyle.zip",
+      "normalized_name": "comfyui_layerstyle.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/72dec1567178",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-24T12:30:34Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26356472925",
       "run_id": 26356472925,
@@ -2848,19 +2874,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-21T14:22:15Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26231355077",
-      "run_id": 26231355077,
-      "artifact_id": 7138165582,
-      "filename": "ComfyUI_LayerStyle.zip",
-      "normalized_name": "comfyui_layerstyle.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/cba28fc2fd1e",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-21T14:14:00Z",
       "workflow": "upload.yml"
     },
     {
@@ -22615,12 +22628,6 @@
       "normalized_name": "comfyui-prompt-assistant.zip",
       "share_url": "https://pan.quark.cn/s/c027b5d5441e",
       "completed_at": "2026-04-26T12:45:13Z"
-    },
-    {
-      "filename": "ComfyUI-Custom-Scripts.zip",
-      "normalized_name": "comfyui-custom-scripts.zip",
-      "share_url": "https://pan.quark.cn/s/469a667aa0de",
-      "completed_at": "2026-04-26T12:43:26Z"
     },
     {
       "filename": "zBreastSlider.lRO5.safetensors",
