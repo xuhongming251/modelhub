@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-25T12:49:42.751Z",
-  "lastRunId": 26399587745,
+  "updatedAt": "2026-05-25T13:06:03.018Z",
+  "lastRunId": 26401963466,
   "items": [
+    {
+      "id": "run_26401963466",
+      "run_id": 26401963466,
+      "artifact_id": 7198720437,
+      "filename": "one20obsession.mIkb.safetensors",
+      "normalized_name": "one20obsession.mikb.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/162bd954359d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-25T13:05:29Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26399587745",
       "run_id": 26399587745,
@@ -38513,12 +38526,6 @@
       "normalized_name": "qwen-image-edit-f2p",
       "share_url": "https://pan.quark.cn/s/fe644080ad43",
       "completed_at": "2026-03-14T09:44:58Z"
-    },
-    {
-      "filename": "one20obsession.mIkb.safetensors",
-      "normalized_name": "one20obsession.mikb.safetensors",
-      "share_url": "https://pan.quark.cn/s/b627d39e5958",
-      "completed_at": "2026-03-14T08:28:48Z"
     },
     {
       "filename": "ilustmixV100.rPII.safetensors",
