@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-25T02:34:35.699Z",
-  "lastRunId": 26380179826,
+  "updatedAt": "2026-05-25T02:35:23.826Z",
+  "lastRunId": 26380215136,
   "items": [
+    {
+      "id": "run_26380215136",
+      "run_id": 26380215136,
+      "artifact_id": 7190667864,
+      "filename": "FireRed-Image-Edit-1.0-Lightning-8steps-v1.0.safetensors",
+      "normalized_name": "firered-image-edit-1.0-lightning-8steps-v1.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/34482554bfb1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-25T02:34:51Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26380207793",
+      "run_id": 26380207793,
+      "artifact_id": 7190665060,
+      "filename": "qwen_image_vae.safetensors",
+      "normalized_name": "qwen_image_vae.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/600b174cd8a7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-25T02:34:28Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26380175953",
       "run_id": 26380175953,
@@ -16134,19 +16160,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-07T03:41:09Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25474661261",
-      "run_id": 25474661261,
-      "artifact_id": 6846473791,
-      "filename": "qwen_image_vae.safetensors",
-      "normalized_name": "qwen_image_vae.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/74f50b5d0012",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-07T03:36:28Z",
       "workflow": "upload.yml"
     },
     {
@@ -39100,12 +39113,6 @@
       "normalized_name": "firered-image-edit-1.1-transformer-q4_k_m.gguf",
       "share_url": "https://pan.quark.cn/s/c6e67360a5f3",
       "completed_at": "2026-03-11T14:50:59Z"
-    },
-    {
-      "filename": "FireRed-Image-Edit-1.0-Lightning-8steps-v1.0.safetensors",
-      "normalized_name": "firered-image-edit-1.0-lightning-8steps-v1.0.safetensors",
-      "share_url": "https://pan.quark.cn/s/044cd25c3454",
-      "completed_at": "2026-03-11T14:49:43Z"
     },
     {
       "filename": "foldingFanPdxl.hYJU.safetensors",
