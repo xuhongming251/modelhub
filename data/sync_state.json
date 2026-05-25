@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-25T00:02:24.835Z",
-  "lastRunId": 26369101039,
+  "updatedAt": "2026-05-25T00:49:34.129Z",
+  "lastRunId": 26377558378,
   "items": [
+    {
+      "id": "run_26377558378",
+      "run_id": 26377558378,
+      "artifact_id": 7189789504,
+      "filename": "anima-flat-v11.safetensors",
+      "normalized_name": "anima-flat-v11.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/83f2e9d5a4f9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-25T00:49:02Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26369101039",
       "run_id": 26369101039,
@@ -41021,7 +41034,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
