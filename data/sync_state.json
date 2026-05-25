@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-25T02:27:50.501Z",
-  "lastRunId": 26380022397,
+  "updatedAt": "2026-05-25T02:29:18.911Z",
+  "lastRunId": 26380054028,
   "items": [
+    {
+      "id": "run_26380054028",
+      "run_id": 26380054028,
+      "artifact_id": 7190619196,
+      "filename": "Remove_Clothing_Censor.safetensors",
+      "normalized_name": "remove_clothing_censor.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c7a0635c7c0e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-25T02:28:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26380022397",
       "run_id": 26380022397,
