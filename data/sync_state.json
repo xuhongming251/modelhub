@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-25T05:37:19.769Z",
-  "lastRunId": 26385149325,
+  "updatedAt": "2026-05-25T06:21:57.885Z",
+  "lastRunId": 26386519932,
   "items": [
+    {
+      "id": "run_26386519932",
+      "run_id": 26386519932,
+      "artifact_id": 7192761572,
+      "filename": "ttplanetControlnetTile.rhZr.safetensors",
+      "normalized_name": "ttplanetcontrolnettile.rhzr.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c9e85ba19693",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-25T06:21:20Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26385149325",
       "run_id": 26385149325,
@@ -11506,19 +11519,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-13T03:31:22Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25775283785",
-      "run_id": 25775283785,
-      "artifact_id": 6960588200,
-      "filename": "ttplanetControlnetTile.rhZr.safetensors",
-      "normalized_name": "ttplanetcontrolnettile.rhzr.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/d102efbe1eda",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-13T02:52:29Z",
       "workflow": "upload.yml"
     },
     {
