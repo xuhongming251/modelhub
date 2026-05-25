@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-25T01:03:21.546Z",
-  "lastRunId": 26377898585,
+  "updatedAt": "2026-05-25T01:04:22.154Z",
+  "lastRunId": 26377926681,
   "items": [
+    {
+      "id": "run_26377926681",
+      "run_id": 26377926681,
+      "artifact_id": 7189909317,
+      "filename": "Cyrene_Anima_10.safetensors",
+      "normalized_name": "cyrene_anima_10.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3bdf8ccb40c1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-25T01:03:48Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26377879189",
       "run_id": 26377879189,
@@ -41112,7 +41125,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
