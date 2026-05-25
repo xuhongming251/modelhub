@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-25T12:02:08.401Z",
-  "lastRunId": 26399193586,
+  "updatedAt": "2026-05-25T12:07:52.710Z",
+  "lastRunId": 26399587745,
   "items": [
+    {
+      "id": "run_26399587745",
+      "run_id": 26399587745,
+      "artifact_id": 7197842640,
+      "filename": "sulphur_dev-Q6_K.gguf",
+      "normalized_name": "sulphur_dev-q6_k.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7073f0bfbfe3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-25T12:07:12Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26399193586",
       "run_id": 26399193586,
