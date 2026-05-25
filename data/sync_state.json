@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-25T01:01:13.121Z",
-  "lastRunId": 26377850182,
+  "updatedAt": "2026-05-25T01:03:21.546Z",
+  "lastRunId": 26377898585,
   "items": [
+    {
+      "id": "run_26377879189",
+      "run_id": 26377879189,
+      "artifact_id": 7189902512,
+      "filename": "Anima_cure_answer_v2.6.safetensors",
+      "normalized_name": "anima_cure_answer_v2.6.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ef7a0e3d2501",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-25T01:02:56Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26377898585",
+      "run_id": 26377898585,
+      "artifact_id": 7189901968,
+      "filename": "Anima_akechi_anna_v1.2.safetensors",
+      "normalized_name": "anima_akechi_anna_v1.2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5bfb3b72fe40",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-25T01:02:51Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26377864796",
+      "run_id": 26377864796,
+      "artifact_id": 7189888549,
+      "filename": "anima_moria_luluka_v11.safetensors",
+      "normalized_name": "anima_moria_luluka_v11.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d66bd7dfcb0a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-25T01:01:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26377850182",
       "run_id": 26377850182,
