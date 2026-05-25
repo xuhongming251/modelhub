@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-25T01:47:25.788Z",
-  "lastRunId": 26378981526,
+  "updatedAt": "2026-05-25T01:50:21.621Z",
+  "lastRunId": 26379053044,
   "items": [
+    {
+      "id": "run_26379053044",
+      "run_id": 26379053044,
+      "artifact_id": 7190302535,
+      "filename": "living20clothesAnima.1rlC.safetensors",
+      "normalized_name": "living20clothesanima.1rlc.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b6e4384a980b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-25T01:49:45Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26378992484",
+      "run_id": 26378992484,
+      "artifact_id": 7190279651,
+      "filename": "sex20machineAnimaV10.jSVQ.safetensors",
+      "normalized_name": "sex20machineanimav10.jsvq.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e051740aabe9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-25T01:47:23Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26378981526",
       "run_id": 26378981526,
@@ -41229,7 +41255,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
