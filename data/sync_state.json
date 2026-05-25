@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-25T01:11:13.069Z",
-  "lastRunId": 26378082293,
+  "updatedAt": "2026-05-25T01:24:35.188Z",
+  "lastRunId": 26378407801,
   "items": [
+    {
+      "id": "run_26378407801",
+      "run_id": 26378407801,
+      "artifact_id": 7190074655,
+      "filename": "Sketch Messy.safetensors",
+      "normalized_name": "sketch messy.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/866b2e59efad",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-25T01:24:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26378082293",
       "run_id": 26378082293,
@@ -41164,7 +41177,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
