@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-25T15:06:30.686Z",
-  "lastRunId": 26407060150,
+  "updatedAt": "2026-05-25T15:07:21.191Z",
+  "lastRunId": 26407084720,
   "items": [
+    {
+      "id": "run_26407084720",
+      "run_id": 26407084720,
+      "artifact_id": 7200610144,
+      "filename": "front-doggy-wan22-LN-e46-az420.safetensors",
+      "normalized_name": "front-doggy-wan22-ln-e46-az420.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/56a2285bfb73",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-25T15:06:44Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26407060150",
       "run_id": 26407060150,
