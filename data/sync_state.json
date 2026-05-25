@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-25T02:35:23.826Z",
-  "lastRunId": 26380215136,
+  "updatedAt": "2026-05-25T02:36:12.027Z",
+  "lastRunId": 26380231653,
   "items": [
+    {
+      "id": "run_26380231653",
+      "run_id": 26380231653,
+      "artifact_id": 7190674390,
+      "filename": "chilloutmixNiPruned.Tw1O.safetensors",
+      "normalized_name": "chilloutmixnipruned.tw1o.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/48a4129d479b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-25T02:35:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26380215136",
       "run_id": 26380215136,
@@ -23189,12 +23202,6 @@
       "normalized_name": "copaxponyv81.otso.safetensors",
       "share_url": "https://pan.quark.cn/s/85b4bc5a62f2",
       "completed_at": "2026-04-26T12:58:32Z"
-    },
-    {
-      "filename": "chilloutmixNiPruned.Tw1O.safetensors",
-      "normalized_name": "chilloutmixnipruned.tw1o.safetensors",
-      "share_url": "https://pan.quark.cn/s/4043d1ad74c4",
-      "completed_at": "2026-04-26T12:57:38Z"
     },
     {
       "filename": "ComfyUI-SizeFromPresets.zip",
