@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-25T09:45:29.009Z",
-  "lastRunId": 26393635744,
+  "updatedAt": "2026-05-25T10:50:22.706Z",
+  "lastRunId": 26396625429,
   "items": [
+    {
+      "id": "run_26396625429",
+      "run_id": 26396625429,
+      "artifact_id": 7196721481,
+      "filename": "10Eros_v1-Q3_K_M.gguf",
+      "normalized_name": "10eros_v1-q3_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fe0382f8f7e0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-25T10:49:50Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26393635744",
       "run_id": 26393635744,
@@ -13144,19 +13157,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-11T11:10:12Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25665404922",
-      "run_id": 25665404922,
-      "artifact_id": 6916748686,
-      "filename": "10Eros_v1-Q3_K_M.gguf",
-      "normalized_name": "10eros_v1-q3_k_m.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/0175f5918f32",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-11T11:03:42Z",
       "workflow": "upload.yml"
     },
     {
