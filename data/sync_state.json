@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T14:16:28.717Z",
-  "lastRunId": 26453639728,
+  "updatedAt": "2026-05-26T14:43:59.698Z",
+  "lastRunId": 26455293964,
   "items": [
+    {
+      "id": "run_26455293964",
+      "run_id": 26455293964,
+      "artifact_id": 7217691801,
+      "filename": "NSFW-22-H-e8.safetensors",
+      "normalized_name": "nsfw-22-h-e8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f1f09ebd91ca",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-26T14:43:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26453639728",
       "run_id": 26453639728,
@@ -19267,12 +19280,6 @@
       "normalized_name": "cleavage slider_alpha1.0_rank4_noxattn_last.safetensors",
       "share_url": "https://pan.quark.cn/s/3dc81e5eeecf",
       "completed_at": "2026-05-04T01:02:42Z"
-    },
-    {
-      "filename": "NSFW-22-H-e8.safetensors",
-      "normalized_name": "nsfw-22-h-e8.safetensors",
-      "share_url": "https://pan.quark.cn/s/01139c392b11",
-      "completed_at": "2026-05-04T01:02:28Z"
     },
     {
       "filename": "ComfyUI_LayerStyle_Advance.zip",
