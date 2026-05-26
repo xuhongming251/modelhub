@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T08:24:25.429Z",
-  "lastRunId": 26441026095,
+  "updatedAt": "2026-05-26T08:29:08.447Z",
+  "lastRunId": 26441246174,
   "items": [
+    {
+      "id": "run_26441246174",
+      "run_id": 26441246174,
+      "artifact_id": 7212307589,
+      "filename": "LinguaHaru-v5.0.zip",
+      "normalized_name": "linguaharu-v5.0.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/42decd1d9002",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-26T08:28:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26441026095",
       "run_id": 26441026095,
@@ -42079,7 +42092,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
