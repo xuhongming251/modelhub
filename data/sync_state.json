@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T07:58:16.989Z",
-  "lastRunId": 26439855666,
+  "updatedAt": "2026-05-26T08:11:51.376Z",
+  "lastRunId": 26440468824,
   "items": [
+    {
+      "id": "run_26440468824",
+      "run_id": 26440468824,
+      "artifact_id": 7211981581,
+      "filename": "wai-illustrious-sdxl",
+      "normalized_name": "wai-illustrious-sdxl",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cc9ada806777",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-26T08:11:12Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26439855666",
       "run_id": 26439855666,
@@ -25062,12 +25075,6 @@
       "normalized_name": "lole7be8ee5aea38.iwkf.safetensors",
       "share_url": "https://pan.quark.cn/s/918b60a55448",
       "completed_at": "2026-04-24T09:55:12Z"
-    },
-    {
-      "filename": "wai-illustrious-sdxl",
-      "normalized_name": "wai-illustrious-sdxl",
-      "share_url": "https://pan.quark.cn/s/8e92e13cf993",
-      "completed_at": "2026-04-24T09:03:01Z"
     },
     {
       "filename": "ComfyUI-3D-OpenPose-Editor2026.zip",
