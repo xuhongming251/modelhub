@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T14:11:53.870Z",
-  "lastRunId": 26453383024,
+  "updatedAt": "2026-05-26T14:13:42.382Z",
+  "lastRunId": 26453530991,
   "items": [
+    {
+      "id": "run_26453530991",
+      "run_id": 26453530991,
+      "artifact_id": 7216926189,
+      "filename": "animagine-xl-4.0-vae.safetensors",
+      "normalized_name": "animagine-xl-4.0-vae.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a6c894dc2ede",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-26T14:12:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26453383024",
       "run_id": 26453383024,
