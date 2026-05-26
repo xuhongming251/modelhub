@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T13:33:03.696Z",
-  "lastRunId": 26450941758,
+  "updatedAt": "2026-05-26T13:35:48.786Z",
+  "lastRunId": 26451085642,
   "items": [
+    {
+      "id": "run_26451085642",
+      "run_id": 26451085642,
+      "artifact_id": 7215891873,
+      "filename": "wan22I2VA14BNSFWFastMove.FtGs.gguf",
+      "normalized_name": "wan22i2va14bnsfwfastmove.ftgs.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/036e720c0882",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-26T13:32:22Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26450941758",
       "run_id": 26450941758,
@@ -23737,12 +23750,6 @@
       "completed_at": "2026-04-26T13:56:27Z"
     },
     {
-      "filename": "wan22I2VA14BNSFWFastMove.FtGs.gguf",
-      "normalized_name": "wan22i2va14bnsfwfastmove.ftgs.gguf",
-      "share_url": "https://pan.quark.cn/s/15ce64340af4",
-      "completed_at": "2026-04-26T13:56:13Z"
-    },
-    {
       "filename": "slider20xtreme_2DdR.safetensors",
       "normalized_name": "slider20xtreme_2ddr.safetensors",
       "share_url": "https://pan.quark.cn/s/0e847f29d3f1",
@@ -42105,7 +42112,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
