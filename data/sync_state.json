@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T14:43:59.698Z",
-  "lastRunId": 26455293964,
+  "updatedAt": "2026-05-26T14:46:34.228Z",
+  "lastRunId": 26455461352,
   "items": [
+    {
+      "id": "run_26455461352",
+      "run_id": 26455461352,
+      "artifact_id": 7217758025,
+      "filename": "tsetup-x64.6.8.2.exe",
+      "normalized_name": "tsetup-x64.6.8.2.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e169f999f629",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-26T14:45:42Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26455314727",
+      "run_id": 26455314727,
+      "artifact_id": 7217701343,
+      "filename": "NSFW-22-L-e8.safetensors",
+      "normalized_name": "nsfw-22-l-e8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/76a786b3906e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-26T14:43:49Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26455298983",
+      "run_id": 26455298983,
+      "artifact_id": 7217707179,
+      "filename": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+      "normalized_name": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5465056cab8a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-26T14:43:43Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26455293964",
       "run_id": 26455293964,
@@ -14,19 +53,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-26T14:43:04Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26453639728",
-      "run_id": 26453639728,
-      "artifact_id": 7216999103,
-      "filename": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
-      "normalized_name": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/e14247cbc6f5",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-26T14:15:49Z",
       "workflow": "upload.yml"
     },
     {
@@ -19256,12 +19282,6 @@
       "normalized_name": "pubic hair slider - pony_alpha1.0_rank4_noxattn_last.safetensors",
       "share_url": "https://pan.quark.cn/s/ada69f9dceb9",
       "completed_at": "2026-05-04T01:08:14Z"
-    },
-    {
-      "filename": "NSFW-22-L-e8.safetensors",
-      "normalized_name": "nsfw-22-l-e8.safetensors",
-      "share_url": "https://pan.quark.cn/s/e30bacdbec9f",
-      "completed_at": "2026-05-04T01:06:03Z"
     },
     {
       "filename": "Makeup Slider_alpha1.0_rank4_noxattn_last.safetensors",
