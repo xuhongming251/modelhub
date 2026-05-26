@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T13:53:03.132Z",
-  "lastRunId": 26451901176,
+  "updatedAt": "2026-05-26T14:02:26.281Z",
+  "lastRunId": 26452860849,
   "items": [
+    {
+      "id": "run_26452860849",
+      "run_id": 26452860849,
+      "artifact_id": 7216634265,
+      "filename": "ComfyUI-KJNodes.zip",
+      "normalized_name": "comfyui-kjnodes.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/10145986b4a9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-26T14:01:39Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26452316386",
+      "run_id": 26452316386,
+      "artifact_id": 7216407883,
+      "filename": "sageattention.zip",
+      "normalized_name": "sageattention.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fa3b6e1a9725",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-26T13:52:53Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26452246128",
+      "run_id": 26452246128,
+      "artifact_id": 7216393057,
+      "filename": "moodyProMix_zitV12DPO.safetensors",
+      "normalized_name": "moodypromix_zitv12dpo.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/aa59d1e354c2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-26T13:52:18Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26451901176",
       "run_id": 26451901176,
@@ -6842,19 +6881,6 @@
       "workflow": "upload.yml"
     },
     {
-      "id": "run_26059294627",
-      "run_id": 26059294627,
-      "artifact_id": 7068674042,
-      "filename": "ComfyUI-KJNodes.zip",
-      "normalized_name": "comfyui-kjnodes.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/5c6882da2f55",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-18T20:42:49Z",
-      "workflow": "upload.yml"
-    },
-    {
       "id": "run_26054864382",
       "run_id": 26054864382,
       "artifact_id": 7066970992,
@@ -8568,19 +8594,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-17T07:11:18Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25984103673",
-      "run_id": 25984103673,
-      "artifact_id": 7040215211,
-      "filename": "SageAttention.zip",
-      "normalized_name": "sageattention.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/2807f0dab27e",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-17T07:01:03Z",
       "workflow": "upload.yml"
     },
     {
@@ -42139,7 +42152,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
