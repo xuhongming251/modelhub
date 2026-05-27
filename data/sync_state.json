@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T07:29:21.274Z",
-  "lastRunId": 26496841941,
+  "updatedAt": "2026-05-27T07:57:28.649Z",
+  "lastRunId": 26498530300,
   "items": [
+    {
+      "id": "run_26498530300",
+      "run_id": 26498530300,
+      "artifact_id": 7234944962,
+      "filename": "lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors",
+      "normalized_name": "lightx2v_i2v_14b_480p_cfg_step_distill_rank64_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cb1daa2a1164",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-27T07:56:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26496785902",
       "run_id": 26496785902,
@@ -23822,12 +23835,6 @@
       "normalized_name": "wan2.1_infinitetalk_multi_fp16.safetensors",
       "share_url": "https://pan.quark.cn/s/e4cecb423fc7",
       "completed_at": "2026-04-27T21:05:32Z"
-    },
-    {
-      "filename": "lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors",
-      "normalized_name": "lightx2v_i2v_14b_480p_cfg_step_distill_rank64_bf16.safetensors",
-      "share_url": "https://pan.quark.cn/s/c1f993bd8f22",
-      "completed_at": "2026-04-27T21:04:48Z"
     },
     {
       "filename": "qwen_0.6b_ace15.safetensors",
