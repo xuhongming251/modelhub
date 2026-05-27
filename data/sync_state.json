@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T11:31:37.373Z",
-  "lastRunId": 26508462100,
+  "updatedAt": "2026-05-27T11:49:33.018Z",
+  "lastRunId": 26509239535,
   "items": [
+    {
+      "id": "run_26509239535",
+      "run_id": 26509239535,
+      "artifact_id": 7239526339,
+      "filename": "anime2real-semi.safetensors",
+      "normalized_name": "anime2real-semi.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0692a10d6ec9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-27T11:48:02Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26508972311",
+      "run_id": 26508972311,
+      "artifact_id": 7239506030,
+      "filename": "Gemma-4-E4B-Uncensored-HauhauCS-Aggressive-Q8_K_P.gguf",
+      "normalized_name": "gemma-4-e4b-uncensored-hauhaucs-aggressive-q8_k_p.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cc600427f2d3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-27T11:46:46Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26509156828",
+      "run_id": 26509156828,
+      "artifact_id": 7239503485,
+      "filename": "main.zip",
+      "normalized_name": "main.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ffae7d4574f5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-27T11:46:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26508462100",
       "run_id": 26508462100,
@@ -391,19 +430,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-27T05:55:37Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26493237526",
-      "run_id": 26493237526,
-      "artifact_id": 7232890908,
-      "filename": "main.zip",
-      "normalized_name": "main.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/7590f0e36882",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-27T05:50:46Z",
       "workflow": "upload.yml"
     },
     {
@@ -26396,12 +26422,6 @@
       "completed_at": "2026-04-21T17:06:31Z"
     },
     {
-      "filename": "Gemma-4-E4B-Uncensored-HauhauCS-Aggressive-Q8_K_P.gguf",
-      "normalized_name": "gemma-4-e4b-uncensored-hauhaucs-aggressive-q8_k_p.gguf",
-      "share_url": "https://pan.quark.cn/s/869080a81bc4",
-      "completed_at": "2026-04-21T16:53:23Z"
-    },
-    {
       "filename": "gemma-4-26B-A4B-it-ultra-uncensored-heretic-Q4_K_M.gguf",
       "normalized_name": "gemma-4-26b-a4b-it-ultra-uncensored-heretic-q4_k_m.gguf",
       "share_url": "https://pan.quark.cn/s/54126bebcfab",
@@ -42372,12 +42392,6 @@
       "normalized_name": "f2_klein9b_macromastia_naked.safetensors",
       "share_url": "https://pan.quark.cn/s/67d18ae11f02",
       "completed_at": "2026-03-08T02:41:34Z"
-    },
-    {
-      "filename": "anime2real-semi.safetensors",
-      "normalized_name": "anime2real-semi.safetensors",
-      "share_url": "https://pan.quark.cn/s/c62dec22cb32",
-      "completed_at": "2026-03-08T02:27:43Z"
     },
     {
       "filename": "clothesonoffv2.safetensors",
