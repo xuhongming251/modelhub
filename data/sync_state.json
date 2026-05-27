@@ -1,8 +1,60 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T13:14:11.531Z",
-  "lastRunId": 26513228322,
+  "updatedAt": "2026-05-27T13:15:05.454Z",
+  "lastRunId": 26513328681,
   "items": [
+    {
+      "id": "run_26513328681",
+      "run_id": 26513328681,
+      "artifact_id": 7241117815,
+      "filename": "apple_DFN5B-CLIP-ViT-H-14-384_fp16.safetensors",
+      "normalized_name": "apple_dfn5b-clip-vit-h-14-384_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/63feaf327b14",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-27T13:14:36Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26513306150",
+      "run_id": 26513306150,
+      "artifact_id": 7241112121,
+      "filename": "miaomiao-harem_Anima.safetensors",
+      "normalized_name": "miaomiao-harem_anima.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e6d25ea8a3ab",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-27T13:14:21Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26513308474",
+      "run_id": 26513308474,
+      "artifact_id": 7241106672,
+      "filename": "mmaudio_synchformer_fp16.safetensors",
+      "normalized_name": "mmaudio_synchformer_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c3ecbc4e1a51",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-27T13:14:09Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26513286703",
+      "run_id": 26513286703,
+      "artifact_id": 7241094606,
+      "filename": "mmaudio_vae_44k_fp16.safetensors",
+      "normalized_name": "mmaudio_vae_44k_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/88428928935c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-27T13:13:39Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26513228322",
       "run_id": 26513228322,
@@ -28124,28 +28176,10 @@
       "completed_at": "2026-04-18T13:50:41Z"
     },
     {
-      "filename": "mmaudio_vae_44k_fp16.safetensors",
-      "normalized_name": "mmaudio_vae_44k_fp16.safetensors",
-      "share_url": "https://pan.quark.cn/s/a181f51653ed",
-      "completed_at": "2026-04-18T13:48:50Z"
-    },
-    {
-      "filename": "mmaudio_synchformer_fp16.safetensors",
-      "normalized_name": "mmaudio_synchformer_fp16.safetensors",
-      "share_url": "https://pan.quark.cn/s/96c4abcdeed0",
-      "completed_at": "2026-04-18T13:48:39Z"
-    },
-    {
       "filename": "9FA19326A2A4D86EAFC454041787DAA287A8C5B9",
       "normalized_name": "9fa19326a2a4d86eafc454041787daa287a8c5b9",
       "share_url": "https://pan.quark.cn/s/cf1be524add9",
       "completed_at": "2026-04-18T13:48:38Z"
-    },
-    {
-      "filename": "apple_DFN5B-CLIP-ViT-H-14-384_fp16.safetensors",
-      "normalized_name": "apple_dfn5b-clip-vit-h-14-384_fp16.safetensors",
-      "share_url": "https://pan.quark.cn/s/37e617b3923d",
-      "completed_at": "2026-04-18T13:48:20Z"
     },
     {
       "filename": "ernie-image-turbo.safetensors",
@@ -43150,7 +43184,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
