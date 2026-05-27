@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T10:39:39.502Z",
-  "lastRunId": 26506160984,
+  "updatedAt": "2026-05-27T10:44:26.089Z",
+  "lastRunId": 26506366491,
   "items": [
+    {
+      "id": "run_26506366491",
+      "run_id": 26506366491,
+      "artifact_id": 7238322996,
+      "filename": "ComfyUI-llama-cpp_vlm.zip",
+      "normalized_name": "comfyui-llama-cpp_vlm.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/80c2d8a2c5d7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-27T10:43:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26506160984",
       "run_id": 26506160984,
@@ -1132,19 +1145,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-26T02:12:55Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26427468790",
-      "run_id": 26427468790,
-      "artifact_id": 7207343831,
-      "filename": "ComfyUI-llama-cpp_vlm.zip",
-      "normalized_name": "comfyui-llama-cpp_vlm.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/633382792ff6",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-26T01:42:09Z",
       "workflow": "upload.yml"
     },
     {
