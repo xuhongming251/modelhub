@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T10:44:26.089Z",
-  "lastRunId": 26506366491,
+  "updatedAt": "2026-05-27T10:50:08.605Z",
+  "lastRunId": 26506632209,
   "items": [
+    {
+      "id": "run_26506632209",
+      "run_id": 26506632209,
+      "artifact_id": 7238431846,
+      "filename": "BDTM_V2.6.3_NetCore80_AllInclude.zip",
+      "normalized_name": "bdtm_v2.6.3_netcore80_allinclude.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b5e7b9f4b7ab",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-27T10:49:36Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26506580936",
+      "run_id": 26506580936,
+      "artifact_id": 7238431371,
+      "filename": "StellarBlade_3DCG_style.safetensors",
+      "normalized_name": "stellarblade_3dcg_style.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f652cb2184b8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-27T10:49:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26506366491",
       "run_id": 26506366491,
