@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T13:11:36.291Z",
-  "lastRunId": 26513093202,
+  "updatedAt": "2026-05-27T13:14:11.531Z",
+  "lastRunId": 26513228322,
   "items": [
+    {
+      "id": "run_26513228322",
+      "run_id": 26513228322,
+      "artifact_id": 7241085342,
+      "filename": "mmaudio_large_44k_v2_fp16.safetensors",
+      "normalized_name": "mmaudio_large_44k_v2_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8c49f223ca42",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-27T13:13:18Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26513093202",
       "run_id": 26513093202,
