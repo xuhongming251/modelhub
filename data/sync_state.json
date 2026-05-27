@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T03:53:09.675Z",
-  "lastRunId": 26489680014,
+  "updatedAt": "2026-05-27T04:00:27.375Z",
+  "lastRunId": 26489895771,
   "items": [
+    {
+      "id": "run_26489895771",
+      "run_id": 26489895771,
+      "artifact_id": 7231629067,
+      "filename": "b8349df7-00aa-4e19-8b6b-329eb68bf264",
+      "normalized_name": "b8349df7-00aa-4e19-8b6b-329eb68bf264",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fec7c8f5897c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-27T03:59:51Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26489688030",
+      "run_id": 26489688030,
+      "artifact_id": 7231558702,
+      "filename": "Lift one leg high - low-noise.safetensors",
+      "normalized_name": "lift one leg high - low-noise.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2e4a35a06d91",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-27T03:53:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26489680014",
       "run_id": 26489680014,
