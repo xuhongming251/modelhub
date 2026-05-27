@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T11:49:33.018Z",
-  "lastRunId": 26509239535,
+  "updatedAt": "2026-05-27T11:58:58.114Z",
+  "lastRunId": 26509577834,
   "items": [
+    {
+      "id": "run_26509577834",
+      "run_id": 26509577834,
+      "artifact_id": 7239663645,
+      "filename": "Mai Shiranui v2.safetensors",
+      "normalized_name": "mai shiranui v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8ec58277cdd7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-27T11:58:03Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26509380228",
+      "run_id": 26509380228,
+      "artifact_id": 7239596614,
+      "filename": "klein_snofs_v1_4.safetensors",
+      "normalized_name": "klein_snofs_v1_4.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/abd6853fd020",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-27T11:53:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26509239535",
       "run_id": 26509239535,
