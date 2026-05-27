@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T15:09:04.326Z",
-  "lastRunId": 26519839030,
+  "updatedAt": "2026-05-27T15:11:08.911Z",
+  "lastRunId": 26519905400,
   "items": [
+    {
+      "id": "run_26519905400",
+      "run_id": 26519905400,
+      "artifact_id": 7244030923,
+      "filename": "TIPO-500M.Q8_0.gguf",
+      "normalized_name": "tipo-500m.q8_0.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ceae7d623c59",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-27T15:10:25Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26519839030",
       "run_id": 26519839030,
@@ -43249,7 +43262,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
