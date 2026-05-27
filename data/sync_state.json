@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T13:15:05.454Z",
-  "lastRunId": 26513328681,
+  "updatedAt": "2026-05-27T13:23:13.281Z",
+  "lastRunId": 26513383443,
   "items": [
+    {
+      "id": "run_26513383443",
+      "run_id": 26513383443,
+      "artifact_id": 7241309566,
+      "filename": "wan22EnhancedNSFWSVICamera_nsfwV2Q8High.gguf",
+      "normalized_name": "wan22enhancednsfwsvicamera_nsfwv2q8high.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/84a82a571d51",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-27T13:22:31Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26513328681",
       "run_id": 26513328681,
@@ -43184,7 +43197,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
