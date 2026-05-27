@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T12:15:50.356Z",
-  "lastRunId": 26510367373,
+  "updatedAt": "2026-05-27T12:19:03.699Z",
+  "lastRunId": 26510526435,
   "items": [
+    {
+      "id": "run_26510526435",
+      "run_id": 26510526435,
+      "artifact_id": 7239981680,
+      "filename": "areolaesizeslider2.hQnJ.safetensors",
+      "normalized_name": "areolaesizeslider2.hqnj.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8184da95e268",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-27T12:18:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26510367373",
       "run_id": 26510367373,
@@ -43059,7 +43072,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
