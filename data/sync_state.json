@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T11:26:05.098Z",
-  "lastRunId": 26508200051,
+  "updatedAt": "2026-05-27T11:31:37.373Z",
+  "lastRunId": 26508462100,
   "items": [
+    {
+      "id": "run_26508462100",
+      "run_id": 26508462100,
+      "artifact_id": 7239233835,
+      "filename": "V1_flux_klein.safetensors",
+      "normalized_name": "v1_flux_klein.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/19957b7f1e03",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-27T11:30:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26508200051",
       "run_id": 26508200051,
