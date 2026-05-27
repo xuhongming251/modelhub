@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T01:32:37.619Z",
+  "updatedAt": "2026-05-27T01:46:34.457Z",
   "lastRunId": 26485214417,
   "items": [
+    {
+      "id": "run_26484852290",
+      "run_id": 26484852290,
+      "artifact_id": 7230190490,
+      "filename": "qwen34bHumanCorpus.IfnE.safetensors",
+      "normalized_name": "qwen34bhumancorpus.ifne.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dc27c42c8e33",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-27T01:45:55Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26485214417",
       "run_id": 26485214417,
