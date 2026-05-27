@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T13:23:13.281Z",
-  "lastRunId": 26513383443,
+  "updatedAt": "2026-05-27T13:35:42.822Z",
+  "lastRunId": 26514388725,
   "items": [
+    {
+      "id": "run_26514388725",
+      "run_id": 26514388725,
+      "artifact_id": 7241627653,
+      "filename": "wan22EnhancedNSFWCameraPrompt_nsfwFASTMOVEFP8Low.safetensors",
+      "normalized_name": "wan22enhancednsfwcameraprompt_nsfwfastmovefp8low.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e07e7c098e89",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-27T13:35:05Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26514373181",
+      "run_id": 26514373181,
+      "artifact_id": 7241621227,
+      "filename": "wan22EnhancedNSFWCameraPrompt_nsfwFASTMOVEFP8High.safetensors",
+      "normalized_name": "wan22enhancednsfwcameraprompt_nsfwfastmovefp8high.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1a62d920ad0b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-27T13:34:50Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26513373716",
+      "run_id": 26513373716,
+      "artifact_id": 7241324004,
+      "filename": "wan22EnhancedNSFWSVICamera_nsfwV2Q8Low.gguf",
+      "normalized_name": "wan22enhancednsfwsvicamera_nsfwv2q8low.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3fd507b94066",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-27T13:23:05Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26513383443",
       "run_id": 26513383443,
