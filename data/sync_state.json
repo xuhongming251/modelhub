@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T12:48:40.660Z",
-  "lastRunId": 26511902947,
+  "updatedAt": "2026-05-27T12:53:46.502Z",
+  "lastRunId": 26512106363,
   "items": [
+    {
+      "id": "run_26512106363",
+      "run_id": 26512106363,
+      "artifact_id": 7240625939,
+      "filename": "gemma-4-E4B-it-OBLITERATED-mmproj-f16.gguf",
+      "normalized_name": "gemma-4-e4b-it-obliterated-mmproj-f16.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fb15b9caa793",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-27T12:51:48Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26511902947",
       "run_id": 26511902947,
