@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T09:18:06.739Z",
-  "lastRunId": 26502207427,
+  "updatedAt": "2026-05-27T09:27:19.951Z",
+  "lastRunId": 26502773295,
   "items": [
+    {
+      "id": "run_26502773295",
+      "run_id": 26502773295,
+      "artifact_id": 7236796898,
+      "filename": "qwen34bHumanCorpus.akPN.safetensors",
+      "normalized_name": "qwen34bhumancorpus.akpn.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ad85c204580c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-27T09:26:31Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26502207427",
       "run_id": 26502207427,
