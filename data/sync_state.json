@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T02:50:44.473Z",
-  "lastRunId": 26487696126,
+  "updatedAt": "2026-05-27T03:04:52.459Z",
+  "lastRunId": 26488106010,
   "items": [
+    {
+      "id": "run_26488106010",
+      "run_id": 26488106010,
+      "artifact_id": 7231009996,
+      "filename": "gemma-2-2b-it.safetensors",
+      "normalized_name": "gemma-2-2b-it.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5c1d0447df49",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-27T03:04:16Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26487619439",
       "run_id": 26487619439,
