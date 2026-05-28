@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-28T15:15:25.359Z",
-  "lastRunId": 26583647849,
+  "updatedAt": "2026-05-28T15:20:34.472Z",
+  "lastRunId": 26583815605,
   "items": [
+    {
+      "id": "run_26583815605",
+      "run_id": 26583815605,
+      "artifact_id": 7269846872,
+      "filename": "ComfyUI-Workflow-Encrypt.zip",
+      "normalized_name": "comfyui-workflow-encrypt.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/58e11ad95e3c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-28T15:19:48Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26583681745",
+      "run_id": 26583681745,
+      "artifact_id": 7269730912,
+      "filename": "PenInsert_low_noise.safetensors",
+      "normalized_name": "peninsert_low_noise.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/233642a724d0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-28T15:15:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26583647849",
       "run_id": 26583647849,
@@ -26652,12 +26678,6 @@
       "normalized_name": "comfy_mtb.zip",
       "share_url": "https://pan.quark.cn/s/cb8d30799ea4",
       "completed_at": "2026-04-24T14:44:49Z"
-    },
-    {
-      "filename": "ComfyUI-Workflow-Encrypt.zip",
-      "normalized_name": "comfyui-workflow-encrypt.zip",
-      "share_url": "https://pan.quark.cn/s/58a71109c892",
-      "completed_at": "2026-04-24T14:39:44Z"
     },
     {
       "filename": "GIMM-VFI.zip",
