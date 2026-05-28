@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-28T01:22:39.268Z",
-  "lastRunId": 26548780710,
+  "updatedAt": "2026-05-28T03:42:26.058Z",
+  "lastRunId": 26552998478,
   "items": [
+    {
+      "id": "run_26552998478",
+      "run_id": 26552998478,
+      "artifact_id": 7257253859,
+      "filename": "kodorailV185Fp16.5tos.safetensors",
+      "normalized_name": "kodorailv185fp16.5tos.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a3d51053fbca",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-28T03:41:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26548780710",
       "run_id": 26548780710,
