@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-28T12:15:37.724Z",
-  "lastRunId": 26573968058,
+  "updatedAt": "2026-05-28T12:17:14.020Z",
+  "lastRunId": 26574050548,
   "items": [
+    {
+      "id": "run_26574050548",
+      "run_id": 26574050548,
+      "artifact_id": 7265559393,
+      "filename": "RX_Wan2.2_HightNoise_TranKoolth_epoch64.safetensors",
+      "normalized_name": "rx_wan2.2_hightnoise_trankoolth_epoch64.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a2d4c5432d66",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-28T12:16:28Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26573968058",
       "run_id": 26573968058,
