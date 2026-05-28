@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-28T17:10:41.676Z",
-  "lastRunId": 26589920302,
+  "updatedAt": "2026-05-28T17:24:07.276Z",
+  "lastRunId": 26590105661,
   "items": [
+    {
+      "id": "run_26590105661",
+      "run_id": 26590105661,
+      "artifact_id": 7272680860,
+      "filename": "kodorail_branchbV20.safetensors",
+      "normalized_name": "kodorail_branchbv20.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dff218d2b962",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-28T17:23:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26589920302",
       "run_id": 26589920302,
@@ -43804,7 +43817,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
