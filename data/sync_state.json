@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-28T06:57:18.520Z",
-  "lastRunId": 26559688748,
+  "updatedAt": "2026-05-28T07:34:30.502Z",
+  "lastRunId": 26561179787,
   "items": [
+    {
+      "id": "run_26561179787",
+      "run_id": 26561179787,
+      "artifact_id": 7260172564,
+      "filename": "miracleinNSFWGeneration_20Bf16.safetensors",
+      "normalized_name": "miracleinnsfwgeneration_20bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/935833f51ea6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-28T07:33:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26559688748",
       "run_id": 26559688748,
@@ -92,19 +105,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-28T01:21:57Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26547906619",
-      "run_id": 26547906619,
-      "artifact_id": 7255360906,
-      "filename": "miracleinNSFWGeneration_20Bf16.safetensors",
-      "normalized_name": "miracleinnsfwgeneration_20bf16.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/9cb7dd4aa3a6",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-28T00:57:10Z",
       "workflow": "upload.yml"
     },
     {
