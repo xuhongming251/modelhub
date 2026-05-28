@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-28T15:03:58.539Z",
-  "lastRunId": 26582831272,
+  "updatedAt": "2026-05-28T15:07:06.069Z",
+  "lastRunId": 26583183648,
   "items": [
+    {
+      "id": "run_26583183648",
+      "run_id": 26583183648,
+      "artifact_id": 7269505059,
+      "filename": "97d75124-837c-4f83-834d-525694b2ed02",
+      "normalized_name": "97d75124-837c-4f83-834d-525694b2ed02",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/26ba2888f219",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-28T15:06:21Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26582995168",
+      "run_id": 26582995168,
+      "artifact_id": 7269431813,
+      "filename": "1714002",
+      "normalized_name": "1714002",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ca09a13deb6d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-28T15:03:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26582831272",
       "run_id": 26582831272,
@@ -16202,19 +16228,6 @@
       "workflow": "upload.yml"
     },
     {
-      "id": "run_25618486320",
-      "run_id": 25618486320,
-      "artifact_id": 6900553316,
-      "filename": "1714002",
-      "normalized_name": "1714002",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/8e6a98b2eed1",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-10T03:15:26Z",
-      "workflow": "upload.yml"
-    },
-    {
       "id": "run_25618085528",
       "run_id": 25618085528,
       "artifact_id": 6900429837,
@@ -20197,12 +20210,6 @@
       "normalized_name": "luisap-z-image-agressive-uncesored-text-encoder-clip-safetensors-qwen34b",
       "share_url": "https://pan.quark.cn/s/fdad55ccb494",
       "completed_at": "2026-05-05T07:55:18Z"
-    },
-    {
-      "filename": "97d75124-837c-4f83-834d-525694b2ed02",
-      "normalized_name": "97d75124-837c-4f83-834d-525694b2ed02",
-      "share_url": "https://pan.quark.cn/s/048b3b2c8092",
-      "completed_at": "2026-05-05T07:52:17Z"
     },
     {
       "filename": "bcd791d8-8808-4809-910e-480998aec80e",
