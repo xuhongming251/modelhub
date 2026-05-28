@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-28T14:04:58.073Z",
-  "lastRunId": 26579476375,
+  "updatedAt": "2026-05-28T14:10:06.760Z",
+  "lastRunId": 26579847789,
   "items": [
+    {
+      "id": "run_26579847789",
+      "run_id": 26579847789,
+      "artifact_id": 7268070675,
+      "filename": "seedvr2_ema_7b-Q8_0.gguf",
+      "normalized_name": "seedvr2_ema_7b-q8_0.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7d490b40d9f4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-28T14:09:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26579476375",
       "run_id": 26579476375,
@@ -26885,12 +26898,6 @@
       "normalized_name": "animacolorfixv04.cz8r.safetensors",
       "share_url": "https://pan.quark.cn/s/e2bbb6699491",
       "completed_at": "2026-04-23T10:18:59Z"
-    },
-    {
-      "filename": "seedvr2_ema_7b-Q8_0.gguf",
-      "normalized_name": "seedvr2_ema_7b-q8_0.gguf",
-      "share_url": "https://pan.quark.cn/s/b4cd4ceedcab",
-      "completed_at": "2026-04-23T09:49:16Z"
     },
     {
       "filename": "Wan2.2-Lightning_I2V-A14B-4steps-lora_HIGH_fp16.safetensors",
