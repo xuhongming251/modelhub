@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-28T15:44:47.655Z",
-  "lastRunId": 26585308934,
+  "updatedAt": "2026-05-28T16:40:30.544Z",
+  "lastRunId": 26585358407,
   "items": [
+    {
+      "id": "run_26585358407",
+      "run_id": 26585358407,
+      "artifact_id": 7270457346,
+      "filename": "ComfyUI_YOLO_For_Multi_SDPose_Detection.zip",
+      "normalized_name": "comfyui_yolo_for_multi_sdpose_detection.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/aaf4d06bf937",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-28T15:44:41Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26585337958",
+      "run_id": 26585337958,
+      "artifact_id": 7270455046,
+      "filename": "ComfyUI-BodyRatioMapper.zip",
+      "normalized_name": "comfyui-bodyratiomapper.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e04d48380757",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-28T15:44:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26585308934",
       "run_id": 26585308934,
@@ -14,19 +40,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-28T15:43:59Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26584825458",
-      "run_id": 26584825458,
-      "artifact_id": 7270236110,
-      "filename": "ComfyUI-BodyRatioMapper.zip",
-      "normalized_name": "comfyui-bodyratiomapper.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/c6346a58a1c0",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-28T15:35:39Z",
       "workflow": "upload.yml"
     },
     {
@@ -118,19 +131,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-28T15:12:12Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26583454872",
-      "run_id": 26583454872,
-      "artifact_id": 7269629200,
-      "filename": "ComfyUI_YOLO_For_Multi_SDPose_Detection.zip",
-      "normalized_name": "comfyui_yolo_for_multi_sdpose_detection.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/5fbd6f30a61d",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-28T15:11:11Z",
       "workflow": "upload.yml"
     },
     {
