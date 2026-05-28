@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-28T15:36:28.838Z",
-  "lastRunId": 26584825458,
+  "updatedAt": "2026-05-28T15:44:47.655Z",
+  "lastRunId": 26585308934,
   "items": [
+    {
+      "id": "run_26585308934",
+      "run_id": 26585308934,
+      "artifact_id": 7270440487,
+      "filename": "ComfyUI-WanAnimatePlus.zip",
+      "normalized_name": "comfyui-wananimateplus.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3c9a1ff654f7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-28T15:43:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26584825458",
       "run_id": 26584825458,
@@ -677,19 +690,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-27T16:05:35Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26520014430",
-      "run_id": 26520014430,
-      "artifact_id": 7244052867,
-      "filename": "ComfyUI-WanAnimatePlus.zip",
-      "normalized_name": "comfyui-wananimateplus.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/d6861a4a023c",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-27T15:11:19Z",
       "workflow": "upload.yml"
     },
     {
