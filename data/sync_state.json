@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-28T13:09:49.039Z",
-  "lastRunId": 26576644430,
+  "updatedAt": "2026-05-28T13:25:52.006Z",
+  "lastRunId": 26577441283,
   "items": [
+    {
+      "id": "run_26577441283",
+      "run_id": 26577441283,
+      "artifact_id": 7267004574,
+      "filename": "LTX23_video_vae_bf16.safetensors",
+      "normalized_name": "ltx23_video_vae_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1f74c29a226a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-28T13:25:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26576644430",
       "run_id": 26576644430,
@@ -42753,12 +42766,6 @@
       "normalized_name": "ltx23_audio_vae_bf16.safetensors",
       "share_url": "https://pan.quark.cn/s/c3eef13240ae",
       "completed_at": "2026-03-08T09:39:25Z"
-    },
-    {
-      "filename": "LTX23_video_vae_bf16.safetensors",
-      "normalized_name": "ltx23_video_vae_bf16.safetensors",
-      "share_url": "https://pan.quark.cn/s/d52d4b2ac17e",
-      "completed_at": "2026-03-08T09:37:26Z"
     },
     {
       "filename": "ltx-2.3_text_projection_bf16.safetensors",
