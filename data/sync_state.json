@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29T18:36:17.230Z",
-  "lastRunId": 26655255224,
+  "updatedAt": "2026-05-29T18:37:23.161Z",
+  "lastRunId": 26655299690,
   "items": [
+    {
+      "id": "run_26655299690",
+      "run_id": 26655299690,
+      "artifact_id": 7298258820,
+      "filename": "add_contrast_XL.safetensors",
+      "normalized_name": "add_contrast_xl.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e1c72f1349b8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-29T18:36:40Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26655215681",
+      "run_id": 26655215681,
+      "artifact_id": 7298247729,
+      "filename": "Expressive_H-000001.safetensors",
+      "normalized_name": "expressive_h-000001.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a1ca8e3f317b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-29T18:36:06Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26655271905",
+      "run_id": 26655271905,
+      "artifact_id": 7298245942,
+      "filename": "add_brightness_XL.safetensors",
+      "normalized_name": "add_brightness_xl.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/20808695b869",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-29T18:35:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26655255224",
       "run_id": 26655255224,
@@ -18097,19 +18136,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-08T13:18:27Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25557605217",
-      "run_id": 25557605217,
-      "artifact_id": 6879956794,
-      "filename": "Expressive_H-000001.safetensors",
-      "normalized_name": "expressive_h-000001.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/af6bfa3424ec",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-08T13:16:10Z",
       "workflow": "upload.yml"
     },
     {
