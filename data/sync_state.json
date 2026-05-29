@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29T13:39:58.693Z",
-  "lastRunId": 26640514963,
+  "updatedAt": "2026-05-29T13:40:50.072Z",
+  "lastRunId": 26640600040,
   "items": [
+    {
+      "id": "run_26640600040",
+      "run_id": 26640600040,
+      "artifact_id": 7292082320,
+      "filename": "Qwen3.6-27B-mmproj-BF16.gguf",
+      "normalized_name": "qwen3.6-27b-mmproj-bf16.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a526d75ea3c0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-29T13:40:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26640514963",
       "run_id": 26640514963,
