@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29T06:17:06.526Z",
-  "lastRunId": 26620090392,
+  "updatedAt": "2026-05-29T06:51:24.809Z",
+  "lastRunId": 26622778431,
   "items": [
+    {
+      "id": "run_26622778431",
+      "run_id": 26622778431,
+      "artifact_id": 7284812567,
+      "filename": "control_v11p_sd15_openpose_fp16.safetensors",
+      "normalized_name": "control_v11p_sd15_openpose_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/01606e38d55e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-29T06:50:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26620090392",
       "run_id": 26620090392,
