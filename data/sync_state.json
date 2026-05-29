@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29T10:30:40.958Z",
-  "lastRunId": 26630686806,
+  "updatedAt": "2026-05-29T11:29:41.910Z",
+  "lastRunId": 26634667926,
   "items": [
+    {
+      "id": "run_26634667926",
+      "run_id": 26634667926,
+      "artifact_id": 7289600629,
+      "filename": "sdpose_wholebody_fp16.safetensors",
+      "normalized_name": "sdpose_wholebody_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/00219e3be4bd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-29T11:29:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26630686806",
       "run_id": 26630686806,
@@ -30603,12 +30616,6 @@
       "normalized_name": "cunnyfunkyxlillokr.d7zr.safetensors",
       "share_url": "https://pan.quark.cn/s/93e17494f934",
       "completed_at": "2026-04-12T14:16:54Z"
-    },
-    {
-      "filename": "sdpose_wholebody_fp16.safetensors",
-      "normalized_name": "sdpose_wholebody_fp16.safetensors",
-      "share_url": "https://pan.quark.cn/s/d6b8986bdce2",
-      "completed_at": "2026-04-12T12:46:03Z"
     },
     {
       "filename": "illustriousXLV01.C4Ut.safetensors",
