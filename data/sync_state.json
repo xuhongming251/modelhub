@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29T15:46:52.896Z",
-  "lastRunId": 26647024235,
+  "updatedAt": "2026-05-29T16:13:42.915Z",
+  "lastRunId": 26648359089,
   "items": [
+    {
+      "id": "run_26648359089",
+      "run_id": 26648359089,
+      "artifact_id": 7295413620,
+      "filename": "Singularity LTX-2.3  OmniCine Preview v0.1.safetensors",
+      "normalized_name": "singularity ltx-2.3  omnicine preview v0.1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f06c54ccd5f5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-29T16:13:02Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26647049795",
+      "run_id": 26647049795,
+      "artifact_id": 7294849187,
+      "filename": "pid.json",
+      "normalized_name": "pid.json",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/792a46c9a694",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-29T15:46:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26647024235",
       "run_id": 26647024235,
@@ -17005,19 +17031,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-10T02:42:20Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25617463285",
-      "run_id": 25617463285,
-      "artifact_id": 6900279324,
-      "filename": "Singularity LTX-2.3  OmniCine Preview v0.1.safetensors",
-      "normalized_name": "singularity ltx-2.3  omnicine preview v0.1.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/2bdd3f64a996",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-10T02:19:46Z",
       "workflow": "upload.yml"
     },
     {
