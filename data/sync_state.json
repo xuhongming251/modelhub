@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29T13:40:50.072Z",
-  "lastRunId": 26640600040,
+  "updatedAt": "2026-05-29T13:42:53.943Z",
+  "lastRunId": 26640624896,
   "items": [
+    {
+      "id": "run_26640624896",
+      "run_id": 26640624896,
+      "artifact_id": 7292129302,
+      "filename": "Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-Q4_K_M.gguf",
+      "normalized_name": "qwen3.6-27b-uncensored-heretic-v2-native-mtp-preserved-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f97cbe8c21fa",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-29T13:42:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26640600040",
       "run_id": 26640600040,
@@ -16914,19 +16927,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-09T14:28:26Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25602299639",
-      "run_id": 25602299639,
-      "artifact_id": 6896163756,
-      "filename": "Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-Q4_K_M.gguf",
-      "normalized_name": "qwen3.6-27b-uncensored-heretic-v2-native-mtp-preserved-q4_k_m.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/7b03f5e3d6bc",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-09T14:05:01Z",
       "workflow": "upload.yml"
     },
     {
