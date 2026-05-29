@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-28T23:51:42.878Z",
-  "lastRunId": 26609169534,
+  "updatedAt": "2026-05-29T00:02:36.717Z",
+  "lastRunId": 26609554018,
   "items": [
+    {
+      "id": "run_26609554018",
+      "run_id": 26609554018,
+      "artifact_id": 7280142117,
+      "filename": "style-anima_v1_1024_8gb_bf16.safetensors",
+      "normalized_name": "style-anima_v1_1024_8gb_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/11a2ec7dea79",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-29T00:01:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26609169534",
       "run_id": 26609169534,
