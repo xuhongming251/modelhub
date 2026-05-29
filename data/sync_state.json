@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29T13:04:21.543Z",
-  "lastRunId": 26638819010,
+  "updatedAt": "2026-05-29T13:19:37.959Z",
+  "lastRunId": 26639549422,
   "items": [
+    {
+      "id": "run_26639549422",
+      "run_id": 26639549422,
+      "artifact_id": 7291619649,
+      "filename": "u2net_human_seg.onnx",
+      "normalized_name": "u2net_human_seg.onnx",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/41792cf675b0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-29T13:18:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26638819010",
       "run_id": 26638819010,
@@ -25296,12 +25309,6 @@
       "normalized_name": "clip_l_hidream.safetensors",
       "share_url": "https://pan.quark.cn/s/da1c102049eb",
       "completed_at": "2026-04-27T17:26:00Z"
-    },
-    {
-      "filename": "u2net_human_seg.onnx",
-      "normalized_name": "u2net_human_seg.onnx",
-      "share_url": "https://pan.quark.cn/s/d69056072dd1",
-      "completed_at": "2026-04-27T16:20:27Z"
     },
     {
       "filename": "hakutoxl_v2.safetensors",
