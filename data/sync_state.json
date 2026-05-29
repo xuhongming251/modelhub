@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29T14:56:35.645Z",
-  "lastRunId": 26644396614,
+  "updatedAt": "2026-05-29T15:11:07.506Z",
+  "lastRunId": 26645170835,
   "items": [
+    {
+      "id": "run_26645170835",
+      "run_id": 26645170835,
+      "artifact_id": 7294073559,
+      "filename": "redlspExtractedLora.2Iny.safetensors",
+      "normalized_name": "redlspextractedlora.2iny.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8eadec89e204",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-29T15:10:27Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26644396614",
       "run_id": 26644396614,
@@ -26615,12 +26628,6 @@
       "normalized_name": "eventhorizonillustri_3dv10.safetensors",
       "share_url": "https://pan.quark.cn/s/81a54da72db4",
       "completed_at": "2026-04-25T14:54:07Z"
-    },
-    {
-      "filename": "redlspExtractedLora.2Iny.safetensors",
-      "normalized_name": "redlspextractedlora.2iny.safetensors",
-      "share_url": "https://pan.quark.cn/s/c44a5dbba4fc",
-      "completed_at": "2026-04-25T13:55:13Z"
     },
     {
       "filename": "7.2.71.zip",
