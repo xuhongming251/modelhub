@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29T14:33:07.594Z",
-  "lastRunId": 26643234177,
+  "updatedAt": "2026-05-29T14:34:31.213Z",
+  "lastRunId": 26643310531,
   "items": [
+    {
+      "id": "run_26643310531",
+      "run_id": 26643310531,
+      "artifact_id": 7293282452,
+      "filename": "CielBleu ZIT.qwen34b.Ddk1.safetensors",
+      "normalized_name": "cielbleu zit.qwen34b.ddk1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/899916f0fced",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-29T14:33:58Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26643292426",
+      "run_id": 26643292426,
+      "artifact_id": 7293258218,
+      "filename": "CielBleu ZIT.ae.ptYk.safetensors",
+      "normalized_name": "cielbleu zit.ae.ptyk.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/80cfec77e72a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-29T14:32:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26643234177",
       "run_id": 26643234177,
@@ -44222,7 +44248,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
