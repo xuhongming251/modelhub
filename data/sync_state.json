@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29T17:03:54.291Z",
-  "lastRunId": 26650806758,
+  "updatedAt": "2026-05-29T17:13:38.044Z",
+  "lastRunId": 26651298004,
   "items": [
+    {
+      "id": "run_26651277642",
+      "run_id": 26651277642,
+      "artifact_id": 7296628174,
+      "filename": "Justia_Brown_Dust_2.safetensors",
+      "normalized_name": "justia_brown_dust_2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/554638a41d6a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-29T17:13:11Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26651298004",
+      "run_id": 26651298004,
+      "artifact_id": 7296621102,
+      "filename": "UT1.safetensors",
+      "normalized_name": "ut1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/18fed31ce0e8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-29T17:12:51Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26650806758",
       "run_id": 26650806758,
