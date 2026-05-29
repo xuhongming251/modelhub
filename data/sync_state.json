@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29T07:11:48.475Z",
-  "lastRunId": 26623566021,
+  "updatedAt": "2026-05-29T07:56:12.107Z",
+  "lastRunId": 26625401013,
   "items": [
+    {
+      "id": "run_26625401013",
+      "run_id": 26625401013,
+      "artifact_id": 7285858027,
+      "filename": "v1-5-pruned-emaonly.ckpt",
+      "normalized_name": "v1-5-pruned-emaonly.ckpt",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6e6fa1c9af73",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-29T07:55:29Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26623566021",
       "run_id": 26623566021,
