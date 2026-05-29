@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29T04:57:41.151Z",
-  "lastRunId": 26618872643,
+  "updatedAt": "2026-05-29T05:16:02.319Z",
+  "lastRunId": 26619459753,
   "items": [
+    {
+      "id": "run_26619459753",
+      "run_id": 26619459753,
+      "artifact_id": 7283588721,
+      "filename": "z-image-turbo-base-t2i-wf-7x-detailer-sdxl-definer-seedvr2-upscaler-seed-variance-nsfw-fix-gguf-support",
+      "normalized_name": "z-image-turbo-base-t2i-wf-7x-detailer-sdxl-definer-seedvr2-upscaler-seed-variance-nsfw-fix-gguf-support",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b020d08d95c3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-29T05:15:23Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26618872643",
       "run_id": 26618872643,
