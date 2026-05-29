@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29T13:19:37.959Z",
+  "updatedAt": "2026-05-29T13:30:49.232Z",
   "lastRunId": 26639549422,
   "items": [
+    {
+      "id": "run_26638718263",
+      "run_id": 26638718263,
+      "artifact_id": 7291864147,
+      "filename": "ltx-2.3-22b-distilled_transformer_only_fp8_input_scaled_v3.safetensors",
+      "normalized_name": "ltx-2.3-22b-distilled_transformer_only_fp8_input_scaled_v3.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a64098fa43ed",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-29T13:30:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26639549422",
       "run_id": 26639549422,
@@ -21121,12 +21134,6 @@
       "normalized_name": "sulphur_dev_bf16.safetensors",
       "share_url": "https://pan.quark.cn/s/4280db8e1328",
       "completed_at": "2026-05-04T03:07:00Z"
-    },
-    {
-      "filename": "ltx-2.3-22b-distilled_transformer_only_fp8_input_scaled_v3.safetensors",
-      "normalized_name": "ltx-2.3-22b-distilled_transformer_only_fp8_input_scaled_v3.safetensors",
-      "share_url": "https://pan.quark.cn/s/d262ab6af667",
-      "completed_at": "2026-05-04T02:52:05Z"
     },
     {
       "filename": "gemma-3-12b-it-heretic-v2-Q4_K_M.gguf",
