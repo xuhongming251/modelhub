@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-30T16:43:24.336Z",
-  "lastRunId": 26689287709,
+  "updatedAt": "2026-05-30T17:09:58.701Z",
+  "lastRunId": 26689879394,
   "items": [
+    {
+      "id": "run_26689879394",
+      "run_id": 26689879394,
+      "artifact_id": 7309887808,
+      "filename": "LTX2.3_Breasts_Jiggle_Physics.safetensors",
+      "normalized_name": "ltx2.3_breasts_jiggle_physics.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/71b9ade2dd48",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-30T17:09:26Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26689287709",
       "run_id": 26689287709,
@@ -15094,19 +15107,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-13T05:15:40Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25779687896",
-      "run_id": 25779687896,
-      "artifact_id": 6962088903,
-      "filename": "LTX2.3_Breasts_Jiggle_Physics.safetensors",
-      "normalized_name": "ltx2.3_breasts_jiggle_physics.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/45b0856c258b",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-13T05:11:49Z",
       "workflow": "upload.yml"
     },
     {
