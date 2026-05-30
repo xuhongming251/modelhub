@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-30T05:41:10.235Z",
-  "lastRunId": 26675938818,
+  "updatedAt": "2026-05-30T05:54:34.202Z",
+  "lastRunId": 26676201103,
   "items": [
+    {
+      "id": "run_26676201103",
+      "run_id": 26676201103,
+      "artifact_id": 7305852479,
+      "filename": "comfyui-inpaint-nodes.zip",
+      "normalized_name": "comfyui-inpaint-nodes.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f816f24f28b4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-30T05:53:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26675938818",
       "run_id": 26675938818,
@@ -18851,19 +18864,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-07T16:56:42Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25509873938",
-      "run_id": 25509873938,
-      "artifact_id": 6861258788,
-      "filename": "comfyui-inpaint-nodes.zip",
-      "normalized_name": "comfyui-inpaint-nodes.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/1751139a0f2a",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-07T16:53:26Z",
       "workflow": "upload.yml"
     },
     {
