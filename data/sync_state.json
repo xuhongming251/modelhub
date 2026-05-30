@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-30T15:59:03.790Z",
-  "lastRunId": 26688307119,
+  "updatedAt": "2026-05-30T16:43:24.336Z",
+  "lastRunId": 26689287709,
   "items": [
+    {
+      "id": "run_26689287709",
+      "run_id": 26689287709,
+      "artifact_id": 7309722282,
+      "filename": "ffmpeg-release-full.7z",
+      "normalized_name": "ffmpeg-release-full.7z",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/64f1e174369c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-30T16:42:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26688307119",
       "run_id": 26688307119,
@@ -29351,12 +29364,6 @@
       "normalized_name": "uwazumimix50.9itc.safetensors",
       "share_url": "https://pan.quark.cn/s/7042a7dfe47a",
       "completed_at": "2026-04-19T06:03:13Z"
-    },
-    {
-      "filename": "ffmpeg-release-full.7z",
-      "normalized_name": "ffmpeg-release-full.7z",
-      "share_url": "https://pan.quark.cn/s/139df1614c9d",
-      "completed_at": "2026-04-19T05:18:24Z"
     },
     {
       "filename": "vcpkg.exe",
