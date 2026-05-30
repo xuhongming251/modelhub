@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-30T12:09:28.202Z",
-  "lastRunId": 26683123239,
+  "updatedAt": "2026-05-30T12:42:25.549Z",
+  "lastRunId": 26683312805,
   "items": [
+    {
+      "id": "run_26683312805",
+      "run_id": 26683312805,
+      "artifact_id": 7308249239,
+      "filename": "Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-Q4_K_S.gguf",
+      "normalized_name": "qwen3.6-27b-uncensored-heretic-v2-native-mtp-preserved-q4_k_s.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/07df086e7d65",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-30T12:41:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26683111637",
       "run_id": 26683111637,
