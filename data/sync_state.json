@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-30T05:08:12.892Z",
-  "lastRunId": 26675286052,
+  "updatedAt": "2026-05-30T05:23:10.580Z",
+  "lastRunId": 26675580055,
   "items": [
+    {
+      "id": "run_26675580055",
+      "run_id": 26675580055,
+      "artifact_id": 7305649694,
+      "filename": "ComfyUI_Custom_Nodes_AlekPet.zip",
+      "normalized_name": "comfyui_custom_nodes_alekpet.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/31119ecec471",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-30T05:22:36Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26675286052",
       "run_id": 26675286052,
@@ -38314,12 +38327,6 @@
       "normalized_name": "realism_engine_klein_v2.safetensors",
       "share_url": "https://pan.quark.cn/s/cd09d047a4ed",
       "completed_at": "2026-03-19T13:55:12Z"
-    },
-    {
-      "filename": "ComfyUI_Custom_Nodes_AlekPet.zip",
-      "normalized_name": "comfyui_custom_nodes_alekpet.zip",
-      "share_url": "https://pan.quark.cn/s/8197a9f996df",
-      "completed_at": "2026-03-19T13:54:52Z"
     },
     {
       "filename": "Dogeza.safetensors",
