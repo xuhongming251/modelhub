@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-31T17:57:04.242Z",
-  "lastRunId": 26720096944,
+  "updatedAt": "2026-05-31T18:10:01.033Z",
+  "lastRunId": 26720402356,
   "items": [
+    {
+      "id": "run_26720402356",
+      "run_id": 26720402356,
+      "artifact_id": 7318921358,
+      "filename": "ComfyUI-Chinese-Translation.zip",
+      "normalized_name": "comfyui-chinese-translation.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7a9fb65deb22",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-31T18:09:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26720096944",
       "run_id": 26720096944,
@@ -32100,12 +32113,6 @@
       "normalized_name": "hyper-sd cfg12steps.zip",
       "share_url": "https://pan.quark.cn/s/28377e310817",
       "completed_at": "2026-04-08T14:18:07Z"
-    },
-    {
-      "filename": "ComfyUI-Chinese-Translation.zip",
-      "normalized_name": "comfyui-chinese-translation.zip",
-      "share_url": "https://pan.quark.cn/s/68ff95d9afaf",
-      "completed_at": "2026-04-08T13:45:54Z"
     },
     {
       "filename": "zitc61BF16Diffusion.FYqN.safetensors",
