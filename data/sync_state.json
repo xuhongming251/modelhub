@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-31T17:37:11.098Z",
-  "lastRunId": 26719644085,
+  "updatedAt": "2026-05-31T17:57:04.242Z",
+  "lastRunId": 26720096944,
   "items": [
+    {
+      "id": "run_26720096944",
+      "run_id": 26720096944,
+      "artifact_id": 7318840114,
+      "filename": "ComfyUI-Crystools.zip",
+      "normalized_name": "comfyui-crystools.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4fa2ab680480",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-31T17:56:26Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26719644085",
       "run_id": 26719644085,
@@ -30539,12 +30552,6 @@
       "normalized_name": "cyberrealisticzitv40.diit.safetensors",
       "share_url": "https://pan.quark.cn/s/8596d9251ed6",
       "completed_at": "2026-04-18T05:17:09Z"
-    },
-    {
-      "filename": "comfyui-crystools.zip",
-      "normalized_name": "comfyui-crystools.zip",
-      "share_url": "https://pan.quark.cn/s/23245b0a0fd6",
-      "completed_at": "2026-04-18T04:46:45Z"
     },
     {
       "filename": "Qwen3.6-35B-A3B-Abliterated-Heretic-Q4_K_M.gguf",
