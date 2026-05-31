@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-31T10:05:06.149Z",
-  "lastRunId": 26709637366,
+  "updatedAt": "2026-05-31T10:06:03.531Z",
+  "lastRunId": 26709647476,
   "items": [
+    {
+      "id": "run_26709647476",
+      "run_id": 26709647476,
+      "artifact_id": 7315825776,
+      "filename": "LTX-2.3-Guofeng-V0.1.safetensors",
+      "normalized_name": "ltx-2.3-guofeng-v0.1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7a35f9e3955a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-31T10:05:28Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26709637366",
       "run_id": 26709637366,
