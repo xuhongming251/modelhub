@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-31T11:37:10.971Z",
-  "lastRunId": 26711507520,
+  "updatedAt": "2026-05-31T11:48:55.288Z",
+  "lastRunId": 26711755897,
   "items": [
+    {
+      "id": "run_26711755897",
+      "run_id": 26711755897,
+      "artifact_id": 7316460490,
+      "filename": "t2i-adapter_xl_openpose.safetensors",
+      "normalized_name": "t2i-adapter_xl_openpose.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b40f75a70acd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-31T11:48:20Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26711507520",
       "run_id": 26711507520,
