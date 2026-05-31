@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-31T09:50:14.859Z",
-  "lastRunId": 26709323740,
+  "updatedAt": "2026-05-31T10:05:06.149Z",
+  "lastRunId": 26709637366,
   "items": [
+    {
+      "id": "run_26709637366",
+      "run_id": 26709637366,
+      "artifact_id": 7315820404,
+      "filename": "LTX2.3_Soft_Enhance.safetensors",
+      "normalized_name": "ltx2.3_soft_enhance.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/660805cfa40f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-31T10:04:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26709323740",
       "run_id": 26709323740,
