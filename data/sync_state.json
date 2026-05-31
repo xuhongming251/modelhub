@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-31T12:12:59.949Z",
-  "lastRunId": 26712172661,
+  "updatedAt": "2026-05-31T12:16:42.698Z",
+  "lastRunId": 26712331256,
   "items": [
+    {
+      "id": "run_26712331256",
+      "run_id": 26712331256,
+      "artifact_id": 7316633922,
+      "filename": "controlnet-Tile-sdxl_v2_fp16.safetensors",
+      "normalized_name": "controlnet-tile-sdxl_v2_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ed6ac58cbac3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-31T12:16:12Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26712172661",
       "run_id": 26712172661,
