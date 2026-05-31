@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-31T12:25:16.366Z",
-  "lastRunId": 26712517225,
+  "updatedAt": "2026-05-31T12:34:33.337Z",
+  "lastRunId": 26712704225,
   "items": [
+    {
+      "id": "run_26712704225",
+      "run_id": 26712704225,
+      "artifact_id": 7316742698,
+      "filename": "illustriousXLv0.1_depth_midas_fp16.safetensors",
+      "normalized_name": "illustriousxlv0.1_depth_midas_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ccc1ab913c9c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-31T12:33:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26712517225",
       "run_id": 26712517225,
