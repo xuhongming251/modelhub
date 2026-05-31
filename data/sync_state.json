@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-31T11:48:55.288Z",
-  "lastRunId": 26711755897,
+  "updatedAt": "2026-05-31T12:12:31.019Z",
+  "lastRunId": 26712172661,
   "items": [
+    {
+      "id": "run_26712172661",
+      "run_id": 26712172661,
+      "artifact_id": 7316609488,
+      "filename": "Qwen3.6-35B-A3B-Uncensored-Genesis-MTP-APEX-Compact.gguf",
+      "normalized_name": "qwen3.6-35b-a3b-uncensored-genesis-mtp-apex-compact.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9833bca258e6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-05-31T12:11:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26711755897",
       "run_id": 26711755897,
