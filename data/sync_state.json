@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T13:28:57.045Z",
+  "updatedAt": "2026-06-01T13:30:51.353Z",
   "lastRunId": 26757872776,
   "items": [
+    {
+      "id": "run_26757750905",
+      "run_id": 26757750905,
+      "artifact_id": 7332762121,
+      "filename": "model-00005-of-00005.safetensors",
+      "normalized_name": "model-00005-of-00005.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/971b92d9a69c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-01T13:30:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26757872776",
       "run_id": 26757872776,
@@ -44223,12 +44236,6 @@
       "normalized_name": "defeat20suspensionil.ss4m.safetensors",
       "share_url": "https://pan.quark.cn/s/0747a6ecd899",
       "completed_at": "2026-03-10T08:36:45Z"
-    },
-    {
-      "filename": "model-00005-of-00005.safetensors",
-      "normalized_name": "model-00005-of-00005.safetensors",
-      "share_url": "https://pan.quark.cn/s/12d9a7d5ea31",
-      "completed_at": "2026-03-10T08:35:06Z"
     },
     {
       "filename": "model-00004-of-00005.safetensors",
