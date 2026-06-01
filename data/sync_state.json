@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T13:26:37.556Z",
-  "lastRunId": 26757758950,
+  "updatedAt": "2026-06-01T13:28:57.045Z",
+  "lastRunId": 26757872776,
   "items": [
+    {
+      "id": "run_26757872776",
+      "run_id": 26757872776,
+      "artifact_id": 7332716727,
+      "filename": "kohya_controllllite_xl_canny_anime.safetensors",
+      "normalized_name": "kohya_controllllite_xl_canny_anime.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c9aa7f02fb67",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-01T13:28:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26757758950",
       "run_id": 26757758950,
@@ -40,19 +53,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-01T13:24:39Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26757603049",
-      "run_id": 26757603049,
-      "artifact_id": 7332601917,
-      "filename": "kohya_controllllite_xl_canny_anime.safetensors",
-      "normalized_name": "kohya_controllllite_xl_canny_anime.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/523458652078",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-01T13:22:53Z",
       "workflow": "upload.yml"
     },
     {
