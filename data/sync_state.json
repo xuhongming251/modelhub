@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T11:38:32.373Z",
-  "lastRunId": 26752421472,
+  "updatedAt": "2026-06-01T11:50:42.283Z",
+  "lastRunId": 26752725147,
   "items": [
+    {
+      "id": "run_26752725147",
+      "run_id": 26752725147,
+      "artifact_id": 7330665562,
+      "filename": "sparsityAnima_v1.safetensors",
+      "normalized_name": "sparsityanima_v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/db2d92bf2f47",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-01T11:50:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26752421472",
       "run_id": 26752421472,
