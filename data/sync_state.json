@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T13:19:12.039Z",
-  "lastRunId": 26757346893,
+  "updatedAt": "2026-06-01T13:22:54.726Z",
+  "lastRunId": 26757559639,
   "items": [
+    {
+      "id": "run_26757559639",
+      "run_id": 26757559639,
+      "artifact_id": 7332589984,
+      "filename": "thibaud_xl_openpose_256lora.safetensors",
+      "normalized_name": "thibaud_xl_openpose_256lora.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/33d0b4303e68",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-01T13:22:24Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26757547877",
+      "run_id": 26757547877,
+      "artifact_id": 7332583732,
+      "filename": "thibaud_xl_openpose.safetensors",
+      "normalized_name": "thibaud_xl_openpose.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e57e472fcf8e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-01T13:22:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26757346893",
       "run_id": 26757346893,
@@ -33903,12 +33929,6 @@
       "normalized_name": "flux1dev.ojbw.safetensors",
       "share_url": "https://pan.quark.cn/s/ced743d81839",
       "completed_at": "2026-04-04T15:53:13Z"
-    },
-    {
-      "filename": "thibaud_xl_openpose.safetensors",
-      "normalized_name": "thibaud_xl_openpose.safetensors",
-      "share_url": "https://pan.quark.cn/s/14333526641e",
-      "completed_at": "2026-04-04T15:16:29Z"
     },
     {
       "filename": "浮世绘平涂适用于风景",
