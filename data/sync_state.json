@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T15:36:22.229Z",
-  "lastRunId": 26764763515,
+  "updatedAt": "2026-06-01T16:12:09.120Z",
+  "lastRunId": 26766679302,
   "items": [
+    {
+      "id": "run_26766679302",
+      "run_id": 26766679302,
+      "artifact_id": 7336698051,
+      "filename": "DeepSeek-V2-Lite-Chat-Uncensored.Q4_K_M.gguf",
+      "normalized_name": "deepseek-v2-lite-chat-uncensored.q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/df70aef58f3b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-01T16:11:25Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26764763515",
       "run_id": 26764763515,
