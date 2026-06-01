@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T05:26:02.368Z",
-  "lastRunId": 26736841235,
+  "updatedAt": "2026-06-01T05:43:07.370Z",
+  "lastRunId": 26737377525,
   "items": [
+    {
+      "id": "run_26737377525",
+      "run_id": 26737377525,
+      "artifact_id": 7324178910,
+      "filename": "PVCStyleModelMovable_ckxlEPS11.safetensors",
+      "normalized_name": "pvcstylemodelmovable_ckxleps11.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2f6f745c0b1e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-01T05:42:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26736841235",
       "run_id": 26736841235,
@@ -4785,19 +4798,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-25T15:39:57Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26407935301",
-      "run_id": 26407935301,
-      "artifact_id": 7201099287,
-      "filename": "PVCStyleModelMovable_ckxlEPS11.safetensors",
-      "normalized_name": "pvcstylemodelmovable_ckxleps11.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/91fbaf112bec",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-25T15:39:51Z",
       "workflow": "upload.yml"
     },
     {
