@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T13:25:33.928Z",
-  "lastRunId": 26757689580,
+  "updatedAt": "2026-06-01T13:26:37.556Z",
+  "lastRunId": 26757758950,
   "items": [
+    {
+      "id": "run_26757758950",
+      "run_id": 26757758950,
+      "artifact_id": 7332670953,
+      "filename": "model-auxiliary.safetensors",
+      "normalized_name": "model-auxiliary.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/acc82c76c06a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-01T13:25:59Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26757326267",
+      "run_id": 26757326267,
+      "artifact_id": 7332657899,
+      "filename": "Nova Anime AM v20.safetensors",
+      "normalized_name": "nova anime am v20.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6cea838f232c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-01T13:25:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26757689580",
       "run_id": 26757689580,
