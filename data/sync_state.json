@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T08:54:33.279Z",
-  "lastRunId": 26744998486,
+  "updatedAt": "2026-06-01T08:59:20.358Z",
+  "lastRunId": 26745225920,
   "items": [
+    {
+      "id": "run_26745225920",
+      "run_id": 26745225920,
+      "artifact_id": 7327344405,
+      "filename": "306",
+      "normalized_name": "306",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3a09c7dad9bc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-01T08:58:43Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26744998486",
       "run_id": 26744998486,
@@ -43174,12 +43187,6 @@
       "normalized_name": "models--jonathandinu--face-parsing",
       "share_url": "https://pan.quark.cn/s/4c8c5c701d92",
       "completed_at": "2026-03-12T08:58:45Z"
-    },
-    {
-      "filename": "306",
-      "normalized_name": "306",
-      "share_url": "https://pan.quark.cn/s/f8c57f5e60ac",
-      "completed_at": "2026-03-12T08:19:45Z"
     },
     {
       "filename": "燕云十六声_盈盈.safetensors",
