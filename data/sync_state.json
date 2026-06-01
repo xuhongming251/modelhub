@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T11:50:42.283Z",
-  "lastRunId": 26752725147,
+  "updatedAt": "2026-06-01T12:07:22.151Z",
+  "lastRunId": 26753863151,
   "items": [
+    {
+      "id": "run_26753863151",
+      "run_id": 26753863151,
+      "artifact_id": 7330998908,
+      "filename": "ip-adapter-faceid-plusv2_sdxl_lora.safetensors",
+      "normalized_name": "ip-adapter-faceid-plusv2_sdxl_lora.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/274bbee98569",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-01T12:06:48Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26753847742",
+      "run_id": 26753847742,
+      "artifact_id": 7330994399,
+      "filename": "ip-adapter-faceid-plusv2_sdxl.bin",
+      "normalized_name": "ip-adapter-faceid-plusv2_sdxl.bin",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b7a55e040b52",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-01T12:06:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26752725147",
       "run_id": 26752725147,
@@ -21545,19 +21571,6 @@
       "workflow": "upload.yml"
     },
     {
-      "id": "run_25428334505",
-      "run_id": 25428334505,
-      "artifact_id": 6827266358,
-      "filename": "ip-adapter-faceid-plusv2_sdxl_lora.safetensors",
-      "normalized_name": "ip-adapter-faceid-plusv2_sdxl_lora.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/85695604ea55",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-06T09:52:44Z",
-      "workflow": "upload.yml"
-    },
-    {
       "id": "run_25428009029",
       "run_id": 25428009029,
       "artifact_id": 6827251549,
@@ -29242,12 +29255,6 @@
       "normalized_name": "clip_g.safetensors",
       "share_url": "https://pan.quark.cn/s/08d278992dae",
       "completed_at": "2026-04-22T15:47:45Z"
-    },
-    {
-      "filename": "ip-adapter-faceid-plusv2_sdxl.bin",
-      "normalized_name": "ip-adapter-faceid-plusv2_sdxl.bin",
-      "share_url": "https://pan.quark.cn/s/4310a3d1fe3c",
-      "completed_at": "2026-04-22T15:25:15Z"
     },
     {
       "filename": "CLIP-ViT-bigG-14-laion2B-39B-b160k.safetensors.git",
