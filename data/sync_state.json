@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T03:37:57.831Z",
-  "lastRunId": 26733779072,
+  "updatedAt": "2026-06-01T03:40:23.033Z",
+  "lastRunId": 26733842159,
   "items": [
+    {
+      "id": "run_26733842159",
+      "run_id": 26733842159,
+      "artifact_id": 7322992974,
+      "filename": "bolaV08000034.IexK.safetensors",
+      "normalized_name": "bolav08000034.iexk.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0c4f4054b813",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-01T03:39:51Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26733779072",
       "run_id": 26733779072,
@@ -42351,12 +42364,6 @@
       "normalized_name": "ltx-2-19b-lora-camera-control-static.safetensors",
       "share_url": "https://pan.quark.cn/s/35816210a0cc",
       "completed_at": "2026-03-14T08:10:04Z"
-    },
-    {
-      "filename": "bolaV08000034.IexK.safetensors",
-      "normalized_name": "bolav08000034.iexk.safetensors",
-      "share_url": "https://pan.quark.cn/s/c56ad5d1ff58",
-      "completed_at": "2026-03-14T07:54:00Z"
     },
     {
       "filename": "anime2real",
