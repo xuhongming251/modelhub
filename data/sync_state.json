@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T13:32:48.532Z",
+  "updatedAt": "2026-06-01T13:34:08.062Z",
   "lastRunId": 26757872776,
   "items": [
+    {
+      "id": "run_26757734697",
+      "run_id": 26757734697,
+      "artifact_id": 7332839034,
+      "filename": "model-00002-of-00005.safetensors",
+      "normalized_name": "model-00002-of-00005.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8bfd65058e71",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-01T13:33:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26757742255",
       "run_id": 26757742255,
@@ -44268,12 +44281,6 @@
       "normalized_name": "model-00003-of-00005.safetensors",
       "share_url": "https://pan.quark.cn/s/9d8a83fe0fa2",
       "completed_at": "2026-03-10T08:34:52Z"
-    },
-    {
-      "filename": "model-00002-of-00005.safetensors",
-      "normalized_name": "model-00002-of-00005.safetensors",
-      "share_url": "https://pan.quark.cn/s/abb0232a5b51",
-      "completed_at": "2026-03-10T08:34:35Z"
     },
     {
       "filename": "Fat_Zombie_-_7_days_to_die.safetensors",
