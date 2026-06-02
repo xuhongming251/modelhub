@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T14:45:06.096Z",
-  "lastRunId": 26827351625,
+  "updatedAt": "2026-06-02T14:46:23.036Z",
+  "lastRunId": 26827447825,
   "items": [
+    {
+      "id": "run_26827447825",
+      "run_id": 26827447825,
+      "artifact_id": 7361072578,
+      "filename": "131665560.mp4",
+      "normalized_name": "131665560.mp4",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b6609ffa602f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-02T14:45:29Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26824866218",
       "run_id": 26824866218,
@@ -46471,7 +46484,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
