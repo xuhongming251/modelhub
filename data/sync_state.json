@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T07:46:04.087Z",
-  "lastRunId": 26805909689,
+  "updatedAt": "2026-06-02T08:26:07.463Z",
+  "lastRunId": 26807807826,
   "items": [
+    {
+      "id": "run_26807807826",
+      "run_id": 26807807826,
+      "artifact_id": 7352633674,
+      "filename": "LTX-2.3-OmniNFT-RL-Lora_bf16.safetensors",
+      "normalized_name": "ltx-2.3-omninft-rl-lora_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f8d08bc6d469",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-02T08:25:29Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26805909689",
       "run_id": 26805909689,
