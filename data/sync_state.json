@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T14:03:43.487Z",
-  "lastRunId": 26824567158,
+  "updatedAt": "2026-06-02T14:38:07.297Z",
+  "lastRunId": 26826952808,
   "items": [
+    {
+      "id": "run_26826952808",
+      "run_id": 26826952808,
+      "artifact_id": 7360852256,
+      "filename": "buffalo_l.zip",
+      "normalized_name": "buffalo_l.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9b609c7b5b8f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-02T14:37:19Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26824592452",
+      "run_id": 26824592452,
+      "artifact_id": 7359950879,
+      "filename": "DasiwaWAN22I2V14BLightspeed_synthseductionHighV9.safetensors",
+      "normalized_name": "dasiwawan22i2v14blightspeed_synthseductionhighv9.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a28349f43b23",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-02T14:03:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26824567158",
       "run_id": 26824567158,
@@ -35272,12 +35298,6 @@
       "normalized_name": "reazit20v10.yn5k.safetensors",
       "share_url": "https://pan.quark.cn/s/7f1f93fd316a",
       "completed_at": "2026-04-02T05:35:11Z"
-    },
-    {
-      "filename": "buffalo_l.zip",
-      "normalized_name": "buffalo_l.zip",
-      "share_url": "https://pan.quark.cn/s/4b07516278fb",
-      "completed_at": "2026-04-02T04:39:24Z"
     },
     {
       "filename": "inswapper_128.onnx",
