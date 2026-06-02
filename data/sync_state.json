@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T15:01:18.180Z",
-  "lastRunId": 26828351393,
+  "updatedAt": "2026-06-02T15:03:47.988Z",
+  "lastRunId": 26828522368,
   "items": [
+    {
+      "id": "run_26828522368",
+      "run_id": 26828522368,
+      "artifact_id": 7361551843,
+      "filename": "POVIramatio_CumReverseV2_L_Wan2-2_i2v_A14B.safetensors",
+      "normalized_name": "poviramatio_cumreversev2_l_wan2-2_i2v_a14b.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/edfe0d757df3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-02T15:02:54Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26828319677",
+      "run_id": 26828319677,
+      "artifact_id": 7361493021,
+      "filename": "Mouri_Ran_4th_Movie_-_Detective_Conan_ILXL.safetensors",
+      "normalized_name": "mouri_ran_4th_movie_-_detective_conan_ilxl.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/de5e9976fd66",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-02T15:00:44Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26828351393",
       "run_id": 26828351393,
@@ -46536,7 +46562,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
