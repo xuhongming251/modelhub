@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T13:02:37.248Z",
-  "lastRunId": 26821408237,
+  "updatedAt": "2026-06-02T13:05:29.208Z",
+  "lastRunId": 26821560591,
   "items": [
+    {
+      "id": "run_26821560591",
+      "run_id": 26821560591,
+      "artifact_id": 7358451374,
+      "filename": "morning_lighting-step00000200.safetensors",
+      "normalized_name": "morning_lighting-step00000200.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a7e4f53a46f1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-02T13:04:36Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26821459019",
+      "run_id": 26821459019,
+      "artifact_id": 7358404292,
+      "filename": "dusk_lightingstep-00000200.safetensors",
+      "normalized_name": "dusk_lightingstep-00000200.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7a8747e11a43",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-02T13:02:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26821408237",
       "run_id": 26821408237,
