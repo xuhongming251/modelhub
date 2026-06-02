@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T16:03:48.775Z",
-  "lastRunId": 26832059938,
+  "updatedAt": "2026-06-02T16:08:38.580Z",
+  "lastRunId": 26832334071,
   "items": [
+    {
+      "id": "run_26832334071",
+      "run_id": 26832334071,
+      "artifact_id": 7363262925,
+      "filename": "fcomicHardcoreILV2.UOct.safetensors",
+      "normalized_name": "fcomichardcoreilv2.uoct.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7271c5ec757d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-02T16:07:44Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26832059938",
       "run_id": 26832059938,
@@ -33171,12 +33184,6 @@
       "normalized_name": "extremesexv20.6568.safetensors",
       "share_url": "https://pan.quark.cn/s/bd625aa0434a",
       "completed_at": "2026-04-12T17:12:37Z"
-    },
-    {
-      "filename": "fcomicHardcoreILV2.UOct.safetensors",
-      "normalized_name": "fcomichardcoreilv2.uoct.safetensors",
-      "share_url": "https://pan.quark.cn/s/29bb428822bf",
-      "completed_at": "2026-04-12T17:12:11Z"
     },
     {
       "filename": "Qwen3.5-35B-A3B-MXFP4_MOE.gguf",
