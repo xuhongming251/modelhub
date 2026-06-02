@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02T15:03:47.988Z",
-  "lastRunId": 26828522368,
+  "updatedAt": "2026-06-02T15:17:00.300Z",
+  "lastRunId": 26828572426,
   "items": [
+    {
+      "id": "run_26828372360",
+      "run_id": 26828372360,
+      "artifact_id": 7361919316,
+      "filename": "dasiwaWan22I2V14B.nqBw.safetensors",
+      "normalized_name": "dasiwawan22i2v14b.nqbw.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7eec38f08430",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-02T15:16:01Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26828572426",
+      "run_id": 26828572426,
+      "artifact_id": 7361576009,
+      "filename": "POVIramatio_CumReverseV2_H_Wan2-2_i2v_A14B.safetensors",
+      "normalized_name": "poviramatio_cumreversev2_h_wan2-2_i2v_a14b.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5bfeb8de79fa",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-02T15:03:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26828522368",
       "run_id": 26828522368,
@@ -46562,7 +46588,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
