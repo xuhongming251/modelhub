@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T17:26:20.208Z",
-  "lastRunId": 26901441646,
+  "updatedAt": "2026-06-03T17:41:20.983Z",
+  "lastRunId": 26902250079,
   "items": [
+    {
+      "id": "run_26902250079",
+      "run_id": 26902250079,
+      "artifact_id": 7392235106,
+      "filename": "ltx23ReasoningI2VV3.7hxn.safetensors",
+      "normalized_name": "ltx23reasoningi2vv3.7hxn.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6d2fde6b7174",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-03T17:40:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26901441646",
       "run_id": 26901441646,
@@ -24986,12 +24999,6 @@
       "normalized_name": "kohakuxlnyan.1bl1.safetensors",
       "share_url": "https://pan.quark.cn/s/14aeeeac016a",
       "completed_at": "2026-05-03T10:09:17Z"
-    },
-    {
-      "filename": "ltx23ReasoningI2VV3.7hxn.safetensors",
-      "normalized_name": "ltx23reasoningi2vv3.7hxn.safetensors",
-      "share_url": "https://pan.quark.cn/s/46ebd2f40af3",
-      "completed_at": "2026-05-03T10:08:50Z"
     },
     {
       "filename": "deepstrokedump.EoaC.safetensors",
