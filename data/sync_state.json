@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T13:09:31.476Z",
+  "updatedAt": "2026-06-03T13:15:09.398Z",
   "lastRunId": 26885505782,
   "items": [
+    {
+      "id": "run_26885345349",
+      "run_id": 26885345349,
+      "artifact_id": 7385581192,
+      "filename": "DasiwaLTX23_goldenLaceV3_22B_Q3_K_M.gguf",
+      "normalized_name": "dasiwaltx23_goldenlacev3_22b_q3_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3caf86650fc2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-03T13:14:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26885362031",
       "run_id": 26885362031,
