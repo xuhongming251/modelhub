@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T12:27:17.696Z",
-  "lastRunId": 26883023604,
+  "updatedAt": "2026-06-03T12:40:18.221Z",
+  "lastRunId": 26883033489,
   "items": [
+    {
+      "id": "run_26883033489",
+      "run_id": 26883033489,
+      "artifact_id": 7384778870,
+      "filename": "Qwen3.6-27B-AEON-Ultimate-Uncensored-BF16.i1-Q4_K_M.gguf",
+      "normalized_name": "qwen3.6-27b-aeon-ultimate-uncensored-bf16.i1-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/55a4bcbf73e8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-03T12:39:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26883023604",
       "run_id": 26883023604,
