@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T09:13:37.634Z",
-  "lastRunId": 26875178079,
+  "updatedAt": "2026-06-03T09:19:34.059Z",
+  "lastRunId": 26875472850,
   "items": [
+    {
+      "id": "run_26875472850",
+      "run_id": 26875472850,
+      "artifact_id": 7380509968,
+      "filename": "bounceTestLownoise.4Dyr.safetensors",
+      "normalized_name": "bouncetestlownoise.4dyr.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4e6fcee886cf",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-03T09:18:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26875166946",
       "run_id": 26875166946,
@@ -34803,12 +34816,6 @@
       "normalized_name": "wan22i2vlowdasiwa.ww2q.safetensors",
       "share_url": "https://pan.quark.cn/s/2916e60c6f3d",
       "completed_at": "2026-04-04T16:14:58Z"
-    },
-    {
-      "filename": "bounceTestLownoise.4Dyr.safetensors",
-      "normalized_name": "bouncetestlownoise.4dyr.safetensors",
-      "share_url": "https://pan.quark.cn/s/b7089d12a214",
-      "completed_at": "2026-04-04T16:11:53Z"
     },
     {
       "filename": "bounceTestHighnoise.TcSD.safetensors",
