@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T15:48:02.520Z",
-  "lastRunId": 26896109226,
+  "updatedAt": "2026-06-03T15:56:20.441Z",
+  "lastRunId": 26896527309,
   "items": [
+    {
+      "id": "run_26896527309",
+      "run_id": 26896527309,
+      "artifact_id": 7389792566,
+      "filename": "azure10BF16Diffusion.MTw7.safetensors",
+      "normalized_name": "azure10bf16diffusion.mtw7.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/504369c66a34",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-03T15:55:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26896109226",
       "run_id": 26896109226,
@@ -25175,12 +25188,6 @@
       "normalized_name": "748cmsdxlvpred75s.upki.safetensors",
       "share_url": "https://pan.quark.cn/s/fb34d8aa9a2a",
       "completed_at": "2026-05-03T07:20:17Z"
-    },
-    {
-      "filename": "azure10BF16Diffusion.MTw7.safetensors",
-      "normalized_name": "azure10bf16diffusion.mtw7.safetensors",
-      "share_url": "https://pan.quark.cn/s/c724d9bb5103",
-      "completed_at": "2026-05-03T07:06:42Z"
     },
     {
       "filename": "zitc72BF16Diffusion.XmS7.safetensors",
