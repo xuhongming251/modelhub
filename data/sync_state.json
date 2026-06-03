@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T12:40:18.221Z",
-  "lastRunId": 26883033489,
+  "updatedAt": "2026-06-03T12:44:58.224Z",
+  "lastRunId": 26885505782,
   "items": [
+    {
+      "id": "run_26885505782",
+      "run_id": 26885505782,
+      "artifact_id": 7384879294,
+      "filename": "groundingdino_swint_ogc.pth",
+      "normalized_name": "groundingdino_swint_ogc.pth",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fcc7bfda7d43",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-03T12:44:07Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26883033489",
       "run_id": 26883033489,
@@ -29021,12 +29034,6 @@
       "normalized_name": "groundingdino_swinb_cogcoor.pth",
       "share_url": "https://pan.quark.cn/s/4d48db8c5592",
       "completed_at": "2026-04-26T08:45:35Z"
-    },
-    {
-      "filename": "groundingdino_swint_ogc.pth",
-      "normalized_name": "groundingdino_swint_ogc.pth",
-      "share_url": "https://pan.quark.cn/s/467ce578b6e3",
-      "completed_at": "2026-04-26T08:41:26Z"
     },
     {
       "filename": "zAnimeBf16.2jDg.safetensors",
