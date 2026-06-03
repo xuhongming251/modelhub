@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T14:00:30.043Z",
-  "lastRunId": 26889706622,
+  "updatedAt": "2026-06-03T14:03:37.015Z",
+  "lastRunId": 26889883619,
   "items": [
+    {
+      "id": "run_26889883619",
+      "run_id": 26889883619,
+      "artifact_id": 7386806960,
+      "filename": "wan22-G4GG1NGv6-11epoc-high-i2v-k3nk.safetensors",
+      "normalized_name": "wan22-g4gg1ngv6-11epoc-high-i2v-k3nk.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/54b4337ffbdf",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-03T14:02:37Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26889727430",
+      "run_id": 26889727430,
+      "artifact_id": 7386739262,
+      "filename": "Singularity-LTX-2.3_OmniCine_V1.safetensors",
+      "normalized_name": "singularity-ltx-2.3_omnicine_v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6a39a906e057",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-03T13:59:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26889706622",
       "run_id": 26889706622,
