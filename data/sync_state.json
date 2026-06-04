@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T17:17:09.088Z",
-  "lastRunId": 26964384103,
+  "updatedAt": "2026-06-04T17:20:40.161Z",
+  "lastRunId": 26966799143,
   "items": [
+    {
+      "id": "run_26966799143",
+      "run_id": 26966799143,
+      "artifact_id": 7418262239,
+      "filename": "Qwen3.6-14B-A3B-VibeForged-v2-Q6_K.gguf",
+      "normalized_name": "qwen3.6-14b-a3b-vibeforged-v2-q6_k.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d01792b54ab9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-04T17:20:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26964384103",
       "run_id": 26964384103,
@@ -47940,7 +47953,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
