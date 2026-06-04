@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T07:06:00.878Z",
-  "lastRunId": 26936059568,
+  "updatedAt": "2026-06-04T07:54:47.726Z",
+  "lastRunId": 26938587712,
   "items": [
+    {
+      "id": "run_26938587712",
+      "run_id": 26938587712,
+      "artifact_id": 7405967520,
+      "filename": "waiANIMA_v10Base10.safetensors",
+      "normalized_name": "waianima_v10base10.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4e4efbaf045d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-04T07:53:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26936059568",
       "run_id": 26936059568,
