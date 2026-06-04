@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T02:56:42.334Z",
-  "lastRunId": 26927397151,
+  "updatedAt": "2026-06-04T03:11:29.962Z",
+  "lastRunId": 26927919069,
   "items": [
+    {
+      "id": "run_26927919069",
+      "run_id": 26927919069,
+      "artifact_id": 7402081332,
+      "filename": "Remove_Clothing_Censor.safetensors",
+      "normalized_name": "remove_clothing_censor.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/60c61a7c2ce2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-04T03:10:51Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26927397151",
       "run_id": 26927397151,
@@ -7489,19 +7502,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-25T02:33:21Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26380054028",
-      "run_id": 26380054028,
-      "artifact_id": 7190619196,
-      "filename": "Remove_Clothing_Censor.safetensors",
-      "normalized_name": "remove_clothing_censor.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/c7a0635c7c0e",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-25T02:28:41Z",
       "workflow": "upload.yml"
     },
     {
