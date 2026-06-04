@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T15:24:51.536Z",
-  "lastRunId": 26961191110,
+  "updatedAt": "2026-06-04T15:28:33.568Z",
+  "lastRunId": 26961696752,
   "items": [
+    {
+      "id": "run_26961696752",
+      "run_id": 26961696752,
+      "artifact_id": 7415632918,
+      "filename": "Wan21_CausVid_14B_T2V_lora_rank32.safetensors",
+      "normalized_name": "wan21_causvid_14b_t2v_lora_rank32.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/efe474dc1a90",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-04T15:27:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26961159850",
       "run_id": 26961159850,
@@ -41950,12 +41963,6 @@
       "normalized_name": "wan2.1_vace_1.3b_fp8_scaled.safetensors",
       "share_url": "https://pan.quark.cn/s/4053fbe8ff21",
       "completed_at": "2026-03-18T17:36:55Z"
-    },
-    {
-      "filename": "Wan21_CausVid_14B_T2V_lora_rank32.safetensors",
-      "normalized_name": "wan21_causvid_14b_t2v_lora_rank32.safetensors",
-      "share_url": "https://pan.quark.cn/s/137f5672a797",
-      "completed_at": "2026-03-18T17:07:05Z"
     },
     {
       "filename": "ComfyUI-Impact-Pack.zip",
