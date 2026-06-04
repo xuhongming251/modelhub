@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T00:37:44.637Z",
-  "lastRunId": 26922297722,
+  "updatedAt": "2026-06-04T01:23:52.223Z",
+  "lastRunId": 26923997986,
   "items": [
+    {
+      "id": "run_26923997986",
+      "run_id": 26923997986,
+      "artifact_id": 7400748717,
+      "filename": "CloudFileRelay",
+      "normalized_name": "cloudfilerelay",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/32b8b0e81d2e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-04T01:23:16Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26922297722",
       "run_id": 26922297722,
@@ -4174,19 +4187,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-29T13:03:45Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26638042483",
-      "run_id": 26638042483,
-      "artifact_id": 7290969125,
-      "filename": "CloudFileRelay",
-      "normalized_name": "cloudfilerelay",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/e2105a4f8c1e",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-29T12:46:30Z",
       "workflow": "upload.yml"
     },
     {
