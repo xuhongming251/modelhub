@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T17:28:09.465Z",
-  "lastRunId": 26968225149,
+  "updatedAt": "2026-06-04T17:55:19.896Z",
+  "lastRunId": 26969503015,
   "items": [
+    {
+      "id": "run_26969503015",
+      "run_id": 26969503015,
+      "artifact_id": 7419040966,
+      "filename": "pornmaster_proSDXLV8.safetensors",
+      "normalized_name": "pornmaster_prosdxlv8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f2a9cfbd51ac",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-04T17:54:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26968225149",
       "run_id": 26968225149,
@@ -27519,12 +27532,6 @@
       "normalized_name": "fantasticmix_k2.safetensors",
       "share_url": "https://pan.quark.cn/s/d83714ff468a",
       "completed_at": "2026-05-01T10:58:16Z"
-    },
-    {
-      "filename": "pornmaster_proSDXLV8.safetensors",
-      "normalized_name": "pornmaster_prosdxlv8.safetensors",
-      "share_url": "https://pan.quark.cn/s/dac8b296d25a",
-      "completed_at": "2026-05-01T10:57:49Z"
     },
     {
       "filename": "meinapastel_v6Pastel.safetensors",
