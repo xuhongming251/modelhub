@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T13:58:57.200Z",
-  "lastRunId": 26954215915,
+  "updatedAt": "2026-06-04T14:24:47.584Z",
+  "lastRunId": 26957905251,
   "items": [
+    {
+      "id": "run_26957905251",
+      "run_id": 26957905251,
+      "artifact_id": 7414019782,
+      "filename": "pytorch_model.bin",
+      "normalized_name": "pytorch_model.bin",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e4d1d2710d48",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-04T14:23:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26954215915",
       "run_id": 26954215915,
@@ -10947,19 +10960,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-21T17:20:38Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26241496248",
-      "run_id": 26241496248,
-      "artifact_id": 7142471926,
-      "filename": "pytorch_model.bin",
-      "normalized_name": "pytorch_model.bin",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/210db5d136d7",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-21T17:15:49Z",
       "workflow": "upload.yml"
     },
     {
