@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T05:10:41.163Z",
-  "lastRunId": 26932137268,
+  "updatedAt": "2026-06-04T05:12:08.185Z",
+  "lastRunId": 26932193509,
   "items": [
+    {
+      "id": "run_26932193509",
+      "run_id": 26932193509,
+      "artifact_id": 7403528209,
+      "filename": "masquerade-nodes-comfyui.zip",
+      "normalized_name": "masquerade-nodes-comfyui.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fc19bd5e9307",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-04T05:11:33Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_26932187222",
+      "run_id": 26932187222,
+      "artifact_id": 7403526322,
+      "filename": "ComfyUI-MelBandRoFormer.zip",
+      "normalized_name": "comfyui-melbandroformer.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/138029d56a50",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-04T05:11:26Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26932137268",
       "run_id": 26932137268,
@@ -18292,19 +18318,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-12T16:30:54Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25747724813",
-      "run_id": 25747724813,
-      "artifact_id": 6949825136,
-      "filename": "ComfyUI-MelBandRoFormer.zip",
-      "normalized_name": "comfyui-melbandroformer.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/8c514e9ca381",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-12T16:26:00Z",
       "workflow": "upload.yml"
     },
     {
