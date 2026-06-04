@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T15:53:39.671Z",
-  "lastRunId": 26962881861,
+  "updatedAt": "2026-06-04T16:00:01.961Z",
+  "lastRunId": 26963468665,
   "items": [
+    {
+      "id": "run_26963468665",
+      "run_id": 26963468665,
+      "artifact_id": 7416417871,
+      "filename": "qwen35_4b.safetensors",
+      "normalized_name": "qwen35_4b.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9b5e9e8083cb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-04T15:59:20Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26962744309",
       "run_id": 26962744309,
@@ -35586,12 +35599,6 @@
       "normalized_name": "calibration_params.safetensors",
       "share_url": "https://pan.quark.cn/s/61e0f38a93be",
       "completed_at": "2026-04-06T00:38:34Z"
-    },
-    {
-      "filename": "qwen35_4b.safetensors",
-      "normalized_name": "qwen35_4b.safetensors",
-      "share_url": "https://pan.quark.cn/s/65d0db2f39b4",
-      "completed_at": "2026-04-06T00:35:44Z"
     },
     {
       "filename": "zWingirlSmb01.TUgC.safetensors",
