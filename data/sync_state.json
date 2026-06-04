@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T05:09:08.591Z",
-  "lastRunId": 26932089999,
+  "updatedAt": "2026-06-04T05:10:41.163Z",
+  "lastRunId": 26932137268,
   "items": [
+    {
+      "id": "run_26932137268",
+      "run_id": 26932137268,
+      "artifact_id": 7403509312,
+      "filename": "ComfyUI-Apt_Preset.zip",
+      "normalized_name": "comfyui-apt_preset.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/abdc4e63dc9e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-04T05:10:02Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26932089999",
       "run_id": 26932089999,
@@ -34102,12 +34115,6 @@
       "normalized_name": "comfyui_resolutionselectorplus.zip",
       "share_url": "https://pan.quark.cn/s/efd4814d244b",
       "completed_at": "2026-04-12T14:37:43Z"
-    },
-    {
-      "filename": "ComfyUI-Apt_Preset.zip",
-      "normalized_name": "comfyui-apt_preset.zip",
-      "share_url": "https://pan.quark.cn/s/8f4f7e0d046a",
-      "completed_at": "2026-04-12T14:18:21Z"
     },
     {
       "filename": "cunnyfunkyxlIlLokr.D7Zr.safetensors",
