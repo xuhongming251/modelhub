@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04T15:20:29.508Z",
+  "updatedAt": "2026-06-04T15:24:51.536Z",
   "lastRunId": 26961191110,
   "items": [
+    {
+      "id": "run_26961159850",
+      "run_id": 26961159850,
+      "artifact_id": 7415537715,
+      "filename": "wan2.2-rapid-mega-aio-nsfw-v12.2.safetensors",
+      "normalized_name": "wan2.2-rapid-mega-aio-nsfw-v12.2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9e789e163ea3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-04T15:24:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26961191110",
       "run_id": 26961191110,
@@ -47809,7 +47822,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
