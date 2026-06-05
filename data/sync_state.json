@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T02:25:11.800Z",
-  "lastRunId": 26991543606,
+  "updatedAt": "2026-06-05T02:34:55.974Z",
+  "lastRunId": 26991841355,
   "items": [
+    {
+      "id": "run_26991841355",
+      "run_id": 26991841355,
+      "artifact_id": 7427616239,
+      "filename": "depth_anything_v2_vitl_fp32.safetensors",
+      "normalized_name": "depth_anything_v2_vitl_fp32.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/75623852fe14",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-05T02:34:23Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26991543606",
       "run_id": 26991543606,
