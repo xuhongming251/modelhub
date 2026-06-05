@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T15:32:36.280Z",
+  "updatedAt": "2026-06-05T15:33:36.164Z",
   "lastRunId": 27024123037,
   "items": [
+    {
+      "id": "run_27020701343",
+      "run_id": 27020701343,
+      "artifact_id": 7440454260,
+      "filename": "Z-Image.zip",
+      "normalized_name": "z-image.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/902c31a1af9d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-05T15:32:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27024123037",
       "run_id": 27024123037,
@@ -46570,12 +46583,6 @@
       "normalized_name": "isnet-anime",
       "share_url": "https://pan.baidu.com/s/1HYzt3Ci8FRPhh1loBgUDdQ?pwd=5e4b",
       "completed_at": "2026-03-10T13:01:24Z"
-    },
-    {
-      "filename": "Z-Image.zip",
-      "normalized_name": "z-image.zip",
-      "share_url": "https://pan.quark.cn/s/3b93d197a981",
-      "completed_at": "2026-03-10T12:17:40Z"
     },
     {
       "filename": "mlkgftjbStryixl.4HOd.safetensors",
