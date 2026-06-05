@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T02:34:55.974Z",
+  "updatedAt": "2026-06-05T02:48:05.074Z",
   "lastRunId": 26991841355,
   "items": [
+    {
+      "id": "run_26990836396",
+      "run_id": 26990836396,
+      "artifact_id": 7427746441,
+      "filename": "Anima.zip",
+      "normalized_name": "anima.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/78c0e02fba1e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-05T02:47:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_26991841355",
       "run_id": 26991841355,
@@ -35253,12 +35266,6 @@
       "normalized_name": "missionary.safetensors",
       "share_url": "https://pan.quark.cn/s/0fe110761a2e",
       "completed_at": "2026-04-08T03:54:56Z"
-    },
-    {
-      "filename": "Anima.zip",
-      "normalized_name": "anima.zip",
-      "share_url": "https://pan.quark.cn/s/842397ea605c",
-      "completed_at": "2026-04-08T03:35:42Z"
     },
     {
       "filename": "GLM-Z1-32B-0414-heretic-v2.i1-Q4_1.gguf",
