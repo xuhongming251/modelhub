@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T17:29:52.800Z",
-  "lastRunId": 27029901391,
+  "updatedAt": "2026-06-05T17:40:57.019Z",
+  "lastRunId": 27030426369,
   "items": [
+    {
+      "id": "run_27030426369",
+      "run_id": 27030426369,
+      "artifact_id": 7442996477,
+      "filename": "moodyWildV4Undistilled.GIMw.safetensors",
+      "normalized_name": "moodywildv4undistilled.gimw.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f160557f643d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-05T17:40:18Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27029964249",
+      "run_id": 27029964249,
+      "artifact_id": 7442790398,
+      "filename": "flux2-vae.safetensors",
+      "normalized_name": "flux2-vae.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/42f97837f0cc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-05T17:29:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27029901391",
       "run_id": 27029901391,
@@ -11571,19 +11597,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-22T06:22:58Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26270727563",
-      "run_id": 26270727563,
-      "artifact_id": 7153599067,
-      "filename": "moodyWildV4Undistilled.GIMw.safetensors",
-      "normalized_name": "moodywildv4undistilled.gimw.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/6384d409b6cd",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-22T05:46:02Z",
       "workflow": "upload.yml"
     },
     {
@@ -30952,12 +30965,6 @@
       "normalized_name": "qwen-image-edit-2509-light-migration.safetensors",
       "share_url": "https://pan.quark.cn/s/d36705e13e7d",
       "completed_at": "2026-04-25T23:37:15Z"
-    },
-    {
-      "filename": "flux2-vae.safetensors",
-      "normalized_name": "flux2-vae.safetensors",
-      "share_url": "https://pan.quark.cn/s/3f5757f8329c",
-      "completed_at": "2026-04-25T21:00:29Z"
     },
     {
       "filename": "flux-2-klein-base-4b-fp8.safetensors",
