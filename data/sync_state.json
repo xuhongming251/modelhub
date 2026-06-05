@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T06:47:20.834Z",
-  "lastRunId": 27000010665,
+  "updatedAt": "2026-06-05T07:38:22.226Z",
+  "lastRunId": 27002081685,
   "items": [
+    {
+      "id": "run_27002081685",
+      "run_id": 27002081685,
+      "artifact_id": 7431280058,
+      "filename": "gguf.zip",
+      "normalized_name": "gguf.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/610dedafcfa3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-05T07:37:46Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27001464752",
+      "run_id": 27001464752,
+      "artifact_id": 7431029758,
+      "filename": "Comfyui-Memory_Cleanup.zip",
+      "normalized_name": "comfyui-memory_cleanup.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1569266717e1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-05T07:24:03Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27000010665",
       "run_id": 27000010665,
@@ -18058,19 +18084,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-14T05:27:08Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25842003073",
-      "run_id": 25842003073,
-      "artifact_id": 6987263501,
-      "filename": "Comfyui-Memory_Cleanup.zip",
-      "normalized_name": "comfyui-memory_cleanup.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/bd8b0553008a",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-14T04:39:15Z",
       "workflow": "upload.yml"
     },
     {
