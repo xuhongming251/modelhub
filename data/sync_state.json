@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T14:14:18.409Z",
-  "lastRunId": 27020003738,
+  "updatedAt": "2026-06-05T14:29:59.440Z",
+  "lastRunId": 27020824858,
   "items": [
+    {
+      "id": "run_27020824858",
+      "run_id": 27020824858,
+      "artifact_id": 7439027586,
+      "filename": "WeiLin-Comfyui-Tools.zip",
+      "normalized_name": "weilin-comfyui-tools.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1a70b54f9234",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-05T14:29:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27020003738",
       "run_id": 27020003738,
@@ -35880,12 +35893,6 @@
       "normalized_name": "derfuu_comfyui_moddednodes.zip",
       "share_url": "https://pan.quark.cn/s/0a02c7a06b04",
       "completed_at": "2026-04-06T14:06:35Z"
-    },
-    {
-      "filename": "WeiLin-Comfyui-Tools.zip",
-      "normalized_name": "weilin-comfyui-tools.zip",
-      "share_url": "https://pan.quark.cn/s/43de226feebc",
-      "completed_at": "2026-04-06T12:51:58Z"
     },
     {
       "filename": "Huihui-Qwen3-VL-8B.zip",
