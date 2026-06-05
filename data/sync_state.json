@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T08:04:51.971Z",
-  "lastRunId": 27002744731,
+  "updatedAt": "2026-06-05T08:23:21.987Z",
+  "lastRunId": 27003829754,
   "items": [
+    {
+      "id": "run_27003320515",
+      "run_id": 27003320515,
+      "artifact_id": 7432071808,
+      "filename": "t5_encoder.safetensors",
+      "normalized_name": "t5_encoder.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8751efeb5b5b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-05T08:22:42Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27003829754",
+      "run_id": 27003829754,
+      "artifact_id": 7432068969,
+      "filename": "qwen3.5-4b-sompoa-heresy-v2-mtp-q4_k_m.gguf",
+      "normalized_name": "qwen3.5-4b-sompoa-heresy-v2-mtp-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8c4c4bafaa91",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-05T08:22:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27002744731",
       "run_id": 27002744731,
