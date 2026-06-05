@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T07:38:22.226Z",
-  "lastRunId": 27002081685,
+  "updatedAt": "2026-06-05T08:02:45.675Z",
+  "lastRunId": 27002536186,
   "items": [
+    {
+      "id": "run_27002536186",
+      "run_id": 27002536186,
+      "artifact_id": 7431714147,
+      "filename": "high_noise_model.safetensors",
+      "normalized_name": "high_noise_model.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3ed7b984f414",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-05T08:02:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27002081685",
       "run_id": 27002081685,
