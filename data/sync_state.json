@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T14:10:50.043Z",
-  "lastRunId": 27019817620,
+  "updatedAt": "2026-06-05T14:14:18.409Z",
+  "lastRunId": 27020003738,
   "items": [
+    {
+      "id": "run_27020003738",
+      "run_id": 27020003738,
+      "artifact_id": 7438675118,
+      "filename": "7z2600-x64.exe",
+      "normalized_name": "7z2600-x64.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/86c56ee1676a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-05T14:13:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27019817620",
       "run_id": 27019817620,
