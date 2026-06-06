@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-06T11:02:40.510Z",
-  "lastRunId": 27060504623,
+  "updatedAt": "2026-06-06T13:07:41.420Z",
+  "lastRunId": 27063112761,
   "items": [
+    {
+      "id": "run_27063112761",
+      "run_id": 27063112761,
+      "artifact_id": 7454640182,
+      "filename": "counterfeitV30Fp16.UKAC.safetensors",
+      "normalized_name": "counterfeitv30fp16.ukac.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/364d8f5045e8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-06T13:06:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27060504623",
       "run_id": 27060504623,
@@ -44325,12 +44338,6 @@
       "normalized_name": "meina20v12.b0s0.safetensors",
       "share_url": "https://pan.baidu.com/s/139yRbLjC0a6DYZ89dx7VDQ?pwd=4a0d",
       "completed_at": "2026-03-17T14:12:37Z"
-    },
-    {
-      "filename": "counterfeitV30Fp16.UKAC.safetensors",
-      "normalized_name": "counterfeitv30fp16.ukac.safetensors",
-      "share_url": "https://pan.baidu.com/s/1JJM-ucyFBAY5n_-R3yoIOA?pwd=4522",
-      "completed_at": "2026-03-17T14:09:26Z"
     },
     {
       "filename": "lofiV5BakedFp16.Ty07.safetensors",
