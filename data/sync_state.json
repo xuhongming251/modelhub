@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-06T19:40:21.943Z",
-  "lastRunId": 27071953621,
+  "updatedAt": "2026-06-06T19:41:19.060Z",
+  "lastRunId": 27071976309,
   "items": [
+    {
+      "id": "run_27071976309",
+      "run_id": 27071976309,
+      "artifact_id": 7457325730,
+      "filename": "mediago-setup-win32-x64-3.0.1.exe",
+      "normalized_name": "mediago-setup-win32-x64-3.0.1.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/eff81729152c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-06T19:40:42Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27071941068",
+      "run_id": 27071941068,
+      "artifact_id": 7457322097,
+      "filename": "chrAlsaceA.KxZg.safetensors",
+      "normalized_name": "chralsacea.kxzg.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/83d185c641d6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-06T19:40:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27071953621",
       "run_id": 27071953621,
