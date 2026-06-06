@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-06T19:49:31.489Z",
-  "lastRunId": 27072153693,
+  "updatedAt": "2026-06-06T19:50:51.443Z",
+  "lastRunId": 27072179049,
   "items": [
+    {
+      "id": "run_27072179049",
+      "run_id": 27072179049,
+      "artifact_id": 7457390006,
+      "filename": "hindenburgILV10.a4er.safetensors",
+      "normalized_name": "hindenburgilv10.a4er.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/46dfb14a237f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-06T19:50:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27072153693",
       "run_id": 27072153693,
@@ -32600,12 +32613,6 @@
       "normalized_name": "koikake_steam_patch.7z",
       "share_url": "https://pan.quark.cn/s/0a045a6c8152",
       "completed_at": "2026-04-24T14:09:55Z"
-    },
-    {
-      "filename": "hindenburgILV10.a4er.safetensors",
-      "normalized_name": "hindenburgilv10.a4er.safetensors",
-      "share_url": "https://pan.quark.cn/s/10a7a90e7b5e",
-      "completed_at": "2026-04-24T13:46:50Z"
     },
     {
       "filename": "rossiV2Ill.NEuz.safetensors",
