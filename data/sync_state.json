@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-06T08:00:58.580Z",
-  "lastRunId": 27056715396,
+  "updatedAt": "2026-06-06T08:12:15.031Z",
+  "lastRunId": 27056983344,
   "items": [
+    {
+      "id": "run_27056983344",
+      "run_id": 27056983344,
+      "artifact_id": 7452731892,
+      "filename": "wav2vec2-large-xlsr-53-japanese.zip",
+      "normalized_name": "wav2vec2-large-xlsr-53-japanese.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6d1fbf231ebd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-06T08:11:36Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27056675885",
       "run_id": 27056675885,
