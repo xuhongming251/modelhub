@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-06T15:06:19.350Z",
-  "lastRunId": 27065747700,
+  "updatedAt": "2026-06-06T15:20:49.947Z",
+  "lastRunId": 27066073917,
   "items": [
+    {
+      "id": "run_27066073917",
+      "run_id": 27066073917,
+      "artifact_id": 7455531481,
+      "filename": "vitpose_h_wholebody_data.bin",
+      "normalized_name": "vitpose_h_wholebody_data.bin",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e7135b3287c8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-06T15:20:13Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27065747700",
       "run_id": 27065747700,
@@ -38851,12 +38864,6 @@
       "normalized_name": "yolov10m.onnx",
       "share_url": "https://pan.quark.cn/s/107c47c7f1a5",
       "completed_at": "2026-03-31T07:10:37Z"
-    },
-    {
-      "filename": "vitpose_h_wholebody_data.bin",
-      "normalized_name": "vitpose_h_wholebody_data.bin",
-      "share_url": "https://pan.quark.cn/s/e593a3bd2c86",
-      "completed_at": "2026-03-31T07:09:55Z"
     },
     {
       "filename": "vitpose_h_wholebody_model.onnx",
