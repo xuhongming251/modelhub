@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-06T14:45:48.383Z",
-  "lastRunId": 27065251775,
+  "updatedAt": "2026-06-06T14:55:24.795Z",
+  "lastRunId": 27065435647,
   "items": [
+    {
+      "id": "run_27065435647",
+      "run_id": 27065435647,
+      "artifact_id": 7455356895,
+      "filename": "wan22RemixT2VI2V_i2vLowV30-Q3_K_M.gguf",
+      "normalized_name": "wan22remixt2vi2v_i2vlowv30-q3_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e6ca7cb7e4ca",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-06T14:54:43Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27065251775",
       "run_id": 27065251775,
@@ -49154,7 +49167,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
