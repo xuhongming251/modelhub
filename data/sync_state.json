@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-06T07:52:04.720Z",
-  "lastRunId": 27056684455,
+  "updatedAt": "2026-06-06T07:53:00.794Z",
+  "lastRunId": 27056710037,
   "items": [
+    {
+      "id": "run_27056710037",
+      "run_id": 27056710037,
+      "artifact_id": 7452601547,
+      "filename": "clip_vision_h.safetensors",
+      "normalized_name": "clip_vision_h.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/294b6065bbc7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-06T07:52:41Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27056700044",
+      "run_id": 27056700044,
+      "artifact_id": 7452600135,
+      "filename": "WanAnimate_relight_lora_fp16.safetensors",
+      "normalized_name": "wananimate_relight_lora_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/20548756f415",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-06T07:52:29Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27056684455",
       "run_id": 27056684455,
@@ -18360,19 +18386,6 @@
       "workflow": "upload.yml"
     },
     {
-      "id": "run_25867029058",
-      "run_id": 25867029058,
-      "artifact_id": 6997219149,
-      "filename": "clip_vision_h.safetensors",
-      "normalized_name": "clip_vision_h.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/9bd978a391f4",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-14T14:53:49Z",
-      "workflow": "upload.yml"
-    },
-    {
       "id": "run_25865478544",
       "run_id": 25865478544,
       "artifact_id": 6996568943,
@@ -33005,12 +33018,6 @@
       "normalized_name": "luciddreamerzib075a.qlqc.safetensors",
       "share_url": "https://pan.quark.cn/s/990ad55cd831",
       "completed_at": "2026-04-20T14:36:26Z"
-    },
-    {
-      "filename": "WanAnimate_relight_lora_fp16.safetensors",
-      "normalized_name": "wananimate_relight_lora_fp16.safetensors",
-      "share_url": "https://pan.quark.cn/s/a0e66da4503f",
-      "completed_at": "2026-04-20T14:22:02Z"
     },
     {
       "filename": "Wan2_2-Animate-14B_fp8_e4m3fn_scaled_KJ.safetensors",
