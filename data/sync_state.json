@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-06T17:08:44.282Z",
-  "lastRunId": 27068552876,
+  "updatedAt": "2026-06-06T17:18:25.285Z",
+  "lastRunId": 27068799552,
   "items": [
+    {
+      "id": "run_27068799552",
+      "run_id": 27068799552,
+      "artifact_id": 7456340895,
+      "filename": "AnimaB1-NP45iV1.safetensors",
+      "normalized_name": "animab1-np45iv1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5556143378f8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-06T17:17:43Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27068552876",
       "run_id": 27068552876,
