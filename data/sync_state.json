@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-06T20:05:26.920Z",
-  "lastRunId": 27072512481,
+  "updatedAt": "2026-06-06T20:06:40.864Z",
+  "lastRunId": 27072544837,
   "items": [
+    {
+      "id": "run_27072544837",
+      "run_id": 27072544837,
+      "artifact_id": 7457498869,
+      "filename": "taihouILV10.y654.safetensors",
+      "normalized_name": "taihouilv10.y654.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/710fe49c1af9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-06T20:06:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27072512481",
       "run_id": 27072512481,
