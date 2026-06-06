@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-06T07:05:24.563Z",
-  "lastRunId": 27055710138,
+  "updatedAt": "2026-06-06T07:48:35.172Z",
+  "lastRunId": 27056616606,
   "items": [
+    {
+      "id": "run_27056616606",
+      "run_id": 27056616606,
+      "artifact_id": 7452567576,
+      "filename": "vitpose-l-wholebody.onnx",
+      "normalized_name": "vitpose-l-wholebody.onnx",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f00f58f11a77",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-06T07:48:02Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27055710138",
       "run_id": 27055710138,
@@ -38494,12 +38507,6 @@
       "normalized_name": "ltx23nsfwfurryconcat.yipo.safetensors",
       "share_url": "https://pan.quark.cn/s/6a73609fa8eb",
       "completed_at": "2026-03-31T10:15:18Z"
-    },
-    {
-      "filename": "vitpose-l-wholebody.onnx",
-      "normalized_name": "vitpose-l-wholebody.onnx",
-      "share_url": "https://pan.quark.cn/s/1b5d94016c2c",
-      "completed_at": "2026-03-31T08:00:17Z"
     },
     {
       "filename": "7776cec97e1357b51881a7c9f8be8704",
