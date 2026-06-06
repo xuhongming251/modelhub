@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-06T14:14:47.304Z",
-  "lastRunId": 27064561887,
+  "updatedAt": "2026-06-06T14:21:50.616Z",
+  "lastRunId": 27064725536,
   "items": [
+    {
+      "id": "run_27064725536",
+      "run_id": 27064725536,
+      "artifact_id": 7455119941,
+      "filename": "Miniforge3-windows-x86_64.exe",
+      "normalized_name": "miniforge3-windows-x86_64.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/76cfb8e73e62",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-06T14:21:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27064561887",
       "run_id": 27064561887,
