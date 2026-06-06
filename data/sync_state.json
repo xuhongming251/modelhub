@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-06T19:56:30.753Z",
-  "lastRunId": 27072308674,
+  "updatedAt": "2026-06-06T19:57:20.005Z",
+  "lastRunId": 27072328123,
   "items": [
+    {
+      "id": "run_27072328123",
+      "run_id": 27072328123,
+      "artifact_id": 7457435652,
+      "filename": "BilibiliDown.v6.41.win_x64_jre11.release.zip",
+      "normalized_name": "bilibilidown.v6.41.win_x64_jre11.release.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7ed92c4b1952",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-06T19:56:48Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27072319082",
+      "run_id": 27072319082,
+      "artifact_id": 7457433045,
+      "filename": "scyllaILV20.3O49.safetensors",
+      "normalized_name": "scyllailv20.3o49.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6eed47ab2f23",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-06T19:56:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27072308674",
       "run_id": 27072308674,
