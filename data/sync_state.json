@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-06T01:44:13.178Z",
-  "lastRunId": 27049104833,
+  "updatedAt": "2026-06-06T01:45:51.061Z",
+  "lastRunId": 27049139790,
   "items": [
+    {
+      "id": "run_27049139790",
+      "run_id": 27049139790,
+      "artifact_id": 7450057728,
+      "filename": "PowerShell-7.5.4-win-x64.zip",
+      "normalized_name": "powershell-7.5.4-win-x64.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4bb435a0a63b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-06T01:45:16Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27049104833",
       "run_id": 27049104833,
