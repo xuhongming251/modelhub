@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-07T15:57:42.625Z",
-  "lastRunId": 27097172630,
+  "updatedAt": "2026-06-07T17:17:41.945Z",
+  "lastRunId": 27099387751,
   "items": [
+    {
+      "id": "run_27099387751",
+      "run_id": 27099387751,
+      "artifact_id": 7466273486,
+      "filename": "cospose_20.safetensors",
+      "normalized_name": "cospose_20.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e8976594d65a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-07T17:17:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27097172630",
       "run_id": 27097172630,
