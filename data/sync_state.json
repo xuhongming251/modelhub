@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-07T18:27:05.906Z",
-  "lastRunId": 27100955326,
+  "updatedAt": "2026-06-07T19:02:33.698Z",
+  "lastRunId": 27101786023,
   "items": [
+    {
+      "id": "run_27101786023",
+      "run_id": 27101786023,
+      "artifact_id": 7467043595,
+      "filename": "cocoIllustriousNoobai_v55.safetensors",
+      "normalized_name": "cocoillustriousnoobai_v55.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e1da6403d8fa",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-07T19:01:52Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27100955326",
       "run_id": 27100955326,
@@ -35070,12 +35083,6 @@
       "normalized_name": "chenkinunicontrolxl.nisd.safetensors",
       "share_url": "https://pan.quark.cn/s/3904591dabeb",
       "completed_at": "2026-04-18T05:37:25Z"
-    },
-    {
-      "filename": "cocoIllustriousNoobai_v55.safetensors",
-      "normalized_name": "cocoillustriousnoobai_v55.safetensors",
-      "share_url": "https://pan.quark.cn/s/801521029daf",
-      "completed_at": "2026-04-18T05:19:11Z"
     },
     {
       "filename": "cyberrealisticZitV40.diiT.safetensors",
