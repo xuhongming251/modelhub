@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-06T23:36:05.539Z",
-  "lastRunId": 27072577747,
+  "updatedAt": "2026-06-07T14:24:17.308Z",
+  "lastRunId": 27095204205,
   "items": [
+    {
+      "id": "run_27095204205",
+      "run_id": 27095204205,
+      "artifact_id": 7464975657,
+      "filename": "tf_model.h5",
+      "normalized_name": "tf_model.h5",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/67be287880b3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-07T14:23:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27072577747",
       "run_id": 27072577747,
@@ -49584,7 +49597,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 8,
       "createdBefore": null,
       "exhausted": false
     }
