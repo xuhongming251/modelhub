@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-07T14:28:00.995Z",
-  "lastRunId": 27095292175,
+  "updatedAt": "2026-06-07T14:32:44.392Z",
+  "lastRunId": 27095396533,
   "items": [
+    {
+      "id": "run_27095396533",
+      "run_id": 27095396533,
+      "artifact_id": 7465042257,
+      "filename": "counterfeitV30Fp16.UKAC.safetensors",
+      "normalized_name": "counterfeitv30fp16.ukac.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7860e0eb4c4c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-07T14:32:18Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27095392161",
+      "run_id": 27095392161,
+      "artifact_id": 7465040822,
+      "filename": "novaanimeilv190.qaxy.safetensors",
+      "normalized_name": "novaanimeilv190.qaxy.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7c8de1e78d7b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-07T14:32:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27095292175",
       "run_id": 27095292175,
@@ -654,19 +680,6 @@
       "workflow": "upload.yml"
     },
     {
-      "id": "run_27064501724",
-      "run_id": 27064501724,
-      "artifact_id": 7455054932,
-      "filename": "novaanimeilv190.qaxy.safetensors",
-      "normalized_name": "novaanimeilv190.qaxy.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/d871742d33de",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-06T14:11:13Z",
-      "workflow": "upload.yml"
-    },
-    {
       "id": "run_27063993673",
       "run_id": 27063993673,
       "artifact_id": 7454901219,
@@ -703,19 +716,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-06T13:22:44Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27063112761",
-      "run_id": 27063112761,
-      "artifact_id": 7454640182,
-      "filename": "counterfeitV30Fp16.UKAC.safetensors",
-      "normalized_name": "counterfeitv30fp16.ukac.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/364d8f5045e8",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-06T13:06:58Z",
       "workflow": "upload.yml"
     },
     {
