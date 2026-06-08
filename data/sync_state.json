@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T16:37:58.026Z",
-  "lastRunId": 27152322892,
+  "updatedAt": "2026-06-08T16:39:20.489Z",
+  "lastRunId": 27152400881,
   "items": [
+    {
+      "id": "run_27152400881",
+      "run_id": 27152400881,
+      "artifact_id": 7486574593,
+      "filename": "Irisviel von Einzbern (アイリスフィール・フォン・アインツベルン) - Fate/Kaleid Liner Prisma Illya (Fate/kaleid liner プリズマ☆イリヤ).safetensors",
+      "normalized_name": "irisviel von einzbern (アイリスフィール・フォン・アインツベルン) - fate/kaleid liner prisma illya (fate/kaleid liner プリズマ☆イリヤ).safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a62134979e19",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-08T16:38:34Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27152367364",
+      "run_id": 27152367364,
+      "artifact_id": 7486559303,
+      "filename": "Jack the Ripper (ジャック・ザ・リッパー) - Fate Grand Order.safetensors",
+      "normalized_name": "jack the ripper (ジャック・ザ・リッパー) - fate grand order.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/014b6425c338",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-08T16:37:52Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27152322892",
       "run_id": 27152322892,
@@ -50080,7 +50106,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 9,
+      "page": 8,
       "createdBefore": null,
       "exhausted": false
     }
