@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T16:22:14.945Z",
-  "lastRunId": 27151435478,
+  "updatedAt": "2026-06-08T16:27:14.301Z",
+  "lastRunId": 27151738921,
   "items": [
+    {
+      "id": "run_27151738921",
+      "run_id": 27151738921,
+      "artifact_id": 7486298916,
+      "filename": "Ochako Uraraka (麗日お茶子) - My Hero Academia (僕のヒーローアカデミア).safetensors",
+      "normalized_name": "ochako uraraka (麗日お茶子) - my hero academia (僕のヒーローアカデミア).safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/274f156dcbe9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-08T16:26:39Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27151711919",
+      "run_id": 27151711919,
+      "artifact_id": 7486291996,
+      "filename": "Yukina Himeragi (姫柊 雪菜) - Strike the Blood (ストライク・ザ・ブラッド).safetensors",
+      "normalized_name": "yukina himeragi (姫柊 雪菜) - strike the blood (ストライク・ザ・ブラッド).safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/651bc8ef8a81",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-08T16:26:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27151435478",
       "run_id": 27151435478,
@@ -49976,7 +50002,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 9,
+      "page": 8,
       "createdBefore": null,
       "exhausted": false
     }
