@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T16:36:21.015Z",
-  "lastRunId": 27152227551,
+  "updatedAt": "2026-06-08T16:37:58.026Z",
+  "lastRunId": 27152322892,
   "items": [
+    {
+      "id": "run_27152322892",
+      "run_id": 27152322892,
+      "artifact_id": 7486541639,
+      "filename": "Nejire Hadou (波動 ねじれ) - My Hero Academia (僕のヒーローアカデミア).safetensors",
+      "normalized_name": "nejire hadou (波動 ねじれ) - my hero academia (僕のヒーローアカデミア).safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/08839a520e75",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-08T16:37:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27152227551",
       "run_id": 27152227551,
@@ -50067,7 +50080,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 8,
+      "page": 9,
       "createdBefore": null,
       "exhausted": false
     }
