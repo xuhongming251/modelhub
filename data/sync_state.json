@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T16:40:16.744Z",
-  "lastRunId": 27152453041,
+  "updatedAt": "2026-06-08T16:41:19.911Z",
+  "lastRunId": 27152510398,
   "items": [
+    {
+      "id": "run_27152510398",
+      "run_id": 27152510398,
+      "artifact_id": 7486619299,
+      "filename": "Kaede Hozuki (穂月 かえで) - Onimai: I'm Now Your Sister! (Oniichan wa Oshimai!) (お兄ちゃんはおしまい！).safetensors",
+      "normalized_name": "kaede hozuki (穂月 かえで) - onimai: i'm now your sister! (oniichan wa oshimai!) (お兄ちゃんはおしまい！).safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/eb29cc3b7f66",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-08T16:40:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27152453041",
       "run_id": 27152453041,
@@ -50132,7 +50145,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 8,
+      "page": 9,
       "createdBefore": null,
       "exhausted": false
     }
