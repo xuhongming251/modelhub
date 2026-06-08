@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T13:02:10.953Z",
-  "lastRunId": 27139371221,
+  "updatedAt": "2026-06-08T13:18:46.705Z",
+  "lastRunId": 27140312730,
   "items": [
+    {
+      "id": "run_27140312730",
+      "run_id": 27140312730,
+      "artifact_id": 7481315348,
+      "filename": "diffusion_pytorch_model-00002-of-00002.safetensors",
+      "normalized_name": "diffusion_pytorch_model-00002-of-00002.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5a05aa16e9a5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-08T13:17:51Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27139371221",
       "run_id": 27139371221,
