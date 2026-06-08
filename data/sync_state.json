@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T04:43:06.560Z",
-  "lastRunId": 27116326304,
+  "updatedAt": "2026-06-08T04:59:22.428Z",
+  "lastRunId": 27116349926,
   "items": [
+    {
+      "id": "run_27116349926",
+      "run_id": 27116349926,
+      "artifact_id": 7471950762,
+      "filename": "VBVR-wan2.2-I2V-14B-low-SNR-Calibrated-Hybrid-Q5_K_M.gguf",
+      "normalized_name": "vbvr-wan2.2-i2v-14b-low-snr-calibrated-hybrid-q5_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6d1a67fd4983",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-08T04:58:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27116326304",
       "run_id": 27116326304,
