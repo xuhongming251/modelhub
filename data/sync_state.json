@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T16:27:14.301Z",
-  "lastRunId": 27151738921,
+  "updatedAt": "2026-06-08T16:28:14.166Z",
+  "lastRunId": 27151772907,
   "items": [
+    {
+      "id": "run_27151772907",
+      "run_id": 27151772907,
+      "artifact_id": 7486314534,
+      "filename": "Niko Mikadono (帝乃 二琥) - Dealing with Mikadono Sisters Is a Breeze (Mikadono Sanshimai wa Angai, Choroi.) .safetensors",
+      "normalized_name": "niko mikadono (帝乃 二琥) - dealing with mikadono sisters is a breeze (mikadono sanshimai wa angai, choroi.).safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/55652f8927d1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-08T16:27:18Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27151738921",
       "run_id": 27151738921,
@@ -50002,7 +50015,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 8,
+      "page": 9,
       "createdBefore": null,
       "exhausted": false
     }
