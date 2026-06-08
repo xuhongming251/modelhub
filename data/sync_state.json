@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T12:00:09.922Z",
-  "lastRunId": 27133351565,
+  "updatedAt": "2026-06-08T12:52:35.656Z",
+  "lastRunId": 27138826737,
   "items": [
+    {
+      "id": "run_27138826737",
+      "run_id": 27138826737,
+      "artifact_id": 7480681681,
+      "filename": "Qwen-Image-Edit-Lightning-8steps-V1.0.safetensors",
+      "normalized_name": "qwen-image-edit-lightning-8steps-v1.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/103cc50a26e4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-08T12:51:52Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27133351565",
       "run_id": 27133351565,
