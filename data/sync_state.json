@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T10:13:20.488Z",
-  "lastRunId": 27130650381,
+  "updatedAt": "2026-06-08T10:30:24.664Z",
+  "lastRunId": 27131589096,
   "items": [
+    {
+      "id": "run_27131589096",
+      "run_id": 27131589096,
+      "artifact_id": 7477662181,
+      "filename": "meina20V12.b0s0.safetensors",
+      "normalized_name": "meina20v12.b0s0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4a309c2cfc07",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-08T10:29:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27130650381",
       "run_id": 27130650381,
@@ -45114,12 +45127,6 @@
       "normalized_name": "revanimatedv2rebirth.z5w3.safetensors",
       "share_url": "https://pan.baidu.com/s/1vm_D1p71w64icUZC_nl7xQ?pwd=b2b7",
       "completed_at": "2026-03-17T14:16:08Z"
-    },
-    {
-      "filename": "meina20V12.b0s0.safetensors",
-      "normalized_name": "meina20v12.b0s0.safetensors",
-      "share_url": "https://pan.baidu.com/s/139yRbLjC0a6DYZ89dx7VDQ?pwd=4a0d",
-      "completed_at": "2026-03-17T14:12:37Z"
     },
     {
       "filename": "lofiV5BakedFp16.Ty07.safetensors",
