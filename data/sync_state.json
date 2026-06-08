@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08T04:08:52.861Z",
-  "lastRunId": 27115367598,
+  "updatedAt": "2026-06-08T04:43:06.560Z",
+  "lastRunId": 27116326304,
   "items": [
+    {
+      "id": "run_27116326304",
+      "run_id": 27116326304,
+      "artifact_id": 7471787195,
+      "filename": "Wan2.2-VACE-Fun-A14B-high-noise-Q5_0.gguf",
+      "normalized_name": "wan2.2-vace-fun-a14b-high-noise-q5_0.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b3c946b6b971",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-08T04:42:22Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27115367598",
       "run_id": 27115367598,
