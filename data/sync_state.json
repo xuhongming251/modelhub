@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T02:54:24.912Z",
-  "lastRunId": 27180748597,
+  "updatedAt": "2026-06-09T02:55:30.713Z",
+  "lastRunId": 27180849344,
   "items": [
+    {
+      "id": "run_27180849344",
+      "run_id": 27180849344,
+      "artifact_id": 7497439216,
+      "filename": "guoziFushiruyaoV2Wan.TWZa.safetensors",
+      "normalized_name": "guozifushiruyaov2wan.twza.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/97925f3826d9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-09T02:54:52Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27180735464",
       "run_id": 27180735464,
@@ -32655,12 +32668,6 @@
       "completed_at": "2026-04-26T07:14:03Z"
     },
     {
-      "filename": "guoziFushiruyaoV2Wan.TWZa.safetensors",
-      "normalized_name": "guozifushiruyaov2wan.twza.safetensors",
-      "share_url": "https://pan.quark.cn/s/2057ec31ccfb",
-      "completed_at": "2026-04-26T07:12:31Z"
-    },
-    {
       "filename": "Z-Image-Fun-Lora-Distill-2-Steps-2603.safetensors",
       "normalized_name": "z-image-fun-lora-distill-2-steps-2603.safetensors",
       "share_url": "https://pan.quark.cn/s/40086fe4e4ec",
@@ -50327,7 +50334,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 8,
+      "page": 9,
       "createdBefore": null,
       "exhausted": false
     }
