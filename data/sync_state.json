@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T12:22:53.674Z",
-  "lastRunId": 27205765956,
+  "updatedAt": "2026-06-09T12:25:07.724Z",
+  "lastRunId": 27205883981,
   "items": [
+    {
+      "id": "run_27205883981",
+      "run_id": 27205883981,
+      "artifact_id": 7507468282,
+      "filename": "123",
+      "normalized_name": "123",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c718feeb8f14",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-09T12:24:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27205765956",
       "run_id": 27205765956,
@@ -35039,12 +35052,6 @@
       "normalized_name": "moodywildv2undistilled.exuu.safetensors",
       "share_url": "https://pan.quark.cn/s/2d68c18e1c6f",
       "completed_at": "2026-04-19T15:56:48Z"
-    },
-    {
-      "filename": "123",
-      "normalized_name": "123",
-      "share_url": "https://pan.quark.cn/s/51b450f87e7d",
-      "completed_at": "2026-04-19T15:47:34Z"
     },
     {
       "filename": "milking_machineAlpha_2_Illustrious1_DIM-12_sv_cumulative_0.8.safetensors",
