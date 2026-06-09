@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T05:03:11.930Z",
-  "lastRunId": 27184963805,
+  "updatedAt": "2026-06-09T05:09:50.181Z",
+  "lastRunId": 27185067705,
   "items": [
+    {
+      "id": "run_27185067705",
+      "run_id": 27185067705,
+      "artifact_id": 7498988835,
+      "filename": "ernie-image-prompt-enhancer.safetensors",
+      "normalized_name": "ernie-image-prompt-enhancer.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bbcf9af04c5f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-09T05:09:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27184963805",
       "run_id": 27184963805,
@@ -30860,12 +30873,6 @@
       "normalized_name": "deliberate cyber _v6.0.safetensors",
       "share_url": "https://pan.quark.cn/s/828afb9f7d70",
       "completed_at": "2026-04-29T18:03:47Z"
-    },
-    {
-      "filename": "ernie-image-prompt-enhancer.safetensors",
-      "normalized_name": "ernie-image-prompt-enhancer.safetensors",
-      "share_url": "https://pan.quark.cn/s/0c79dbaa0fc1",
-      "completed_at": "2026-04-29T17:54:35Z"
     },
     {
       "filename": "ernie-image.safetensors",
