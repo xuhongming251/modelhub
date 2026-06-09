@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T05:09:50.181Z",
-  "lastRunId": 27185067705,
+  "updatedAt": "2026-06-09T05:13:02.105Z",
+  "lastRunId": 27185310501,
   "items": [
+    {
+      "id": "run_27185310501",
+      "run_id": 27185310501,
+      "artifact_id": 7499026331,
+      "filename": "Disney_IZT_ATK_V1_000000750.safetensors",
+      "normalized_name": "disney_izt_atk_v1_000000750.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5e155faea49d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-09T05:12:12Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27185067705",
       "run_id": 27185067705,
@@ -37467,12 +37480,6 @@
       "normalized_name": "z-image-fac1al.safetensors",
       "share_url": "https://pan.quark.cn/s/a97ad2da917c",
       "completed_at": "2026-04-08T04:57:28Z"
-    },
-    {
-      "filename": "Disney_IZT_ATK_V1_000000750.safetensors",
-      "normalized_name": "disney_izt_atk_v1_000000750.safetensors",
-      "share_url": "https://pan.quark.cn/s/6ae04f2065d6",
-      "completed_at": "2026-04-08T04:41:44Z"
     },
     {
       "filename": "Mystic-XXX-ZIT-V5.safetensors",
