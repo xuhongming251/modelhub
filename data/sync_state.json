@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T05:14:37.297Z",
-  "lastRunId": 27185334985,
+  "updatedAt": "2026-06-09T05:32:15.116Z",
+  "lastRunId": 27185965824,
   "items": [
+    {
+      "id": "run_27185965824",
+      "run_id": 27185965824,
+      "artifact_id": 7499267874,
+      "filename": "ltx-2.3-transformation.safetensors",
+      "normalized_name": "ltx-2.3-transformation.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/060d294253b0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-09T05:31:26Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27185334985",
       "run_id": 27185334985,
@@ -9803,19 +9816,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-27T03:52:36Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26489439689",
-      "run_id": 26489439689,
-      "artifact_id": 7231471882,
-      "filename": "ltx-2.3-transformation.safetensors",
-      "normalized_name": "ltx-2.3-transformation.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/dec2e2f6bb30",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-27T03:44:58Z",
       "workflow": "upload.yml"
     },
     {
