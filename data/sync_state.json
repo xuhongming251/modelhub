@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T13:38:00.438Z",
-  "lastRunId": 27209997462,
+  "updatedAt": "2026-06-09T13:40:16.847Z",
+  "lastRunId": 27210137549,
   "items": [
+    {
+      "id": "run_27210137549",
+      "run_id": 27210137549,
+      "artifact_id": 7509374981,
+      "filename": "guxuner.pBRD.safetensors",
+      "normalized_name": "guxuner.pbrd.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e94d6e2f9049",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-09T13:39:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27209997462",
       "run_id": 27209997462,
@@ -50636,7 +50649,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 3,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
