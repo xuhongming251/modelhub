@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T02:24:25.172Z",
-  "lastRunId": 27179584569,
+  "updatedAt": "2026-06-09T02:37:42.772Z",
+  "lastRunId": 27180087667,
   "items": [
+    {
+      "id": "run_27180087667",
+      "run_id": 27180087667,
+      "artifact_id": 7497254586,
+      "filename": "10Eros_v1-Q3_K_S.gguf",
+      "normalized_name": "10eros_v1-q3_k_s.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/375d7828df04",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-09T02:36:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27179584569",
       "run_id": 27179584569,
