@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T16:19:11.883Z",
-  "lastRunId": 27288915450,
+  "updatedAt": "2026-06-10T16:24:46.370Z",
+  "lastRunId": 27289480388,
   "items": [
+    {
+      "id": "run_27289480388",
+      "run_id": 27289480388,
+      "artifact_id": 7541591368,
+      "filename": "dvineV140Anima.KPvw.safetensors",
+      "normalized_name": "dvinev140anima.kpvw.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cf6bed1e6b1e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-10T16:23:37Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27289307013",
+      "run_id": 27289307013,
+      "artifact_id": 7541455025,
+      "filename": "matureritualAnimaTest0.lnFa.safetensors",
+      "normalized_name": "matureritualanimatest0.lnfa.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ad71920a4db2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-10T16:17:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27288915450",
       "run_id": 27288915450,
@@ -51492,7 +51518,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
