@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T06:32:18.231Z",
-  "lastRunId": 27257835278,
+  "updatedAt": "2026-06-10T06:50:21.117Z",
+  "lastRunId": 27258622112,
   "items": [
+    {
+      "id": "run_27258622112",
+      "run_id": 27258622112,
+      "artifact_id": 7528486314,
+      "filename": "Qwen_Snofs_1_3.safetensors",
+      "normalized_name": "qwen_snofs_1_3.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e414b251e008",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-10T06:49:50Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27257835278",
       "run_id": 27257835278,
@@ -43073,12 +43086,6 @@
       "normalized_name": "hearmemanai_v4_rank128_breastslora_epoch80.safetensors",
       "share_url": "https://pan.quark.cn/s/4ef84a653dd7",
       "completed_at": "2026-03-25T21:14:15Z"
-    },
-    {
-      "filename": "Qwen_Snofs_1_3.safetensors",
-      "normalized_name": "qwen_snofs_1_3.safetensors",
-      "share_url": "https://pan.quark.cn/s/e7897b49e7f7",
-      "completed_at": "2026-03-25T20:59:56Z"
     },
     {
       "filename": "getfile.php",
