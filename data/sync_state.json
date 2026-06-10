@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T13:04:51.594Z",
-  "lastRunId": 27278172119,
+  "updatedAt": "2026-06-10T13:13:26.665Z",
+  "lastRunId": 27278678243,
   "items": [
+    {
+      "id": "run_27278678243",
+      "run_id": 27278678243,
+      "artifact_id": 7536685435,
+      "filename": "novakemonoilv8.vS9d.safetensors",
+      "normalized_name": "novakemonoilv8.vs9d.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/aec8f2ad4cb5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-10T13:12:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27278172119",
       "run_id": 27278172119,
@@ -29192,12 +29205,6 @@
       "normalized_name": "novaunrealv10.tiuz.safetensors",
       "share_url": "https://pan.quark.cn/s/be1b9e7d15e4",
       "completed_at": "2026-05-03T10:05:59Z"
-    },
-    {
-      "filename": "novakemonoilv8.vS9d.safetensors",
-      "normalized_name": "novakemonoilv8.vs9d.safetensors",
-      "share_url": "https://pan.quark.cn/s/6f785b252c2c",
-      "completed_at": "2026-05-03T09:59:49Z"
     },
     {
       "filename": "dorayakimixV30Fp16No.kAUP.safetensors",
