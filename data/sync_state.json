@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T15:41:50.452Z",
-  "lastRunId": 27286976623,
+  "updatedAt": "2026-06-10T15:58:36.987Z",
+  "lastRunId": 27288615666,
   "items": [
+    {
+      "id": "run_27288615666",
+      "run_id": 27288615666,
+      "artifact_id": 7540990536,
+      "filename": "miaomiao20harem20Anima.TZS8.safetensors",
+      "normalized_name": "miaomiao20harem20anima.tzs8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a7c8526679eb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-10T15:57:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27286976623",
       "run_id": 27286976623,
@@ -51466,7 +51479,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
