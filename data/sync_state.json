@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T15:17:18.988Z",
-  "lastRunId": 27286315816,
+  "updatedAt": "2026-06-10T15:23:14.296Z",
+  "lastRunId": 27286672336,
   "items": [
+    {
+      "id": "run_27286672336",
+      "run_id": 27286672336,
+      "artifact_id": 7540156219,
+      "filename": "llama_cpp_python-0.3.40+cu128-cp312-cp312-win_amd64.whl",
+      "normalized_name": "llama_cpp_python-0.3.40+cu128-cp312-cp312-win_amd64.whl",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/13bd3e428320",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-10T15:22:20Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27286315816",
       "run_id": 27286315816,
