@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T07:26:17.446Z",
-  "lastRunId": 27260268596,
+  "updatedAt": "2026-06-10T07:27:19.040Z",
+  "lastRunId": 27260334036,
   "items": [
+    {
+      "id": "run_27260334036",
+      "run_id": 27260334036,
+      "artifact_id": 7529133962,
+      "filename": "wan22-ultimatedeepthroat-i2v-102epoc-high-k3nk.safetensors",
+      "normalized_name": "wan22-ultimatedeepthroat-i2v-102epoc-high-k3nk.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8d933147ddf1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-10T07:26:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27260268596",
       "run_id": 27260268596,
@@ -46757,12 +46770,6 @@
       "normalized_name": "qwen3-4b-z-image-engineer-v4-q8_0.gguf",
       "share_url": "https://pan.quark.cn/s/9c1171d89336",
       "completed_at": "2026-03-16T13:03:55Z"
-    },
-    {
-      "filename": "wan22-ultimatedeepthroat-i2v-102epoc-high-k3nk.safetensors",
-      "normalized_name": "wan22-ultimatedeepthroat-i2v-102epoc-high-k3nk.safetensors",
-      "share_url": "https://pan.quark.cn/s/418cba4e28dd",
-      "completed_at": "2026-03-16T13:00:34Z"
     },
     {
       "filename": "wan22-ultimatedeepthroat-I2V-101epoc-low-k3nk.safetensors",
