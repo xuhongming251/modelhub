@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09T23:52:16.027Z",
-  "lastRunId": 27241333065,
+  "updatedAt": "2026-06-10T00:15:04.556Z",
+  "lastRunId": 27244256033,
   "items": [
+    {
+      "id": "run_27244256033",
+      "run_id": 27244256033,
+      "artifact_id": 7523390968,
+      "filename": "hassakuanimav1.lJjY.safetensors",
+      "normalized_name": "hassakuanimav1.ljjy.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3ba3b1cf568a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-10T00:14:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27241333065",
       "run_id": 27241333065,
@@ -50956,7 +50969,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 8,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
