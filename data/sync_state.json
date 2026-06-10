@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T06:50:21.117Z",
-  "lastRunId": 27258622112,
+  "updatedAt": "2026-06-10T07:00:53.130Z",
+  "lastRunId": 27259078220,
   "items": [
+    {
+      "id": "run_27259078220",
+      "run_id": 27259078220,
+      "artifact_id": 7528661851,
+      "filename": "klein_snofs_v1_3.safetensors",
+      "normalized_name": "klein_snofs_v1_3.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/00c1e9ae8214",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-10T07:00:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27258622112",
       "run_id": 27258622112,
@@ -36942,12 +36955,6 @@
       "normalized_name": "groundingdino.zip",
       "share_url": "https://pan.quark.cn/s/00cf92271867",
       "completed_at": "2026-04-16T05:11:21Z"
-    },
-    {
-      "filename": "klein_snofs_v1_3.safetensors",
-      "normalized_name": "klein_snofs_v1_3.safetensors",
-      "share_url": "https://pan.quark.cn/s/f4cc82a4687b",
-      "completed_at": "2026-04-16T01:45:46Z"
     },
     {
       "filename": "animaPreviewFlashV2.4FIv.safetensors",
