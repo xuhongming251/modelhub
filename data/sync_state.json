@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T13:27:07.688Z",
-  "lastRunId": 27279534882,
+  "updatedAt": "2026-06-10T13:31:20.245Z",
+  "lastRunId": 27279793795,
   "items": [
+    {
+      "id": "run_27279793795",
+      "run_id": 27279793795,
+      "artifact_id": 7537157888,
+      "filename": "RivoVPNWindows-amd64-setup.exe",
+      "normalized_name": "rivovpnwindows-amd64-setup.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/efa59e1d2414",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-10T13:30:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27279534882",
       "run_id": 27279534882,
