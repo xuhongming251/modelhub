@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T11:25:25.687Z",
-  "lastRunId": 27272843441,
+  "updatedAt": "2026-06-10T11:44:22.469Z",
+  "lastRunId": 27273813130,
   "items": [
+    {
+      "id": "run_27273813130",
+      "run_id": 27273813130,
+      "artifact_id": 7534656599,
+      "filename": "321.safetensors",
+      "normalized_name": "321.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/978f34aa7dd4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-10T11:43:42Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27272871193",
+      "run_id": 27272871193,
+      "artifact_id": 7534267488,
+      "filename": "MMD_Dance_HowItsDone_H_Wan2-2_i2v_A14B.safetensors",
+      "normalized_name": "mmd_dance_howitsdone_h_wan2-2_i2v_a14b.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1180d618237c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-10T11:25:23Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27272843441",
       "run_id": 27272843441,
@@ -10752,19 +10778,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-27T04:35:45Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26490032835",
-      "run_id": 26490032835,
-      "artifact_id": 7231674130,
-      "filename": "MMD_Dance_HowItsDone_H_Wan2-2_i2v_A14B.safetensors",
-      "normalized_name": "mmd_dance_howitsdone_h_wan2-2_i2v_a14b.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/7acd19432867",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-27T04:04:10Z",
       "workflow": "upload.yml"
     },
     {
