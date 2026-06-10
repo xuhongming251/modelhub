@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T07:07:33.344Z",
-  "lastRunId": 27259403259,
+  "updatedAt": "2026-06-10T07:11:26.882Z",
+  "lastRunId": 27259587331,
   "items": [
+    {
+      "id": "run_27259587331",
+      "run_id": 27259587331,
+      "artifact_id": 7528845989,
+      "filename": "DR34ML4Y_I2V_14B_HIGH_V2.safetensors",
+      "normalized_name": "dr34ml4y_i2v_14b_high_v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/068fab111319",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-10T07:10:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27259403259",
       "run_id": 27259403259,
