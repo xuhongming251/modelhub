@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T11:17:00.755Z",
-  "lastRunId": 27272374045,
+  "updatedAt": "2026-06-10T11:25:25.687Z",
+  "lastRunId": 27272843441,
   "items": [
+    {
+      "id": "run_27272843441",
+      "run_id": 27272843441,
+      "artifact_id": 7534254400,
+      "filename": "MMD_Dance_HowItsDone_L_Wan2-2_i2v_A14B_.safetensors",
+      "normalized_name": "mmd_dance_howitsdone_l_wan2-2_i2v_a14b_.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2a1b3ec8248a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-10T11:24:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27272374045",
       "run_id": 27272374045,
@@ -10752,19 +10765,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-27T04:04:10Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26490020595",
-      "run_id": 26490020595,
-      "artifact_id": 7231671410,
-      "filename": "MMD_Dance_HowItsDone_L_Wan2-2_i2v_A14B_.safetensors",
-      "normalized_name": "mmd_dance_howitsdone_l_wan2-2_i2v_a14b_.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/82ec74c078f7",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-27T04:03:54Z",
       "workflow": "upload.yml"
     },
     {
