@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10T16:24:46.370Z",
-  "lastRunId": 27289480388,
+  "updatedAt": "2026-06-10T16:28:01.590Z",
+  "lastRunId": 27290214983,
   "items": [
     {
-      "id": "run_27289480388",
-      "run_id": 27289480388,
-      "artifact_id": 7541591368,
+      "id": "run_27290214983",
+      "run_id": 27290214983,
+      "artifact_id": 7541678689,
       "filename": "dvineV140Anima.KPvw.safetensors",
       "normalized_name": "dvinev140anima.kpvw.safetensors",
       "original_url": "",
-      "share_url": "https://pan.quark.cn/s/cf6bed1e6b1e",
+      "share_url": "https://pan.quark.cn/s/80911d6d5b74",
       "channel": "quark",
       "channel_name": "Quark",
-      "completed_at": "2026-06-10T16:23:37Z",
+      "completed_at": "2026-06-10T16:27:19Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27290205421",
+      "run_id": 27290205421,
+      "artifact_id": 7541674404,
+      "filename": "novaanimeamv25.rrVX.safetensors",
+      "normalized_name": "novaanimeamv25.rrvx.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3c9dacdf1b6e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-10T16:27:10Z",
       "workflow": "upload.yml"
     },
     {
