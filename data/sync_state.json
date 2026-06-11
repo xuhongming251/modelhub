@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T16:07:09.465Z",
-  "lastRunId": 27360353937,
+  "updatedAt": "2026-06-11T16:10:34.654Z",
+  "lastRunId": 27360620330,
   "items": [
+    {
+      "id": "run_27360620330",
+      "run_id": 27360620330,
+      "artifact_id": 7570045601,
+      "filename": "nocopyrightgirlanima.TJXy.safetensors",
+      "normalized_name": "nocopyrightgirlanima.tjxy.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e85e6b96093a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-11T16:09:55Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27360353937",
       "run_id": 27360353937,
@@ -52651,7 +52664,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
