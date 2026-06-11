@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T05:52:31.720Z",
-  "lastRunId": 27326819271,
+  "updatedAt": "2026-06-11T05:58:43.911Z",
+  "lastRunId": 27327066424,
   "items": [
+    {
+      "id": "run_27327066424",
+      "run_id": 27327066424,
+      "artifact_id": 7555980085,
+      "filename": "ComfyUI_Comfyroll_CustomNodes.zip",
+      "normalized_name": "comfyui_comfyroll_customnodes.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5fa79f028b28",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-11T05:58:10Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27326840640",
+      "run_id": 27326840640,
+      "artifact_id": 7555894197,
+      "filename": "comfy_mtb.zip",
+      "normalized_name": "comfy_mtb.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/614a9daa5b6d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-11T05:52:28Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27326819271",
       "run_id": 27326819271,
@@ -15497,19 +15523,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-21T14:22:15Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26231392089",
-      "run_id": 26231392089,
-      "artifact_id": 7138117727,
-      "filename": "ComfyUI_Comfyroll_CustomNodes.zip",
-      "normalized_name": "comfyui_comfyroll_customnodes.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/a77e5d337f1d",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-21T14:12:02Z",
       "workflow": "upload.yml"
     },
     {
@@ -34951,12 +34964,6 @@
       "normalized_name": "newbie-image-exp0.1_tensorcorefp8.safetensors",
       "share_url": "https://pan.quark.cn/s/f8006e5d20a1",
       "completed_at": "2026-04-24T15:00:25Z"
-    },
-    {
-      "filename": "comfy_mtb.zip",
-      "normalized_name": "comfy_mtb.zip",
-      "share_url": "https://pan.quark.cn/s/cb8d30799ea4",
-      "completed_at": "2026-04-24T14:44:49Z"
     },
     {
       "filename": "GIMM-VFI.zip",
