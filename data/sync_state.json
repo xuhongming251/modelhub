@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T03:54:28.978Z",
-  "lastRunId": 27322628742,
+  "updatedAt": "2026-06-11T05:30:10.180Z",
+  "lastRunId": 27325941182,
   "items": [
+    {
+      "id": "run_27325941182",
+      "run_id": 27325941182,
+      "artifact_id": 7555556679,
+      "filename": "oneobsession.QM6P.safetensors",
+      "normalized_name": "oneobsession.qm6p.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e14ca0fc2677",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-11T05:29:31Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27322628742",
       "run_id": 27322628742,
@@ -30634,12 +30647,6 @@
       "normalized_name": "silvermoonmix.dqvq.safetensors",
       "share_url": "https://pan.quark.cn/s/c30372142d67",
       "completed_at": "2026-05-02T02:55:00Z"
-    },
-    {
-      "filename": "oneobsession.QM6P.safetensors",
-      "normalized_name": "oneobsession.qm6p.safetensors",
-      "share_url": "https://pan.quark.cn/s/d91ac3719261",
-      "completed_at": "2026-05-02T02:31:14Z"
     },
     {
       "filename": "divingillustriousflat.167G.safetensors",
