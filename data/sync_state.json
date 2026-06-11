@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T08:19:57.198Z",
-  "lastRunId": 27333620843,
+  "updatedAt": "2026-06-11T08:30:59.850Z",
+  "lastRunId": 27333666474,
   "items": [
+    {
+      "id": "run_27333666474",
+      "run_id": 27333666474,
+      "artifact_id": 7558834010,
+      "filename": "gemma-4-31B-it-uncensored-heretic.i1-Q4_1.gguf",
+      "normalized_name": "gemma-4-31b-it-uncensored-heretic.i1-q4_1.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c71953ab8e27",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-11T08:30:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27333620843",
       "run_id": 27333620843,
@@ -39058,12 +39071,6 @@
       "normalized_name": "glm-z1-32b-0414-heretic-v2.i1-q4_1.gguf",
       "share_url": "https://pan.quark.cn/s/6e93f1cd834b",
       "completed_at": "2026-04-08T01:31:27Z"
-    },
-    {
-      "filename": "gemma-4-31B-it-uncensored-heretic.i1-Q4_1.gguf",
-      "normalized_name": "gemma-4-31b-it-uncensored-heretic.i1-q4_1.gguf",
-      "share_url": "https://pan.quark.cn/s/a0f9a90a0655",
-      "completed_at": "2026-04-08T01:03:49Z"
     },
     {
       "filename": "klein9bbasesnofs13.Ds8A.safetensors",
