@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T17:31:10.016Z",
-  "lastRunId": 27365343070,
+  "updatedAt": "2026-06-11T17:36:10.794Z",
+  "lastRunId": 27365658140,
   "items": [
+    {
+      "id": "run_27365658140",
+      "run_id": 27365658140,
+      "artifact_id": 7572107236,
+      "filename": "footYolov8n.jaHT.pt",
+      "normalized_name": "footyolov8n.jaht.pt",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e434475813a4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-11T17:35:42Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27365645668",
+      "run_id": 27365645668,
+      "artifact_id": 7572102620,
+      "filename": "ipAdapterPlusSd15.YEmg.safetensors",
+      "normalized_name": "ipadapterplussd15.yemg.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6a22a9937347",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-11T17:35:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27365343070",
       "run_id": 27365343070,
