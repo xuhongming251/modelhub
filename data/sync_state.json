@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T15:24:57.427Z",
-  "lastRunId": 27357722441,
+  "updatedAt": "2026-06-11T15:25:59.499Z",
+  "lastRunId": 27357819510,
   "items": [
+    {
+      "id": "run_27357819510",
+      "run_id": 27357819510,
+      "artifact_id": 7568873471,
+      "filename": "kkoi000025.VUPf.safetensors",
+      "normalized_name": "kkoi000025.vupf.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f9142daedce0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-11T15:25:29Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27357722441",
       "run_id": 27357722441,
@@ -52456,7 +52469,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
