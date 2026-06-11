@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T07:51:57.759Z",
-  "lastRunId": 27332128006,
+  "updatedAt": "2026-06-11T08:19:57.198Z",
+  "lastRunId": 27333620843,
   "items": [
+    {
+      "id": "run_27333620843",
+      "run_id": 27333620843,
+      "artifact_id": 7558589287,
+      "filename": "ComfyUI-QwenASR.zip",
+      "normalized_name": "comfyui-qwenasr.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2515fe3341cb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-11T08:19:17Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27332161480",
+      "run_id": 27332161480,
+      "artifact_id": 7557991284,
+      "filename": "ideogram4Unconditional.safetensors",
+      "normalized_name": "ideogram4unconditional.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3edb3b595304",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-11T07:51:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27332128006",
       "run_id": 27332128006,
