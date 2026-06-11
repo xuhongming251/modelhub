@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T15:49:15.236Z",
-  "lastRunId": 27359318851,
+  "updatedAt": "2026-06-11T15:52:15.253Z",
+  "lastRunId": 27359487149,
   "items": [
+    {
+      "id": "run_27359487149",
+      "run_id": 27359487149,
+      "artifact_id": 7569581411,
+      "filename": "android18ZoneEpoch9.wUpc.safetensors",
+      "normalized_name": "android18zoneepoch9.wupc.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b6ac8b8a39b6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-11T15:51:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27359318851",
       "run_id": 27359318851,
@@ -52547,7 +52560,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
