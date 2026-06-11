@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T11:55:45.694Z",
-  "lastRunId": 27344293641,
+  "updatedAt": "2026-06-11T12:47:17.085Z",
+  "lastRunId": 27346948435,
   "items": [
+    {
+      "id": "run_27346948435",
+      "run_id": 27346948435,
+      "artifact_id": 7564558838,
+      "filename": "FireRed-Image-Edit-1.1_bf16.safetensors",
+      "normalized_name": "firered-image-edit-1.1_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f9061ec58091",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-11T12:46:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27344293641",
       "run_id": 27344293641,
@@ -30759,12 +30772,6 @@
       "normalized_name": "qwen_image_2512_fp8_e4m3fn.safetensors",
       "share_url": "https://pan.quark.cn/s/8dcc5f1b7d5d",
       "completed_at": "2026-05-02T07:22:38Z"
-    },
-    {
-      "filename": "FireRed-Image-Edit-1.1_bf16.safetensors",
-      "normalized_name": "firered-image-edit-1.1_bf16.safetensors",
-      "share_url": "https://pan.quark.cn/s/408ec92d43b1",
-      "completed_at": "2026-05-02T07:22:24Z"
     },
     {
       "filename": "Qwen-Image-2512-Lightning-4steps-V1.0-fp32.safetensors",
