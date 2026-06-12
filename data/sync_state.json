@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-12T12:23:17.369Z",
+  "updatedAt": "2026-06-12T12:24:42.081Z",
   "lastRunId": 27415359148,
   "items": [
+    {
+      "id": "run_27415309878",
+      "run_id": 27415309878,
+      "artifact_id": 7591356621,
+      "filename": "Play-LOW-v2.safetensors",
+      "normalized_name": "play-low-v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2cf9728c1adf",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-12T12:24:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27415359148",
       "run_id": 27415359148,
@@ -53179,7 +53192,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
