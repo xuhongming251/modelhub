@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-12T01:00:13.367Z",
-  "lastRunId": 27387460756,
+  "updatedAt": "2026-06-12T01:13:18.300Z",
+  "lastRunId": 27387930866,
   "items": [
+    {
+      "id": "run_27387930866",
+      "run_id": 27387930866,
+      "artifact_id": 7580789254,
+      "filename": "Qwen3.5-9B-Uncensored-HauhauCS-Aggressive-Q6_K.gguf",
+      "normalized_name": "qwen3.5-9b-uncensored-hauhaucs-aggressive-q6_k.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c544cf01c42f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-12T01:12:47Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27387460756",
       "run_id": 27387460756,
@@ -34477,12 +34490,6 @@
       "normalized_name": "cunnyfunky风格.safetensors",
       "share_url": "https://pan.quark.cn/s/1d0e32dda680",
       "completed_at": "2026-04-27T07:52:03Z"
-    },
-    {
-      "filename": "Qwen3.5-9B-Uncensored-HauhauCS-Aggressive-Q6_K.gguf",
-      "normalized_name": "qwen3.5-9b-uncensored-hauhaucs-aggressive-q6_k.gguf",
-      "share_url": "https://pan.quark.cn/s/be553da854b6",
-      "completed_at": "2026-04-27T06:39:01Z"
     },
     {
       "filename": "BlazingrealdriveV01c.MHGy.safetensors",
