@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-12T06:46:01.630Z",
-  "lastRunId": 27399511577,
+  "updatedAt": "2026-06-12T06:47:45.103Z",
+  "lastRunId": 27399584586,
   "items": [
+    {
+      "id": "run_27399584586",
+      "run_id": 27399584586,
+      "artifact_id": 7584908202,
+      "filename": "pworship_low_noise.safetensors",
+      "normalized_name": "pworship_low_noise.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c4426616ed2f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-12T06:47:03Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27399511577",
       "run_id": 27399511577,
