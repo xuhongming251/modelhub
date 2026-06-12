@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-12T16:18:28.403Z",
-  "lastRunId": 27427532828,
+  "updatedAt": "2026-06-12T16:28:42.379Z",
+  "lastRunId": 27428626880,
   "items": [
+    {
+      "id": "run_27428626880",
+      "run_id": 27428626880,
+      "artifact_id": 7596995855,
+      "filename": "ltx-2.3-22b-distilled-1.1_transformer_only_fp8_scaled.safetensors",
+      "normalized_name": "ltx-2.3-22b-distilled-1.1_transformer_only_fp8_scaled.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2978c4d7cc0a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-12T16:27:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27426986987",
       "run_id": 27426986987,
@@ -39744,12 +39757,6 @@
       "normalized_name": "ltx-2.3-22b-ic-lora-outpaint.safetensors",
       "share_url": "https://pan.quark.cn/s/27c0179cbedb",
       "completed_at": "2026-04-14T07:31:12Z"
-    },
-    {
-      "filename": "ltx-2.3-22b-distilled-1.1_transformer_only_fp8_scaled.safetensors",
-      "normalized_name": "ltx-2.3-22b-distilled-1.1_transformer_only_fp8_scaled.safetensors",
-      "share_url": "https://pan.quark.cn/s/41ee061c6095",
-      "completed_at": "2026-04-14T07:27:57Z"
     },
     {
       "filename": "v0.19.0",
