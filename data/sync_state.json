@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-12T07:41:46.371Z",
-  "lastRunId": 27401957163,
+  "updatedAt": "2026-06-12T07:48:10.949Z",
+  "lastRunId": 27402269898,
   "items": [
+    {
+      "id": "run_27402269898",
+      "run_id": 27402269898,
+      "artifact_id": 7585942586,
+      "filename": "workflow.json",
+      "normalized_name": "workflow.json",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c720c9005550",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-12T07:47:36Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27401957163",
       "run_id": 27401957163,
@@ -36301,12 +36314,6 @@
       "normalized_name": "octopussmixs2.hbqq.safetensors",
       "share_url": "https://pan.quark.cn/s/6230a1e4d6c9",
       "completed_at": "2026-04-24T13:27:43Z"
-    },
-    {
-      "filename": "workflow.json",
-      "normalized_name": "workflow.json",
-      "share_url": "https://pan.quark.cn/s/7afa45d7a0ba",
-      "completed_at": "2026-04-24T13:23:47Z"
     },
     {
       "filename": "mine1.json",
