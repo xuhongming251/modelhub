@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-12T01:36:51.894Z",
-  "lastRunId": 27388782769,
+  "updatedAt": "2026-06-12T01:52:40.650Z",
+  "lastRunId": 27388966957,
   "items": [
+    {
+      "id": "run_27388966957",
+      "run_id": 27388966957,
+      "artifact_id": 7581287544,
+      "filename": "Qwen3.5-9B-UD-Q4_K_XL.gguf",
+      "normalized_name": "qwen3.5-9b-ud-q4_k_xl.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4102d656dcd1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-12T01:52:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27388782769",
       "run_id": 27388782769,
@@ -42440,12 +42453,6 @@
       "normalized_name": "wp822ssfkth9j5e90hjn552fv0.safetensors",
       "share_url": "https://pan.quark.cn/s/abea63292cfa",
       "completed_at": "2026-03-31T16:04:02Z"
-    },
-    {
-      "filename": "Qwen3.5-9B-UD-Q4_K_XL.gguf",
-      "normalized_name": "qwen3.5-9b-ud-q4_k_xl.gguf",
-      "share_url": "https://pan.quark.cn/s/f3e5c7ca1379",
-      "completed_at": "2026-03-31T15:49:52Z"
     },
     {
       "filename": "Qwen3.5-9B-UD-Q6_K_XL.gguf",
