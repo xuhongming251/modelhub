@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-13T14:49:38.153Z",
-  "lastRunId": 27469877221,
+  "updatedAt": "2026-06-13T14:53:47.271Z",
+  "lastRunId": 27470008243,
   "items": [
+    {
+      "id": "run_27470008243",
+      "run_id": 27470008243,
+      "artifact_id": 7611766673,
+      "filename": "dasiwaLTX23Goldenlace.b98I.safetensors",
+      "normalized_name": "dasiwaltx23goldenlace.b98i.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a768ad52ffbb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-13T14:53:03Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27469877221",
       "run_id": 27469877221,
@@ -12416,19 +12429,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-01T19:35:24Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26777148798",
-      "run_id": 26777148798,
-      "artifact_id": 7340986277,
-      "filename": "dasiwaLTX23Goldenlace.b98I.safetensors",
-      "normalized_name": "dasiwaltx23goldenlace.b98i.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/4658024c6ae8",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-01T19:34:01Z",
       "workflow": "upload.yml"
     },
     {
