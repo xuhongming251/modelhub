@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-13T02:18:09.383Z",
-  "lastRunId": 27453621930,
+  "updatedAt": "2026-06-13T02:23:29.080Z",
+  "lastRunId": 27453750720,
   "items": [
+    {
+      "id": "run_27453750720",
+      "run_id": 27453750720,
+      "artifact_id": 7606434172,
+      "filename": "lemonpie.2Y7V.safetensors",
+      "normalized_name": "lemonpie.2y7v.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4ef83ee80cd9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-13T02:22:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27453621930",
       "run_id": 27453621930,
@@ -42097,12 +42110,6 @@
       "normalized_name": "qwen-imagensfwadv1",
       "share_url": "https://pan.quark.cn/s/4d1b00484da4",
       "completed_at": "2026-04-03T13:52:00Z"
-    },
-    {
-      "filename": "lemonpie.2Y7V.safetensors",
-      "normalized_name": "lemonpie.2y7v.safetensors",
-      "share_url": "https://pan.quark.cn/s/6a4071ce3170",
-      "completed_at": "2026-04-03T13:51:03Z"
     },
     {
       "filename": "WAN2.1_SmartphoneSnapshotPhotoReality_v1_by-AI_Characters.safetensors.zip",
