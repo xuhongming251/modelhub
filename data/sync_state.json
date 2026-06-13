@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-13T08:48:38.484Z",
-  "lastRunId": 27462058258,
+  "updatedAt": "2026-06-13T08:50:50.799Z",
+  "lastRunId": 27462086895,
   "items": [
+    {
+      "id": "run_27462086895",
+      "run_id": 27462086895,
+      "artifact_id": 7609239824,
+      "filename": "yamada.d8QH.safetensors",
+      "normalized_name": "yamada.d8qh.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e8ed4e43e905",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-13T08:50:07Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27462058258",
       "run_id": 27462058258,
@@ -56210,7 +56223,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
