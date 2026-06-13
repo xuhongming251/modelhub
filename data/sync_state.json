@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-13T19:31:16.139Z",
-  "lastRunId": 27476713472,
+  "updatedAt": "2026-06-13T20:32:10.145Z",
+  "lastRunId": 27478237533,
   "items": [
+    {
+      "id": "run_27478237533",
+      "run_id": 27478237533,
+      "artifact_id": 7614237159,
+      "filename": "hinaZimagebase.7k3C.safetensors",
+      "normalized_name": "hinazimagebase.7k3c.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3a9e4ac80ba6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-13T20:31:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27476713472",
       "run_id": 27476713472,
@@ -45594,12 +45607,6 @@
       "normalized_name": "flux2klein9btrue_v20bf16.safetensors",
       "share_url": "https://pan.quark.cn/s/bc5307a3f0d1",
       "completed_at": "2026-04-03T04:20:28Z"
-    },
-    {
-      "filename": "hinaZimagebase.7k3C.safetensors",
-      "normalized_name": "hinazimagebase.7k3c.safetensors",
-      "share_url": "https://pan.quark.cn/s/83919157dd7f",
-      "completed_at": "2026-04-03T01:20:22Z"
     },
     {
       "filename": "Qwen3-VL-8B-Instruct-c_abliterated-v3.Q4_K_M.gguf",
