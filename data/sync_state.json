@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-13T08:35:01.470Z",
-  "lastRunId": 27461769460,
+  "updatedAt": "2026-06-13T08:36:12.700Z",
+  "lastRunId": 27461780970,
   "items": [
+    {
+      "id": "run_27461780970",
+      "run_id": 27461780970,
+      "artifact_id": 7609143373,
+      "filename": "animaAICunnyfunky.ZHcb.safetensors",
+      "normalized_name": "animaaicunnyfunky.zhcb.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/eab4327a8be0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-13T08:35:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27461769460",
       "run_id": 27461769460,
@@ -56106,7 +56119,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
