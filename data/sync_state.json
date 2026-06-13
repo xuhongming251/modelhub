@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-13T07:53:39.866Z",
-  "lastRunId": 27460893473,
+  "updatedAt": "2026-06-13T08:01:21.084Z",
+  "lastRunId": 27461054511,
   "items": [
+    {
+      "id": "run_27461054511",
+      "run_id": 27461054511,
+      "artifact_id": 7608871790,
+      "filename": "konoshige202515202602.vYU8.safetensors",
+      "normalized_name": "konoshige202515202602.vyu8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/09d7a4ce7cab",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-13T08:00:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27460893473",
       "run_id": 27460893473,
@@ -55807,7 +55820,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
