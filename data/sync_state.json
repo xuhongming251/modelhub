@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-13T06:40:05.793Z",
+  "updatedAt": "2026-06-13T06:41:01.677Z",
   "lastRunId": 27459315366,
   "items": [
+    {
+      "id": "run_27459283530",
+      "run_id": 27459283530,
+      "artifact_id": 7608254307,
+      "filename": "pornmasteranimaBasev1.BOeR.safetensors",
+      "normalized_name": "pornmasteranimabasev1.boer.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/af21afee598c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-13T06:40:31Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27459298993",
+      "run_id": 27459298993,
+      "artifact_id": 7608253741,
+      "filename": "3d20like20style.kTbU.safetensors",
+      "normalized_name": "3d20like20style.ktbu.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c1392b0bcd55",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-13T06:40:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27459315366",
       "run_id": 27459315366,
@@ -54910,7 +54936,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
