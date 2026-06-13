@@ -1,8 +1,60 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-13T06:28:39.861Z",
-  "lastRunId": 27459053356,
+  "updatedAt": "2026-06-13T06:30:02.878Z",
+  "lastRunId": 27459097413,
   "items": [
+    {
+      "id": "run_27459097413",
+      "run_id": 27459097413,
+      "artifact_id": 7608165926,
+      "filename": "animaBasev10Txt.8NnR.safetensors",
+      "normalized_name": "animabasev10txt.8nnr.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d9b2440420a7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-13T06:29:33Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27459091157",
+      "run_id": 27459091157,
+      "artifact_id": 7608165481,
+      "filename": "miaomiao20harem20Anima.TZS8.safetensors",
+      "normalized_name": "miaomiao20harem20anima.tzs8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/943d58c0c838",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-13T06:29:29Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27459071392",
+      "run_id": 27459071392,
+      "artifact_id": 7608159680,
+      "filename": "disgaeaRpg20v2.rfCc.safetensors",
+      "normalized_name": "disgaearpg20v2.rfcc.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0a9fffb56919",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-13T06:28:41Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27459068233",
+      "run_id": 27459068233,
+      "artifact_id": 7608158068,
+      "filename": "manemobV31.6jEq.safetensors",
+      "normalized_name": "manemobv31.6jeq.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3dd4479de696",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-13T06:28:27Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27459053356",
       "run_id": 27459053356,
@@ -2549,19 +2601,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-11T15:45:01Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27358945740",
-      "run_id": 27358945740,
-      "artifact_id": 7569360019,
-      "filename": "miaomiao20harem20Anima.TZS8.safetensors",
-      "normalized_name": "miaomiao20harem20anima.tzs8.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/f34e22798776",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-11T15:43:05Z",
       "workflow": "upload.yml"
     },
     {
@@ -54780,7 +54819,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
