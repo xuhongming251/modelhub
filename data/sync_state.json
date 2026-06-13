@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-13T07:48:44.243Z",
-  "lastRunId": 27460767444,
+  "updatedAt": "2026-06-13T07:50:30.297Z",
+  "lastRunId": 27460812927,
   "items": [
+    {
+      "id": "run_27460812927",
+      "run_id": 27460812927,
+      "artifact_id": 7608793004,
+      "filename": "pipopubebu20v1000008.j8WI.safetensors",
+      "normalized_name": "pipopubebu20v1000008.j8wi.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3b02328c986c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-13T07:49:52Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27460767444",
       "run_id": 27460767444,
@@ -55742,7 +55755,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
