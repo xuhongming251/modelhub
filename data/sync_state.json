@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-13T05:53:00.612Z",
-  "lastRunId": 27458312216,
+  "updatedAt": "2026-06-13T05:54:48.313Z",
+  "lastRunId": 27458360003,
   "items": [
+    {
+      "id": "run_27458360003",
+      "run_id": 27458360003,
+      "artifact_id": 7607904874,
+      "filename": "dogmaAnimav16.HGis.safetensors",
+      "normalized_name": "dogmaanimav16.hgis.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d3013a93e106",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-13T05:54:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27458312216",
       "run_id": 27458312216,
@@ -54474,7 +54487,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
