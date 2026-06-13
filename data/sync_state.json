@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-13T08:31:49.163Z",
-  "lastRunId": 27461682375,
+  "updatedAt": "2026-06-13T08:35:01.470Z",
+  "lastRunId": 27461769460,
   "items": [
+    {
+      "id": "run_27461769460",
+      "run_id": 27461769460,
+      "artifact_id": 7609137224,
+      "filename": "skyv1000006.F9rr.safetensors",
+      "normalized_name": "skyv1000006.f9rr.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d2ba8a3a172f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-13T08:34:34Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27461741371",
+      "run_id": 27461741371,
+      "artifact_id": 7609136208,
+      "filename": "mellowMilkMix.9JBY.safetensors",
+      "normalized_name": "mellowmilkmix.9jby.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fab919a01ca7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-13T08:34:25Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27461758887",
+      "run_id": 27461758887,
+      "artifact_id": 7609135520,
+      "filename": "retroHentaiStyle.lqxp.safetensors",
+      "normalized_name": "retrohentaistyle.lqxp.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fc8b165aefd7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-13T08:34:20Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27461682375",
       "run_id": 27461682375,
@@ -56067,7 +56106,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
