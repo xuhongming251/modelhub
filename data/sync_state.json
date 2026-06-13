@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-13T06:05:44.991Z",
-  "lastRunId": 27458596943,
+  "updatedAt": "2026-06-13T06:06:30.983Z",
+  "lastRunId": 27458613082,
   "items": [
+    {
+      "id": "run_27458569484",
+      "run_id": 27458569484,
+      "artifact_id": 7607989170,
+      "filename": "qwen_3_4b_fp8_mixed.safetensors",
+      "normalized_name": "qwen_3_4b_fp8_mixed.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/29bd6460932d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-13T06:06:06Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27458613082",
+      "run_id": 27458613082,
+      "artifact_id": 7607987343,
+      "filename": "yoneyama20maiAnima.66pj.safetensors",
+      "normalized_name": "yoneyama20maianima.66pj.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c76b8f056bcc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-13T06:05:52Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27458585626",
+      "run_id": 27458585626,
+      "artifact_id": 7607985036,
+      "filename": "animaP4t1s1yV22.6j9Q.safetensors",
+      "normalized_name": "animap4t1s1yv22.6j9q.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e190b983e28e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-13T06:05:34Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27458596943",
       "run_id": 27458596943,
@@ -46514,12 +46553,6 @@
       "completed_at": "2026-03-26T05:56:04Z"
     },
     {
-      "filename": "qwen_3_4b_fp8_mixed.safetensors",
-      "normalized_name": "qwen_3_4b_fp8_mixed.safetensors",
-      "share_url": "https://pan.quark.cn/s/543b03ef2531",
-      "completed_at": "2026-03-26T05:54:50Z"
-    },
-    {
       "filename": "qe2511ConsisAlpha.jKc9.safetensors",
       "normalized_name": "qe2511consisalpha.jkc9.safetensors",
       "share_url": "https://pan.quark.cn/s/da68832583ed",
@@ -54604,7 +54637,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
