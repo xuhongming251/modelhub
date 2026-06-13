@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-13T06:39:20.628Z",
-  "lastRunId": 27459279073,
+  "updatedAt": "2026-06-13T06:40:05.793Z",
+  "lastRunId": 27459315366,
   "items": [
+    {
+      "id": "run_27459315366",
+      "run_id": 27459315366,
+      "artifact_id": 7608249070,
+      "filename": "ip-adapter-faceid-plusv2_sdxl.bin",
+      "normalized_name": "ip-adapter-faceid-plusv2_sdxl.bin",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4d205e1e6577",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-13T06:39:50Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27459310828",
+      "run_id": 27459310828,
+      "artifact_id": 7608247197,
+      "filename": "ip-adapter-faceid-plusv2_sdxl_lora.safetensors",
+      "normalized_name": "ip-adapter-faceid-plusv2_sdxl_lora.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/058813c5cf97",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-13T06:39:35Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27459305596",
+      "run_id": 27459305596,
+      "artifact_id": 7608244228,
+      "filename": "sq3.QgDk.safetensors",
+      "normalized_name": "sq3.qgdk.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3a49c9abf467",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-13T06:39:13Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27459279073",
       "run_id": 27459279073,
@@ -10804,32 +10843,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-01T12:16:47Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26753863151",
-      "run_id": 26753863151,
-      "artifact_id": 7330998908,
-      "filename": "ip-adapter-faceid-plusv2_sdxl_lora.safetensors",
-      "normalized_name": "ip-adapter-faceid-plusv2_sdxl_lora.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/274bbee98569",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-01T12:06:48Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26753847742",
-      "run_id": 26753847742,
-      "artifact_id": 7330994399,
-      "filename": "ip-adapter-faceid-plusv2_sdxl.bin",
-      "normalized_name": "ip-adapter-faceid-plusv2_sdxl.bin",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/b7a55e040b52",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-01T12:06:35Z",
       "workflow": "upload.yml"
     },
     {
@@ -54897,7 +54910,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
