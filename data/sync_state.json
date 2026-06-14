@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-14T03:21:01.211Z",
-  "lastRunId": 27486959802,
+  "updatedAt": "2026-06-14T03:21:58.805Z",
+  "lastRunId": 27486976402,
   "items": [
+    {
+      "id": "run_27486976402",
+      "run_id": 27486976402,
+      "artifact_id": 7616991304,
+      "filename": "ltx23NsfwPosingNudeV1.fKE9.safetensors",
+      "normalized_name": "ltx23nsfwposingnudev1.fke9.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/104e1ebc4f1d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-14T03:21:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27486941441",
       "run_id": 27486941441,
@@ -57608,7 +57621,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 8,
       "createdBefore": null,
       "exhausted": false
     }
