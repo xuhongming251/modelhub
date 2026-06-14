@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-14T13:53:00.562Z",
-  "lastRunId": 27500938048,
+  "updatedAt": "2026-06-14T13:54:27.203Z",
+  "lastRunId": 27500985746,
   "items": [
+    {
+      "id": "run_27500985746",
+      "run_id": 27500985746,
+      "artifact_id": 7621679338,
+      "filename": "ip-adapter-faceid-plusv2_sdxl_lora.safetensors",
+      "normalized_name": "ip-adapter-faceid-plusv2_sdxl_lora.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/51b148152ee7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-14T13:54:00Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27500974610",
+      "run_id": 27500974610,
+      "artifact_id": 7621676792,
+      "filename": "ip-adapter-faceid-plusv2_sdxl.bin",
+      "normalized_name": "ip-adapter-faceid-plusv2_sdxl.bin",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0ee8c8fa4c15",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-14T13:53:39Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27500938048",
       "run_id": 27500938048,
@@ -5370,32 +5396,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-13T06:40:24Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27459315366",
-      "run_id": 27459315366,
-      "artifact_id": 7608249070,
-      "filename": "ip-adapter-faceid-plusv2_sdxl.bin",
-      "normalized_name": "ip-adapter-faceid-plusv2_sdxl.bin",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/4d205e1e6577",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-13T06:39:50Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27459310828",
-      "run_id": 27459310828,
-      "artifact_id": 7608247197,
-      "filename": "ip-adapter-faceid-plusv2_sdxl_lora.safetensors",
-      "normalized_name": "ip-adapter-faceid-plusv2_sdxl_lora.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/058813c5cf97",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-13T06:39:35Z",
       "workflow": "upload.yml"
     },
     {
