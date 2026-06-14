@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-14T16:26:58.379Z",
+  "updatedAt": "2026-06-14T16:29:42.430Z",
   "lastRunId": 27504984236,
   "items": [
+    {
+      "id": "run_27504598566",
+      "run_id": 27504598566,
+      "artifact_id": 7622902057,
+      "filename": "Qwopus3.5-9B-Coder-MTP-IQ4_XS.gguf",
+      "normalized_name": "qwopus3.5-9b-coder-mtp-iq4_xs.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0016e4822632",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-14T16:28:48Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27504984236",
       "run_id": 27504984236,
