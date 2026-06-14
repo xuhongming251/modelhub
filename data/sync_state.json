@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-14T08:54:12.654Z",
-  "lastRunId": 27493657225,
+  "updatedAt": "2026-06-14T09:13:56.147Z",
+  "lastRunId": 27494237659,
   "items": [
+    {
+      "id": "run_27494237659",
+      "run_id": 27494237659,
+      "artifact_id": 7619513707,
+      "filename": "sd3.5_large_fp8_scaled.safetensors",
+      "normalized_name": "sd3.5_large_fp8_scaled.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4548f8b2a0ea",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-14T09:13:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27493657225",
       "run_id": 27493657225,
@@ -50661,12 +50674,6 @@
       "normalized_name": "narratoai.zip",
       "share_url": "https://pan.quark.cn/s/2067e199217e",
       "completed_at": "2026-03-27T17:45:06Z"
-    },
-    {
-      "filename": "sd3.5_large_fp8_scaled.safetensors",
-      "normalized_name": "sd3.5_large_fp8_scaled.safetensors",
-      "share_url": "https://pan.quark.cn/s/6fff8de0ca48",
-      "completed_at": "2026-03-27T17:34:56Z"
     },
     {
       "filename": "Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-Q5_K_M.gguf",
