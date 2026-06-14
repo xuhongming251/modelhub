@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-14T10:06:57.767Z",
-  "lastRunId": 27495475191,
+  "updatedAt": "2026-06-14T10:16:07.929Z",
+  "lastRunId": 27495682147,
   "items": [
+    {
+      "id": "run_27495682147",
+      "run_id": 27495682147,
+      "artifact_id": 7619990959,
+      "filename": "controlnetSd21Laion.9jme.safetensors",
+      "normalized_name": "controlnetsd21laion.9jme.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/655a694cba78",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-14T10:15:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27495475191",
       "run_id": 27495475191,
