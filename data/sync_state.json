@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-14T05:42:15.535Z",
-  "lastRunId": 27489711796,
+  "updatedAt": "2026-06-14T05:43:51.633Z",
+  "lastRunId": 27489747695,
   "items": [
+    {
+      "id": "run_27489747695",
+      "run_id": 27489747695,
+      "artifact_id": 7617880019,
+      "filename": "ltx-2-19b-ic-lora-detailer.safetensors",
+      "normalized_name": "ltx-2-19b-ic-lora-detailer.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f46120be2f15",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-14T05:43:02Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27489711796",
       "run_id": 27489711796,
