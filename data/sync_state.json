@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-14T05:48:01.047Z",
-  "lastRunId": 27489838364,
+  "updatedAt": "2026-06-14T05:48:46.024Z",
+  "lastRunId": 27489852974,
   "items": [
+    {
+      "id": "run_27489852974",
+      "run_id": 27489852974,
+      "artifact_id": 7617916127,
+      "filename": "Omiko Hakodate.safetensors",
+      "normalized_name": "omiko hakodate.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/844f0b097e3a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-14T05:48:07Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27489846557",
+      "run_id": 27489846557,
+      "artifact_id": 7617913492,
+      "filename": "Nui Harime.safetensors",
+      "normalized_name": "nui harime.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/841e6ef21838",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-14T05:47:44Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27489838364",
       "run_id": 27489838364,
