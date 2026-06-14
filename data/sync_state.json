@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-14T13:19:14.030Z",
-  "lastRunId": 27500105124,
+  "updatedAt": "2026-06-14T13:20:18.902Z",
+  "lastRunId": 27500127398,
   "items": [
+    {
+      "id": "run_27500127398",
+      "run_id": 27500127398,
+      "artifact_id": 7621412781,
+      "filename": "ComfyUI-TeaCache.zip",
+      "normalized_name": "comfyui-teacache.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ef33022a5f5c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-14T13:19:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27500105124",
       "run_id": 27500105124,
@@ -53013,12 +53026,6 @@
       "normalized_name": "wan2214bs2vdasiwa.amap.safetensors",
       "share_url": "https://pan.quark.cn/s/7e44bcde9c1d",
       "completed_at": "2026-03-22T01:16:30Z"
-    },
-    {
-      "filename": "ComfyUI-TeaCache.zip",
-      "normalized_name": "comfyui-teacache.zip",
-      "share_url": "https://pan.quark.cn/s/db304df8e1ca",
-      "completed_at": "2026-03-21T22:52:41Z"
     },
     {
       "filename": "wan2114BFusionx_fusionxImage2video.safetensors",
