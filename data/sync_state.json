@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-14T12:58:09.701Z",
-  "lastRunId": 27499557063,
+  "updatedAt": "2026-06-14T13:17:27.972Z",
+  "lastRunId": 27500053292,
   "items": [
+    {
+      "id": "run_27500053292",
+      "run_id": 27500053292,
+      "artifact_id": 7621388427,
+      "filename": "ComfyUI-wanBlockswap.zip",
+      "normalized_name": "comfyui-wanblockswap.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8101dcd05769",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-14T13:16:34Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27499557063",
       "run_id": 27499557063,
@@ -58413,12 +58426,6 @@
       "completed_at": "2026-03-09T10:26:36Z"
     },
     {
-      "filename": "ComfyUI-wanBlockswap.zip",
-      "normalized_name": "comfyui-wanblockswap.zip",
-      "share_url": "https://pan.quark.cn/s/3f3f7cc3523d",
-      "completed_at": "2026-03-09T10:05:21Z"
-    },
-    {
       "filename": "ComfyUI-QwenVL.zip",
       "normalized_name": "comfyui-qwenvl.zip",
       "share_url": "https://pan.quark.cn/s/ad6dcb65461c",
@@ -59735,7 +59742,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 9,
+      "page": 10,
       "createdBefore": null,
       "exhausted": false
     }
