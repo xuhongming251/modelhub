@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-14T01:07:43.877Z",
-  "lastRunId": 27484279485,
+  "updatedAt": "2026-06-14T01:14:52.054Z",
+  "lastRunId": 27484414172,
   "items": [
+    {
+      "id": "run_27484414172",
+      "run_id": 27484414172,
+      "artifact_id": 7616132534,
+      "filename": "nsfwProjectAnimeZIT.zDCc.safetensors",
+      "normalized_name": "nsfwprojectanimezit.zdcc.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/54aaea0c6a32",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-14T01:14:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27484279485",
       "run_id": 27484279485,
@@ -7138,19 +7151,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-09T15:28:29Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27216816608",
-      "run_id": 27216816608,
-      "artifact_id": 7512246003,
-      "filename": "nsfwProjectAnimeZIT.zDCc.safetensors",
-      "normalized_name": "nsfwprojectanimezit.zdcc.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/a671cf54e4b7",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-09T15:27:19Z",
       "workflow": "upload.yml"
     },
     {
