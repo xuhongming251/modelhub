@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-14T13:17:27.972Z",
-  "lastRunId": 27500053292,
+  "updatedAt": "2026-06-14T13:19:14.030Z",
+  "lastRunId": 27500105124,
   "items": [
+    {
+      "id": "run_27500105124",
+      "run_id": 27500105124,
+      "artifact_id": 7621404739,
+      "filename": "ComfyUI_AdvancedRefluxControl.zip",
+      "normalized_name": "comfyui_advancedrefluxcontrol.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b9851407f2c6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-14T13:18:31Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27500053292",
       "run_id": 27500053292,
@@ -43532,12 +43545,6 @@
       "normalized_name": "2783583",
       "share_url": "https://pan.quark.cn/s/5f26423d74b4",
       "completed_at": "2026-04-22T05:30:07Z"
-    },
-    {
-      "filename": "ComfyUI_AdvancedRefluxControl.zip",
-      "normalized_name": "comfyui_advancedrefluxcontrol.zip",
-      "share_url": "https://pan.quark.cn/s/1c52f4a1cf72",
-      "completed_at": "2026-04-22T04:14:01Z"
     },
     {
       "filename": "gemma-4-31B-it-uncensored-heretic-Q5_K_S.gguf",
