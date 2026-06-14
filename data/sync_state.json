@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-14T13:49:02.882Z",
-  "lastRunId": 27500838683,
+  "updatedAt": "2026-06-14T13:53:00.562Z",
+  "lastRunId": 27500938048,
   "items": [
+    {
+      "id": "run_27500938048",
+      "run_id": 27500938048,
+      "artifact_id": 7621665380,
+      "filename": "ip-adapter-plus-face_sdxl_vit-h.safetensors",
+      "normalized_name": "ip-adapter-plus-face_sdxl_vit-h.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f952c788e461",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-14T13:52:12Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27500838683",
       "run_id": 27500838683,
@@ -21815,19 +21828,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-24T03:14:10Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26350370361",
-      "run_id": 26350370361,
-      "artifact_id": 7181741870,
-      "filename": "ip-adapter-plus-face_sdxl_vit-h.safetensors",
-      "normalized_name": "ip-adapter-plus-face_sdxl_vit-h.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/3976d047e26c",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-24T03:05:57Z",
       "workflow": "upload.yml"
     },
     {
