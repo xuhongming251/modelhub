@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-14T14:54:56.653Z",
-  "lastRunId": 27502520591,
+  "updatedAt": "2026-06-14T15:13:54.439Z",
+  "lastRunId": 27503023317,
   "items": [
+    {
+      "id": "run_27503023317",
+      "run_id": 27503023317,
+      "artifact_id": 7622296917,
+      "filename": "juggernaut-xl",
+      "normalized_name": "juggernaut-xl",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/924022c78418",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-14T15:13:00Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27502520591",
       "run_id": 27502520591,
@@ -26534,19 +26547,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-18T08:32:22Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26022355592",
-      "run_id": 26022355592,
-      "artifact_id": 7052980437,
-      "filename": "juggernaut-xl",
-      "normalized_name": "juggernaut-xl",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/2a4ea0ac7621",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-18T08:31:13Z",
       "workflow": "upload.yml"
     },
     {
