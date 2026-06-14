@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-14T04:21:19.751Z",
-  "lastRunId": 27488120453,
+  "updatedAt": "2026-06-14T04:22:21.168Z",
+  "lastRunId": 27488146283,
   "items": [
+    {
+      "id": "run_27488137373",
+      "run_id": 27488137373,
+      "artifact_id": 7617366351,
+      "filename": "Mio Akiyama (秋山 澪) - K-ON! (けいおん!).safetensors",
+      "normalized_name": "mio akiyama (秋山 澪) - k-on! (けいおん!).safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e63c71dad01e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-14T04:21:39Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27488146283",
+      "run_id": 27488146283,
+      "artifact_id": 7617365444,
+      "filename": "Popura Taneshima (種島 ぽぷら) - Working!! (ワーキング!!).safetensors",
+      "normalized_name": "popura taneshima (種島 ぽぷら) - working!! (ワーキング!!).safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8abb10529754",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-14T04:21:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27488120453",
       "run_id": 27488120453,
@@ -27,19 +53,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-14T04:19:57Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27488100867",
-      "run_id": 27488100867,
-      "artifact_id": 7617354742,
-      "filename": "Popura Taneshima (種島 ぽぷら) - Working!! (ワーキング!!).safetensors",
-      "normalized_name": "popura taneshima (種島 ぽぷら) - working!! (ワーキング!!).safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/9a76b7539c0c",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-14T04:19:39Z",
       "workflow": "upload.yml"
     },
     {
