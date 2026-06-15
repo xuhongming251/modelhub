@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-15T11:42:47.168Z",
+  "updatedAt": "2026-06-15T11:45:32.586Z",
   "lastRunId": 27543724699,
   "items": [
+    {
+      "id": "run_27543674457",
+      "run_id": 27543674457,
+      "artifact_id": 7637061067,
+      "filename": "bernini_r_low_noise_14B-Q4_K_M.gguf",
+      "normalized_name": "bernini_r_low_noise_14b-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/41dcb8723d62",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-15T11:44:36Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27543724699",
       "run_id": 27543724699,
