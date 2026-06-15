@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-15T13:54:19.278Z",
-  "lastRunId": 27551120296,
+  "updatedAt": "2026-06-15T14:02:57.008Z",
+  "lastRunId": 27551655453,
   "items": [
+    {
+      "id": "run_27551655453",
+      "run_id": 27551655453,
+      "artifact_id": 7640365018,
+      "filename": "clip_g.safetensors",
+      "normalized_name": "clip_g.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8eee10f562ac",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-15T14:01:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27551120296",
       "run_id": 27551120296,
@@ -44627,12 +44640,6 @@
       "normalized_name": "haitien20000002.713v.safetensors",
       "share_url": "https://pan.quark.cn/s/e9a15bc20b88",
       "completed_at": "2026-04-22T16:07:53Z"
-    },
-    {
-      "filename": "clip_g.safetensors",
-      "normalized_name": "clip_g.safetensors",
-      "share_url": "https://pan.quark.cn/s/08d278992dae",
-      "completed_at": "2026-04-22T15:47:45Z"
     },
     {
       "filename": "CLIP-ViT-bigG-14-laion2B-39B-b160k.safetensors.git",
