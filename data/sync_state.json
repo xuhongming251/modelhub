@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-15T10:42:36.372Z",
-  "lastRunId": 27540729679,
+  "updatedAt": "2026-06-15T10:52:35.339Z",
+  "lastRunId": 27541187438,
   "items": [
+    {
+      "id": "run_27541187438",
+      "run_id": 27541187438,
+      "artifact_id": 7635922827,
+      "filename": "leg20lockAnimaV10.sScs.safetensors",
+      "normalized_name": "leg20lockanimav10.sscs.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/602a42e9e904",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-15T10:51:47Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27540774754",
+      "run_id": 27540774754,
+      "artifact_id": 7635726946,
+      "filename": "tentaclesAnimaV41.1I6K.safetensors",
+      "normalized_name": "tentaclesanimav41.1i6k.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f2aef58cd55b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-15T10:42:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27540729679",
       "run_id": 27540729679,
