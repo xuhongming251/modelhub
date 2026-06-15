@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-15T17:32:05.902Z",
-  "lastRunId": 27562920706,
+  "updatedAt": "2026-06-15T18:32:47.337Z",
+  "lastRunId": 27567620255,
   "items": [
+    {
+      "id": "run_27567620255",
+      "run_id": 27567620255,
+      "artifact_id": 7647224135,
+      "filename": "Umt5-xxl-encoder-Q4_K_M.gguf",
+      "normalized_name": "umt5-xxl-encoder-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/756d9a06840f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-15T18:31:52Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27562920706",
       "run_id": 27562920706,
