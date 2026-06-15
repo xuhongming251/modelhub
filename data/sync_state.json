@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-15T15:58:47.391Z",
-  "lastRunId": 27558906412,
+  "updatedAt": "2026-06-15T16:01:00.300Z",
+  "lastRunId": 27559042241,
   "items": [
+    {
+      "id": "run_27559012416",
+      "run_id": 27559012416,
+      "artifact_id": 7643674041,
+      "filename": "t5xxl_fp16.safetensors",
+      "normalized_name": "t5xxl_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5422e278d2a6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-15T16:00:22Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27559042241",
+      "run_id": 27559042241,
+      "artifact_id": 7643662621,
+      "filename": "100146563.mp4",
+      "normalized_name": "100146563.mp4",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b481690575c8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-15T15:59:54Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27558969095",
+      "run_id": 27558969095,
+      "artifact_id": 7643631289,
+      "filename": "100148746.mp4",
+      "normalized_name": "100148746.mp4",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0cf9d043e1e9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-15T15:58:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27558906412",
       "run_id": 27558906412,
@@ -33349,19 +33388,6 @@
       "workflow": "upload.yml"
     },
     {
-      "id": "run_25678420199",
-      "run_id": 25678420199,
-      "artifact_id": 6922044419,
-      "filename": "t5xxl_fp16.safetensors",
-      "normalized_name": "t5xxl_fp16.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/554b776bf4f9",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-11T15:06:07Z",
-      "workflow": "upload.yml"
-    },
-    {
       "id": "run_25677303321",
       "run_id": 25677303321,
       "artifact_id": 6921561180,
@@ -61014,7 +61040,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 9,
+      "page": 8,
       "createdBefore": null,
       "exhausted": false
     }
