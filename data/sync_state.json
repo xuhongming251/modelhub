@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-15T10:28:29.038Z",
-  "lastRunId": 27540035791,
+  "updatedAt": "2026-06-15T10:29:51.995Z",
+  "lastRunId": 27540095353,
   "items": [
+    {
+      "id": "run_27540095353",
+      "run_id": 27540095353,
+      "artifact_id": 7635429798,
+      "filename": "remoteorgasmV1High.L3aU.safetensors",
+      "normalized_name": "remoteorgasmv1high.l3au.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/283d71f6599b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-15T10:28:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27540035791",
       "run_id": 27540035791,
@@ -60336,7 +60349,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 8,
+      "page": 9,
       "createdBefore": null,
       "exhausted": false
     }
