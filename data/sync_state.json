@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-15T08:23:01.124Z",
-  "lastRunId": 27533421826,
+  "updatedAt": "2026-06-15T08:34:11.160Z",
+  "lastRunId": 27534020613,
   "items": [
+    {
+      "id": "run_27534020613",
+      "run_id": 27534020613,
+      "artifact_id": 7632865771,
+      "filename": "ComfyUI-Prompt-Assistant.zip",
+      "normalized_name": "comfyui-prompt-assistant.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/64379e4a8d8e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-15T08:33:12Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27533421826",
       "run_id": 27533421826,
@@ -42605,12 +42618,6 @@
       "completed_at": "2026-04-26T12:50:23Z"
     },
     {
-      "filename": "ComfyUI-Prompt-Assistant.zip",
-      "normalized_name": "comfyui-prompt-assistant.zip",
-      "share_url": "https://pan.quark.cn/s/c027b5d5441e",
-      "completed_at": "2026-04-26T12:45:13Z"
-    },
-    {
       "filename": "zBreastSlider.lRO5.safetensors",
       "normalized_name": "zbreastslider.lro5.safetensors",
       "share_url": "https://pan.quark.cn/s/53e2a37badb6",
@@ -60277,7 +60284,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 9,
+      "page": 8,
       "createdBefore": null,
       "exhausted": false
     }
