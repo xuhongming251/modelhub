@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-15T00:14:07.433Z",
-  "lastRunId": 27507204255,
+  "updatedAt": "2026-06-15T01:00:24.006Z",
+  "lastRunId": 27517873567,
   "items": [
+    {
+      "id": "run_27517873567",
+      "run_id": 27517873567,
+      "artifact_id": 7626947494,
+      "filename": "zitRAZSOPTICLABCORE.ZRsS.safetensors",
+      "normalized_name": "zitrazsopticlabcore.zrss.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fc2b5f12b6dd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-15T00:59:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27507204255",
       "run_id": 27507204255,
@@ -59991,7 +60004,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 10,
+      "page": 9,
       "createdBefore": null,
       "exhausted": false
     }
