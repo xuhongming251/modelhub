@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-15T14:02:57.008Z",
-  "lastRunId": 27551655453,
+  "updatedAt": "2026-06-15T14:21:10.873Z",
+  "lastRunId": 27552813650,
   "items": [
     {
-      "id": "run_27551655453",
-      "run_id": 27551655453,
-      "artifact_id": 7640365018,
+      "id": "run_27552813650",
+      "run_id": 27552813650,
+      "artifact_id": 7640878663,
+      "filename": "ComfyUI-BrushNet.git",
+      "normalized_name": "comfyui-brushnet.git",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d497aa19f053",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-15T14:20:13Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27552768490",
+      "run_id": 27552768490,
+      "artifact_id": 7640873379,
       "filename": "clip_g.safetensors",
       "normalized_name": "clip_g.safetensors",
       "original_url": "",
-      "share_url": "https://pan.quark.cn/s/8eee10f562ac",
+      "share_url": "https://pan.quark.cn/s/5e8e6a76abb3",
       "channel": "quark",
       "channel_name": "Quark",
-      "completed_at": "2026-06-15T14:01:59Z",
+      "completed_at": "2026-06-15T14:20:04Z",
       "workflow": "upload.yml"
     },
     {
