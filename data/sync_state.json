@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-15T01:24:48.201Z",
-  "lastRunId": 27518552394,
+  "updatedAt": "2026-06-15T01:25:58.487Z",
+  "lastRunId": 27518589614,
   "items": [
+    {
+      "id": "run_27518589614",
+      "run_id": 27518589614,
+      "artifact_id": 7627206503,
+      "filename": "ilxlExcelaBuild.Qg92.safetensors",
+      "normalized_name": "ilxlexcelabuild.qg92.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2b112d235779",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-15T01:25:12Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27518552394",
       "run_id": 27518552394,
@@ -22972,19 +22985,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-23T07:09:13Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26325951227",
-      "run_id": 26325951227,
-      "artifact_id": 7174984523,
-      "filename": "ilxlExcelaBuild.Qg92.safetensors",
-      "normalized_name": "ilxlexcelabuild.qg92.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/560724e83e0f",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-23T06:38:37Z",
       "workflow": "upload.yml"
     },
     {
