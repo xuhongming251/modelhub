@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-15T11:30:27.301Z",
-  "lastRunId": 27543140111,
+  "updatedAt": "2026-06-15T11:31:54.610Z",
+  "lastRunId": 27543218800,
   "items": [
+    {
+      "id": "run_27543218800",
+      "run_id": 27543218800,
+      "artifact_id": 7636769167,
+      "filename": "动器.safetensors",
+      "normalized_name": "动器.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/47ff09a6d051",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-15T11:30:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27543140111",
       "run_id": 27543140111,
