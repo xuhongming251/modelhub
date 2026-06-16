@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-16T08:31:12.747Z",
-  "lastRunId": 27603805666,
+  "updatedAt": "2026-06-16T08:34:40.748Z",
+  "lastRunId": 27604340577,
   "items": [
+    {
+      "id": "run_27604340577",
+      "run_id": 27604340577,
+      "artifact_id": 7661413473,
+      "filename": "bigvgan_v2_44khz_128band_512x.zip",
+      "normalized_name": "bigvgan_v2_44khz_128band_512x.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2cec1f60f99e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-16T08:33:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27603805666",
       "run_id": 27603805666,
@@ -57387,12 +57400,6 @@
       "normalized_name": "wav2vec2_safetensors.zip",
       "share_url": "https://pan.quark.cn/s/79c3cc793c4a",
       "completed_at": "2026-03-16T22:06:42Z"
-    },
-    {
-      "filename": "bigvgan_v2_44khz_128band_512x.zip",
-      "normalized_name": "bigvgan_v2_44khz_128band_512x.zip",
-      "share_url": "https://pan.baidu.com/s/11Djgs_7tuteE35cVGTLlJA?pwd=b3d0",
-      "completed_at": "2026-03-16T16:24:03Z"
     },
     {
       "filename": "https://pan.quark.cn/list#/list/all",
