@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-16T03:40:27.516Z",
-  "lastRunId": 27592460195,
+  "updatedAt": "2026-06-16T03:51:42.243Z",
+  "lastRunId": 27592824983,
   "items": [
+    {
+      "id": "run_27592824983",
+      "run_id": 27592824983,
+      "artifact_id": 7657001022,
+      "filename": "手衣0.8.safetensors",
+      "normalized_name": "手衣0.8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5447894519ea",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-16T03:51:02Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27592476881",
+      "run_id": 27592476881,
+      "artifact_id": 7656877787,
+      "filename": "手吞.safetensors",
+      "normalized_name": "手吞.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bbc926ad6432",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-16T03:40:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27592460195",
       "run_id": 27592460195,
@@ -61529,7 +61555,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 8,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
