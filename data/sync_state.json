@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-16T11:04:51.579Z",
-  "lastRunId": 27613012720,
+  "updatedAt": "2026-06-16T11:15:14.029Z",
+  "lastRunId": 27613537783,
   "items": [
+    {
+      "id": "run_27613537783",
+      "run_id": 27613537783,
+      "artifact_id": 7665108792,
+      "filename": "dasiwa-wan-22-i2v-14b-or-lightspeed-or-safetensors",
+      "normalized_name": "dasiwa-wan-22-i2v-14b-or-lightspeed-or-safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/59f06522df4c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-16T11:14:22Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27613031207",
+      "run_id": 27613031207,
+      "artifact_id": 7664897377,
+      "filename": "wan224n4lpl4yI2v.ybgu.safetensors",
+      "normalized_name": "wan224n4lpl4yi2v.ybgu.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/694ca0404ab3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-16T11:04:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27613012720",
       "run_id": 27613012720,
