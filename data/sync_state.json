@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-16T03:51:42.243Z",
-  "lastRunId": 27592824983,
+  "updatedAt": "2026-06-16T03:55:26.550Z",
+  "lastRunId": 27592962914,
   "items": [
+    {
+      "id": "run_27592962914",
+      "run_id": 27592962914,
+      "artifact_id": 7657040846,
+      "filename": "镜像视角.safetensors",
+      "normalized_name": "镜像视角.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6353dcf5eacc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-16T03:54:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27592824983",
       "run_id": 27592824983,
@@ -61555,7 +61568,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 8,
       "createdBefore": null,
       "exhausted": false
     }
