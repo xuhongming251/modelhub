@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-16T03:10:28.032Z",
-  "lastRunId": 27591416328,
+  "updatedAt": "2026-06-16T03:14:53.304Z",
+  "lastRunId": 27591578686,
   "items": [
+    {
+      "id": "run_27591578686",
+      "run_id": 27591578686,
+      "artifact_id": 7656546774,
+      "filename": "少女和木偶.safetensors",
+      "normalized_name": "少女和木偶.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ea45b9ed83c9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-16T03:14:02Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27591438485",
+      "run_id": 27591438485,
+      "artifact_id": 7656499290,
+      "filename": "白色滴落.safetensors",
+      "normalized_name": "白色滴落.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b8436edc2b6a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-16T03:10:29Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27591416328",
       "run_id": 27591416328,
