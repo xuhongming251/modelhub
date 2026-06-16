@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-16T02:54:13.036Z",
-  "lastRunId": 27590729296,
+  "updatedAt": "2026-06-16T03:00:35.435Z",
+  "lastRunId": 27590990690,
   "items": [
+    {
+      "id": "run_27590990690",
+      "run_id": 27590990690,
+      "artifact_id": 7656367363,
+      "filename": "primemix_v21.safetensors",
+      "normalized_name": "primemix_v21.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f049de7a5612",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-16T02:59:47Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27590729296",
       "run_id": 27590729296,
