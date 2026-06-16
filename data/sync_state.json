@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-16T17:03:58.448Z",
-  "lastRunId": 27634378423,
+  "updatedAt": "2026-06-16T17:13:51.651Z",
+  "lastRunId": 27635055620,
   "items": [
+    {
+      "id": "run_27635055620",
+      "run_id": 27635055620,
+      "artifact_id": 7674320381,
+      "filename": "cudart-llama-bin-win-cuda-12.4-x64.zip",
+      "normalized_name": "cudart-llama-bin-win-cuda-12.4-x64.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2e5be7b74cba",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-16T17:12:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27634282575",
       "run_id": 27634282575,
