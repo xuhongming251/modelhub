@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-16T14:38:41.126Z",
-  "lastRunId": 27624929587,
+  "updatedAt": "2026-06-16T15:10:15.323Z",
+  "lastRunId": 27627475917,
   "items": [
+    {
+      "id": "run_27627475917",
+      "run_id": 27627475917,
+      "artifact_id": 7671106773,
+      "filename": "comfyui-reactor.zip",
+      "normalized_name": "comfyui-reactor.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f9f45b26775e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-16T15:09:03Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27624847097",
       "run_id": 27624847097,
@@ -54891,12 +54904,6 @@
       "normalized_name": "e7bbaae584bf20e99580e993ace6.kcnu.safetensors",
       "share_url": "https://pan.quark.cn/s/1a0bc4b03678",
       "completed_at": "2026-03-23T01:19:48Z"
-    },
-    {
-      "filename": "ComfyUI-ReActor.zip",
-      "normalized_name": "comfyui-reactor.zip",
-      "share_url": "https://pan.quark.cn/s/6d46bf7bcf97",
-      "completed_at": "2026-03-23T00:30:19Z"
     },
     {
       "filename": "ComfyUI_ADV_CLIP_emb.zip",
