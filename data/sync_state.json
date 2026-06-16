@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-16T08:28:34.512Z",
-  "lastRunId": 27603777928,
+  "updatedAt": "2026-06-16T08:31:12.747Z",
+  "lastRunId": 27603805666,
   "items": [
+    {
+      "id": "run_27603805666",
+      "run_id": 27603805666,
+      "artifact_id": 7661333920,
+      "filename": "Z-Image-Engineer-V6-F16.gguf",
+      "normalized_name": "z-image-engineer-v6-f16.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6a72e6d77648",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-16T08:30:18Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27603777928",
       "run_id": 27603777928,
@@ -61776,7 +61789,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 9,
+      "page": 8,
       "createdBefore": null,
       "exhausted": false
     }
