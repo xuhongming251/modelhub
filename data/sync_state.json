@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-16T14:37:05.266Z",
+  "updatedAt": "2026-06-16T14:38:41.126Z",
   "lastRunId": 27624929587,
   "items": [
+    {
+      "id": "run_27624847097",
+      "run_id": 27624847097,
+      "artifact_id": 7670213958,
+      "filename": "OmniToon ANIMA.safetensors",
+      "normalized_name": "omnitoon anima.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5e3ed55780ee",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-16T14:37:35Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27624843073",
+      "run_id": 27624843073,
+      "artifact_id": 7670197409,
+      "filename": "uwazumixAnimaVer20D.s4PB.safetensors",
+      "normalized_name": "uwazumixanimaver20d.s4pb.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/85c98c40a256",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-16T14:37:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27624765281",
       "run_id": 27624765281,
