@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-16T16:30:12.208Z",
-  "lastRunId": 27632447960,
+  "updatedAt": "2026-06-16T16:40:54.206Z",
+  "lastRunId": 27633063920,
   "items": [
+    {
+      "id": "run_27633063920",
+      "run_id": 27633063920,
+      "artifact_id": 7673520398,
+      "filename": "darkBeast_dbzit9DIMRclaw.safetensors",
+      "normalized_name": "darkbeast_dbzit9dimrclaw.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7212a560380f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-16T16:39:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27632447960",
       "run_id": 27632447960,
@@ -44048,12 +44061,6 @@
       "normalized_name": "darkbeastkleinv2blitz9b.5vbo.safetensorsdarkbeast_dbkblitzv15.safetensors",
       "share_url": "https://pan.quark.cn/s/9cad52d75fb3",
       "completed_at": "2026-04-26T15:20:23Z"
-    },
-    {
-      "filename": "darkBeast_dbzit9DIMRclaw.safetensors",
-      "normalized_name": "darkbeast_dbzit9dimrclaw.safetensors",
-      "share_url": "https://pan.quark.cn/s/74aa715558a9",
-      "completed_at": "2026-04-26T15:20:07Z"
     },
     {
       "filename": "darkBeast_darkblitz6Beyondnsfw.safetensors",
