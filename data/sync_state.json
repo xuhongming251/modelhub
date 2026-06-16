@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-16T03:38:29.135Z",
-  "lastRunId": 27592403872,
+  "updatedAt": "2026-06-16T03:40:27.516Z",
+  "lastRunId": 27592460195,
   "items": [
+    {
+      "id": "run_27592460195",
+      "run_id": 27592460195,
+      "artifact_id": 7656871594,
+      "filename": "klein-deepthroat-v2-5epoc-k3nk.safetensors",
+      "normalized_name": "klein-deepthroat-v2-5epoc-k3nk.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f7f0a11e08f5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-16T03:39:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27592403872",
       "run_id": 27592403872,
@@ -61516,7 +61529,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 8,
       "createdBefore": null,
       "exhausted": false
     }
