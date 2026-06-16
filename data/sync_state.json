@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-16T00:34:58.501Z",
-  "lastRunId": 27585793184,
+  "updatedAt": "2026-06-16T01:10:30.478Z",
+  "lastRunId": 27587140813,
   "items": [
+    {
+      "id": "run_27587140813",
+      "run_id": 27587140813,
+      "artifact_id": 7654934601,
+      "filename": "virtual-tryoff-lora_comfy.safetensors",
+      "normalized_name": "virtual-tryoff-lora_comfy.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e830bb980007",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-16T01:09:45Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27585793184",
       "run_id": 27585793184,
