@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-16T03:35:17.403Z",
-  "lastRunId": 27592183582,
+  "updatedAt": "2026-06-16T03:38:29.135Z",
+  "lastRunId": 27592403872,
   "items": [
+    {
+      "id": "run_27592403872",
+      "run_id": 27592403872,
+      "artifact_id": 7656849888,
+      "filename": "cappedlimb, limb holes,放进负面.safetensors",
+      "normalized_name": "cappedlimb, limb holes,放进负面.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bf78972ee61c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-16T03:37:48Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27592299308",
+      "run_id": 27592299308,
+      "artifact_id": 7656819471,
+      "filename": "my_style动作集.safetensors",
+      "normalized_name": "my_style动作集.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/aa8f0266807d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-16T03:35:10Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27592317156",
+      "run_id": 27592317156,
+      "artifact_id": 7656818335,
+      "filename": "包里有东西.safetensors",
+      "normalized_name": "包里有东西.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dd598f105d3e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-16T03:35:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27592183582",
       "run_id": 27592183582,
@@ -61477,7 +61516,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 8,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
