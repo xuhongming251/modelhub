@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-16T06:47:55.793Z",
-  "lastRunId": 27599472863,
+  "updatedAt": "2026-06-16T06:49:04.585Z",
+  "lastRunId": 27599534206,
   "items": [
+    {
+      "id": "run_27599534206",
+      "run_id": 27599534206,
+      "artifact_id": 7659310548,
+      "filename": "无臂.safetensors",
+      "normalized_name": "无臂.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5fe93b5a02af",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-16T06:48:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27599472863",
       "run_id": 27599472863,
