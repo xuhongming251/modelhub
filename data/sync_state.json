@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-17T13:49:51.260Z",
-  "lastRunId": 27693257296,
+  "updatedAt": "2026-06-17T14:07:32.366Z",
+  "lastRunId": 27694881595,
   "items": [
+    {
+      "id": "run_27694881595",
+      "run_id": 27694881595,
+      "artifact_id": 7697764876,
+      "filename": "ltx-2-19b-distilled-lora-384.safetensors",
+      "normalized_name": "ltx-2-19b-distilled-lora-384.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/48eb836df00b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-17T14:06:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27693257296",
       "run_id": 27693257296,
@@ -53027,12 +53040,6 @@
       "normalized_name": "ltx-2-19b-dev-fp8.safetensors",
       "share_url": "https://pan.quark.cn/s/447fc847420e",
       "completed_at": "2026-03-29T12:27:48Z"
-    },
-    {
-      "filename": "ltx-2-19b-distilled-lora-384.safetensors",
-      "normalized_name": "ltx-2-19b-distilled-lora-384.safetensors",
-      "share_url": "https://pan.quark.cn/s/74a6a8809fbd",
-      "completed_at": "2026-03-29T12:09:42Z"
     },
     {
       "filename": "darkBeastMar2126Latest_dbzit9DIMRclaw.safetensors",
