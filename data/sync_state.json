@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-17T21:10:04.155Z",
-  "lastRunId": 27710557305,
+  "updatedAt": "2026-06-17T21:40:30.928Z",
+  "lastRunId": 27721284832,
   "items": [
+    {
+      "id": "run_27721284832",
+      "run_id": 27721284832,
+      "artifact_id": 7708549401,
+      "filename": "gemma-3-12b-it-heretic-v2_fp8_e4m3fn.safetensors",
+      "normalized_name": "gemma-3-12b-it-heretic-v2_fp8_e4m3fn.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8686f76efc1a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-17T21:39:51Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27710557305",
       "run_id": 27710557305,
@@ -56767,12 +56780,6 @@
       "normalized_name": "animacattowerv03.wtby.safetensors",
       "share_url": "https://pan.quark.cn/s/665eebe51c51",
       "completed_at": "2026-03-19T04:58:40Z"
-    },
-    {
-      "filename": "gemma-3-12b-it-heretic-v2_fp8_e4m3fn.safetensors",
-      "normalized_name": "gemma-3-12b-it-heretic-v2_fp8_e4m3fn.safetensors",
-      "share_url": "https://pan.quark.cn/s/536a427496e3",
-      "completed_at": "2026-03-19T04:52:13Z"
     },
     {
       "filename": "gemma-3-12b-it-heretic-v2_nvfp4.safetensors",
