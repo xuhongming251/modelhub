@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-17T09:46:36.887Z",
-  "lastRunId": 27680183368,
+  "updatedAt": "2026-06-17T10:51:59.937Z",
+  "lastRunId": 27683640879,
   "items": [
+    {
+      "id": "run_27683640879",
+      "run_id": 27683640879,
+      "artifact_id": 7693181114,
+      "filename": "cyberrealisticponyV18.6XT1.safetensors",
+      "normalized_name": "cyberrealisticponyv18.6xt1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4a35340762fe",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-17T10:51:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27680183368",
       "run_id": 27680183368,
@@ -26053,19 +26066,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-22T16:03:18Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26295767850",
-      "run_id": 26295767850,
-      "artifact_id": 7163871744,
-      "filename": "cyberrealisticponyV18.6XT1.safetensors",
-      "normalized_name": "cyberrealisticponyv18.6xt1.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/1bab6b910148",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-22T15:10:54Z",
       "workflow": "upload.yml"
     },
     {
