@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-17T08:14:46.401Z",
-  "lastRunId": 27675235212,
+  "updatedAt": "2026-06-17T08:39:09.065Z",
+  "lastRunId": 27676034952,
   "items": [
+    {
+      "id": "run_27676034952",
+      "run_id": 27676034952,
+      "artifact_id": 7690162992,
+      "filename": "q4_k_m.gguf",
+      "normalized_name": "q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4dfbd0d4ebad",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-17T08:38:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27675235212",
       "run_id": 27675235212,
