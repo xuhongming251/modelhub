@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-17T15:44:22.306Z",
-  "lastRunId": 27700913894,
+  "updatedAt": "2026-06-17T15:50:27.109Z",
+  "lastRunId": 27701528277,
   "items": [
+    {
+      "id": "run_27701528277",
+      "run_id": 27701528277,
+      "artifact_id": 7700609355,
+      "filename": "thick_bbc_wan22_Low.safetensors",
+      "normalized_name": "thick_bbc_wan22_low.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2d5bc558d476",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-17T15:49:36Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27700303530",
       "run_id": 27700303530,
