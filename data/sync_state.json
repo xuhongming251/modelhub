@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-17T02:02:23.165Z",
-  "lastRunId": 27659919031,
+  "updatedAt": "2026-06-17T04:01:39.077Z",
+  "lastRunId": 27664261408,
   "items": [
+    {
+      "id": "run_27664261408",
+      "run_id": 27664261408,
+      "artifact_id": 7685734598,
+      "filename": "Qwen3.5-9B-DeepSeek-V4-Flash-MTP-Q5_K_M.gguf",
+      "normalized_name": "qwen3.5-9b-deepseek-v4-flash-mtp-q5_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a5f046650bf7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-17T04:00:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27659688553",
       "run_id": 27659688553,
@@ -62259,7 +62272,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
