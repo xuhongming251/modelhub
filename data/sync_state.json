@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-17T11:55:58.140Z",
-  "lastRunId": 27687018203,
+  "updatedAt": "2026-06-17T12:16:55.856Z",
+  "lastRunId": 27688213575,
   "items": [
+    {
+      "id": "run_27688213575",
+      "run_id": 27688213575,
+      "artifact_id": 7695011405,
+      "filename": "download",
+      "normalized_name": "download",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ec0130c16c99",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-17T12:16:12Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27686987051",
       "run_id": 27686987051,
@@ -40663,12 +40676,6 @@
       "normalized_name": "frp_0.68.1_windows_amd64.zip",
       "share_url": "https://pan.quark.cn/s/f76f31c8217e",
       "completed_at": "2026-05-03T08:46:10Z"
-    },
-    {
-      "filename": "download",
-      "normalized_name": "download",
-      "share_url": "https://pan.quark.cn/s/4c2c65210f04",
-      "completed_at": "2026-05-03T08:40:48Z"
     },
     {
       "filename": "cuda_12.2.0_536.25_windows.exe",
