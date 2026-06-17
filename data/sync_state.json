@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-17T08:39:09.065Z",
+  "updatedAt": "2026-06-17T08:45:12.250Z",
   "lastRunId": 27676034952,
   "items": [
+    {
+      "id": "run_27675300592",
+      "run_id": 27675300592,
+      "artifact_id": 7690303028,
+      "filename": "Qwable-27b_Q4_K_M.gguf",
+      "normalized_name": "qwable-27b_q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/36146f658789",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-17T08:44:27Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27676034952",
       "run_id": 27676034952,
