@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-17T15:05:49.441Z",
-  "lastRunId": 27698717353,
+  "updatedAt": "2026-06-17T15:31:04.996Z",
+  "lastRunId": 27700369469,
   "items": [
+    {
+      "id": "run_27700369469",
+      "run_id": 27700369469,
+      "artifact_id": 7700088647,
+      "filename": "perfectdeliberate_v90.safetensors",
+      "normalized_name": "perfectdeliberate_v90.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7ad9bcc44a86",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-17T15:30:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27698717353",
       "run_id": 27698717353,
@@ -42497,12 +42510,6 @@
       "completed_at": "2026-05-01T10:49:08Z"
     },
     {
-      "filename": "perfectdeliberate_v90.safetensors",
-      "normalized_name": "perfectdeliberate_v90.safetensors",
-      "share_url": "https://pan.quark.cn/s/ca91b2e00c07",
-      "completed_at": "2026-05-01T10:48:53Z"
-    },
-    {
       "filename": "beautifulRealistic_v7.safetensors",
       "normalized_name": "beautifulrealistic_v7.safetensors",
       "share_url": "https://pan.quark.cn/s/403af3a386d5",
@@ -62521,7 +62528,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
