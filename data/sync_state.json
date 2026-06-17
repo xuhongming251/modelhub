@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-17T16:05:34.981Z",
+  "updatedAt": "2026-06-17T16:06:31.547Z",
   "lastRunId": 27702583037,
   "items": [
+    {
+      "id": "run_27702509449",
+      "run_id": 27702509449,
+      "artifact_id": 7701032790,
+      "filename": "Z-Image-Engineer-V6-F16.gguf",
+      "normalized_name": "z-image-engineer-v6-f16.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a51aff7e33c4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-17T16:05:44Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27702583037",
       "run_id": 27702583037,
@@ -1236,19 +1249,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-16T08:33:46Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27603805666",
-      "run_id": 27603805666,
-      "artifact_id": 7661333920,
-      "filename": "Z-Image-Engineer-V6-F16.gguf",
-      "normalized_name": "z-image-engineer-v6-f16.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/6a72e6d77648",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-16T08:30:18Z",
       "workflow": "upload.yml"
     },
     {
