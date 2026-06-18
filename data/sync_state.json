@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-18T14:56:42.007Z",
-  "lastRunId": 27768244978,
+  "updatedAt": "2026-06-18T14:59:48.615Z",
+  "lastRunId": 27768468781,
   "items": [
+    {
+      "id": "run_27768468781",
+      "run_id": 27768468781,
+      "artifact_id": 7727162915,
+      "filename": "animeStyleBeauties.KX3v.safetensors",
+      "normalized_name": "animestylebeauties.kx3v.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8874c59b4ef3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-18T14:59:05Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27768244978",
       "run_id": 27768244978,
@@ -63765,7 +63778,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
