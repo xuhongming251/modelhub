@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-18T12:22:40.060Z",
-  "lastRunId": 27759062591,
+  "updatedAt": "2026-06-18T12:26:41.132Z",
+  "lastRunId": 27759192092,
   "items": [
+    {
+      "id": "run_27759192092",
+      "run_id": 27759192092,
+      "artifact_id": 7723207475,
+      "filename": "iyapan.hDAT.safetensors",
+      "normalized_name": "iyapan.hdat.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7b0f7ac0b51a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-18T12:25:50Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27759062591",
       "run_id": 27759062591,
@@ -63641,7 +63654,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
