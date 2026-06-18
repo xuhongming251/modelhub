@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-18T01:12:56.120Z",
-  "lastRunId": 27730116678,
+  "updatedAt": "2026-06-18T01:17:33.363Z",
+  "lastRunId": 27730308471,
   "items": [
+    {
+      "id": "run_27730308471",
+      "run_id": 27730308471,
+      "artifact_id": 7711877347,
+      "filename": "flux20klein2020NSFW.1M27.safetensors",
+      "normalized_name": "flux20klein2020nsfw.1m27.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9291db4e670d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-18T01:16:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27730116678",
       "run_id": 27730116678,
@@ -42825,12 +42838,6 @@
       "normalized_name": "pov_oral_facial_pony_v1.safetensors",
       "share_url": "https://pan.quark.cn/s/5c06c7872afd",
       "completed_at": "2026-05-01T10:01:14Z"
-    },
-    {
-      "filename": "flux20klein2020NSFW.1M27.safetensors",
-      "normalized_name": "flux20klein2020nsfw.1m27.safetensors",
-      "share_url": "https://pan.quark.cn/s/4c374f8ee51f",
-      "completed_at": "2026-05-01T09:58:50Z"
     },
     {
       "filename": "QB_Defeat_PONY_V1.safetensors",
