@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-18T08:52:04.603Z",
+  "updatedAt": "2026-06-18T08:59:26.684Z",
   "lastRunId": 27748029867,
   "items": [
+    {
+      "id": "run_27744564835",
+      "run_id": 27744564835,
+      "artifact_id": 7718727338,
+      "filename": "Qwopus3.6-27B-v2-AWQ-4bit.zip",
+      "normalized_name": "qwopus3.6-27b-v2-awq-4bit.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/48aafc782634",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-18T08:58:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27748029867",
       "run_id": 27748029867,
