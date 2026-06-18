@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-18T06:59:55.868Z",
-  "lastRunId": 27742171916,
+  "updatedAt": "2026-06-18T07:03:21.541Z",
+  "lastRunId": 27742593074,
   "items": [
+    {
+      "id": "run_27742593074",
+      "run_id": 27742593074,
+      "artifact_id": 7716336971,
+      "filename": "LTX2.3_Physics_V2_000002000.safetensors",
+      "normalized_name": "ltx2.3_physics_v2_000002000.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f16cb7f4a200",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-18T07:02:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27740847970",
       "run_id": 27740847970,
@@ -20164,19 +20177,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-01T03:31:21Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26730383625",
-      "run_id": 26730383625,
-      "artifact_id": 7321826530,
-      "filename": "LTX2.3_Physics_V2_000002000.safetensors",
-      "normalized_name": "ltx2.3_physics_v2_000002000.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/6765bd27f355",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-01T01:27:28Z",
       "workflow": "upload.yml"
     },
     {
