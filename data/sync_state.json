@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-18T23:31:39.889Z",
-  "lastRunId": 27795698802,
+  "updatedAt": "2026-06-18T23:51:18.304Z",
+  "lastRunId": 27796404533,
   "items": [
+    {
+      "id": "run_27796404533",
+      "run_id": 27796404533,
+      "artifact_id": 7738498973,
+      "filename": "tinzitANIMEFP84steps.4UGb.safetensors",
+      "normalized_name": "tinzitanimefp84steps.4ugb.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/20ba8b77475a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-18T23:50:48Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27795698802",
       "run_id": 27795698802,
@@ -950,19 +963,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-18T07:14:48Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27742555766",
-      "run_id": 27742555766,
-      "artifact_id": 7716546427,
-      "filename": "tinzitANIMEFP84steps.4UGb.safetensors",
-      "normalized_name": "tinzitanimefp84steps.4ugb.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/5b30205c6741",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-18T07:14:20Z",
       "workflow": "upload.yml"
     },
     {
