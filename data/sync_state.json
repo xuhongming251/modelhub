@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-18T11:35:55.945Z",
-  "lastRunId": 27756598591,
+  "updatedAt": "2026-06-18T11:48:36.423Z",
+  "lastRunId": 27757241221,
   "items": [
+    {
+      "id": "run_27757241221",
+      "run_id": 27757241221,
+      "artifact_id": 7722391313,
+      "filename": "afLuminoussplendor.0fbb.safetensors",
+      "normalized_name": "afluminoussplendor.0fbb.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/39f17a52f42d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-18T11:48:19Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27757213009",
+      "run_id": 27757213009,
+      "artifact_id": 7722385535,
+      "filename": "poseMatingPressMissonary.5YV6.safetensors",
+      "normalized_name": "posematingpressmissonary.5yv6.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/007ff3e60f5e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-18T11:48:05Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27756656960",
+      "run_id": 27756656960,
+      "artifact_id": 7722136957,
+      "filename": "084cde84944a",
+      "normalized_name": "084cde84944a",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d03a09b597a5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-18T11:35:55Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27756598591",
       "run_id": 27756598591,
@@ -63563,7 +63602,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
