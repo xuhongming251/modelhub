@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-18T06:36:10.962Z",
-  "lastRunId": 27741409780,
+  "updatedAt": "2026-06-18T06:50:40.617Z",
+  "lastRunId": 27741985763,
   "items": [
+    {
+      "id": "run_27741954559",
+      "run_id": 27741954559,
+      "artifact_id": 7716121735,
+      "filename": "LTX2.3_reasoning_Sulphur-2_I2V_V4.safetensors",
+      "normalized_name": "ltx2.3_reasoning_sulphur-2_i2v_v4.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/61655774af1a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-18T06:50:12Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27741985763",
+      "run_id": 27741985763,
+      "artifact_id": 7716117860,
+      "filename": "Milk_Ducts_V1.safetensors",
+      "normalized_name": "milk_ducts_v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4844cb88c7c7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-18T06:50:00Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27741413376",
+      "run_id": 27741413376,
+      "artifact_id": 7715877483,
+      "filename": "rimixoa.M05W.safetensors",
+      "normalized_name": "rimixoa.m05w.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3d7f90fc44e8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-18T06:35:51Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27741409780",
       "run_id": 27741409780,
@@ -27,19 +66,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-18T06:35:29Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27741067476",
-      "run_id": 27741067476,
-      "artifact_id": 7715855813,
-      "filename": "rimixoa.M05W.safetensors",
-      "normalized_name": "rimixoa.m05w.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/19812742c59d",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-18T06:34:26Z",
       "workflow": "upload.yml"
     },
     {
