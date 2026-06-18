@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-18T07:27:42.938Z",
-  "lastRunId": 27743699369,
+  "updatedAt": "2026-06-18T07:39:39.605Z",
+  "lastRunId": 27744104872,
   "items": [
+    {
+      "id": "run_27744104872",
+      "run_id": 27744104872,
+      "artifact_id": 7717010301,
+      "filename": "wan2.2_t2v_high_noise_14B_fp8_scaled.safetensors",
+      "normalized_name": "wan2.2_t2v_high_noise_14b_fp8_scaled.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2dd43cb106fe",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-18T07:38:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27743699369",
       "run_id": 27743699369,
@@ -46155,12 +46168,6 @@
       "normalized_name": "ramthrusts-nsfw-pink-alchemy-mix",
       "share_url": "https://pan.quark.cn/s/d7e0dc8fa501",
       "completed_at": "2026-04-25T07:48:56Z"
-    },
-    {
-      "filename": "wan2.2_t2v_high_noise_14B_fp8_scaled.safetensors",
-      "normalized_name": "wan2.2_t2v_high_noise_14b_fp8_scaled.safetensors",
-      "share_url": "https://pan.quark.cn/s/ddce988797b9",
-      "completed_at": "2026-04-25T07:43:49Z"
     },
     {
       "filename": "wan2.2_t2v_lightx2v_4steps_lora_v1.1_low_noise.safetensors",
