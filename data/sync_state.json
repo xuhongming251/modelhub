@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-18T15:08:10.886Z",
-  "lastRunId": 27768999211,
+  "updatedAt": "2026-06-18T15:39:33.891Z",
+  "lastRunId": 27770316233,
   "items": [
+    {
+      "id": "run_27770316233",
+      "run_id": 27770316233,
+      "artifact_id": 7728253851,
+      "filename": "rpDungeon_Gemma-4-E4B-Luchador-IQ4_NL.gguf",
+      "normalized_name": "rpdungeon_gemma-4-e4b-luchador-iq4_nl.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/84ff11a5dd45",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-18T15:38:51Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27768999211",
       "run_id": 27768999211,
@@ -63798,7 +63811,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
