@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-19T16:07:56.114Z",
-  "lastRunId": 27836349538,
+  "updatedAt": "2026-06-19T16:22:30.785Z",
+  "lastRunId": 27837017589,
   "items": [
+    {
+      "id": "run_27837017589",
+      "run_id": 27837017589,
+      "artifact_id": 7754314914,
+      "filename": "sdxl_vae.safetensors",
+      "normalized_name": "sdxl_vae.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a91ae5941c20",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-19T16:21:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27836349538",
       "run_id": 27836349538,
@@ -58281,12 +58294,6 @@
       "normalized_name": "sd_xl_refiner_1.0_0.9vae.safetensors",
       "share_url": "https://pan.quark.cn/s/257db17952ba",
       "completed_at": "2026-03-19T16:05:57Z"
-    },
-    {
-      "filename": "sdxl_vae.safetensors",
-      "normalized_name": "sdxl_vae.safetensors",
-      "share_url": "https://pan.quark.cn/s/bc31090c3755",
-      "completed_at": "2026-03-19T16:02:05Z"
     },
     {
       "filename": "loxs20souls20mix20F09F8E80.3utu.safetensors",
