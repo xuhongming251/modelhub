@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-19T02:45:10.597Z",
-  "lastRunId": 27802151822,
+  "updatedAt": "2026-06-19T03:18:19.744Z",
+  "lastRunId": 27802870054,
   "items": [
+    {
+      "id": "run_27802870054",
+      "run_id": 27802870054,
+      "artifact_id": 7740955661,
+      "filename": "controlnet-openpose-sdxl-1.0.zip",
+      "normalized_name": "controlnet-openpose-sdxl-1.0.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/904770ea38b3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-19T03:17:45Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27802151822",
       "run_id": 27802151822,
