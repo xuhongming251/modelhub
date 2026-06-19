@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-19T08:11:01.784Z",
-  "lastRunId": 27813827660,
+  "updatedAt": "2026-06-19T08:12:06.114Z",
+  "lastRunId": 27813865144,
   "items": [
+    {
+      "id": "run_27813865144",
+      "run_id": 27813865144,
+      "artifact_id": 7744816016,
+      "filename": "ComfyUI-NAG.zip",
+      "normalized_name": "comfyui-nag.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f6da16da99a2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-19T08:11:27Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27813851774",
+      "run_id": 27813851774,
+      "artifact_id": 7744809669,
+      "filename": "ComfyUI-VFI.zip",
+      "normalized_name": "comfyui-vfi.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a34e6ebec135",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-19T08:11:05Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27813840437",
+      "run_id": 27813840437,
+      "artifact_id": 7744805291,
+      "filename": "ComfyUI-VideoHelperSuite.zip",
+      "normalized_name": "comfyui-videohelpersuite.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/495f77c66d9d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-19T08:10:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27813827660",
       "run_id": 27813827660,
@@ -30954,19 +30993,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-18T14:32:18Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26038797985",
-      "run_id": 26038797985,
-      "artifact_id": 7060119626,
-      "filename": "ComfyUI-VideoHelperSuite.zip",
-      "normalized_name": "comfyui-videohelpersuite.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/bead012df9ca",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-18T14:09:50Z",
       "workflow": "upload.yml"
     },
     {
@@ -63057,12 +63083,6 @@
       "normalized_name": "redzdpov5zibdistilled.gpii.safetensors",
       "share_url": "https://pan.quark.cn/s/db841db778dd",
       "completed_at": "2026-03-09T01:03:53Z"
-    },
-    {
-      "filename": "ComfyUI-VFI.zip",
-      "normalized_name": "comfyui-vfi.zip",
-      "share_url": "https://pan.quark.cn/s/30554a613d38",
-      "completed_at": "2026-03-09T00:39:54Z"
     },
     {
       "filename": "ntdmixV22.Iwj2.safetensors",
