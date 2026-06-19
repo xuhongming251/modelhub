@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-19T10:23:48.545Z",
-  "lastRunId": 27820036984,
+  "updatedAt": "2026-06-19T10:39:00.108Z",
+  "lastRunId": 27820748618,
   "items": [
+    {
+      "id": "run_27820748618",
+      "run_id": 27820748618,
+      "artifact_id": 7747671297,
+      "filename": "SD-欧美单体_2.safetensors",
+      "normalized_name": "sd-欧美单体_2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/24933d1027ae",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-19T10:38:29Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27820073636",
+      "run_id": 27820073636,
+      "artifact_id": 7747389102,
+      "filename": "F.1-欧式单体.safetensors",
+      "normalized_name": "f.1-欧式单体.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9b3cf60dbf1a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-19T10:23:39Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27820036984",
       "run_id": 27820036984,
