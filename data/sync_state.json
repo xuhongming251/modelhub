@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-19T10:58:13.417Z",
-  "lastRunId": 27821620441,
+  "updatedAt": "2026-06-19T11:33:53.334Z",
+  "lastRunId": 27823213080,
   "items": [
+    {
+      "id": "run_27823213080",
+      "run_id": 27823213080,
+      "artifact_id": 7748664024,
+      "filename": "ltx-2.3-22b-ic-lora-motion-track-control-ref0.5.safetensors",
+      "normalized_name": "ltx-2.3-22b-ic-lora-motion-track-control-ref0.5.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bd9e813797ea",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-19T11:33:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27821620441",
       "run_id": 27821620441,
@@ -58218,12 +58231,6 @@
       "normalized_name": "llama_cpp_python-0.3.33+cu130.basic-cp313-cp313-win_amd64.whl",
       "share_url": "https://pan.quark.cn/s/3fae84d52f37",
       "completed_at": "2026-03-19T12:53:26Z"
-    },
-    {
-      "filename": "ltx-2.3-22b-ic-lora-motion-track-control-ref0.5.safetensors",
-      "normalized_name": "ltx-2.3-22b-ic-lora-motion-track-control-ref0.5.safetensors",
-      "share_url": "https://pan.quark.cn/s/33f3754842f3",
-      "completed_at": "2026-03-19T12:37:01Z"
     },
     {
       "filename": "qaq3_Anima_Preview2-52.safetensors",
