@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-19T22:36:01.877Z",
-  "lastRunId": 27851421388,
+  "updatedAt": "2026-06-19T22:38:13.391Z",
+  "lastRunId": 27851526782,
   "items": [
+    {
+      "id": "run_27851526782",
+      "run_id": 27851526782,
+      "artifact_id": 7759388678,
+      "filename": "wan2.1_SCAIL_2_DPO_lora_bf16.safetensors",
+      "normalized_name": "wan2.1_scail_2_dpo_lora_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/12e54f972111",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-19T22:37:36Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27851421388",
       "run_id": 27851421388,
