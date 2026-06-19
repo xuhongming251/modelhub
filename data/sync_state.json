@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-19T03:26:44.631Z",
-  "lastRunId": 27803457593,
+  "updatedAt": "2026-06-19T03:36:50.363Z",
+  "lastRunId": 27803760905,
   "items": [
+    {
+      "id": "run_27803760905",
+      "run_id": 27803760905,
+      "artifact_id": 7741168473,
+      "filename": "Qwen2.5-VL-7B-Instruct-AWQ",
+      "normalized_name": "qwen2.5-vl-7b-instruct-awq",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/82ea4f3cb3a1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-19T03:36:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27803457593",
       "run_id": 27803457593,
