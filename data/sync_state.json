@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-19T00:10:11.567Z",
-  "lastRunId": 27796404533,
+  "updatedAt": "2026-06-19T01:08:50.846Z",
+  "lastRunId": 27799111232,
   "items": [
+    {
+      "id": "run_27799111232",
+      "run_id": 27799111232,
+      "artifact_id": 7739493878,
+      "filename": "swiftNEOQ80.zTpa.gguf",
+      "normalized_name": "swiftneoq80.ztpa.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/78bf1c6caeac",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-19T01:08:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27796404533",
       "run_id": 27796404533,
@@ -963,19 +976,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-18T07:14:48Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27742604645",
-      "run_id": 27742604645,
-      "artifact_id": 7716536914,
-      "filename": "swiftNEOQ80.zTpa.gguf",
-      "normalized_name": "swiftneoq80.ztpa.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/c6d6ed75fed5",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-18T07:13:51Z",
       "workflow": "upload.yml"
     },
     {
