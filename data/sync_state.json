@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-19T14:31:40.427Z",
-  "lastRunId": 27831312928,
+  "updatedAt": "2026-06-19T15:13:05.040Z",
+  "lastRunId": 27833228120,
   "items": [
+    {
+      "id": "run_27833228120",
+      "run_id": 27833228120,
+      "artifact_id": 7753043972,
+      "filename": "anima--mix--sese.safetensors",
+      "normalized_name": "anima--mix--sese.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6eb9ba29071b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-19T15:12:30Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27831671114",
+      "run_id": 27831671114,
+      "artifact_id": 7752219829,
+      "filename": "ltx2.3-resolution-enhancement-guofeng.safetensors",
+      "normalized_name": "ltx2.3-resolution-enhancement-guofeng.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dbe8f79b715f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-19T14:31:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27831229497",
       "run_id": 27831229497,
