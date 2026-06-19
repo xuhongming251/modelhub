@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-19T14:14:13.509Z",
-  "lastRunId": 27830151869,
+  "updatedAt": "2026-06-19T14:24:50.210Z",
+  "lastRunId": 27831312928,
   "items": [
+    {
+      "id": "run_27831312928",
+      "run_id": 27831312928,
+      "artifact_id": 7752082971,
+      "filename": "wan2.1_fun_camera_v1.1_1.3B_bf16.safetensors",
+      "normalized_name": "wan2.1_fun_camera_v1.1_1.3b_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4003496b97b3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-19T14:24:16Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27830151869",
       "run_id": 27830151869,
