@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-19T08:10:14.189Z",
-  "lastRunId": 27813796267,
+  "updatedAt": "2026-06-19T08:11:01.784Z",
+  "lastRunId": 27813827660,
   "items": [
+    {
+      "id": "run_27813827660",
+      "run_id": 27813827660,
+      "artifact_id": 7744801811,
+      "filename": "ComfyUI-WanVideoWrapper.zip",
+      "normalized_name": "comfyui-wanvideowrapper.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b745a2ffa293",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-19T08:10:42Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27813818777",
+      "run_id": 27813818777,
+      "artifact_id": 7744796743,
+      "filename": "ComfyUI-MMAudio.zip",
+      "normalized_name": "comfyui-mmaudio.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dfb171bd126d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-19T08:10:27Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27813804914",
+      "run_id": 27813804914,
+      "artifact_id": 7744791908,
+      "filename": "rgthree-comfy.zip",
+      "normalized_name": "rgthree-comfy.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e90f113518ae",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-19T08:10:13Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27813796267",
       "run_id": 27813796267,
@@ -29514,19 +29553,6 @@
       "workflow": "upload.yml"
     },
     {
-      "id": "run_26145982507",
-      "run_id": 26145982507,
-      "artifact_id": 7102973580,
-      "filename": "rgthree-comfy.zip",
-      "normalized_name": "rgthree-comfy.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/f078cc89f6e8",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-20T06:40:41Z",
-      "workflow": "upload.yml"
-    },
-    {
       "id": "run_26145548456",
       "run_id": 26145548456,
       "artifact_id": 7102812214,
@@ -30902,19 +30928,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-18T14:58:51Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26040702076",
-      "run_id": 26040702076,
-      "artifact_id": 7060982536,
-      "filename": "ComfyUI-WanVideoWrapper.zip",
-      "normalized_name": "comfyui-wanvideowrapper.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/3af2c4ccd962",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-18T14:44:15Z",
       "workflow": "upload.yml"
     },
     {
@@ -63044,12 +63057,6 @@
       "normalized_name": "redzdpov5zibdistilled.gpii.safetensors",
       "share_url": "https://pan.quark.cn/s/db841db778dd",
       "completed_at": "2026-03-09T01:03:53Z"
-    },
-    {
-      "filename": "ComfyUI-MMAudio.zip",
-      "normalized_name": "comfyui-mmaudio.zip",
-      "share_url": "https://pan.quark.cn/s/9da7bc378746",
-      "completed_at": "2026-03-09T00:40:15Z"
     },
     {
       "filename": "ComfyUI-VFI.zip",
