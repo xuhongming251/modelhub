@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-19T11:33:53.334Z",
-  "lastRunId": 27823213080,
+  "updatedAt": "2026-06-19T11:41:33.534Z",
+  "lastRunId": 27823546211,
   "items": [
+    {
+      "id": "run_27823546211",
+      "run_id": 27823546211,
+      "artifact_id": 7748807239,
+      "filename": "ltx-2-19b-embeddings_connector_distill_bf16.safetensors",
+      "normalized_name": "ltx-2-19b-embeddings_connector_distill_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b14e668dfafd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-19T11:41:02Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27823213080",
       "run_id": 27823213080,
