@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-20T08:28:41.021Z",
-  "lastRunId": 27865625095,
+  "updatedAt": "2026-06-20T08:33:17.059Z",
+  "lastRunId": 27865731039,
   "items": [
+    {
+      "id": "run_27865731039",
+      "run_id": 27865731039,
+      "artifact_id": 7763713039,
+      "filename": "controlnet-openpose-sdxl-1.0",
+      "normalized_name": "controlnet-openpose-sdxl-1.0",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ee047f2c7dbf",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-20T08:32:53Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27865718119",
+      "run_id": 27865718119,
+      "artifact_id": 7763712264,
+      "filename": "nova3dcgilv9.OeBt.safetensors",
+      "normalized_name": "nova3dcgilv9.oebt.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/251bfc8eac02",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-20T08:32:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27865625095",
       "run_id": 27865625095,
@@ -51675,12 +51701,6 @@
       "normalized_name": "gemma-4-31b-jang-crack-q4_k_m.gguf",
       "share_url": "https://pan.quark.cn/s/7de91510cc0e",
       "completed_at": "2026-04-15T03:21:46Z"
-    },
-    {
-      "filename": "nova3dcgilv9.OeBt.safetensors",
-      "normalized_name": "nova3dcgilv9.oebt.safetensors",
-      "share_url": "https://pan.quark.cn/s/071c420237e8",
-      "completed_at": "2026-04-14T18:53:19Z"
     },
     {
       "filename": "715287",
