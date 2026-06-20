@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-20T17:54:49.294Z",
-  "lastRunId": 27878533512,
+  "updatedAt": "2026-06-20T18:00:08.458Z",
+  "lastRunId": 27879323142,
   "items": [
+    {
+      "id": "run_27879323142",
+      "run_id": 27879323142,
+      "artifact_id": 7767570195,
+      "filename": "雏田(博人传)IL.safetensors",
+      "normalized_name": "雏田(博人传)il.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/112ad5a59280",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-20T17:59:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27878533512",
       "run_id": 27878533512,
@@ -65786,7 +65799,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
