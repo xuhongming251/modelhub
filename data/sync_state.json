@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-20T08:39:46.199Z",
-  "lastRunId": 27865867742,
+  "updatedAt": "2026-06-20T08:44:11.588Z",
+  "lastRunId": 27865976098,
   "items": [
+    {
+      "id": "run_27865976098",
+      "run_id": 27865976098,
+      "artifact_id": 7763784920,
+      "filename": "controlnet-openpose-sdxl-1.0.git",
+      "normalized_name": "controlnet-openpose-sdxl-1.0.git",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7cce0b60989e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-20T08:43:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27865867742",
       "run_id": 27865867742,
@@ -6800,19 +6813,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-14T15:20:43Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27503234998",
-      "run_id": 27503234998,
-      "artifact_id": 7622359190,
-      "filename": "controlnet-openpose-sdxl-1.0.git",
-      "normalized_name": "controlnet-openpose-sdxl-1.0.git",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/b6592abeb626",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-14T15:20:38Z",
       "workflow": "upload.yml"
     },
     {
