@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-19T23:43:26.402Z",
-  "lastRunId": 27853315423,
+  "updatedAt": "2026-06-20T00:07:26.730Z",
+  "lastRunId": 27853583872,
   "items": [
+    {
+      "id": "run_27853583872",
+      "run_id": 27853583872,
+      "artifact_id": 7760155562,
+      "filename": "pornmasterflux2klein_v4turbo.gguf",
+      "normalized_name": "pornmasterflux2klein_v4turbo.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2ea43df12bf6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-20T00:06:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27853315423",
       "run_id": 27853315423,
@@ -64561,7 +64574,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
