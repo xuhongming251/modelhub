@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-20T16:19:36.296Z",
-  "lastRunId": 27876853553,
+  "updatedAt": "2026-06-20T16:35:46.740Z",
+  "lastRunId": 27876953715,
   "items": [
+    {
+      "id": "run_27876953715",
+      "run_id": 27876953715,
+      "artifact_id": 7766998885,
+      "filename": "escape20from20mirage.o1JI.safetensors",
+      "normalized_name": "escape20from20mirage.o1ji.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3a72ac03b053",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-20T16:35:12Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27876865886",
+      "run_id": 27876865886,
+      "artifact_id": 7766888602,
+      "filename": "Cherry-Studio-1.9.11-x64-portable.exe",
+      "normalized_name": "cherry-studio-1.9.11-x64-portable.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b0f6917a55ae",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-20T16:19:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27876853553",
       "run_id": 27876853553,
