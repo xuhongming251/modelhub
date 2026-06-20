@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-20T03:40:27.985Z",
-  "lastRunId": 27859083091,
+  "updatedAt": "2026-06-20T03:44:26.513Z",
+  "lastRunId": 27859163776,
   "items": [
+    {
+      "id": "run_27859163776",
+      "run_id": 27859163776,
+      "artifact_id": 7761741830,
+      "filename": "awpainting3DFp16.NtRv.safetensors",
+      "normalized_name": "awpainting3dfp16.ntrv.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/26160ba985e8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-20T03:43:44Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27859083091",
       "run_id": 27859083091,
@@ -64672,7 +64685,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
