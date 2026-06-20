@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-20T16:06:12.927Z",
-  "lastRunId": 27876506778,
+  "updatedAt": "2026-06-20T16:16:56.462Z",
+  "lastRunId": 27876789624,
   "items": [
+    {
+      "id": "run_27876789624",
+      "run_id": 27876789624,
+      "artifact_id": 7766867081,
+      "filename": "qe2511_consis_alpha_patched.safetensors",
+      "normalized_name": "qe2511_consis_alpha_patched.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/abb8bfd0012d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-20T16:16:22Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27876506778",
       "run_id": 27876506778,
@@ -56358,12 +56371,6 @@
       "normalized_name": "qwen-image-fp8-e4m3fn-lightning-4steps-v1.0-fp32.safetensors",
       "share_url": "https://pan.quark.cn/s/1f0d2858f918",
       "completed_at": "2026-03-29T08:04:28Z"
-    },
-    {
-      "filename": "qe2511_consis_alpha_patched.safetensors",
-      "normalized_name": "qe2511_consis_alpha_patched.safetensors",
-      "share_url": "https://pan.quark.cn/s/de69c035e504",
-      "completed_at": "2026-03-29T07:27:05Z"
     },
     {
       "filename": "hanfuV30.xoOD.safetensors",
