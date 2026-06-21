@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-21T13:52:03.730Z",
-  "lastRunId": 27906432704,
+  "updatedAt": "2026-06-21T13:58:22.713Z",
+  "lastRunId": 27906568239,
   "items": [
+    {
+      "id": "run_27906568239",
+      "run_id": 27906568239,
+      "artifact_id": 7775993315,
+      "filename": "faster_whisper_transwithai_windows_cu128-translate.zip",
+      "normalized_name": "faster_whisper_transwithai_windows_cu128-translate.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/394a73ceaf18",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-21T13:57:48Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27906432704",
       "run_id": 27906432704,
