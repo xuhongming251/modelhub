@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-21T07:01:58.405Z",
-  "lastRunId": 27896612459,
+  "updatedAt": "2026-06-21T07:04:02.784Z",
+  "lastRunId": 27896706989,
   "items": [
+    {
+      "id": "run_27896706989",
+      "run_id": 27896706989,
+      "artifact_id": 7772814629,
+      "filename": "Qwen-Image-Edit-2511-Lightning-4steps-V1.0-bf16.safetensors",
+      "normalized_name": "qwen-image-edit-2511-lightning-4steps-v1.0-bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dc47aee5bfa7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-21T07:03:20Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27896657727",
+      "run_id": 27896657727,
+      "artifact_id": 7772805171,
+      "filename": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+      "normalized_name": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9d43a6c4da07",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-21T07:01:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27896612459",
       "run_id": 27896612459,
@@ -183,19 +209,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-21T05:46:57Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27894977448",
-      "run_id": 27894977448,
-      "artifact_id": 7772265684,
-      "filename": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
-      "normalized_name": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/9786f07d78ab",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-21T05:42:45Z",
       "workflow": "upload.yml"
     },
     {
@@ -55592,12 +55605,6 @@
       "normalized_name": "pixel-llustrius.safetensors",
       "share_url": "https://pan.quark.cn/s/040ced7a39b4",
       "completed_at": "2026-04-01T12:48:56Z"
-    },
-    {
-      "filename": "Qwen-Image-Edit-2511-Lightning-4steps-V1.0-bf16.safetensors",
-      "normalized_name": "qwen-image-edit-2511-lightning-4steps-v1.0-bf16.safetensors",
-      "share_url": "https://pan.quark.cn/s/d50143ed063e",
-      "completed_at": "2026-04-01T12:43:04Z"
     },
     {
       "filename": "Qwen-Image-Lightning-8steps-V1.1.safetensors",
