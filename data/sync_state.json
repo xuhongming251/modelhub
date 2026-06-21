@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-21T01:31:00.749Z",
-  "lastRunId": 27889717163,
+  "updatedAt": "2026-06-21T01:37:46.007Z",
+  "lastRunId": 27889847895,
   "items": [
+    {
+      "id": "run_27889847895",
+      "run_id": 27889847895,
+      "artifact_id": 7770674995,
+      "filename": "Wan2.2-T2V-A14B-LowNoise-Q3_K_S.gguf",
+      "normalized_name": "wan2.2-t2v-a14b-lownoise-q3_k_s.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9be0385a995d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-21T01:37:12Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27889717163",
       "run_id": 27889717163,
