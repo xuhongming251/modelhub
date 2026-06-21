@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-21T01:37:46.007Z",
-  "lastRunId": 27889847895,
+  "updatedAt": "2026-06-21T01:39:20.412Z",
+  "lastRunId": 27889851833,
   "items": [
+    {
+      "id": "run_27889851833",
+      "run_id": 27889851833,
+      "artifact_id": 7770687450,
+      "filename": "Wan2.2-T2V-A14B-HighNoise-Q3_K_S.gguf",
+      "normalized_name": "wan2.2-t2v-a14b-highnoise-q3_k_s.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/03669b6a371f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-21T01:38:52Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27889793575",
+      "run_id": 27889793575,
+      "artifact_id": 7770686104,
+      "filename": "Wan2.2-T2V-A14B-HighNoise-Q4_K_S.gguf",
+      "normalized_name": "wan2.2-t2v-a14b-highnoise-q4_k_s.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5ecfa8921c25",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-21T01:38:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27889847895",
       "run_id": 27889847895,
