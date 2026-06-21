@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-21T00:10:12.462Z",
-  "lastRunId": 27887473316,
+  "updatedAt": "2026-06-21T00:18:22.832Z",
+  "lastRunId": 27888211158,
   "items": [
+    {
+      "id": "run_27888211158",
+      "run_id": 27888211158,
+      "artifact_id": 7770142803,
+      "filename": "style-konya-karasue",
+      "normalized_name": "style-konya-karasue",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ddd75afab264",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-21T00:17:48Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27887473316",
       "run_id": 27887473316,
@@ -65812,7 +65825,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
