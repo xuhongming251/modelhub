@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-21T17:17:10.554Z",
-  "lastRunId": 27911716542,
+  "updatedAt": "2026-06-21T17:38:17.980Z",
+  "lastRunId": 27912248881,
   "items": [
+    {
+      "id": "run_27912248881",
+      "run_id": 27912248881,
+      "artifact_id": 7777702367,
+      "filename": "wlkng+high+260512.safetensors",
+      "normalized_name": "wlkng+high+260512.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cac0f13125ad",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-21T17:37:35Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27911733948",
+      "run_id": 27911733948,
+      "artifact_id": 7777548429,
+      "filename": "The-Walk-Wan2.2-i2v_Normal-Low.safetensors",
+      "normalized_name": "the-walk-wan2.2-i2v_normal-low.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bcd52d65d3d8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-21T17:17:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27911716542",
       "run_id": 27911716542,
