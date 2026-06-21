@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-21T06:48:54.525Z",
-  "lastRunId": 27896378615,
+  "updatedAt": "2026-06-21T06:52:25.429Z",
+  "lastRunId": 27896451052,
   "items": [
+    {
+      "id": "run_27896451052",
+      "run_id": 27896451052,
+      "artifact_id": 7772728757,
+      "filename": "ggml-large-v3-turbo.bin",
+      "normalized_name": "ggml-large-v3-turbo.bin",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bce056b53635",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-21T06:51:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27896378615",
       "run_id": 27896378615,
@@ -44093,12 +44106,6 @@
       "normalized_name": "breast sag slider_alpha1.0_rank4_noxattn_last.safetensors",
       "share_url": "https://pan.quark.cn/s/61b1f020725a",
       "completed_at": "2026-05-03T13:27:19Z"
-    },
-    {
-      "filename": "ggml-large-v3-turbo.bin",
-      "normalized_name": "ggml-large-v3-turbo.bin",
-      "share_url": "https://pan.quark.cn/s/3740260d800f",
-      "completed_at": "2026-05-03T13:25:01Z"
     },
     {
       "filename": "Bubble Butt_alpha1.0_rank4_noxattn_last.safetensors",
