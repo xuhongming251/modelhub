@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-21T01:40:28.032Z",
-  "lastRunId": 27889902776,
+  "updatedAt": "2026-06-21T01:51:24.494Z",
+  "lastRunId": 27890146215,
   "items": [
+    {
+      "id": "run_27890146215",
+      "run_id": 27890146215,
+      "artifact_id": 7770770175,
+      "filename": "Wan21_T2V_14B_lightx2v_cfg_step_distill_lora_rank32.safetensors",
+      "normalized_name": "wan21_t2v_14b_lightx2v_cfg_step_distill_lora_rank32.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/683590f4b6ad",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-21T01:50:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27889902776",
       "run_id": 27889902776,
@@ -57390,12 +57403,6 @@
       "normalized_name": "lightx2v_i2v_14b_480p_cfg_step_distill_rank128_bf16.safetensors",
       "share_url": "https://pan.quark.cn/s/515f435117e3",
       "completed_at": "2026-03-27T10:43:06Z"
-    },
-    {
-      "filename": "Wan21_T2V_14B_lightx2v_cfg_step_distill_lora_rank32.safetensors",
-      "normalized_name": "wan21_t2v_14b_lightx2v_cfg_step_distill_lora_rank32.safetensors",
-      "share_url": "https://pan.quark.cn/s/c20704ed0c9a",
-      "completed_at": "2026-03-27T10:38:34Z"
     },
     {
       "filename": "ComfyUI-Auto-Model-Repair.zip",
