@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-21T13:35:38.239Z",
-  "lastRunId": 27906020278,
+  "updatedAt": "2026-06-21T13:44:11.144Z",
+  "lastRunId": 27906239520,
   "items": [
+    {
+      "id": "run_27906239520",
+      "run_id": 27906239520,
+      "artifact_id": 7775879532,
+      "filename": "faster_whisper_transwithai_windows_cu128-translate.zip.0001",
+      "normalized_name": "faster_whisper_transwithai_windows_cu128-translate.zip.0001",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7d35c4a55ed5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-21T13:43:40Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27906236960",
+      "run_id": 27906236960,
+      "artifact_id": 7775878984,
+      "filename": "faster_whisper_transwithai_windows_cu128-translate.zip.0000",
+      "normalized_name": "faster_whisper_transwithai_windows_cu128-translate.zip.0000",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a78a160750f2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-21T13:43:36Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27906020278",
       "run_id": 27906020278,
