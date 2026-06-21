@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-21T13:44:11.144Z",
-  "lastRunId": 27906239520,
+  "updatedAt": "2026-06-21T13:52:03.730Z",
+  "lastRunId": 27906432704,
   "items": [
+    {
+      "id": "run_27906432704",
+      "run_id": 27906432704,
+      "artifact_id": 7775942855,
+      "filename": "implants_anima_v2.safetensors",
+      "normalized_name": "implants_anima_v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/93c4578e2867",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-21T13:51:22Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_27906243851",
+      "run_id": 27906243851,
+      "artifact_id": 7775880984,
+      "filename": "faster_whisper_transwithai_windows_cu128-translate.zip.0002",
+      "normalized_name": "faster_whisper_transwithai_windows_cu128-translate.zip.0002",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/31aff36bae0a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-21T13:43:52Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27906239520",
       "run_id": 27906239520,
