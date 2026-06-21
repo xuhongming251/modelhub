@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-21T07:38:51.212Z",
-  "lastRunId": 27897486296,
+  "updatedAt": "2026-06-21T07:41:20.455Z",
+  "lastRunId": 27897546953,
   "items": [
+    {
+      "id": "run_27897546953",
+      "run_id": 27897546953,
+      "artifact_id": 7773077595,
+      "filename": "auth",
+      "normalized_name": "auth",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3308c30edc91",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-21T07:40:45Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27897486296",
       "run_id": 27897486296,
@@ -52846,12 +52859,6 @@
       "normalized_name": "firered_omnirealism.git",
       "share_url": "https://pan.quark.cn/s/d236b0db080f",
       "completed_at": "2026-04-13T11:37:56Z"
-    },
-    {
-      "filename": "auth",
-      "normalized_name": "auth",
-      "share_url": "https://pan.quark.cn/s/8190fb29993f",
-      "completed_at": "2026-04-13T11:37:41Z"
     },
     {
       "filename": "7c0ee054-3547-48c2-9276-d0680535b241",
