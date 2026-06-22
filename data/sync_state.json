@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-22T19:38:48.904Z",
-  "lastRunId": 27978933773,
+  "updatedAt": "2026-06-22T21:32:29.987Z",
+  "lastRunId": 27978963144,
   "items": [
+    {
+      "id": "run_27978963144",
+      "run_id": 27978963144,
+      "artifact_id": 7802980501,
+      "filename": "PitHandDetailer-v1b-seg.pt",
+      "normalized_name": "pithanddetailer-v1b-seg.pt",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9d1465df1374",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-22T19:38:39Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27978933773",
       "run_id": 27978933773,
