@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-22T18:48:10.150Z",
-  "lastRunId": 27972616914,
+  "updatedAt": "2026-06-22T19:38:48.904Z",
+  "lastRunId": 27978933773,
   "items": [
+    {
+      "id": "run_27978933773",
+      "run_id": 27978933773,
+      "artifact_id": 7802968132,
+      "filename": "99coins_anime_girl_face_m_seg.pt",
+      "normalized_name": "99coins_anime_girl_face_m_seg.pt",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/12a44b60edec",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-22T19:38:07Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27972616914",
       "run_id": 27972616914,
@@ -67129,7 +67142,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
