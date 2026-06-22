@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-22T06:19:31.628Z",
-  "lastRunId": 27933507654,
+  "updatedAt": "2026-06-22T06:25:00.843Z",
+  "lastRunId": 27933735187,
   "items": [
+    {
+      "id": "run_27933735187",
+      "run_id": 27933735187,
+      "artifact_id": 7784664216,
+      "filename": "parakeet-tdt-0.6b-ja.gguf",
+      "normalized_name": "parakeet-tdt-0.6b-ja.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4114aef62f9b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-22T06:24:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27933507654",
       "run_id": 27933507654,
