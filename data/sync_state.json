@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-22T00:54:21.611Z",
-  "lastRunId": 27923061473,
+  "updatedAt": "2026-06-22T01:57:09.505Z",
+  "lastRunId": 27924829829,
   "items": [
+    {
+      "id": "run_27924829829",
+      "run_id": 27924829829,
+      "artifact_id": 7781651784,
+      "filename": "qwen306bBase.EX6F.safetensors",
+      "normalized_name": "qwen306bbase.ex6f.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d3cd93b3eec1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-22T01:56:26Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27923044529",
       "run_id": 27923044529,
