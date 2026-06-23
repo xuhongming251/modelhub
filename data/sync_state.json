@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-23T13:49:06.902Z",
+  "updatedAt": "2026-06-23T13:52:54.746Z",
   "lastRunId": 28031024565,
   "items": [
+    {
+      "id": "run_28030841621",
+      "run_id": 28030841621,
+      "artifact_id": 7822927535,
+      "filename": "wan2.2_i2v_A14b_high_noise_int8_lightx2v_4step_1030.safetensors",
+      "normalized_name": "wan2.2_i2v_a14b_high_noise_int8_lightx2v_4step_1030.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dbc3308b0628",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-23T13:52:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28031024565",
       "run_id": 28031024565,
