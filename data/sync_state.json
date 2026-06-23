@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-23T15:45:55.952Z",
-  "lastRunId": 28037815381,
+  "updatedAt": "2026-06-23T15:46:54.833Z",
+  "lastRunId": 28037890246,
   "items": [
+    {
+      "id": "run_28037890246",
+      "run_id": 28037890246,
+      "artifact_id": 7825885637,
+      "filename": "wan2.2_fun_control_high_noise_14B_fp8_scaled.safetensors",
+      "normalized_name": "wan2.2_fun_control_high_noise_14b_fp8_scaled.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9b7f1c10020a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-23T15:46:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28037257443",
       "run_id": 28037257443,
