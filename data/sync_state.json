@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-23T03:27:56.329Z",
-  "lastRunId": 27999633504,
+  "updatedAt": "2026-06-23T04:48:48.971Z",
+  "lastRunId": 28002904454,
   "items": [
+    {
+      "id": "run_28002904454",
+      "run_id": 28002904454,
+      "artifact_id": 7811681210,
+      "filename": "wan22-remix-t2vandi2v",
+      "normalized_name": "wan22-remix-t2vandi2v",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b183d7c739d2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-23T04:48:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27999614848",
       "run_id": 27999614848,
@@ -55214,12 +55227,6 @@
       "normalized_name": "wan2.1_i2v_480p_720p_14b_fp8_e4m3fn.safetensors",
       "share_url": "https://pan.quark.cn/s/b3b3603c258e",
       "completed_at": "2026-04-05T11:53:36Z"
-    },
-    {
-      "filename": "wan22-remix-t2vandi2v",
-      "normalized_name": "wan22-remix-t2vandi2v",
-      "share_url": "https://pan.quark.cn/s/8c0272b8103f",
-      "completed_at": "2026-04-05T10:58:53Z"
     },
     {
       "filename": "controlnet XL.zip",
