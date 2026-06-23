@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-23T11:46:24.783Z",
-  "lastRunId": 28023779345,
+  "updatedAt": "2026-06-23T12:25:23.148Z",
+  "lastRunId": 28025705514,
   "items": [
+    {
+      "id": "run_28025705514",
+      "run_id": 28025705514,
+      "artifact_id": 7820667674,
+      "filename": "gemma_3_12B_it_heretic_fp8_e4m3fn.safetensors",
+      "normalized_name": "gemma_3_12b_it_heretic_fp8_e4m3fn.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a59ee4f7ed17",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-23T12:24:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28023779345",
       "run_id": 28023779345,
