@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-23T07:42:31.174Z",
-  "lastRunId": 28010415685,
+  "updatedAt": "2026-06-23T07:44:49.614Z",
+  "lastRunId": 28010500073,
   "items": [
     {
-      "id": "run_28010415685",
-      "run_id": 28010415685,
-      "artifact_id": 7814436954,
+      "id": "run_28010500073",
+      "run_id": 28010500073,
+      "artifact_id": 7814481663,
+      "filename": "buanime风格.safetensors",
+      "normalized_name": "buanime风格.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6082bb01cc59",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-23T07:44:11Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28010454016",
+      "run_id": 28010454016,
+      "artifact_id": 7814450978,
       "filename": "releases",
       "normalized_name": "releases",
       "original_url": "",
-      "share_url": "https://pan.quark.cn/s/f627aa3529b5",
+      "share_url": "https://pan.quark.cn/s/59f3593ff7ca",
       "channel": "quark",
       "channel_name": "Quark",
-      "completed_at": "2026-06-23T07:41:50Z",
+      "completed_at": "2026-06-23T07:42:35Z",
       "workflow": "upload.yml"
     },
     {
