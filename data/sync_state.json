@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-23T15:18:46.453Z",
-  "lastRunId": 28036357385,
+  "updatedAt": "2026-06-23T15:22:51.623Z",
+  "lastRunId": 28036588671,
   "items": [
+    {
+      "id": "run_28036588671",
+      "run_id": 28036588671,
+      "artifact_id": 7825255873,
+      "filename": "Hyper-SD15-12steps-CFG-lora.safetensors",
+      "normalized_name": "hyper-sd15-12steps-cfg-lora.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/52f654f93fe9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-23T15:22:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28036357385",
       "run_id": 28036357385,
