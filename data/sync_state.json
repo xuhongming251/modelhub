@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-23T13:27:58.898Z",
-  "lastRunId": 28029664001,
+  "updatedAt": "2026-06-23T13:33:32.129Z",
+  "lastRunId": 28030011025,
   "items": [
+    {
+      "id": "run_28030011025",
+      "run_id": 28030011025,
+      "artifact_id": 7822399790,
+      "filename": "JANIMA_v10.safetensors",
+      "normalized_name": "janima_v10.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/025ff5e9aeef",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-23T13:32:51Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28029664001",
       "run_id": 28029664001,
@@ -92,19 +105,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-23T11:24:21Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28022056490",
-      "run_id": 28022056490,
-      "artifact_id": 7819129133,
-      "filename": "JANIMA_v10.safetensors",
-      "normalized_name": "janima_v10.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/570ea5804226",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-23T11:13:36Z",
       "workflow": "upload.yml"
     },
     {
