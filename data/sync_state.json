@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-23T03:12:32.871Z",
-  "lastRunId": 27999508992,
+  "updatedAt": "2026-06-23T03:16:20.389Z",
+  "lastRunId": 27999633504,
   "items": [
+    {
+      "id": "run_27999633504",
+      "run_id": 27999633504,
+      "artifact_id": 7810561287,
+      "filename": "mmproj-gemma-4-12B-coder-fable5-composer2.5-v1-uncensored-heretic-mmproj-F16.gguf",
+      "normalized_name": "mmproj-gemma-4-12b-coder-fable5-composer2.5-v1-uncensored-heretic-mmproj-f16.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/099e7ad88a8e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-23T03:15:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27999508992",
       "run_id": 27999508992,
