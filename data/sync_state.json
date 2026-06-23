@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-23T03:16:20.389Z",
+  "updatedAt": "2026-06-23T03:27:56.329Z",
   "lastRunId": 27999633504,
   "items": [
+    {
+      "id": "run_27999614848",
+      "run_id": 27999614848,
+      "artifact_id": 7810710858,
+      "filename": "gemma-4-12B-coder-fable5-composer2.5-v1-uncensored-heretic-Q4_K_M.gguf",
+      "normalized_name": "gemma-4-12b-coder-fable5-composer2.5-v1-uncensored-heretic-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/19b39f93605b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-23T03:27:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_27999633504",
       "run_id": 27999633504,
