@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-23T11:14:16.950Z",
-  "lastRunId": 28022056490,
+  "updatedAt": "2026-06-23T11:25:08.552Z",
+  "lastRunId": 28022200001,
   "items": [
+    {
+      "id": "run_28022200001",
+      "run_id": 28022200001,
+      "artifact_id": 7819358087,
+      "filename": "10Eros_v1.2_fp8mixed_learned.safetensors",
+      "normalized_name": "10eros_v1.2_fp8mixed_learned.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5e2b89b5b0c9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-23T11:24:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28022056490",
       "run_id": 28022056490,
