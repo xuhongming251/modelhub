@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-23T14:54:28.148Z",
-  "lastRunId": 28034927219,
+  "updatedAt": "2026-06-23T15:12:56.676Z",
+  "lastRunId": 28036006072,
   "items": [
+    {
+      "id": "run_28036006072",
+      "run_id": 28036006072,
+      "artifact_id": 7825001943,
+      "filename": "Hyper-SD15-4steps-lora.safetensors",
+      "normalized_name": "hyper-sd15-4steps-lora.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/896289dade9e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-23T15:12:07Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28034927219",
       "run_id": 28034927219,
