@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-23T10:24:13.799Z",
-  "lastRunId": 28019416435,
+  "updatedAt": "2026-06-23T10:52:21.240Z",
+  "lastRunId": 28020909846,
   "items": [
+    {
+      "id": "run_28020909846",
+      "run_id": 28020909846,
+      "artifact_id": 7818664722,
+      "filename": "robertlu1021Ceylon.IAHR.safetensors",
+      "normalized_name": "robertlu1021ceylon.iahr.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f61af738f42c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-23T10:51:43Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28019416435",
       "run_id": 28019416435,
@@ -67500,7 +67513,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
