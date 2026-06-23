@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-23T14:53:21.912Z",
-  "lastRunId": 28034845060,
+  "updatedAt": "2026-06-23T14:54:28.148Z",
+  "lastRunId": 28034927219,
   "items": [
+    {
+      "id": "run_28034927219",
+      "run_id": 28034927219,
+      "artifact_id": 7824549533,
+      "filename": "lcm-lora-sdv1-5.safetensors",
+      "normalized_name": "lcm-lora-sdv1-5.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6df55a522ffd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-23T14:53:50Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28034845060",
       "run_id": 28034845060,
