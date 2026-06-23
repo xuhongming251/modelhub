@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-23T14:04:48.768Z",
-  "lastRunId": 28032031672,
+  "updatedAt": "2026-06-23T14:10:28.801Z",
+  "lastRunId": 28032311004,
   "items": [
+    {
+      "id": "run_28032311004",
+      "run_id": 28032311004,
+      "artifact_id": 7823428308,
+      "filename": "wan2.2_14b_i2v_CloudMeadow4_000004250_high_noise.safetensors",
+      "normalized_name": "wan2.2_14b_i2v_cloudmeadow4_000004250_high_noise.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1a7742f4a115",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-23T14:09:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28032031672",
       "run_id": 28032031672,
