@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-24T03:02:13.262Z",
-  "lastRunId": 28072107624,
+  "updatedAt": "2026-06-24T03:04:22.274Z",
+  "lastRunId": 28072186351,
   "items": [
+    {
+      "id": "run_28072186351",
+      "run_id": 28072186351,
+      "artifact_id": 7839070014,
+      "filename": "Flux.1_Turbo_Detailer.safetensors",
+      "normalized_name": "flux.1_turbo_detailer.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c1e55a2b6db1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-24T03:03:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28072107624",
       "run_id": 28072107624,
