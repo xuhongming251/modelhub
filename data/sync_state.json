@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-24T15:02:09.194Z",
-  "lastRunId": 28108012098,
+  "updatedAt": "2026-06-24T15:10:56.268Z",
+  "lastRunId": 28108593933,
   "items": [
+    {
+      "id": "run_28108593933",
+      "run_id": 28108593933,
+      "artifact_id": 7853774482,
+      "filename": "Hyper-SDXL-1step-lora.safetensors",
+      "normalized_name": "hyper-sdxl-1step-lora.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cd09fdc9367c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-24T15:10:08Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28108052572",
+      "run_id": 28108052572,
+      "artifact_id": 7853539794,
+      "filename": "Hyper-SDXL-12steps-CFG-lora.safetensors",
+      "normalized_name": "hyper-sdxl-12steps-cfg-lora.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/128443039700",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-24T15:01:48Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28108012098",
       "run_id": 28108012098,
