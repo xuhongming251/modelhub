@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-24T15:45:28.466Z",
-  "lastRunId": 28110852803,
+  "updatedAt": "2026-06-24T15:50:10.051Z",
+  "lastRunId": 28111147839,
   "items": [
+    {
+      "id": "run_28111147839",
+      "run_id": 28111147839,
+      "artifact_id": 7854855681,
+      "filename": "riMixAnima.safetensors",
+      "normalized_name": "rimixanima.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bea66891ec3a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-24T15:49:28Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28110868318",
+      "run_id": 28110868318,
+      "artifact_id": 7854747737,
+      "filename": "hosekiLustrousmixAnima_animaV10.safetensors",
+      "normalized_name": "hosekilustrousmixanima_animav10.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/12fd7217a978",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-24T15:45:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28110852803",
       "run_id": 28110852803,
@@ -68789,7 +68815,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 2,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
