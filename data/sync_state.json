@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-24T05:09:49.540Z",
-  "lastRunId": 28076606848,
+  "updatedAt": "2026-06-24T05:22:24.751Z",
+  "lastRunId": 28077077685,
   "items": [
+    {
+      "id": "run_28077077685",
+      "run_id": 28077077685,
+      "artifact_id": 7840795032,
+      "filename": "maplestory.xgM4.safetensors",
+      "normalized_name": "maplestory.xgm4.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/33d95fe1c741",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-24T05:21:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28076606848",
       "run_id": 28076606848,
@@ -68326,7 +68339,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
