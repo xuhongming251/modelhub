@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-24T15:54:39.308Z",
-  "lastRunId": 28111147839,
+  "updatedAt": "2026-06-24T16:04:15.630Z",
+  "lastRunId": 28112050993,
   "items": [
+    {
+      "id": "run_28112050993",
+      "run_id": 28112050993,
+      "artifact_id": 7855226435,
+      "filename": "FLUX.1-Turbo-Alpha.safetensors",
+      "normalized_name": "flux.1-turbo-alpha.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/949381901ef2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-24T16:03:26Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28111408657",
+      "run_id": 28111408657,
+      "artifact_id": 7854968297,
+      "filename": "openflux1-v0.1.0-fast-lora.safetensors",
+      "normalized_name": "openflux1-v0.1.0-fast-lora.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/42985ba22a7e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-24T15:53:47Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28111147839",
       "run_id": 28111147839,
@@ -11194,19 +11220,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-14T12:51:37Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27499278559",
-      "run_id": 27499278559,
-      "artifact_id": 7621129528,
-      "filename": "openflux1-v0.1.0-fast-lora.safetensors",
-      "normalized_name": "openflux1-v0.1.0-fast-lora.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/badb0653d227",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-14T12:46:49Z",
       "workflow": "upload.yml"
     },
     {
@@ -68815,7 +68828,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
