@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-24T15:42:38.655Z",
-  "lastRunId": 28109747737,
+  "updatedAt": "2026-06-24T15:45:28.466Z",
+  "lastRunId": 28110852803,
   "items": [
+    {
+      "id": "run_28110852803",
+      "run_id": 28110852803,
+      "artifact_id": 7854735104,
+      "filename": "lcm-lora-sdxl.safetensors",
+      "normalized_name": "lcm-lora-sdxl.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4f50ad3a5070",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-24T15:45:05Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28109747737",
       "run_id": 28109747737,
@@ -68776,7 +68789,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 2,
       "createdBefore": null,
       "exhausted": false
     }
