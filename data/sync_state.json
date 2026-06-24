@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-24T14:28:27.192Z",
-  "lastRunId": 28105735308,
+  "updatedAt": "2026-06-24T14:44:47.575Z",
+  "lastRunId": 28106877627,
   "items": [
+    {
+      "id": "run_28106877627",
+      "run_id": 28106877627,
+      "artifact_id": 7853043140,
+      "filename": "Hyper-SDXL-8steps-CFG-lora.safetensors",
+      "normalized_name": "hyper-sdxl-8steps-cfg-lora.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/427a0ff01ab1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-24T14:43:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28105735308",
       "run_id": 28105735308,
