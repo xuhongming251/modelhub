@@ -1,8 +1,60 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-24T13:25:34.571Z",
-  "lastRunId": 28101774399,
+  "updatedAt": "2026-06-24T13:29:40.667Z",
+  "lastRunId": 28101930764,
   "items": [
+    {
+      "id": "run_28101930764",
+      "run_id": 28101930764,
+      "artifact_id": 7850983699,
+      "filename": "dasiwaLTX23NSFW.7brm.safetensors",
+      "normalized_name": "dasiwaltx23nsfw.7brm.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4ce6f3b3f046",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-24T13:28:56Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28101715906",
+      "run_id": 28101715906,
+      "artifact_id": 7850896177,
+      "filename": "flux1-dev-fp8.safetensors",
+      "normalized_name": "flux1-dev-fp8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e05f824eccc6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-24T13:25:38Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28101824586",
+      "run_id": 28101824586,
+      "artifact_id": 7850893496,
+      "filename": "uso-flux1-projector-v1.safetensors",
+      "normalized_name": "uso-flux1-projector-v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2ae5f08f3dbb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-24T13:25:30Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28101806608",
+      "run_id": 28101806608,
+      "artifact_id": 7850886371,
+      "filename": "uso-flux1-dit-lora-v1.safetensors",
+      "normalized_name": "uso-flux1-dit-lora-v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c6c49769b31d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-24T13:25:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28101774399",
       "run_id": 28101774399,
@@ -57572,12 +57624,6 @@
       "normalized_name": "wan22i2va14blowsvi.hqak.safetensors",
       "share_url": "https://pan.quark.cn/s/39e95c306f23",
       "completed_at": "2026-04-02T15:08:55Z"
-    },
-    {
-      "filename": "flux1-dev-fp8.safetensors",
-      "normalized_name": "flux1-dev-fp8.safetensors",
-      "share_url": "https://pan.quark.cn/s/1d6a6b92dd0a",
-      "completed_at": "2026-04-02T15:08:06Z"
     },
     {
       "filename": "wan22I2VA14BHIGHSVI.9JqG.safetensors",
