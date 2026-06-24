@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-24T00:58:08.480Z",
-  "lastRunId": 28067642454,
+  "updatedAt": "2026-06-24T01:05:32.389Z",
+  "lastRunId": 28067913852,
   "items": [
+    {
+      "id": "run_28067913852",
+      "run_id": 28067913852,
+      "artifact_id": 7837547526,
+      "filename": "Realism_Engine_Ideogram_V5.safetensors",
+      "normalized_name": "realism_engine_ideogram_v5.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2279434fbaf1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-24T01:04:55Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28067642454",
       "run_id": 28067642454,
@@ -1366,19 +1379,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-22T14:51:31Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27961074632",
-      "run_id": 27961074632,
-      "artifact_id": 7795727363,
-      "filename": "Realism_Engine_Ideogram_V5.safetensors",
-      "normalized_name": "realism_engine_ideogram_v5.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/e21dc6eeba4c",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-22T14:45:00Z",
       "workflow": "upload.yml"
     },
     {
