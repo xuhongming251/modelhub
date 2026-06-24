@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-24T05:57:11.126Z",
-  "lastRunId": 28078401511,
+  "updatedAt": "2026-06-24T06:04:54.872Z",
+  "lastRunId": 28078621482,
   "items": [
+    {
+      "id": "run_28078621482",
+      "run_id": 28078621482,
+      "artifact_id": 7841391875,
+      "filename": "qwen_image_fp8_e4m3fn.safetensors",
+      "normalized_name": "qwen_image_fp8_e4m3fn.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6c4ad50b3576",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-24T06:04:18Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28078401511",
       "run_id": 28078401511,
@@ -51081,12 +51094,6 @@
       "normalized_name": "gemma-4-26b-a4b-it-heretic-ara-gguf.zip",
       "share_url": "https://pan.quark.cn/s/e54bb1930b27",
       "completed_at": "2026-04-26T01:14:57Z"
-    },
-    {
-      "filename": "qwen_image_fp8_e4m3fn.safetensors",
-      "normalized_name": "qwen_image_fp8_e4m3fn.safetensors",
-      "share_url": "https://pan.quark.cn/s/d728c8c479a3",
-      "completed_at": "2026-04-26T00:15:50Z"
     },
     {
       "filename": "illustration-1.0-qwen-image.safetensors",
