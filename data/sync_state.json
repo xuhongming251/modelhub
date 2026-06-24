@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-24T03:04:22.274Z",
-  "lastRunId": 28072186351,
+  "updatedAt": "2026-06-24T03:06:59.737Z",
+  "lastRunId": 28072289816,
   "items": [
+    {
+      "id": "run_28072289816",
+      "run_id": 28072289816,
+      "artifact_id": 7839107093,
+      "filename": "flux220kleinE58AA8E6BCABE8BDACE5.O9j8.safetensors",
+      "normalized_name": "flux220kleine58aa8e6bcabe8bdace5.o9j8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0fda7dc349bf",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-24T03:06:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28072186351",
       "run_id": 28072186351,
@@ -52575,12 +52588,6 @@
       "normalized_name": "djmilxlvae_dminvae.safetensors",
       "share_url": "https://pan.quark.cn/s/6448e7ee3556",
       "completed_at": "2026-04-20T10:54:47Z"
-    },
-    {
-      "filename": "flux220kleinE58AA8E6BCABE8BDACE5.O9j8.safetensors",
-      "normalized_name": "flux220kleine58aa8e6bcabe8bdace5.o9j8.safetensors",
-      "share_url": "https://pan.quark.cn/s/dfb4d26ca57e",
-      "completed_at": "2026-04-20T10:11:31Z"
     },
     {
       "filename": "bouncywalk02Highwan22.WwJ3.safetensors",
