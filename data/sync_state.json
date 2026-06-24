@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-24T05:22:24.751Z",
-  "lastRunId": 28077077685,
+  "updatedAt": "2026-06-24T05:55:01.685Z",
+  "lastRunId": 28077813773,
   "items": [
+    {
+      "id": "run_28077813773",
+      "run_id": 28077813773,
+      "artifact_id": 7841241614,
+      "filename": "ILFlatMix.safetensors",
+      "normalized_name": "ilflatmix.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/eecf514674a1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-24T05:54:26Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28077077685",
       "run_id": 28077077685,
