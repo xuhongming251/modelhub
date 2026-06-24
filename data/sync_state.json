@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-24T13:23:53.706Z",
-  "lastRunId": 28101395315,
+  "updatedAt": "2026-06-24T13:25:34.571Z",
+  "lastRunId": 28101774399,
   "items": [
+    {
+      "id": "run_28101774399",
+      "run_id": 28101774399,
+      "artifact_id": 7850877185,
+      "filename": "sigclip_vision_patch14_384.safetensors",
+      "normalized_name": "sigclip_vision_patch14_384.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0be4230f2138",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-24T13:24:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28101395315",
       "run_id": 28101395315,
@@ -51361,12 +51374,6 @@
       "normalized_name": "hunyuanvideo15_vae_fp16.safetensors",
       "share_url": "https://pan.quark.cn/s/d9840c8ce9b7",
       "completed_at": "2026-04-25T20:22:20Z"
-    },
-    {
-      "filename": "sigclip_vision_patch14_384.safetensors",
-      "normalized_name": "sigclip_vision_patch14_384.safetensors",
-      "share_url": "https://pan.quark.cn/s/f4271cfed6ba",
-      "completed_at": "2026-04-25T20:20:58Z"
     },
     {
       "filename": "Qwen-Image-Edit-Lightning-4steps-V1.0-bf16.safetensors",
