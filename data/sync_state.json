@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-24T16:08:06.723Z",
-  "lastRunId": 28112291744,
+  "updatedAt": "2026-06-24T16:17:45.087Z",
+  "lastRunId": 28112872296,
   "items": [
+    {
+      "id": "run_28112872296",
+      "run_id": 28112872296,
+      "artifact_id": 7855577923,
+      "filename": "Hyper-FLUX.1-dev-16steps-lora.safetensors",
+      "normalized_name": "hyper-flux.1-dev-16steps-lora.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5054fa51ceae",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-24T16:17:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28112291744",
       "run_id": 28112291744,
