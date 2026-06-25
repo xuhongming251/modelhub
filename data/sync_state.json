@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-25T16:27:59.370Z",
-  "lastRunId": 28183584333,
+  "updatedAt": "2026-06-25T16:31:47.787Z",
+  "lastRunId": 28185160046,
   "items": [
+    {
+      "id": "run_28185160046",
+      "run_id": 28185160046,
+      "artifact_id": 7884496101,
+      "filename": "wan22_14b_i2v_fucking_machine_high_noise.safetensors",
+      "normalized_name": "wan22_14b_i2v_fucking_machine_high_noise.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2e806a863f80",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-25T16:31:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28183584333",
       "run_id": 28183584333,
@@ -64720,12 +64733,6 @@
       "normalized_name": "22wan22_14b_i2v_fucking_machine_low_noise.safetensors",
       "share_url": "https://pan.quark.cn/s/fb3853cdb376",
       "completed_at": "2026-03-17T14:50:32Z"
-    },
-    {
-      "filename": "wan22_14b_i2v_fucking_machine_high_noise.safetensors",
-      "normalized_name": "wan22_14b_i2v_fucking_machine_high_noise.safetensors",
-      "share_url": "https://pan.quark.cn/s/f789bbd04462",
-      "completed_at": "2026-03-17T14:48:38Z"
     },
     {
       "filename": "wan2214bI2vFucking.0wYQ.safetensors",
