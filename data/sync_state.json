@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-25T08:24:44.195Z",
-  "lastRunId": 28153875406,
+  "updatedAt": "2026-06-25T09:19:26.678Z",
+  "lastRunId": 28159955153,
   "items": [
+    {
+      "id": "run_28159955153",
+      "run_id": 28159955153,
+      "artifact_id": 7873881381,
+      "filename": "SVDQuant-int4-CreArt_Ultimate.safetensors",
+      "normalized_name": "svdquant-int4-creart_ultimate.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/36356eb6bd26",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-25T09:18:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28153875406",
       "run_id": 28153875406,
