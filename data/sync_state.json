@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-25T09:19:26.678Z",
-  "lastRunId": 28159955153,
+  "updatedAt": "2026-06-25T09:33:22.373Z",
+  "lastRunId": 28160771299,
   "items": [
+    {
+      "id": "run_28160771299",
+      "run_id": 28160771299,
+      "artifact_id": 7874206609,
+      "filename": "sexmachine-shura-000003.safetensors",
+      "normalized_name": "sexmachine-shura-000003.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4e80da304490",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-25T09:32:36Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28159955153",
       "run_id": 28159955153,
@@ -6085,19 +6098,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-19T11:33:21Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27821620441",
-      "run_id": 27821620441,
-      "artifact_id": 7748023973,
-      "filename": "sexmachine-shura-000003.safetensors",
-      "normalized_name": "sexmachine-shura-000003.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/26a7da0ee90d",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-19T10:57:43Z",
       "workflow": "upload.yml"
     },
     {
