@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-25T13:14:57.864Z",
-  "lastRunId": 28172661311,
+  "updatedAt": "2026-06-25T13:16:06.099Z",
+  "lastRunId": 28172679563,
   "items": [
+    {
+      "id": "run_28172679563",
+      "run_id": 28172679563,
+      "artifact_id": 7879188801,
+      "filename": "fixed_clean_breasts_multi_v1_by_viennar.safetensors",
+      "normalized_name": "fixed_clean_breasts_multi_v1_by_viennar.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1cbbe3f5cda7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-25T13:15:28Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28172661311",
       "run_id": 28172661311,
@@ -69245,7 +69258,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
