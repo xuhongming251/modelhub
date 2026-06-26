@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-26T16:33:01.601Z",
-  "lastRunId": 28251377054,
+  "updatedAt": "2026-06-26T16:38:08.061Z",
+  "lastRunId": 28251697912,
   "items": [
+    {
+      "id": "run_28251697912",
+      "run_id": 28251697912,
+      "artifact_id": 7911025255,
+      "filename": "RealESRGAN_x4plus_anime_6B.pth",
+      "normalized_name": "realesrgan_x4plus_anime_6b.pth",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c755b85262a0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-26T16:37:27Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28251377054",
       "run_id": 28251377054,
