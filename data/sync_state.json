@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-26T17:15:37.384Z",
-  "lastRunId": 28252759385,
+  "updatedAt": "2026-06-26T17:20:25.584Z",
+  "lastRunId": 28253927721,
   "items": [
+    {
+      "id": "run_28253927721",
+      "run_id": 28253927721,
+      "artifact_id": 7911926024,
+      "filename": "realismEngineKrea2V2.coND.safetensors",
+      "normalized_name": "realismenginekrea2v2.cond.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9cb1aec1dde7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-26T17:19:50Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28251680424",
       "run_id": 28251680424,
@@ -755,19 +768,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-26T15:26:58Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28247673315",
-      "run_id": 28247673315,
-      "artifact_id": 7909386637,
-      "filename": "realismEngineKrea2V2.coND.safetensors",
-      "normalized_name": "realismenginekrea2v2.cond.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/ef9eb664453c",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-26T15:24:34Z",
       "workflow": "upload.yml"
     },
     {
