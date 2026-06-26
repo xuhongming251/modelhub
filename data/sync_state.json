@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-26T22:33:09.205Z",
-  "lastRunId": 28268963908,
+  "updatedAt": "2026-06-26T22:33:57.587Z",
+  "lastRunId": 28268994420,
   "items": [
+    {
+      "id": "run_28268994420",
+      "run_id": 28268994420,
+      "artifact_id": 7917829596,
+      "filename": "linlanArknightsV1.0r06.safetensors",
+      "normalized_name": "linlanarknightsv1.0r06.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/388099789f9b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-26T22:33:29Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28268963908",
       "run_id": 28268963908,
@@ -729,19 +742,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-26T15:55:24Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28249368622",
-      "run_id": 28249368622,
-      "artifact_id": 7910092798,
-      "filename": "linlanArknightsV1.0r06.safetensors",
-      "normalized_name": "linlanarknightsv1.0r06.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/c1e0a659b5d1",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-26T15:54:52Z",
       "workflow": "upload.yml"
     },
     {
