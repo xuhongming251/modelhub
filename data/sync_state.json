@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-26T16:58:05.426Z",
+  "updatedAt": "2026-06-26T17:15:37.384Z",
   "lastRunId": 28252759385,
   "items": [
+    {
+      "id": "run_28251680424",
+      "run_id": 28251680424,
+      "artifact_id": 7911827515,
+      "filename": "Qwen3-VL-8B-Instruct-abliterated-FP8.safetensors",
+      "normalized_name": "qwen3-vl-8b-instruct-abliterated-fp8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/49c5bcdbb7a3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-26T17:14:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28252759385",
       "run_id": 28252759385,
