@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-26T01:34:46.593Z",
-  "lastRunId": 28211467892,
+  "updatedAt": "2026-06-26T02:12:00.649Z",
+  "lastRunId": 28212670656,
   "items": [
+    {
+      "id": "run_28212670656",
+      "run_id": 28212670656,
+      "artifact_id": 7895521858,
+      "filename": "perfeczion30BF16.BwG3.safetensors",
+      "normalized_name": "perfeczion30bf16.bwg3.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3ac7ac5b2816",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-26T02:11:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28211467892",
       "run_id": 28211467892,
@@ -703,19 +716,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-25T00:36:24Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28137588544",
-      "run_id": 28137588544,
-      "artifact_id": 7865756881,
-      "filename": "perfeczion30BF16.BwG3.safetensors",
-      "normalized_name": "perfeczion30bf16.bwg3.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/6326920fd351",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-25T00:23:33Z",
       "workflow": "upload.yml"
     },
     {
