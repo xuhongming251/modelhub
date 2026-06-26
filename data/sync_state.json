@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-26T09:33:54.340Z",
-  "lastRunId": 28229689556,
+  "updatedAt": "2026-06-26T10:28:12.991Z",
+  "lastRunId": 28232289544,
   "items": [
+    {
+      "id": "run_28232289544",
+      "run_id": 28232289544,
+      "artifact_id": 7903088310,
+      "filename": "Qwythos-9B-Claude-Mythos-5-1M-Q8_0.gguf",
+      "normalized_name": "qwythos-9b-claude-mythos-5-1m-q8_0.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0e418d5ce4c0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-26T10:27:31Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28228684545",
       "run_id": 28228684545,
