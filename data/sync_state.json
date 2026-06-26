@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-26T22:16:28.513Z",
-  "lastRunId": 28267750224,
+  "updatedAt": "2026-06-26T22:24:23.537Z",
+  "lastRunId": 28268585271,
   "items": [
+    {
+      "id": "run_28268585271",
+      "run_id": 28268585271,
+      "artifact_id": 7917691024,
+      "filename": "zzz-mana-nekomiya-ingame-illustriousxl-lora-nochekaiser.safetensors",
+      "normalized_name": "zzz-mana-nekomiya-ingame-illustriousxl-lora-nochekaiser.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e5abeca91c50",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-26T22:23:52Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28267750224",
       "run_id": 28267750224,
@@ -70703,7 +70716,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
