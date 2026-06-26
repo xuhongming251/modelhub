@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-26T11:45:48.357Z",
-  "lastRunId": 28235622371,
+  "updatedAt": "2026-06-26T12:28:31.343Z",
+  "lastRunId": 28237603721,
   "items": [
+    {
+      "id": "run_28237603721",
+      "run_id": 28237603721,
+      "artifact_id": 7905324147,
+      "filename": "qANIMA_v10.safetensors",
+      "normalized_name": "qanima_v10.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/45691e4dbdd2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-26T12:27:50Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28235622371",
       "run_id": 28235622371,
