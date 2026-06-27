@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-27T14:50:05.100Z",
-  "lastRunId": 28292527061,
+  "updatedAt": "2026-06-27T15:12:58.543Z",
+  "lastRunId": 28293075119,
   "items": [
+    {
+      "id": "run_28293075119",
+      "run_id": 28293075119,
+      "artifact_id": 7925616523,
+      "filename": "illustration-1.0-qwen-image.safetensors",
+      "normalized_name": "illustration-1.0-qwen-image.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2d4d84a9e840",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-27T15:12:25Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28292527061",
       "run_id": 28292527061,
@@ -54560,12 +54573,6 @@
       "normalized_name": "gemma-4-26b-a4b-it-heretic-ara-gguf.zip",
       "share_url": "https://pan.quark.cn/s/e54bb1930b27",
       "completed_at": "2026-04-26T01:14:57Z"
-    },
-    {
-      "filename": "illustration-1.0-qwen-image.safetensors",
-      "normalized_name": "illustration-1.0-qwen-image.safetensors",
-      "share_url": "https://pan.quark.cn/s/526c6d837109",
-      "completed_at": "2026-04-26T00:13:23Z"
     },
     {
       "filename": "wan22RemixNSFWT2v14bLow.lsL4.safetensors",
