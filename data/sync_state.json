@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-27T22:05:05.876Z",
-  "lastRunId": 28302091910,
+  "updatedAt": "2026-06-27T22:20:11.281Z",
+  "lastRunId": 28303516906,
   "items": [
+    {
+      "id": "run_28303516906",
+      "run_id": 28303516906,
+      "artifact_id": 7928635726,
+      "filename": "zer0intVisionCLIPL.N4ht.safetensors",
+      "normalized_name": "zer0intvisionclipl.n4ht.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1827dcd921a8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-27T22:19:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28302091910",
       "run_id": 28302091910,
@@ -64954,12 +64967,6 @@
       "normalized_name": "flux1devfp8e4m3fn2bt5xxl.ymkk.safetensors",
       "share_url": "https://pan.quark.cn/s/a198a5711dd0",
       "completed_at": "2026-03-22T20:13:07Z"
-    },
-    {
-      "filename": "zer0intVisionCLIPL.N4ht.safetensors",
-      "normalized_name": "zer0intvisionclipl.n4ht.safetensors",
-      "share_url": "https://pan.quark.cn/s/80983fe924f0",
-      "completed_at": "2026-03-22T20:10:58Z"
     },
     {
       "filename": "openpose-editor.zip",
