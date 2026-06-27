@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-27T14:04:35.963Z",
-  "lastRunId": 28291452129,
+  "updatedAt": "2026-06-27T14:08:59.635Z",
+  "lastRunId": 28291527140,
   "items": [
+    {
+      "id": "run_28291527140",
+      "run_id": 28291527140,
+      "artifact_id": 7925151555,
+      "filename": "z_image_bf16.safetensors",
+      "normalized_name": "z_image_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/185a86b99b1c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-27T14:08:25Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28291452129",
       "run_id": 28291452129,
@@ -69997,12 +70010,6 @@
       "completed_at": "2026-03-10T10:50:19Z"
     },
     {
-      "filename": "z_image_bf16.safetensors",
-      "normalized_name": "z_image_bf16.safetensors",
-      "share_url": "https://pan.quark.cn/s/5fc2e65affab",
-      "completed_at": "2026-03-10T10:20:57Z"
-    },
-    {
       "filename": "wan2.1_fun_camera_v1.1_14B_bf16.safetensors",
       "normalized_name": "wan2.1_fun_camera_v1.1_14b_bf16.safetensors",
       "share_url": "https://pan.quark.cn/s/0e8cb328f091",
@@ -71763,7 +71770,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 3,
       "createdBefore": null,
       "exhausted": false
     }
