@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-27T16:07:12.200Z",
-  "lastRunId": 28294080020,
+  "updatedAt": "2026-06-27T16:08:18.564Z",
+  "lastRunId": 28294485314,
   "items": [
+    {
+      "id": "run_28294485314",
+      "run_id": 28294485314,
+      "artifact_id": 7926022774,
+      "filename": "KNPV3_1.safetensors",
+      "normalized_name": "knpv3_1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0e6c047a6827",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-27T16:07:44Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28294080020",
       "run_id": 28294080020,
