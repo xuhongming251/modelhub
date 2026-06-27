@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-27T14:36:53.917Z",
-  "lastRunId": 28292176953,
+  "updatedAt": "2026-06-27T14:41:25.857Z",
+  "lastRunId": 28292323622,
   "items": [
+    {
+      "id": "run_28292316530",
+      "run_id": 28292316530,
+      "artifact_id": 7925384411,
+      "filename": "Qwen-Image-2512-Lightning-4steps-V1.0-fp32.safetensors",
+      "normalized_name": "qwen-image-2512-lightning-4steps-v1.0-fp32.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d0f118adec92",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-27T14:40:58Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28292323622",
+      "run_id": 28292323622,
+      "artifact_id": 7925383930,
+      "filename": "qwen_image_vae.safetensors",
+      "normalized_name": "qwen_image_vae.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c924700ff5a2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-27T14:40:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28292176953",
       "run_id": 28292176953,
@@ -2653,19 +2679,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-25T15:21:19Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28179123729",
-      "run_id": 28179123729,
-      "artifact_id": 7881896242,
-      "filename": "qwen_image_vae.safetensors",
-      "normalized_name": "qwen_image_vae.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/b0e0e37d046a",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-25T14:54:50Z",
       "workflow": "upload.yml"
     },
     {
@@ -51018,12 +51031,6 @@
       "normalized_name": "qwen_image_2512_fp8_e4m3fn.safetensors",
       "share_url": "https://pan.quark.cn/s/8dcc5f1b7d5d",
       "completed_at": "2026-05-02T07:22:38Z"
-    },
-    {
-      "filename": "Qwen-Image-2512-Lightning-4steps-V1.0-fp32.safetensors",
-      "normalized_name": "qwen-image-2512-lightning-4steps-v1.0-fp32.safetensors",
-      "share_url": "https://pan.quark.cn/s/b942e5522691",
-      "completed_at": "2026-05-02T07:20:58Z"
     },
     {
       "filename": "dasiwaWan22I2V14B.Io2V.safetensors",
