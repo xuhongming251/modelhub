@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-27T09:13:32.903Z",
-  "lastRunId": 28284851518,
+  "updatedAt": "2026-06-27T09:14:07.738Z",
+  "lastRunId": 28284860579,
   "items": [
+    {
+      "id": "run_28284860579",
+      "run_id": 28284860579,
+      "artifact_id": 7923134284,
+      "filename": "adamwarlockcosmicwarloc.dLf3.safetensors",
+      "normalized_name": "adamwarlockcosmicwarloc.dlf3.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3d0a84c6eec0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-27T09:13:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28284851518",
       "run_id": 28284851518,
@@ -71535,7 +71548,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 3,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
