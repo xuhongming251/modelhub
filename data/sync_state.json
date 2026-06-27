@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-27T16:39:33.852Z",
-  "lastRunId": 28295266159,
+  "updatedAt": "2026-06-27T17:05:37.359Z",
+  "lastRunId": 28295919805,
   "items": [
+    {
+      "id": "run_28295919805",
+      "run_id": 28295919805,
+      "artifact_id": 7926446396,
+      "filename": "yoru-uyo_v1_epoch24.safetensors",
+      "normalized_name": "yoru-uyo_v1_epoch24.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0934b02973c5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-27T17:05:03Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28295266159",
       "run_id": 28295266159,
