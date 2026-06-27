@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-27T14:44:30.801Z",
-  "lastRunId": 28292323622,
+  "updatedAt": "2026-06-27T14:50:05.100Z",
+  "lastRunId": 28292527061,
   "items": [
+    {
+      "id": "run_28292527061",
+      "run_id": 28292527061,
+      "artifact_id": 7925449252,
+      "filename": "kia",
+      "normalized_name": "kia",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/164884a9baf5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-27T14:49:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28292316530",
       "run_id": 28292316530,
@@ -71777,7 +71790,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 3,
       "createdBefore": null,
       "exhausted": false
     }
