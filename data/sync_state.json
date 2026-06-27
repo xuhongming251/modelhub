@@ -1,8 +1,60 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-27T07:59:08.707Z",
-  "lastRunId": 28283211892,
+  "updatedAt": "2026-06-27T09:13:32.903Z",
+  "lastRunId": 28284851518,
   "items": [
+    {
+      "id": "run_28284851518",
+      "run_id": 28284851518,
+      "artifact_id": 7923131359,
+      "filename": "omenValorantV2ILXL.ywY2.safetensors",
+      "normalized_name": "omenvalorantv2ilxl.ywy2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9636d24525ac",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-27T09:13:13Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28284843391",
+      "run_id": 28284843391,
+      "artifact_id": 7923130002,
+      "filename": "kinghassan.Flfg.safetensors",
+      "normalized_name": "kinghassan.flfg.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1e0e133e5952",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-27T09:13:02Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28283222261",
+      "run_id": 28283222261,
+      "artifact_id": 7922614034,
+      "filename": "d8a143ee-94d1-412c-8580-1f4565097ed0",
+      "normalized_name": "d8a143ee-94d1-412c-8580-1f4565097ed0",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ce7cd5ea64bc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-27T07:59:09Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28283197053",
+      "run_id": 28283197053,
+      "artifact_id": 7922613558,
+      "filename": "flatANIMABASE.safetensors",
+      "normalized_name": "flatanimabase.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f645acab58a9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-27T07:59:05Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28283211892",
       "run_id": 28283211892,
@@ -71483,7 +71535,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 3,
       "createdBefore": null,
       "exhausted": false
     }
