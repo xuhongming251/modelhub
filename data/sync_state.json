@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-27T10:16:48.729Z",
-  "lastRunId": 28286263142,
+  "updatedAt": "2026-06-27T10:17:45.871Z",
+  "lastRunId": 28286267196,
   "items": [
+    {
+      "id": "run_28286267196",
+      "run_id": 28286267196,
+      "artifact_id": 7923571412,
+      "filename": "冰神.safetensors",
+      "normalized_name": "冰神.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7540d840aad9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-27T10:17:18Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28286263142",
       "run_id": 28286263142,
@@ -1288,19 +1301,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-26T16:48:23Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28252018962",
-      "run_id": 28252018962,
-      "artifact_id": 7911154680,
-      "filename": "冰神.safetensors",
-      "normalized_name": "冰神.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/8d88a155a602",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-26T16:43:35Z",
       "workflow": "upload.yml"
     },
     {
