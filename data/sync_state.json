@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-27T13:12:25.477Z",
-  "lastRunId": 28290212032,
+  "updatedAt": "2026-06-27T13:14:27.700Z",
+  "lastRunId": 28290262677,
   "items": [
+    {
+      "id": "run_28290262677",
+      "run_id": 28290262677,
+      "artifact_id": 7924769630,
+      "filename": "flux1-dev-fp8.safetensors",
+      "normalized_name": "flux1-dev-fp8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2b3c7439aaa8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-27T13:13:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28290212032",
       "run_id": 28290212032,
@@ -3563,19 +3576,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-24T13:28:56Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28101715906",
-      "run_id": 28101715906,
-      "artifact_id": 7850896177,
-      "filename": "flux1-dev-fp8.safetensors",
-      "normalized_name": "flux1-dev-fp8.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/e05f824eccc6",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-24T13:25:38Z",
       "workflow": "upload.yml"
     },
     {
