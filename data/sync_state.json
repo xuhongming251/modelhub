@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-28T12:50:37.029Z",
-  "lastRunId": 28322762847,
+  "updatedAt": "2026-06-28T12:54:00.745Z",
+  "lastRunId": 28322858635,
   "items": [
+    {
+      "id": "run_28322858635",
+      "run_id": 28322858635,
+      "artifact_id": 7934797699,
+      "filename": "krea2_turbo_lora_rank_64_bf16.safetensors",
+      "normalized_name": "krea2_turbo_lora_rank_64_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a5c8cff4d8f9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-28T12:53:26Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28322774954",
+      "run_id": 28322774954,
+      "artifact_id": 7934774355,
+      "filename": "krea2_softwatercolor.safetensors",
+      "normalized_name": "krea2_softwatercolor.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5829a68d565f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-28T12:50:38Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28322768368",
+      "run_id": 28322768368,
+      "artifact_id": 7934772896,
+      "filename": "krea2_retroanime.safetensors",
+      "normalized_name": "krea2_retroanime.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ed928cd344f0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-28T12:50:29Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28322762847",
       "run_id": 28322762847,
