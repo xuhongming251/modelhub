@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-28T17:15:24.623Z",
+  "updatedAt": "2026-06-28T17:17:33.876Z",
   "lastRunId": 28329558519,
   "items": [
+    {
+      "id": "run_28329469732",
+      "run_id": 28329469732,
+      "artifact_id": 7936853958,
+      "filename": "wan2.2_bernini_r_low_noise_nvfp4.safetensors",
+      "normalized_name": "wan2.2_bernini_r_low_noise_nvfp4.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/46a63486c748",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-28T17:17:07Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28329558519",
       "run_id": 28329558519,
