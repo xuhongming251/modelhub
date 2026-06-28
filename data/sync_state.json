@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-28T16:37:40.409Z",
-  "lastRunId": 28328836685,
+  "updatedAt": "2026-06-28T16:39:43.838Z",
+  "lastRunId": 28328916907,
   "items": [
+    {
+      "id": "run_28328916907",
+      "run_id": 28328916907,
+      "artifact_id": 7936559370,
+      "filename": "SVI_v2_PRO_Wan2.2-I2V-A14B_LOW_lora_rank_128_fp16.safetensors",
+      "normalized_name": "svi_v2_pro_wan2.2-i2v-a14b_low_lora_rank_128_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/56d3d624a9e8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-28T16:39:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28328836685",
       "run_id": 28328836685,
@@ -36115,19 +36128,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-23T15:51:31Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26336492814",
-      "run_id": 26336492814,
-      "artifact_id": 7177826630,
-      "filename": "SVI_v2_PRO_Wan2.2-I2V-A14B_LOW_lora_rank_128_fp16.safetensors",
-      "normalized_name": "svi_v2_pro_wan2.2-i2v-a14b_low_lora_rank_128_fp16.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/c1c9fd96bd9a",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-23T15:25:24Z",
       "workflow": "upload.yml"
     },
     {
