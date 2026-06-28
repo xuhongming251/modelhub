@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-28T17:24:55.025Z",
-  "lastRunId": 28329954559,
+  "updatedAt": "2026-06-28T17:34:07.840Z",
+  "lastRunId": 28330338333,
   "items": [
+    {
+      "id": "run_28330338333",
+      "run_id": 28330338333,
+      "artifact_id": 7936981314,
+      "filename": "smoothmixT2VHighV3.MDAK.safetensors",
+      "normalized_name": "smoothmixt2vhighv3.mdak.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7f132c756c13",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-28T17:33:39Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28329954559",
       "run_id": 28329954559,
@@ -51352,12 +51365,6 @@
       "normalized_name": "smoothmixi2vhighv2.kgei.safetensors",
       "share_url": "https://pan.quark.cn/s/b15a92d7ec16",
       "completed_at": "2026-05-03T08:54:23Z"
-    },
-    {
-      "filename": "smoothmixT2VHighV3.MDAK.safetensors",
-      "normalized_name": "smoothmixt2vhighv3.mdak.safetensors",
-      "share_url": "https://pan.quark.cn/s/22ce8d9f538f",
-      "completed_at": "2026-05-03T08:51:23Z"
     },
     {
       "filename": "frp_0.68.1_windows_amd64.zip",
