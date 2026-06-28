@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-28T11:59:44.760Z",
-  "lastRunId": 28321432262,
+  "updatedAt": "2026-06-28T12:14:18.035Z",
+  "lastRunId": 28321832791,
   "items": [
+    {
+      "id": "run_28321832791",
+      "run_id": 28321832791,
+      "artifact_id": 7934476514,
+      "filename": "Omni-man.safetensors",
+      "normalized_name": "omni-man.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6f1f1019d578",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-28T12:13:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28321432262",
       "run_id": 28321432262,
