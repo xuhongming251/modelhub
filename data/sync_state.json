@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-28T11:46:04.893Z",
-  "lastRunId": 28321153198,
+  "updatedAt": "2026-06-28T11:48:57.195Z",
+  "lastRunId": 28321221576,
   "items": [
+    {
+      "id": "run_28321221576",
+      "run_id": 28321221576,
+      "artifact_id": 7934284359,
+      "filename": "ComfyUI_Qwen3-VL-Instruct.zip",
+      "normalized_name": "comfyui_qwen3-vl-instruct.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/70b2e67816d1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-28T11:48:23Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28321153198",
       "run_id": 28321153198,
@@ -23232,19 +23245,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-11T08:41:25Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27334711790",
-      "run_id": 27334711790,
-      "artifact_id": 7559054369,
-      "filename": "ComfyUI_Qwen3-VL-Instruct.zip",
-      "normalized_name": "comfyui_qwen3-vl-instruct.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/97e732c30cfb",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-11T08:39:53Z",
       "workflow": "upload.yml"
     },
     {
