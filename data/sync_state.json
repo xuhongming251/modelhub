@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-28T15:50:18.447Z",
-  "lastRunId": 28327582090,
+  "updatedAt": "2026-06-28T15:50:44.438Z",
+  "lastRunId": 28327599928,
   "items": [
+    {
+      "id": "run_28327599928",
+      "run_id": 28327599928,
+      "artifact_id": 7936176118,
+      "filename": "file",
+      "normalized_name": "file",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ff89ca808f30",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-28T15:50:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28327582090",
       "run_id": 28327582090,
@@ -67093,12 +67106,6 @@
       "normalized_name": "h-gfbz-high-020.safetensors",
       "share_url": "https://pan.quark.cn/s/065e353b40d2",
       "completed_at": "2026-03-18T13:00:23Z"
-    },
-    {
-      "filename": "file",
-      "normalized_name": "file",
-      "share_url": "https://pan.quark.cn/s/8876f601f4b5",
-      "completed_at": "2026-03-18T12:54:37Z"
     },
     {
       "filename": "questionnaire.php",
