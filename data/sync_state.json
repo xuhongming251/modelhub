@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-29T04:31:43.124Z",
-  "lastRunId": 28348709510,
+  "updatedAt": "2026-06-29T04:34:06.730Z",
+  "lastRunId": 28348814376,
   "items": [
+    {
+      "id": "run_28348814376",
+      "run_id": 28348814376,
+      "artifact_id": 7942674335,
+      "filename": "bluearchive000008.VZSA.safetensors",
+      "normalized_name": "bluearchive000008.vzsa.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ce4b3676c943",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-29T04:33:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28348709510",
       "run_id": 28348709510,
@@ -60878,12 +60891,6 @@
       "completed_at": "2026-04-07T16:51:15Z"
     },
     {
-      "filename": "bluearchive000008.VZSA.safetensors",
-      "normalized_name": "bluearchive000008.vzsa.safetensors",
-      "share_url": "https://pan.quark.cn/s/7eaa2241ef84",
-      "completed_at": "2026-04-07T16:48:28Z"
-    },
-    {
       "filename": "torch-2.6.0+cu126-cp312-cp312-win_amd64.whl",
       "normalized_name": "torch-2.6.0+cu126-cp312-cp312-win_amd64.whl",
       "share_url": "https://pan.quark.cn/s/f663b25449da",
@@ -73336,7 +73343,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
