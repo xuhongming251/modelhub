@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-29T07:41:50.934Z",
-  "lastRunId": 28356276697,
+  "updatedAt": "2026-06-29T08:03:30.631Z",
+  "lastRunId": 28357427430,
   "items": [
+    {
+      "id": "run_28357427430",
+      "run_id": 28357427430,
+      "artifact_id": 7945888057,
+      "filename": "controlnetxlCNXL_windsingaiPose.safetensors",
+      "normalized_name": "controlnetxlcnxl_windsingaipose.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/664c4f7efc97",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-29T08:02:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28356276697",
       "run_id": 28356276697,
