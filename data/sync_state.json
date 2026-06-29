@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-29T15:12:08.277Z",
-  "lastRunId": 28382222349,
+  "updatedAt": "2026-06-29T15:13:15.174Z",
+  "lastRunId": 28382347312,
   "items": [
+    {
+      "id": "run_28382347312",
+      "run_id": 28382347312,
+      "artifact_id": 7956138992,
+      "filename": "mignon.V-2.0.safetensors",
+      "normalized_name": "mignon.v-2.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ca9d2072f96d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-29T15:12:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28382222349",
       "run_id": 28382222349,
@@ -74054,7 +74067,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 2,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
