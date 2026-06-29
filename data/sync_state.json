@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-29T00:06:47.655Z",
-  "lastRunId": 28340511172,
+  "updatedAt": "2026-06-29T00:13:54.858Z",
+  "lastRunId": 28340820575,
   "items": [
+    {
+      "id": "run_28340820575",
+      "run_id": 28340820575,
+      "artifact_id": 7940040204,
+      "filename": "qwen3vl4bInstruct.iYOS.safetensors",
+      "normalized_name": "qwen3vl4binstruct.iyos.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c834acbd6a6c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-29T00:13:15Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28340585579",
+      "run_id": 28340585579,
+      "artifact_id": 7939981421,
+      "filename": "748cmSDXL.safetensors",
+      "normalized_name": "748cmsdxl.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cbdf382e5694",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-29T00:06:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28339612248",
       "run_id": 28339612248,
@@ -144,19 +170,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-28T22:53:51Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28338212835",
-      "run_id": 28338212835,
-      "artifact_id": 7939258119,
-      "filename": "qwen3vl4bInstruct.iYOS.safetensors",
-      "normalized_name": "qwen3vl4binstruct.iyos.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/c02f7e8d174a",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-28T22:32:30Z",
       "workflow": "upload.yml"
     },
     {
@@ -59071,12 +59084,6 @@
       "normalized_name": "qwen3-8b-q4_k_m.gguf",
       "share_url": "https://pan.quark.cn/s/6e0f0f334ad7",
       "completed_at": "2026-04-16T12:33:52Z"
-    },
-    {
-      "filename": "748cmSDXL.safetensors",
-      "normalized_name": "748cmsdxl.safetensors",
-      "share_url": "https://pan.quark.cn/s/10f40a700133",
-      "completed_at": "2026-04-16T12:17:13Z"
     },
     {
       "filename": "858118030243156416",
