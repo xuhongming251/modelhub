@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-29T05:15:14.888Z",
-  "lastRunId": 28350196194,
+  "updatedAt": "2026-06-29T05:16:35.126Z",
+  "lastRunId": 28350211276,
   "items": [
+    {
+      "id": "run_28350211276",
+      "run_id": 28350211276,
+      "artifact_id": 7943164897,
+      "filename": "yozoraV1Fp32.lw84.safetensors",
+      "normalized_name": "yozorav1fp32.lw84.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2759d737805f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-29T05:15:55Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28350196194",
       "run_id": 28350196194,
@@ -51824,12 +51837,6 @@
       "normalized_name": "luminaverseponyxl.3cl8.safetensors",
       "share_url": "https://pan.quark.cn/s/b4c788188348",
       "completed_at": "2026-05-03T09:27:24Z"
-    },
-    {
-      "filename": "yozoraV1Fp32.lw84.safetensors",
-      "normalized_name": "yozorav1fp32.lw84.safetensors",
-      "share_url": "https://pan.quark.cn/s/311cdf5f9e95",
-      "completed_at": "2026-05-03T09:23:57Z"
     },
     {
       "filename": "animepasteldreamSoft.lTTK.safetensors",
