@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-29T12:50:22.023Z",
-  "lastRunId": 28373199498,
+  "updatedAt": "2026-06-29T12:51:31.330Z",
+  "lastRunId": 28373209029,
   "items": [
+    {
+      "id": "run_28373164436",
+      "run_id": 28373164436,
+      "artifact_id": 7952323299,
+      "filename": "krea2darkbeast1020steps.9qSr.safetensors",
+      "normalized_name": "krea2darkbeast1020steps.9qsr.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/360ab1613dd1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-29T12:50:55Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28373209029",
+      "run_id": 28373209029,
+      "artifact_id": 7952308377,
+      "filename": "qwen3vl4bInstruct.iYOS.safetensors",
+      "normalized_name": "qwen3vl4binstruct.iyos.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/99b39574e8d5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-29T12:50:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28373199498",
       "run_id": 28373199498,
@@ -511,19 +537,6 @@
       "workflow": "upload.yml"
     },
     {
-      "id": "run_28346613807",
-      "run_id": 28346613807,
-      "artifact_id": 7941988777,
-      "filename": "krea2darkbeast1020steps.9qSr.safetensors",
-      "normalized_name": "krea2darkbeast1020steps.9qsr.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/6c5cd70899dc",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-29T03:27:17Z",
-      "workflow": "upload.yml"
-    },
-    {
       "id": "run_28345954986",
       "run_id": 28345954986,
       "artifact_id": 7941731159,
@@ -794,19 +807,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-29T00:17:58Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28340820575",
-      "run_id": 28340820575,
-      "artifact_id": 7940040204,
-      "filename": "qwen3vl4bInstruct.iYOS.safetensors",
-      "normalized_name": "qwen3vl4binstruct.iyos.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/c834acbd6a6c",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-29T00:13:15Z",
       "workflow": "upload.yml"
     },
     {
