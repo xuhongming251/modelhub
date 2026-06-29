@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-29T02:28:28.681Z",
-  "lastRunId": 28344817908,
+  "updatedAt": "2026-06-29T02:48:58.487Z",
+  "lastRunId": 28345394746,
   "items": [
+    {
+      "id": "run_28345394746",
+      "run_id": 28345394746,
+      "artifact_id": 7941562295,
+      "filename": "gemma4_e4b_it_fp8_scaled.safetensors",
+      "normalized_name": "gemma4_e4b_it_fp8_scaled.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3a570b96b839",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-29T02:48:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28344817908",
       "run_id": 28344817908,
