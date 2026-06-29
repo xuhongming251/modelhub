@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-29T09:42:26.120Z",
-  "lastRunId": 28362970605,
+  "updatedAt": "2026-06-29T10:12:54.959Z",
+  "lastRunId": 28364588810,
   "items": [
+    {
+      "id": "run_28364588810",
+      "run_id": 28364588810,
+      "artifact_id": 7948828135,
+      "filename": "OpenPoseXL2.safetensors",
+      "normalized_name": "openposexl2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1add40a3378f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-29T10:12:16Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28362970605",
       "run_id": 28362970605,
@@ -52414,12 +52427,6 @@
       "normalized_name": "comfyui_ipadapter_plus.zip",
       "share_url": "https://pan.quark.cn/s/30699f73a0e5",
       "completed_at": "2026-05-03T03:17:23Z"
-    },
-    {
-      "filename": "OpenPoseXL2.safetensors",
-      "normalized_name": "openposexl2.safetensors",
-      "share_url": "https://pan.quark.cn/s/063bb4bedcf2",
-      "completed_at": "2026-05-03T03:11:52Z"
     },
     {
       "filename": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
