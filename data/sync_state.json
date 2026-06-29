@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-29T18:49:25.011Z",
-  "lastRunId": 28395064874,
+  "updatedAt": "2026-06-29T19:26:04.408Z",
+  "lastRunId": 28395162631,
   "items": [
+    {
+      "id": "run_28395162631",
+      "run_id": 28395162631,
+      "artifact_id": 7962228782,
+      "filename": "WAN2.2_LoraSet_NSFW.zip",
+      "normalized_name": "wan2.2_loraset_nsfw.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ff2f676c1bc2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-29T19:25:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28395064874",
       "run_id": 28395064874,
@@ -49609,19 +49622,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-07T18:04:24Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25508621724",
-      "run_id": 25508621724,
-      "artifact_id": 6861597917,
-      "filename": "WAN2.2_LoraSet_NSFW.zip",
-      "normalized_name": "wan2.2_loraset_nsfw.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/f49f39f1f85a",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-07T17:09:12Z",
       "workflow": "upload.yml"
     },
     {
