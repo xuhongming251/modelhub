@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-29T17:56:05.479Z",
+  "updatedAt": "2026-06-29T18:06:31.933Z",
   "lastRunId": 28392102625,
   "items": [
+    {
+      "id": "run_28386689900",
+      "run_id": 28386689900,
+      "artifact_id": 7960394922,
+      "filename": "Qwen3.6-35B-A3B-DSV4Pro-Distill-MTP-Q4_K_M-imatrix.gguf",
+      "normalized_name": "qwen3.6-35b-a3b-dsv4pro-distill-mtp-q4_k_m-imatrix.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4b83dccbcb8a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-29T18:05:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28392102625",
       "run_id": 28392102625,
