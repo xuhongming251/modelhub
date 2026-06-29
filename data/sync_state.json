@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-29T01:31:53.806Z",
-  "lastRunId": 28343033939,
+  "updatedAt": "2026-06-29T01:37:04.358Z",
+  "lastRunId": 28343087917,
   "items": [
+    {
+      "id": "run_28343087917",
+      "run_id": 28343087917,
+      "artifact_id": 7940802280,
+      "filename": "Face_Enhancer_Illustrious.safetensors",
+      "normalized_name": "face_enhancer_illustrious.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9e118778fc87",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-29T01:32:01Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28343050578",
+      "run_id": 28343050578,
+      "artifact_id": 7940798592,
+      "filename": "ilxlExcelaBuild.k4xv.safetensors",
+      "normalized_name": "ilxlexcelabuild.k4xv.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/93a8b5e944eb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-29T01:31:39Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28343033939",
       "run_id": 28343033939,
@@ -59160,12 +59186,6 @@
       "normalized_name": "waisnackmixilxl11.cebo.safetensors",
       "share_url": "https://pan.quark.cn/s/896826f9541f",
       "completed_at": "2026-04-16T15:09:46Z"
-    },
-    {
-      "filename": "Face_Enhancer_Illustrious.safetensors",
-      "normalized_name": "face_enhancer_illustrious.safetensors",
-      "share_url": "https://pan.quark.cn/s/5fb97e5786c4",
-      "completed_at": "2026-04-16T15:07:56Z"
     },
     {
       "filename": "shadowneoforgeNAI.DQXi.safetensors",
