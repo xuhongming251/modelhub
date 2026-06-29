@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-29T05:37:58.527Z",
-  "lastRunId": 28350997942,
+  "updatedAt": "2026-06-29T05:48:11.279Z",
+  "lastRunId": 28351369189,
   "items": [
+    {
+      "id": "run_28351369189",
+      "run_id": 28351369189,
+      "artifact_id": 7943549799,
+      "filename": "public_v3.0-locon.safetensors",
+      "normalized_name": "public_v3.0-locon.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/85bb940d4703",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-29T05:47:31Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28350997942",
       "run_id": 28350997942,
