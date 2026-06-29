@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-29T07:01:35.458Z",
-  "lastRunId": 28354379872,
+  "updatedAt": "2026-06-29T07:41:50.934Z",
+  "lastRunId": 28356276697,
   "items": [
+    {
+      "id": "run_28356276697",
+      "run_id": 28356276697,
+      "artifact_id": 7945432558,
+      "filename": "Bodypaint.safetensors",
+      "normalized_name": "bodypaint.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bd3ac65210b2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-29T07:41:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28354379872",
       "run_id": 28354379872,
