@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-29T06:41:28.751Z",
-  "lastRunId": 28353556577,
+  "updatedAt": "2026-06-29T06:43:26.629Z",
+  "lastRunId": 28353610016,
   "items": [
+    {
+      "id": "run_28353610016",
+      "run_id": 28353610016,
+      "artifact_id": 7944372456,
+      "filename": "darkSushiMixMix_225D.safetensors",
+      "normalized_name": "darksushimixmix_225d.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/021a4655fd83",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-29T06:42:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28353556577",
       "run_id": 28353556577,
@@ -53694,12 +53707,6 @@
       "normalized_name": "anyloracheckpoint_bakedvaeblessedfp16.safetensors",
       "share_url": "https://pan.quark.cn/s/e0d4858cac9a",
       "completed_at": "2026-05-01T10:50:31Z"
-    },
-    {
-      "filename": "darkSushiMixMix_225D.safetensors",
-      "normalized_name": "darksushimixmix_225d.safetensors",
-      "share_url": "https://pan.quark.cn/s/ce118d121137",
-      "completed_at": "2026-05-01T10:49:08Z"
     },
     {
       "filename": "beautifulRealistic_v7.safetensors",
