@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-30T09:26:42.561Z",
-  "lastRunId": 28434188910,
+  "updatedAt": "2026-06-30T09:30:20.735Z",
+  "lastRunId": 28434379178,
   "items": [
+    {
+      "id": "run_28434379178",
+      "run_id": 28434379178,
+      "artifact_id": 7976434574,
+      "filename": "byt5_small_glyphxl_fp16.safetensors",
+      "normalized_name": "byt5_small_glyphxl_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2ba31515c27a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-30T09:29:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28434188910",
       "run_id": 28434188910,
@@ -59492,12 +59505,6 @@
       "normalized_name": "flux-2-klein-base-4b-fp8.safetensors",
       "share_url": "https://pan.quark.cn/s/e2dd73963c73",
       "completed_at": "2026-04-25T20:59:41Z"
-    },
-    {
-      "filename": "byt5_small_glyphxl_fp16.safetensors",
-      "normalized_name": "byt5_small_glyphxl_fp16.safetensors",
-      "share_url": "https://pan.quark.cn/s/5673de723fd0",
-      "completed_at": "2026-04-25T20:25:31Z"
     },
     {
       "filename": "capybara_v0.1.safetensors",
