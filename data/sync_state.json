@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-30T04:20:43.022Z",
-  "lastRunId": 28420011110,
+  "updatedAt": "2026-06-30T04:42:29.387Z",
+  "lastRunId": 28420763317,
   "items": [
+    {
+      "id": "run_28420763317",
+      "run_id": 28420763317,
+      "artifact_id": 7971146974,
+      "filename": "qwen34bHumanCorpus.akPN.safetensors",
+      "normalized_name": "qwen34bhumancorpus.akpn.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0887021e1e4c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-30T04:42:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28420011110",
       "run_id": 28420011110,
@@ -37194,19 +37207,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-27T09:34:27Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26502773295",
-      "run_id": 26502773295,
-      "artifact_id": 7236796898,
-      "filename": "qwen34bHumanCorpus.akPN.safetensors",
-      "normalized_name": "qwen34bhumancorpus.akpn.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/ad85c204580c",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-27T09:26:31Z",
       "workflow": "upload.yml"
     },
     {
