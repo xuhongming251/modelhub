@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-30T14:46:11.431Z",
+  "updatedAt": "2026-06-30T14:47:45.694Z",
   "lastRunId": 28453112808,
   "items": [
+    {
+      "id": "run_28452921334",
+      "run_id": 28452921334,
+      "artifact_id": 7984217711,
+      "filename": "Qwen-Image-Edit-2509-Q4_K_M.gguf",
+      "normalized_name": "qwen-image-edit-2509-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7c452f0d899d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-30T14:47:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28453112808",
       "run_id": 28453112808,
