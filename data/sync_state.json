@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-30T02:44:30.298Z",
-  "lastRunId": 28416647470,
+  "updatedAt": "2026-06-30T02:46:08.573Z",
+  "lastRunId": 28416743027,
   "items": [
+    {
+      "id": "run_28416721432",
+      "run_id": 28416721432,
+      "artifact_id": 7969739849,
+      "filename": "23502_2160p.mp4",
+      "normalized_name": "23502_2160p.mp4",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1752315d0fc4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-30T02:45:54Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28416743027",
+      "run_id": 28416743027,
+      "artifact_id": 7969738402,
+      "filename": "FishnetBunnyV1.safetensors",
+      "normalized_name": "fishnetbunnyv1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f4e5066565fc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-30T02:45:48Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28416703620",
+      "run_id": 28416703620,
+      "artifact_id": 7969736872,
+      "filename": "23758_2160p.mp4",
+      "normalized_name": "23758_2160p.mp4",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9397b5844411",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-30T02:45:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28416647470",
       "run_id": 28416647470,
@@ -14,19 +53,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-30T02:43:10Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28416644313",
-      "run_id": 28416644313,
-      "artifact_id": 7969705998,
-      "filename": "23758_2160p.mp4",
-      "normalized_name": "23758_2160p.mp4",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/bf057ac5531c",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-30T02:43:04Z",
       "workflow": "upload.yml"
     },
     {
@@ -75718,7 +75744,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
