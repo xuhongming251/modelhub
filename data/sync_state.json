@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-30T10:09:19.610Z",
-  "lastRunId": 28436605087,
+  "updatedAt": "2026-06-30T10:45:19.225Z",
+  "lastRunId": 28438560238,
   "items": [
+    {
+      "id": "run_28438560238",
+      "run_id": 28438560238,
+      "artifact_id": 7978120752,
+      "filename": "vae-ft-mse-840000-ema-pruned.safetensors",
+      "normalized_name": "vae-ft-mse-840000-ema-pruned.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/970c5d93c8fa",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-30T10:44:36Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28436605087",
       "run_id": 28436605087,
