@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-30T09:44:57.724Z",
-  "lastRunId": 28435228776,
+  "updatedAt": "2026-06-30T09:46:13.433Z",
+  "lastRunId": 28435278206,
   "items": [
+    {
+      "id": "run_28435278206",
+      "run_id": 28435278206,
+      "artifact_id": 7976799829,
+      "filename": "control_v11f1p_sd15_depth_fp16.safetensors",
+      "normalized_name": "control_v11f1p_sd15_depth_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/348c0b6ff9c4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-30T09:45:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28435228776",
       "run_id": 28435228776,
