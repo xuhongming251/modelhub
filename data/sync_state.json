@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-30T13:56:38.855Z",
-  "lastRunId": 28449781159,
+  "updatedAt": "2026-06-30T14:00:00.444Z",
+  "lastRunId": 28449988265,
   "items": [
+    {
+      "id": "run_28449988265",
+      "run_id": 28449988265,
+      "artifact_id": 7982857818,
+      "filename": "lenitas-anima",
+      "normalized_name": "lenitas-anima",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bd64176b61d8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-30T13:59:17Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28449809118",
+      "run_id": 28449809118,
+      "artifact_id": 7982776128,
+      "filename": "cc50cea67fee45d39991.JOjo.safetensors",
+      "normalized_name": "cc50cea67fee45d39991.jojo.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/93204c00a29e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-30T13:56:31Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28449781159",
       "run_id": 28449781159,
@@ -8906,19 +8932,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-25T05:04:39Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28144676613",
-      "run_id": 28144676613,
-      "artifact_id": 7868045574,
-      "filename": "cc50cea67fee45d39991.JOjo.safetensors",
-      "normalized_name": "cc50cea67fee45d39991.jojo.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/b1770ba2e0e3",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-25T03:24:24Z",
       "workflow": "upload.yml"
     },
     {
