@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-30T15:23:31.193Z",
-  "lastRunId": 28455638048,
+  "updatedAt": "2026-06-30T15:28:10.315Z",
+  "lastRunId": 28455942716,
   "items": [
+    {
+      "id": "run_28455942716",
+      "run_id": 28455942716,
+      "artifact_id": 7985354421,
+      "filename": "one-obsession-branchmaturenoobaivpred",
+      "normalized_name": "one-obsession-branchmaturenoobaivpred",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4a15c9e72c3d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-30T15:27:34Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28455626904",
+      "run_id": 28455626904,
+      "artifact_id": 7985234856,
+      "filename": "umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+      "normalized_name": "umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9b5e28e4fee7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-30T15:23:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28455638048",
       "run_id": 28455638048,
@@ -5760,19 +5786,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-28T07:20:19Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28314904173",
-      "run_id": 28314904173,
-      "artifact_id": 7932192077,
-      "filename": "umt5_xxl_fp8_e4m3fn_scaled.safetensors",
-      "normalized_name": "umt5_xxl_fp8_e4m3fn_scaled.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/fbac2b2a62fe",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-28T07:19:13Z",
       "workflow": "upload.yml"
     },
     {
@@ -70873,12 +70886,6 @@
       "normalized_name": "llama_cpp_python-0.3.33+cu128.basic-cp312-cp312-win_amd64.whl",
       "share_url": "https://pan.quark.cn/s/4567942a8917",
       "completed_at": "2026-03-20T18:39:22Z"
-    },
-    {
-      "filename": "one-obsession-branchmaturenoobaivpred",
-      "normalized_name": "one-obsession-branchmaturenoobaivpred",
-      "share_url": "https://pan.baidu.com/s/1ilnSTlT-klTDyTHu-RWyUA?pwd=8704",
-      "completed_at": "2026-03-20T17:29:30Z"
     },
     {
       "filename": "novaorangeexv2.5emZ.safetensors",
