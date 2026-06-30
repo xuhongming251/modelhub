@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-30T10:47:16.603Z",
-  "lastRunId": 28438560238,
+  "updatedAt": "2026-06-30T10:51:33.494Z",
+  "lastRunId": 28438885777,
   "items": [
+    {
+      "id": "run_28438885777",
+      "run_id": 28438885777,
+      "artifact_id": 7978252296,
+      "filename": "RealESRGAN_x4.pth",
+      "normalized_name": "realesrgan_x4.pth",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/380587d2d3e6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-30T10:50:52Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28437398408",
       "run_id": 28437398408,
