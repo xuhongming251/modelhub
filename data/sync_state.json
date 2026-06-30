@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-30T12:59:05.099Z",
-  "lastRunId": 28446063931,
+  "updatedAt": "2026-06-30T13:01:50.812Z",
+  "lastRunId": 28446222871,
   "items": [
+    {
+      "id": "run_28446222871",
+      "run_id": 28446222871,
+      "artifact_id": 7981265538,
+      "filename": "chenkinUnicontrolXL.NIsd.safetensors",
+      "normalized_name": "chenkinunicontrolxl.nisd.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e8c0ab76b07f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-30T13:01:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28446063931",
       "run_id": 28446063931,
@@ -62519,12 +62532,6 @@
       "normalized_name": "qrreverseadaptive.nkp4.safetensors",
       "share_url": "https://pan.quark.cn/s/3da430b42f4c",
       "completed_at": "2026-04-18T05:47:54Z"
-    },
-    {
-      "filename": "chenkinUnicontrolXL.NIsd.safetensors",
-      "normalized_name": "chenkinunicontrolxl.nisd.safetensors",
-      "share_url": "https://pan.quark.cn/s/3904591dabeb",
-      "completed_at": "2026-04-18T05:37:25Z"
     },
     {
       "filename": "cyberrealisticZitV40.diiT.safetensors",
