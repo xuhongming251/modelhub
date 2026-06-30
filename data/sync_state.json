@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-30T03:42:44.201Z",
-  "lastRunId": 28418684795,
+  "updatedAt": "2026-06-30T03:44:34.836Z",
+  "lastRunId": 28418749466,
   "items": [
+    {
+      "id": "run_28418749466",
+      "run_id": 28418749466,
+      "artifact_id": 7970457278,
+      "filename": "CrotchlessPantsV1A10.safetensors",
+      "normalized_name": "crotchlesspantsv1a10.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c348c107206b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-30T03:44:07Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28418684795",
       "run_id": 28418684795,
@@ -3121,19 +3134,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-29T05:24:29Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28350393553",
-      "run_id": 28350393553,
-      "artifact_id": 7943213702,
-      "filename": "CrotchlessPantsV1A10.safetensors",
-      "normalized_name": "crotchlesspantsv1a10.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/1b4a32e6af9c",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-29T05:20:01Z",
       "workflow": "upload.yml"
     },
     {
