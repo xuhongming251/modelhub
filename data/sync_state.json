@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-30T02:54:47.128Z",
-  "lastRunId": 28416995969,
+  "updatedAt": "2026-06-30T02:55:37.971Z",
+  "lastRunId": 28417045082,
   "items": [
+    {
+      "id": "run_28417025575",
+      "run_id": 28417025575,
+      "artifact_id": 7969846813,
+      "filename": "21387_2160p.mp4",
+      "normalized_name": "21387_2160p.mp4",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e73c27e21e17",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-30T02:55:25Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28416949545",
+      "run_id": 28416949545,
+      "artifact_id": 7969844362,
+      "filename": "21797_2160p.mp4",
+      "normalized_name": "21797_2160p.mp4",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c1b9c56269c9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-30T02:55:10Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28417045082",
+      "run_id": 28417045082,
+      "artifact_id": 7969840762,
+      "filename": "HairCensorV1-000008.safetensors",
+      "normalized_name": "haircensorv1-000008.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c992c6bb9536",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-30T02:54:48Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28416680004",
       "run_id": 28416680004,
