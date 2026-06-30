@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-30T15:48:30.633Z",
-  "lastRunId": 28457189127,
+  "updatedAt": "2026-06-30T15:50:56.580Z",
+  "lastRunId": 28457412241,
   "items": [
+    {
+      "id": "run_28457412241",
+      "run_id": 28457412241,
+      "artifact_id": 7985981273,
+      "filename": "assclap.safetensors",
+      "normalized_name": "assclap.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9452284c17dd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-06-30T15:50:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28457189127",
       "run_id": 28457189127,
