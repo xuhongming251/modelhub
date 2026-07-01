@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-01T22:47:38.748Z",
-  "lastRunId": 28552213505,
+  "updatedAt": "2026-07-01T23:48:36.926Z",
+  "lastRunId": 28555311868,
   "items": [
+    {
+      "id": "run_28555311868",
+      "run_id": 28555311868,
+      "artifact_id": 8025396148,
+      "filename": "moodyKreaMixV2g00001.safetensors",
+      "normalized_name": "moodykreamixv2g00001.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/46d9f25fd7dc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-01T23:48:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28552213505",
       "run_id": 28552213505,
@@ -77995,7 +78008,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
