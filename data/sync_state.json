@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-01T13:39:17.363Z",
-  "lastRunId": 28521751582,
+  "updatedAt": "2026-07-01T14:10:07.804Z",
+  "lastRunId": 28523581287,
   "items": [
+    {
+      "id": "run_28523581287",
+      "run_id": 28523581287,
+      "artifact_id": 8012576281,
+      "filename": "flux1-dev-Q3_K_S.gguf",
+      "normalized_name": "flux1-dev-q3_k_s.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dcb8363b49c0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-01T14:09:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28521551634",
       "run_id": 28521551634,
