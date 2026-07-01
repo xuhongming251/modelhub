@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-01T12:14:34.349Z",
-  "lastRunId": 28514273611,
+  "updatedAt": "2026-07-01T13:08:49.296Z",
+  "lastRunId": 28519798826,
   "items": [
+    {
+      "id": "run_28519798826",
+      "run_id": 28519798826,
+      "artifact_id": 8010885155,
+      "filename": "homosimile20anima20v1.aKoa.safetensors",
+      "normalized_name": "homosimile20anima20v1.akoa.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b40a459ff5f6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-01T13:08:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28514273611",
       "run_id": 28514273611,
@@ -12195,19 +12208,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-23T03:11:49Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27998605993",
-      "run_id": 27998605993,
-      "artifact_id": 7810214548,
-      "filename": "homosimile20anima20v1.aKoa.safetensors",
-      "normalized_name": "homosimile20anima20v1.akoa.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/b57dd0c3c5c5",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-23T02:46:26Z",
       "workflow": "upload.yml"
     },
     {
