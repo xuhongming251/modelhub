@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-02T08:25:19.837Z",
-  "lastRunId": 28576116502,
+  "updatedAt": "2026-07-02T08:43:06.322Z",
+  "lastRunId": 28577095053,
   "items": [
+    {
+      "id": "run_28577095053",
+      "run_id": 28577095053,
+      "artifact_id": 8033398875,
+      "filename": "nova3dcgilv8.1b4u.safetensors",
+      "normalized_name": "nova3dcgilv8.1b4u.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dedf53beab8e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-02T08:42:27Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28576116502",
       "run_id": 28576116502,
