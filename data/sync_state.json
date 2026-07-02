@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-02T02:42:46.056Z",
-  "lastRunId": 28561576970,
+  "updatedAt": "2026-07-02T02:59:40.236Z",
+  "lastRunId": 28562170028,
   "items": [
+    {
+      "id": "run_28562170028",
+      "run_id": 28562170028,
+      "artifact_id": 8027818410,
+      "filename": "master",
+      "normalized_name": "master",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c81916b2e770",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-02T02:59:03Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28561576970",
       "run_id": 28561576970,
@@ -57500,12 +57513,6 @@
       "normalized_name": "wanmagicwand.safetensors",
       "share_url": "https://pan.quark.cn/s/45b551092481",
       "completed_at": "2026-05-02T09:43:10Z"
-    },
-    {
-      "filename": "master",
-      "normalized_name": "master",
-      "share_url": "https://pan.quark.cn/s/0a60a7ddbbf4",
-      "completed_at": "2026-05-02T09:04:47Z"
     },
     {
       "filename": "moodyWildV3Undistilled.kcQd.safetensors",
