@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-02T08:50:45.316Z",
-  "lastRunId": 28577551318,
+  "updatedAt": "2026-07-02T09:16:09.425Z",
+  "lastRunId": 28579041454,
   "items": [
+    {
+      "id": "run_28579041454",
+      "run_id": 28579041454,
+      "artifact_id": 8034179896,
+      "filename": "cupy-cuda12x",
+      "normalized_name": "cupy-cuda12x",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4d76a4c0307a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-02T09:15:36Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28577551318",
       "run_id": 28577551318,
