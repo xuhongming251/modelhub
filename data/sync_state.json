@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-02T00:30:49.050Z",
+  "updatedAt": "2026-07-02T00:31:42.260Z",
   "lastRunId": 28556933624,
   "items": [
+    {
+      "id": "run_28556505114",
+      "run_id": 28556505114,
+      "artifact_id": 8025981029,
+      "filename": "10Eros_v1-fp8mixed_learned.safetensors",
+      "normalized_name": "10eros_v1-fp8mixed_learned.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a0debc6b182f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-02T00:31:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28556933624",
       "run_id": 28556933624,
@@ -19436,19 +19449,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-16T02:41:23Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27590048913",
-      "run_id": 27590048913,
-      "artifact_id": 7656071475,
-      "filename": "10Eros_v1-fp8mixed_learned.safetensors",
-      "normalized_name": "10eros_v1-fp8mixed_learned.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/7d6792ada7e5",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-16T02:33:54Z",
       "workflow": "upload.yml"
     },
     {
