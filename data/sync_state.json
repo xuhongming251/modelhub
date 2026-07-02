@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-02T14:15:15.496Z",
-  "lastRunId": 28596851614,
+  "updatedAt": "2026-07-02T14:20:20.615Z",
+  "lastRunId": 28597197884,
   "items": [
+    {
+      "id": "run_28597197884",
+      "run_id": 28597197884,
+      "artifact_id": 8041696345,
+      "filename": "animaInRealEpoch10.G8Np.safetensors",
+      "normalized_name": "animainrealepoch10.g8np.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1ffc8979bc2f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-02T14:19:40Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28596869119",
+      "run_id": 28596869119,
+      "artifact_id": 8041561591,
+      "filename": "4xUltrasharp.D8rD.pt",
+      "normalized_name": "4xultrasharp.d8rd.pt",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/74d5124670be",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-02T14:14:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28596851614",
       "run_id": 28596851614,
@@ -16524,19 +16550,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-20T03:38:00Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27859023369",
-      "run_id": 27859023369,
-      "artifact_id": 7761698070,
-      "filename": "animaInRealEpoch10.G8Np.safetensors",
-      "normalized_name": "animainrealepoch10.g8np.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/b944fe6f49ed",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-20T03:36:51Z",
       "workflow": "upload.yml"
     },
     {
@@ -53730,19 +53743,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-08T14:01:48Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25559364785",
-      "run_id": 25559364785,
-      "artifact_id": 6880664915,
-      "filename": "4xUltrasharp.D8rD.pt",
-      "normalized_name": "4xultrasharp.d8rd.pt",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/dd112caee55b",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-08T13:52:12Z",
       "workflow": "upload.yml"
     },
     {
