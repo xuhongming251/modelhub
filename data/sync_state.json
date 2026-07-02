@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-02T12:12:26.461Z",
-  "lastRunId": 28588980904,
+  "updatedAt": "2026-07-02T12:18:49.082Z",
+  "lastRunId": 28589346476,
   "items": [
+    {
+      "id": "run_28589346476",
+      "run_id": 28589346476,
+      "artifact_id": 8038449794,
+      "filename": "epicphotogasmultimat.esiM.safetensors",
+      "normalized_name": "epicphotogasmultimat.esim.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3a25614b47f9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-02T12:18:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28588980904",
       "run_id": 28588980904,
@@ -144,19 +157,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-02T09:39:46Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28579491866",
-      "run_id": 28579491866,
-      "artifact_id": 8034370401,
-      "filename": "epicphotogasmultimat.esiM.safetensors",
-      "normalized_name": "epicphotogasmultimat.esim.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/1d546f6c8b30",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-02T09:23:32Z",
       "workflow": "upload.yml"
     },
     {
