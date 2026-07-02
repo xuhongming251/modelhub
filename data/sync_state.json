@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-02T09:24:02.840Z",
-  "lastRunId": 28579491866,
+  "updatedAt": "2026-07-02T09:40:20.278Z",
+  "lastRunId": 28580464008,
   "items": [
+    {
+      "id": "run_28580464008",
+      "run_id": 28580464008,
+      "artifact_id": 8034755174,
+      "filename": "aeZimgturbo.HB0H.safetensors",
+      "normalized_name": "aezimgturbo.hb0h.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a00de5c450f7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-02T09:39:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28579491866",
       "run_id": 28579491866,
@@ -61776,12 +61789,6 @@
       "normalized_name": "zimageturbofp8aio.sd9z.safetensors",
       "share_url": "https://pan.quark.cn/s/ec4c0338a3be",
       "completed_at": "2026-04-25T11:29:59Z"
-    },
-    {
-      "filename": "aeZimgturbo.HB0H.safetensors",
-      "normalized_name": "aezimgturbo.hb0h.safetensors",
-      "share_url": "https://pan.quark.cn/s/32ccc36d14bd",
-      "completed_at": "2026-04-25T10:42:22Z"
     },
     {
       "filename": "Wan2.1-I2V-14B-480P-StepDistill-CfgDistill-Lightx2v-nvfp4.safetensors",
