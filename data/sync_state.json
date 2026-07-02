@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-02T09:40:20.278Z",
-  "lastRunId": 28580464008,
+  "updatedAt": "2026-07-02T09:41:37.204Z",
+  "lastRunId": 28580495500,
   "items": [
+    {
+      "id": "run_28580495500",
+      "run_id": 28580495500,
+      "artifact_id": 8034783456,
+      "filename": "qwen34b.yTut.safetensors",
+      "normalized_name": "qwen34b.ytut.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/08fcbf6cb720",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-02T09:40:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28580464008",
       "run_id": 28580464008,
@@ -61795,12 +61808,6 @@
       "normalized_name": "wan2.1-i2v-14b-480p-stepdistill-cfgdistill-lightx2v-nvfp4.safetensors",
       "share_url": "https://pan.quark.cn/s/ae6775682392",
       "completed_at": "2026-04-25T10:39:14Z"
-    },
-    {
-      "filename": "qwen34b.yTut.safetensors",
-      "normalized_name": "qwen34b.ytut.safetensors",
-      "share_url": "https://pan.quark.cn/s/37dcc2410a05",
-      "completed_at": "2026-04-25T10:38:47Z"
     },
     {
       "filename": "am1ujuw719ht",
