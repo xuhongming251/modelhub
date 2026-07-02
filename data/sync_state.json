@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-02T18:28:53.406Z",
-  "lastRunId": 28612684479,
+  "updatedAt": "2026-07-02T18:33:09.114Z",
+  "lastRunId": 28612913577,
   "items": [
+    {
+      "id": "run_28612913577",
+      "run_id": 28612913577,
+      "artifact_id": 8048212318,
+      "filename": "ideogram4Unconditional.Bfsx.safetensors",
+      "normalized_name": "ideogram4unconditional.bfsx.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d0bb78fd65a8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-02T18:32:39Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28612699490",
+      "run_id": 28612699490,
+      "artifact_id": 8048123354,
+      "filename": "unnamedixlV5.foCd.safetensors",
+      "normalized_name": "unnamedixlv5.focd.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dc71ee830572",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-02T18:28:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28612684479",
       "run_id": 28612684479,
@@ -1067,19 +1093,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-02T07:36:44Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28572626171",
-      "run_id": 28572626171,
-      "artifact_id": 8031927790,
-      "filename": "ideogram4Unconditional.Bfsx.safetensors",
-      "normalized_name": "ideogram4unconditional.bfsx.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/4f34280bc530",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-02T07:36:12Z",
       "workflow": "upload.yml"
     },
     {
@@ -70830,12 +70843,6 @@
       "normalized_name": "princesscarryv2.kps5.safetensors",
       "share_url": "https://pan.quark.cn/s/c61b9177e001",
       "completed_at": "2026-03-27T12:29:20Z"
-    },
-    {
-      "filename": "unnamedixlV5.foCd.safetensors",
-      "normalized_name": "unnamedixlv5.focd.safetensors",
-      "share_url": "https://pan.quark.cn/s/348d4e9abd6b",
-      "completed_at": "2026-03-27T12:19:14Z"
     },
     {
       "filename": "wan22RemixT2VI2V_i2vLowV30-Q8_0.gguf",
