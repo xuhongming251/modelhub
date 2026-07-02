@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-02T02:01:46.075Z",
-  "lastRunId": 28560153800,
+  "updatedAt": "2026-07-02T02:34:47.492Z",
+  "lastRunId": 28561307399,
   "items": [
+    {
+      "id": "run_28561307399",
+      "run_id": 28561307399,
+      "artifact_id": 8027537393,
+      "filename": "Git-2.55.0-64-bit.exe",
+      "normalized_name": "git-2.55.0-64-bit.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ad6dc127444e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-02T02:34:18Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28560153800",
       "run_id": 28560153800,
@@ -235,19 +248,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-01T23:48:08Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28552213505",
-      "run_id": 28552213505,
-      "artifact_id": 8024255195,
-      "filename": "Git-2.55.0-64-bit.exe",
-      "normalized_name": "git-2.55.0-64-bit.exe",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/8878ff880dff",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-01T22:35:06Z",
       "workflow": "upload.yml"
     },
     {
