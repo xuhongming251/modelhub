@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-02T07:32:20.086Z",
+  "updatedAt": "2026-07-02T07:33:03.557Z",
   "lastRunId": 28573266000,
   "items": [
+    {
+      "id": "run_28571909490",
+      "run_id": 28571909490,
+      "artifact_id": 8031856068,
+      "filename": "gemma_3_12B_it-int8tensormixed.safetensors",
+      "normalized_name": "gemma_3_12b_it-int8tensormixed.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e6401a3357ba",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-02T07:32:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28573266000",
       "run_id": 28573266000,
