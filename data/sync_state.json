@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-02T15:02:08.663Z",
-  "lastRunId": 28599968278,
+  "updatedAt": "2026-07-02T15:04:42.611Z",
+  "lastRunId": 28600190567,
   "items": [
+    {
+      "id": "run_28600190567",
+      "run_id": 28600190567,
+      "artifact_id": 8042953089,
+      "filename": "akamine20futoshi.4cdC.safetensors",
+      "normalized_name": "akamine20futoshi.4cdc.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bbb0cc8b78c9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-02T15:04:05Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28599968278",
       "run_id": 28599968278,
@@ -79108,7 +79121,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
