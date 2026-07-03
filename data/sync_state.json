@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-03T03:29:49.656Z",
-  "lastRunId": 28635417480,
+  "updatedAt": "2026-07-03T03:41:01.012Z",
+  "lastRunId": 28636238623,
   "items": [
+    {
+      "id": "run_28636238623",
+      "run_id": 28636238623,
+      "artifact_id": 8057223870,
+      "filename": "Krea-2-Turbo-Q4_K_M.gguf",
+      "normalized_name": "krea-2-turbo-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bcf74e79723e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-03T03:40:31Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28635417480",
       "run_id": 28635417480,
