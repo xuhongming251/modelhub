@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-03T16:33:07.909Z",
-  "lastRunId": 28672792845,
+  "updatedAt": "2026-07-03T16:33:52.564Z",
+  "lastRunId": 28672840298,
   "items": [
+    {
+      "id": "run_28672840298",
+      "run_id": 28672840298,
+      "artifact_id": 8071278792,
+      "filename": "wan2214BAIOBasicT2VI2V_v10.zip",
+      "normalized_name": "wan2214baiobasict2vi2v_v10.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/921c90cc4149",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-03T16:33:24Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28672715921",
+      "run_id": 28672715921,
+      "artifact_id": 8071278295,
+      "filename": "sd_xl_base_1.0",
+      "normalized_name": "sd_xl_base_1.0",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/13353d79fd7d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-03T16:33:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28672792845",
       "run_id": 28672792845,
@@ -80047,7 +80073,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 3,
       "createdBefore": null,
       "exhausted": false
     }
