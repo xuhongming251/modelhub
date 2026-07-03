@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-03T14:38:15.865Z",
-  "lastRunId": 28667220689,
+  "updatedAt": "2026-07-03T14:44:10.041Z",
+  "lastRunId": 28667484755,
   "items": [
+    {
+      "id": "run_28667484755",
+      "run_id": 28667484755,
+      "artifact_id": 8069281941,
+      "filename": "umt5-xxl-encoder-Q6_K.gguf",
+      "normalized_name": "umt5-xxl-encoder-q6_k.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d8c0e337ddf6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-03T14:43:34Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28667220689",
       "run_id": 28667220689,
