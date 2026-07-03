@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-03T16:58:27.539Z",
-  "lastRunId": 28673849921,
+  "updatedAt": "2026-07-03T17:02:04.884Z",
+  "lastRunId": 28673977801,
   "items": [
+    {
+      "id": "run_28673977801",
+      "run_id": 28673977801,
+      "artifact_id": 8071710795,
+      "filename": "diffusers_xl_canny_full.safetensors",
+      "normalized_name": "diffusers_xl_canny_full.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/82ba8c557d4b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-03T17:01:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28673849921",
       "run_id": 28673849921,
