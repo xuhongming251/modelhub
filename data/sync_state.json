@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-03T13:50:55.139Z",
-  "lastRunId": 28664752254,
+  "updatedAt": "2026-07-03T13:58:15.985Z",
+  "lastRunId": 28665171676,
   "items": [
+    {
+      "id": "run_28665171676",
+      "run_id": 28665171676,
+      "artifact_id": 8068344377,
+      "filename": "moodyV10FP8DPO.3lbe.safetensors",
+      "normalized_name": "moodyv10fp8dpo.3lbe.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9e39b7f866a5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-03T13:57:44Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28664752254",
       "run_id": 28664752254,
@@ -59241,12 +59254,6 @@
       "normalized_name": "nlxlv10.2ltp.safetensors",
       "share_url": "https://pan.quark.cn/s/7e558617d811",
       "completed_at": "2026-05-02T08:24:11Z"
-    },
-    {
-      "filename": "moodyV10FP8DPO.3lbe.safetensors",
-      "normalized_name": "moodyv10fp8dpo.3lbe.safetensors",
-      "share_url": "https://pan.quark.cn/s/84733d4eca32",
-      "completed_at": "2026-05-02T08:20:08Z"
     },
     {
       "filename": "Jessie_pokemon_hair_down_iLL_KK77.safetensors",
