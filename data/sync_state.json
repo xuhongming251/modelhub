@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-03T17:57:56.429Z",
-  "lastRunId": 28676265669,
+  "updatedAt": "2026-07-03T18:13:34.599Z",
+  "lastRunId": 28676903686,
   "items": [
+    {
+      "id": "run_28676903686",
+      "run_id": 28676903686,
+      "artifact_id": 8072697499,
+      "filename": "ComfyUI_Comfyroll_CustomNodes.zip",
+      "normalized_name": "comfyui_comfyroll_customnodes.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/17cf6a61bad6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-03T18:13:00Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28676265669",
       "run_id": 28676265669,
@@ -1509,19 +1522,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-02T16:07:22Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28603059519",
-      "run_id": 28603059519,
-      "artifact_id": 8044124404,
-      "filename": "ComfyUI_Comfyroll_CustomNodes.zip",
-      "normalized_name": "comfyui_comfyroll_customnodes.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/d8f03278446e",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-02T15:47:32Z",
       "workflow": "upload.yml"
     },
     {
