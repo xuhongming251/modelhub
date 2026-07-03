@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-03T02:09:24.215Z",
-  "lastRunId": 28633766597,
+  "updatedAt": "2026-07-03T02:11:56.008Z",
+  "lastRunId": 28633850508,
   "items": [
+    {
+      "id": "run_28633850508",
+      "run_id": 28633850508,
+      "artifact_id": 8056196920,
+      "filename": "krea-2-mystic-xxx",
+      "normalized_name": "krea-2-mystic-xxx",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f2ccbe7875b0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-03T02:11:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28633766597",
       "run_id": 28633766597,
@@ -11506,19 +11519,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-26T07:38:41Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28213892369",
-      "run_id": 28213892369,
-      "artifact_id": 7895940269,
-      "filename": "krea-2-mystic-xxx",
-      "normalized_name": "krea-2-mystic-xxx",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/b20ae762d6f2",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-26T02:47:39Z",
       "workflow": "upload.yml"
     },
     {
