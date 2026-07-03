@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-03T17:17:45.802Z",
-  "lastRunId": 28674658570,
+  "updatedAt": "2026-07-03T17:20:05.154Z",
+  "lastRunId": 28674710392,
   "items": [
+    {
+      "id": "run_28674710392",
+      "run_id": 28674710392,
+      "artifact_id": 8071964977,
+      "filename": "umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+      "normalized_name": "umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0fd2c3d6bcd0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-03T17:19:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28674658570",
       "run_id": 28674658570,
@@ -3836,19 +3849,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-30T15:27:34Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28455626904",
-      "run_id": 28455626904,
-      "artifact_id": 7985234856,
-      "filename": "umt5_xxl_fp8_e4m3fn_scaled.safetensors",
-      "normalized_name": "umt5_xxl_fp8_e4m3fn_scaled.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/9b5e28e4fee7",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-30T15:23:21Z",
       "workflow": "upload.yml"
     },
     {
