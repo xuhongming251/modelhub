@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-03T05:08:15.858Z",
-  "lastRunId": 28639751813,
+  "updatedAt": "2026-07-03T05:35:08.531Z",
+  "lastRunId": 28640718261,
   "items": [
+    {
+      "id": "run_28640703474",
+      "run_id": 28640703474,
+      "artifact_id": 8058567172,
+      "filename": "llama-b9860-bin-win-cuda-13.3-x64.zip",
+      "normalized_name": "llama-b9860-bin-win-cuda-13.3-x64.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6bdc93454fa4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-03T05:34:51Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28640718261",
+      "run_id": 28640718261,
+      "artifact_id": 8058564080,
+      "filename": "cudart-llama-bin-win-cuda-13.3-x64.zip",
+      "normalized_name": "cudart-llama-bin-win-cuda-13.3-x64.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cb95dab4a66d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-03T05:34:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28639751813",
       "run_id": 28639751813,
