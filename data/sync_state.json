@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-03T14:19:28.183Z",
-  "lastRunId": 28666160955,
+  "updatedAt": "2026-07-03T14:21:00.262Z",
+  "lastRunId": 28666181247,
   "items": [
+    {
+      "id": "run_28666181247",
+      "run_id": 28666181247,
+      "artifact_id": 8068821898,
+      "filename": "animagine-xl-3.1.safetensors",
+      "normalized_name": "animagine-xl-3.1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3dc4eb21ae29",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-03T14:20:22Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28666160955",
       "run_id": 28666160955,
@@ -78205,12 +78218,6 @@
       "normalized_name": "wan2.1_fun_camera_v1.1_14b_bf16.safetensors",
       "share_url": "https://pan.quark.cn/s/0e8cb328f091",
       "completed_at": "2026-03-10T10:07:37Z"
-    },
-    {
-      "filename": "animagine-xl-3.1.safetensors",
-      "normalized_name": "animagine-xl-3.1.safetensors",
-      "share_url": "https://pan.quark.cn/s/62aa117b3422",
-      "completed_at": "2026-03-10T09:57:35Z"
     },
     {
       "filename": "RealVisXL_V5.0_fp16.safetensors",
