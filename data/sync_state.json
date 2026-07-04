@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T07:10:36.186Z",
+  "updatedAt": "2026-07-04T07:18:53.601Z",
   "lastRunId": 28698684563,
   "items": [
+    {
+      "id": "run_28698641826",
+      "run_id": 28698641826,
+      "artifact_id": 8079516576,
+      "filename": "Qwen3.6-27B-Uncensored-HauhauCS-Balanced-Q4_K_P.gguf",
+      "normalized_name": "qwen3.6-27b-uncensored-hauhaucs-balanced-q4_k_p.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e3544b764a3e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-04T07:18:16Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28698684563",
       "run_id": 28698684563,
