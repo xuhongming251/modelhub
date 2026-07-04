@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T08:40:04.470Z",
-  "lastRunId": 28700787972,
+  "updatedAt": "2026-07-04T08:41:12.696Z",
+  "lastRunId": 28700815387,
   "items": [
+    {
+      "id": "run_28700815387",
+      "run_id": 28700815387,
+      "artifact_id": 8080119812,
+      "filename": "yoki-zib-v1_clean.safetensors",
+      "normalized_name": "yoki-zib-v1_clean.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b39563cb4de2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-04T08:40:47Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28700787972",
       "run_id": 28700787972,
