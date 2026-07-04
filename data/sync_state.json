@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T08:37:29.611Z",
-  "lastRunId": 28700730238,
+  "updatedAt": "2026-07-04T08:38:48.090Z",
+  "lastRunId": 28700756715,
   "items": [
+    {
+      "id": "run_28700756715",
+      "run_id": 28700756715,
+      "artifact_id": 8080102524,
+      "filename": "momoka-zib-seaart.safetensors",
+      "normalized_name": "momoka-zib-seaart.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f48280e6dc06",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-04T08:38:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28700730238",
       "run_id": 28700730238,
