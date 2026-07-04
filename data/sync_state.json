@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T13:33:17.854Z",
-  "lastRunId": 28707787511,
+  "updatedAt": "2026-07-04T13:34:32.633Z",
+  "lastRunId": 28707846878,
   "items": [
+    {
+      "id": "run_28707846878",
+      "run_id": 28707846878,
+      "artifact_id": 8082148413,
+      "filename": "WhatDreamsCost-ComfyUI.zip",
+      "normalized_name": "whatdreamscost-comfyui.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d22cd581c292",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-04T13:34:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28707787511",
       "run_id": 28707787511,
@@ -14,19 +27,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-04T13:32:51Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28707670668",
-      "run_id": 28707670668,
-      "artifact_id": 8082106643,
-      "filename": "WhatDreamsCost-ComfyUI.zip",
-      "normalized_name": "whatdreamscost-comfyui.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/d4b268558f50",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-04T13:28:15Z",
       "workflow": "upload.yml"
     },
     {
