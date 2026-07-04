@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T07:48:32.959Z",
-  "lastRunId": 28699578931,
+  "updatedAt": "2026-07-04T07:54:30.385Z",
+  "lastRunId": 28699611511,
   "items": [
+    {
+      "id": "run_28699611511",
+      "run_id": 28699611511,
+      "artifact_id": 8079791871,
+      "filename": "sulphur_dev_fp8mixed.safetensors",
+      "normalized_name": "sulphur_dev_fp8mixed.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dfd9b27a000c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-04T07:54:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28699578931",
       "run_id": 28699578931,
@@ -22543,19 +22556,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-16T02:59:47Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27590729296",
-      "run_id": 27590729296,
-      "artifact_id": 7656295875,
-      "filename": "sulphur_dev_fp8mixed.safetensors",
-      "normalized_name": "sulphur_dev_fp8mixed.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/2e62ba59fcb9",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-16T02:53:24Z",
       "workflow": "upload.yml"
     },
     {
