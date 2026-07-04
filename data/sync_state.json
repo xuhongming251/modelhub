@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T08:30:37.254Z",
-  "lastRunId": 28700566176,
+  "updatedAt": "2026-07-04T08:33:05.429Z",
+  "lastRunId": 28700629811,
   "items": [
+    {
+      "id": "run_28700629811",
+      "run_id": 28700629811,
+      "artifact_id": 8080063457,
+      "filename": "Vivian-zib-v1_clean.safetensors",
+      "normalized_name": "vivian-zib-v1_clean.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a72a044abee7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-04T08:32:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28700566176",
       "run_id": 28700566176,
