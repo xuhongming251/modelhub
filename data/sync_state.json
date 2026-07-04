@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T08:35:52.713Z",
-  "lastRunId": 28700690556,
+  "updatedAt": "2026-07-04T08:37:29.611Z",
+  "lastRunId": 28700730238,
   "items": [
+    {
+      "id": "run_28700730238",
+      "run_id": 28700730238,
+      "artifact_id": 8080094217,
+      "filename": "Nari-zib-v1_clean.safetensors",
+      "normalized_name": "nari-zib-v1_clean.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/38645a849218",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-04T08:37:02Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28700690556",
       "run_id": 28700690556,
