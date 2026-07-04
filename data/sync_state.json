@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T08:41:12.696Z",
-  "lastRunId": 28700815387,
+  "updatedAt": "2026-07-04T08:42:37.108Z",
+  "lastRunId": 28700844155,
   "items": [
+    {
+      "id": "run_28700844155",
+      "run_id": 28700844155,
+      "artifact_id": 8080128936,
+      "filename": "Dori-zib-v2_clean.safetensors",
+      "normalized_name": "dori-zib-v2_clean.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dccc81214c8c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-04T08:42:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28700815387",
       "run_id": 28700815387,
