@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T05:41:29.360Z",
-  "lastRunId": 28696567933,
+  "updatedAt": "2026-07-04T05:43:01.165Z",
+  "lastRunId": 28696600185,
   "items": [
+    {
+      "id": "run_28696600185",
+      "run_id": 28696600185,
+      "artifact_id": 8078772683,
+      "filename": "whiteLegwearSliderV3.uB4t.safetensors",
+      "normalized_name": "whitelegwearsliderv3.ub4t.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9368b0e07535",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-04T05:42:26Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28696567933",
       "run_id": 28696567933,
@@ -80684,7 +80697,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 3,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
