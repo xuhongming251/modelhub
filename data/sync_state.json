@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T08:34:35.801Z",
-  "lastRunId": 28700661938,
+  "updatedAt": "2026-07-04T08:35:52.713Z",
+  "lastRunId": 28700690556,
   "items": [
+    {
+      "id": "run_28700690556",
+      "run_id": 28700690556,
+      "artifact_id": 8080082637,
+      "filename": "Veronica-zib-v1_000006000.safetensors",
+      "normalized_name": "veronica-zib-v1_000006000.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a24fe2e12b73",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-04T08:35:23Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28700661938",
       "run_id": 28700661938,
