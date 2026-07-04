@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T09:36:35.054Z",
-  "lastRunId": 28700844155,
+  "updatedAt": "2026-07-04T09:44:19.659Z",
+  "lastRunId": 28702297646,
   "items": [
+    {
+      "id": "run_28702297646",
+      "run_id": 28702297646,
+      "artifact_id": 8080561049,
+      "filename": "TIPO-200M-ft2-F16.gguf",
+      "normalized_name": "tipo-200m-ft2-f16.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/55a0a3749f49",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-04T09:43:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28700844155",
       "run_id": 28700844155,
