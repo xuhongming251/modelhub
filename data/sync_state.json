@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T05:33:44.962Z",
-  "lastRunId": 28696382026,
+  "updatedAt": "2026-07-04T05:35:24.995Z",
+  "lastRunId": 28696422246,
   "items": [
+    {
+      "id": "run_28696422246",
+      "run_id": 28696422246,
+      "artifact_id": 8078717100,
+      "filename": "bunnyslopAnima.CFk0.safetensors",
+      "normalized_name": "bunnyslopanima.cfk0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5ca22e8ebeb7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-04T05:34:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28696382026",
       "run_id": 28696382026,
@@ -29628,19 +29641,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-13T05:36:46Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27457983373",
-      "run_id": 27457983373,
-      "artifact_id": 7607775562,
-      "filename": "bunnyslopAnima.CFk0.safetensors",
-      "normalized_name": "bunnyslopanima.cfk0.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/6e1238861772",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-13T05:36:28Z",
       "workflow": "upload.yml"
     },
     {
