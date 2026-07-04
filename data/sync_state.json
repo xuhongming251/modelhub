@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T08:33:05.429Z",
-  "lastRunId": 28700629811,
+  "updatedAt": "2026-07-04T08:34:35.801Z",
+  "lastRunId": 28700661938,
   "items": [
+    {
+      "id": "run_28700661938",
+      "run_id": 28700661938,
+      "artifact_id": 8080073594,
+      "filename": "weiwei-zib-v1_clean.safetensors",
+      "normalized_name": "weiwei-zib-v1_clean.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1966c5e8b11d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-04T08:34:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28700629811",
       "run_id": 28700629811,
