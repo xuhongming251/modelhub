@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T16:33:50.457Z",
-  "lastRunId": 28712587389,
+  "updatedAt": "2026-07-04T16:37:34.366Z",
+  "lastRunId": 28712680412,
   "items": [
+    {
+      "id": "run_28712680412",
+      "run_id": 28712680412,
+      "artifact_id": 8083477507,
+      "filename": "ip-adapter-faceid-plusv2_sdxl.bin",
+      "normalized_name": "ip-adapter-faceid-plusv2_sdxl.bin",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/92f5a0bfe900",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-04T16:37:00Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28712587389",
       "run_id": 28712587389,
@@ -24636,19 +24649,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-14T13:54:00Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27500974610",
-      "run_id": 27500974610,
-      "artifact_id": 7621676792,
-      "filename": "ip-adapter-faceid-plusv2_sdxl.bin",
-      "normalized_name": "ip-adapter-faceid-plusv2_sdxl.bin",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/0ee8c8fa4c15",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-14T13:53:39Z",
       "workflow": "upload.yml"
     },
     {
