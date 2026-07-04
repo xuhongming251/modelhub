@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T12:23:17.342Z",
-  "lastRunId": 28706064364,
+  "updatedAt": "2026-07-04T13:27:53.437Z",
+  "lastRunId": 28707644086,
   "items": [
+    {
+      "id": "run_28707644086",
+      "run_id": 28707644086,
+      "artifact_id": 8082101534,
+      "filename": "ComfyUI-LTXVideo.zip",
+      "normalized_name": "comfyui-ltxvideo.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f00820035f41",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-04T13:27:29Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28706074887",
+      "run_id": 28706074887,
+      "artifact_id": 8081635413,
+      "filename": "inswapper_128.onnx",
+      "normalized_name": "inswapper_128.onnx",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5563db653823",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-04T12:23:12Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28706064364",
       "run_id": 28706064364,
@@ -4447,19 +4473,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-01T16:51:49Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28531621237",
-      "run_id": 28531621237,
-      "artifact_id": 8016027294,
-      "filename": "ComfyUI-LTXVideo.zip",
-      "normalized_name": "comfyui-ltxvideo.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/7a8cfe1d477f",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-01T16:15:37Z",
       "workflow": "upload.yml"
     },
     {
@@ -70270,12 +70283,6 @@
       "normalized_name": "reazit20v10.yn5k.safetensors",
       "share_url": "https://pan.quark.cn/s/7f1f93fd316a",
       "completed_at": "2026-04-02T05:35:11Z"
-    },
-    {
-      "filename": "inswapper_128.onnx",
-      "normalized_name": "inswapper_128.onnx",
-      "share_url": "https://pan.quark.cn/s/072515709519",
-      "completed_at": "2026-04-02T04:38:47Z"
     },
     {
       "filename": "sam_vit_l_0b3195.pth",
