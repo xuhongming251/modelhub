@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T08:19:12.212Z",
-  "lastRunId": 28700294679,
+  "updatedAt": "2026-07-04T08:26:30.920Z",
+  "lastRunId": 28700470661,
   "items": [
+    {
+      "id": "run_28700470661",
+      "run_id": 28700470661,
+      "artifact_id": 8080017070,
+      "filename": "hana-zib-v7.safetensors",
+      "normalized_name": "hana-zib-v7.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/79fc594b9001",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-04T08:25:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28700294679",
       "run_id": 28700294679,
