@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T03:36:57.932Z",
-  "lastRunId": 28693675872,
+  "updatedAt": "2026-07-04T03:40:00.989Z",
+  "lastRunId": 28693777363,
   "items": [
+    {
+      "id": "run_28693777363",
+      "run_id": 28693777363,
+      "artifact_id": 8077958909,
+      "filename": "cmake-3.5.0-Darwin-x86_64.tar.Z",
+      "normalized_name": "cmake-3.5.0-darwin-x86_64.tar.z",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f764d68c48ee",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-04T03:39:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28693675872",
       "run_id": 28693675872,
