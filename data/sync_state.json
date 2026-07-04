@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T09:48:54.402Z",
-  "lastRunId": 28702390502,
+  "updatedAt": "2026-07-04T09:59:42.663Z",
+  "lastRunId": 28702638592,
   "items": [
+    {
+      "id": "run_28702638592",
+      "run_id": 28702638592,
+      "artifact_id": 8080669521,
+      "filename": "TIPO-500M-ft-F16.gguf",
+      "normalized_name": "tipo-500m-ft-f16.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e3de15ddbab0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-04T09:59:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28702390502",
       "run_id": 28702390502,
@@ -41575,19 +41588,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-27T16:46:21Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26523082445",
-      "run_id": 26523082445,
-      "artifact_id": 7245392520,
-      "filename": "TIPO-500M-ft-F16.gguf",
-      "normalized_name": "tipo-500m-ft-f16.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/78a861d725f8",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-27T16:05:35Z",
       "workflow": "upload.yml"
     },
     {
