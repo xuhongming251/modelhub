@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T03:42:31.716Z",
+  "updatedAt": "2026-07-04T03:44:29.326Z",
   "lastRunId": 28693836423,
   "items": [
+    {
+      "id": "run_28693830813",
+      "run_id": 28693830813,
+      "artifact_id": 8077987064,
+      "filename": "cmake-3.5.0-win32-x86.zip",
+      "normalized_name": "cmake-3.5.0-win32-x86.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/63275d85ad2a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-04T03:43:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28693836423",
       "run_id": 28693836423,
