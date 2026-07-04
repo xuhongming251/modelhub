@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T16:48:35.692Z",
-  "lastRunId": 28712973203,
+  "updatedAt": "2026-07-04T16:49:17.392Z",
+  "lastRunId": 28712994148,
   "items": [
+    {
+      "id": "run_28712994148",
+      "run_id": 28712994148,
+      "artifact_id": 8083564885,
+      "filename": "Chatbox-1.21.1-Setup.exe",
+      "normalized_name": "chatbox-1.21.1-setup.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/794ee13dcb3f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-04T16:48:47Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28712990652",
+      "run_id": 28712990652,
+      "artifact_id": 8083564481,
+      "filename": "install",
+      "normalized_name": "install",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b8083e48d011",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-04T16:48:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28712973203",
       "run_id": 28712973203,
