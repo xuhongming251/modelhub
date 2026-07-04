@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T07:54:30.385Z",
-  "lastRunId": 28699611511,
+  "updatedAt": "2026-07-04T08:19:12.212Z",
+  "lastRunId": 28700294679,
   "items": [
+    {
+      "id": "run_28700294679",
+      "run_id": 28700294679,
+      "artifact_id": 8079965125,
+      "filename": "lili-v5_clean.safetensors",
+      "normalized_name": "lili-v5_clean.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dbf20be9627c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-04T08:18:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28699611511",
       "run_id": 28699611511,
