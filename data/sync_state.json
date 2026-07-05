@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-05T09:59:17.071Z",
+  "updatedAt": "2026-07-05T10:03:42.086Z",
   "lastRunId": 28736979909,
   "items": [
+    {
+      "id": "run_28736855212",
+      "run_id": 28736855212,
+      "artifact_id": 8090680362,
+      "filename": "qwen3vl4bInstruct.K37L.safetensors",
+      "normalized_name": "qwen3vl4binstruct.k37l.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/41099652e0b6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-05T10:03:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28736979909",
       "run_id": 28736979909,
