@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-05T11:56:43.927Z",
-  "lastRunId": 28739932290,
+  "updatedAt": "2026-07-05T12:04:18.297Z",
+  "lastRunId": 28740089850,
   "items": [
+    {
+      "id": "run_28740089850",
+      "run_id": 28740089850,
+      "artifact_id": 8091577310,
+      "filename": "zImageTurboBaseAIO_zImageTurboBF16AIO.safetensors",
+      "normalized_name": "zimageturbobaseaio_zimageturbobf16aio.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/915db389e435",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-05T12:03:43Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28739932290",
       "run_id": 28739932290,
