@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-05T14:07:00.683Z",
-  "lastRunId": 28743400683,
+  "updatedAt": "2026-07-05T14:09:46.659Z",
+  "lastRunId": 28743477186,
   "items": [
+    {
+      "id": "run_28743477186",
+      "run_id": 28743477186,
+      "artifact_id": 8092547307,
+      "filename": "boobloom_v1_i2v_Low.safetensors",
+      "normalized_name": "boobloom_v1_i2v_low.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/eaea5be08f9f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-05T14:09:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28743400683",
       "run_id": 28743400683,
