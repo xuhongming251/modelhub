@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-05T03:05:01.336Z",
-  "lastRunId": 28727705695,
+  "updatedAt": "2026-07-05T03:25:01.516Z",
+  "lastRunId": 28728130737,
   "items": [
+    {
+      "id": "run_28728130737",
+      "run_id": 28728130737,
+      "artifact_id": 8087912852,
+      "filename": "PVCStyleModelMovable_anima10.safetensors",
+      "normalized_name": "pvcstylemodelmovable_anima10.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0b3f84ac1c77",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-05T03:24:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28727705695",
       "run_id": 28727705695,
@@ -22140,19 +22153,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-17T12:56:06Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27683611788",
-      "run_id": 27683611788,
-      "artifact_id": 7693315961,
-      "filename": "PVCStyleModelMovable_anima10.safetensors",
-      "normalized_name": "pvcstylemodelmovable_anima10.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/a4dbc1968d28",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-17T10:57:28Z",
       "workflow": "upload.yml"
     },
     {
