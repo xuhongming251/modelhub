@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-05T11:06:08.856Z",
-  "lastRunId": 28738633092,
+  "updatedAt": "2026-07-05T11:09:37.428Z",
+  "lastRunId": 28738735561,
   "items": [
+    {
+      "id": "run_28738735561",
+      "run_id": 28738735561,
+      "artifact_id": 8091155414,
+      "filename": "ltx23MultiRef.7cuj.safetensors",
+      "normalized_name": "ltx23multiref.7cuj.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/eef77356b61c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-05T11:09:07Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28738633092",
       "run_id": 28738633092,
