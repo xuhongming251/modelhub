@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-05T05:12:25.618Z",
+  "updatedAt": "2026-07-05T05:14:53.084Z",
   "lastRunId": 28730353145,
   "items": [
+    {
+      "id": "run_28730278924",
+      "run_id": 28730278924,
+      "artifact_id": 8088553276,
+      "filename": "wan2.2_bernini_r_low_noise_int8_convrot.safetensors",
+      "normalized_name": "wan2.2_bernini_r_low_noise_int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3e6157a3660c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-05T05:14:23Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28730353145",
       "run_id": 28730353145,
