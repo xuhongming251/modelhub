@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-05T02:59:56.895Z",
-  "lastRunId": 28727583243,
+  "updatedAt": "2026-07-05T03:04:18.166Z",
+  "lastRunId": 28727686199,
   "items": [
+    {
+      "id": "run_28727686199",
+      "run_id": 28727686199,
+      "artifact_id": 8087756411,
+      "filename": "nyalia-style-or-anima",
+      "normalized_name": "nyalia-style-or-anima",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/999ac9459b9c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-05T03:03:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28727583243",
       "run_id": 28727583243,
@@ -81498,7 +81511,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 3,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
