@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-05T04:23:55.137Z",
-  "lastRunId": 28729349282,
+  "updatedAt": "2026-07-05T04:31:33.108Z",
+  "lastRunId": 28729516643,
   "items": [
+    {
+      "id": "run_28729442117",
+      "run_id": 28729442117,
+      "artifact_id": 8088298634,
+      "filename": "moodyDesireV2Edit.EUE3.safetensors",
+      "normalized_name": "moodydesirev2edit.eue3.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1d51096b2850",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-05T04:31:05Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28729516643",
+      "run_id": 28729516643,
+      "artifact_id": 8088298319,
+      "filename": "ltx-2-spatial-upscaler-x2-1.0.safetensors",
+      "normalized_name": "ltx-2-spatial-upscaler-x2-1.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4b67cf3473fe",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-05T04:31:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28729349282",
       "run_id": 28729349282,
@@ -42098,19 +42124,6 @@
       "workflow": "upload.yml"
     },
     {
-      "id": "run_26556987518",
-      "run_id": 26556987518,
-      "artifact_id": 7258542221,
-      "filename": "moodyDesireV2Edit.EUE3.safetensors",
-      "normalized_name": "moodydesirev2edit.eue3.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/affc4f795897",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-28T05:43:06Z",
-      "workflow": "upload.yml"
-    },
-    {
       "id": "run_26554186721",
       "run_id": 26554186721,
       "artifact_id": 7257905196,
@@ -44773,19 +44786,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-24T05:35:19Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26352969944",
-      "run_id": 26352969944,
-      "artifact_id": 7182525830,
-      "filename": "ltx-2-spatial-upscaler-x2-1.0.safetensors",
-      "normalized_name": "ltx-2-spatial-upscaler-x2-1.0.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/87c1f2574a94",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-24T05:30:35Z",
       "workflow": "upload.yml"
     },
     {
