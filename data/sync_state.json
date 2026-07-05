@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-05T07:32:37.258Z",
-  "lastRunId": 28733437546,
+  "updatedAt": "2026-07-05T07:34:14.637Z",
+  "lastRunId": 28733472014,
   "items": [
+    {
+      "id": "run_28733472014",
+      "run_id": 28733472014,
+      "artifact_id": 8089540273,
+      "filename": "ComfyUI-WanAnimatePlus.zip",
+      "normalized_name": "comfyui-wananimateplus.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d76d3e87aa50",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-05T07:33:39Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28733436990",
+      "run_id": 28733436990,
+      "artifact_id": 8089532433,
+      "filename": "hsultrahdcgv60.4TWL.safetensors",
+      "normalized_name": "hsultrahdcgv60.4twl.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/34d95cdfec20",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-05T07:32:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28733437546",
       "run_id": 28733437546,
@@ -17499,19 +17525,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-22T05:57:11Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27928581787",
-      "run_id": 27928581787,
-      "artifact_id": 7782937494,
-      "filename": "ComfyUI-WanAnimatePlus.zip",
-      "normalized_name": "comfyui-wananimateplus.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/ffa20461f701",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-22T03:59:17Z",
       "workflow": "upload.yml"
     },
     {
@@ -79165,12 +79178,6 @@
       "normalized_name": "vall20mix20semirealism.magn.safetensors",
       "share_url": "https://pan.quark.cn/s/47ebc627c566",
       "completed_at": "2026-03-12T15:21:43Z"
-    },
-    {
-      "filename": "hsultrahdcgv60.4TWL.safetensors",
-      "normalized_name": "hsultrahdcgv60.4twl.safetensors",
-      "share_url": "https://pan.quark.cn/s/e513d0782dfb",
-      "completed_at": "2026-03-12T15:11:50Z"
     },
     {
       "filename": "i2vOrgasmic.EQ8j.safetensors",
