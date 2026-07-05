@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-05T04:36:13.097Z",
-  "lastRunId": 28729516643,
+  "updatedAt": "2026-07-05T04:37:44.411Z",
+  "lastRunId": 28729648686,
   "items": [
+    {
+      "id": "run_28729648686",
+      "run_id": 28729648686,
+      "artifact_id": 8088338550,
+      "filename": "ltx-2-19b-lora-camera-control-dolly-left.safetensors",
+      "normalized_name": "ltx-2-19b-lora-camera-control-dolly-left.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cb37f1067faf",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-05T04:37:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28729513073",
       "run_id": 28729513073,
@@ -22218,19 +22231,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-17T14:12:29Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27695082087",
-      "run_id": 27695082087,
-      "artifact_id": 7697829741,
-      "filename": "ltx-2-19b-lora-camera-control-dolly-left.safetensors",
-      "normalized_name": "ltx-2-19b-lora-camera-control-dolly-left.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/a3a652454e9c",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-17T14:09:17Z",
       "workflow": "upload.yml"
     },
     {
