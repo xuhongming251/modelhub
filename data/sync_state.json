@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-05T22:08:56.118Z",
-  "lastRunId": 28756497553,
+  "updatedAt": "2026-07-05T22:22:06.882Z",
+  "lastRunId": 28756852196,
   "items": [
+    {
+      "id": "run_28756852196",
+      "run_id": 28756852196,
+      "artifact_id": 8096338263,
+      "filename": "milkingmachine.safetensors",
+      "normalized_name": "milkingmachine.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9242b0fb7c3f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-05T22:21:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28756497553",
       "run_id": 28756497553,
@@ -67392,12 +67405,6 @@
       "normalized_name": "星",
       "share_url": "https://pan.quark.cn/s/7d628126629d",
       "completed_at": "2026-04-19T13:54:21Z"
-    },
-    {
-      "filename": "milkingMachine.safetensors",
-      "normalized_name": "milkingmachine.safetensors",
-      "share_url": "https://pan.quark.cn/s/9aae0aac7f61",
-      "completed_at": "2026-04-19T13:37:06Z"
     },
     {
       "filename": "NEO+VILLA+FBX.fbx",
