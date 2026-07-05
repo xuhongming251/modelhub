@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-05T02:12:26.957Z",
-  "lastRunId": 28726622199,
+  "updatedAt": "2026-07-05T02:29:26.025Z",
+  "lastRunId": 28726935482,
   "items": [
+    {
+      "id": "run_28726935482",
+      "run_id": 28726935482,
+      "artifact_id": 8087559353,
+      "filename": "WAI-NSFW-illustrious-SDXL-v11.safetensors",
+      "normalized_name": "wai-nsfw-illustrious-sdxl-v11.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/298f987a19be",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-05T02:28:51Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28726622199",
       "run_id": 28726622199,
@@ -81459,7 +81472,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 3,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
