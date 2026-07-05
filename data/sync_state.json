@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-05T09:54:54.749Z",
-  "lastRunId": 28736876590,
+  "updatedAt": "2026-07-05T09:56:19.160Z",
+  "lastRunId": 28736909945,
   "items": [
+    {
+      "id": "run_28736909945",
+      "run_id": 28736909945,
+      "artifact_id": 8090625161,
+      "filename": "ComfyUI_Qwen3-VL-Instruct.git",
+      "normalized_name": "comfyui_qwen3-vl-instruct.git",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f11b57a4c4d8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-05T09:55:57Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28736892577",
+      "run_id": 28736892577,
+      "artifact_id": 8090624645,
+      "filename": "moodyKreaMixV3mm00001.epfk.safetensors",
+      "normalized_name": "moodykreamixv3mm00001.epfk.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e1e77be1717d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-05T09:55:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28736876590",
       "run_id": 28736876590,
