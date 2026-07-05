@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-05T02:54:50.707Z",
-  "lastRunId": 28727455888,
+  "updatedAt": "2026-07-05T02:59:56.895Z",
+  "lastRunId": 28727583243,
   "items": [
+    {
+      "id": "run_28727583243",
+      "run_id": 28727583243,
+      "artifact_id": 8087727546,
+      "filename": "mesugakiIllustV1.C4Zp.safetensors",
+      "normalized_name": "mesugakiillustv1.c4zp.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/494329e588a4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-05T02:59:23Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28727455888",
       "run_id": 28727455888,
@@ -81485,7 +81498,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 3,
       "createdBefore": null,
       "exhausted": false
     }
