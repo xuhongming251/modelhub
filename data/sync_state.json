@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-06T09:48:51.247Z",
-  "lastRunId": 28782688879,
+  "updatedAt": "2026-07-06T09:52:54.866Z",
+  "lastRunId": 28782930176,
   "items": [
+    {
+      "id": "run_28782930176",
+      "run_id": 28782930176,
+      "artifact_id": 8105484681,
+      "filename": "wan22RemixNSFWT2v14b.DFTR.safetensors",
+      "normalized_name": "wan22remixnsfwt2v14b.dftr.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f86503575535",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-06T09:52:19Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28782635648",
       "run_id": 28782635648,
@@ -65562,12 +65575,6 @@
       "normalized_name": "qwen_image_edit_fp8_e4m3fn.safetensors",
       "share_url": "https://pan.quark.cn/s/395b5acb00cc",
       "completed_at": "2026-04-25T23:50:49Z"
-    },
-    {
-      "filename": "wan22RemixNSFWT2v14b.DFTR.safetensors",
-      "normalized_name": "wan22remixnsfwt2v14b.dftr.safetensors",
-      "share_url": "https://pan.quark.cn/s/1e5e6a281150",
-      "completed_at": "2026-04-25T23:50:46Z"
     },
     {
       "filename": "zImageTuboNSFW_71BF16.safetensors",
