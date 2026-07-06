@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-06T04:53:40.370Z",
-  "lastRunId": 28768614434,
+  "updatedAt": "2026-07-06T05:10:02.242Z",
+  "lastRunId": 28768944428,
   "items": [
+    {
+      "id": "run_28768944428",
+      "run_id": 28768944428,
+      "artifact_id": 8100226536,
+      "filename": "ltx-2.3-22b-distilled-1.1_transformer_only_int8_convrot.safetensors",
+      "normalized_name": "ltx-2.3-22b-distilled-1.1_transformer_only_int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f6a97847ed62",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-06T05:09:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28768614434",
       "run_id": 28768614434,
