@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-06T06:33:35.906Z",
-  "lastRunId": 28772501431,
+  "updatedAt": "2026-07-06T06:49:59.419Z",
+  "lastRunId": 28773108558,
   "items": [
+    {
+      "id": "run_28773108558",
+      "run_id": 28773108558,
+      "artifact_id": 8101610658,
+      "filename": "krea2_raw_bf16.safetensors",
+      "normalized_name": "krea2_raw_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7c7f4031a71b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-06T06:49:23Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28772501431",
       "run_id": 28772501431,
