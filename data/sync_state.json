@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-06T23:38:17.087Z",
-  "lastRunId": 28829450954,
+  "updatedAt": "2026-07-06T23:39:51.423Z",
+  "lastRunId": 28830783295,
   "items": [
+    {
+      "id": "run_28830783295",
+      "run_id": 28830783295,
+      "artifact_id": 8124315034,
+      "filename": "main",
+      "normalized_name": "main",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1578a8915062",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-06T23:39:20Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28829450954",
       "run_id": 28829450954,
@@ -7229,19 +7242,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-01T13:08:14Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28514273611",
-      "run_id": 28514273611,
-      "artifact_id": 8008557962,
-      "filename": "main",
-      "normalized_name": "main",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/d524c5bd1b75",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-01T11:29:58Z",
       "workflow": "upload.yml"
     },
     {
