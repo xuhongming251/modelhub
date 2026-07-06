@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-06T09:52:54.866Z",
-  "lastRunId": 28782930176,
+  "updatedAt": "2026-07-06T10:33:52.625Z",
+  "lastRunId": 28785181966,
   "items": [
+    {
+      "id": "run_28785181966",
+      "run_id": 28785181966,
+      "artifact_id": 8106398414,
+      "filename": "moodyKreaMixV3g00001.IrbY.safetensors",
+      "normalized_name": "moodykreamixv3g00001.irby.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1aa4b805778c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-06T10:33:18Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28782961463",
+      "run_id": 28782961463,
+      "artifact_id": 8105496017,
+      "filename": "wan22RemixNSFWT2v14bLow.lsL4.safetensors",
+      "normalized_name": "wan22remixnsfwt2v14blow.lsl4.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/66f4c408af55",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-06T09:52:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28782930176",
       "run_id": 28782930176,
@@ -65563,12 +65589,6 @@
       "normalized_name": "gemma-4-26b-a4b-it-heretic-ara-gguf.zip",
       "share_url": "https://pan.quark.cn/s/e54bb1930b27",
       "completed_at": "2026-04-26T01:14:57Z"
-    },
-    {
-      "filename": "wan22RemixNSFWT2v14bLow.lsL4.safetensors",
-      "normalized_name": "wan22remixnsfwt2v14blow.lsl4.safetensors",
-      "share_url": "https://pan.quark.cn/s/f708a6f171f4",
-      "completed_at": "2026-04-25T23:51:19Z"
     },
     {
       "filename": "qwen_image_edit_fp8_e4m3fn.safetensors",
