@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-06T11:59:55.104Z",
-  "lastRunId": 28789842668,
+  "updatedAt": "2026-07-06T12:28:32.378Z",
+  "lastRunId": 28791458509,
   "items": [
+    {
+      "id": "run_28791458509",
+      "run_id": 28791458509,
+      "artifact_id": 8108874059,
+      "filename": "NAXX_style.safetensors",
+      "normalized_name": "naxx_style.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d175e445aa6d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-06T12:27:56Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28789876331",
+      "run_id": 28789876331,
+      "artifact_id": 8108248771,
+      "filename": "windowsdesktop-runtime-6.0.36-win-x64.exe",
+      "normalized_name": "windowsdesktop-runtime-6.0.36-win-x64.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/330d66b0e7ea",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-06T11:59:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28789842668",
       "run_id": 28789842668,
