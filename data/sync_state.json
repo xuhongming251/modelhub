@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-06T13:35:32.758Z",
-  "lastRunId": 28795449315,
+  "updatedAt": "2026-07-06T13:41:15.329Z",
+  "lastRunId": 28795859660,
   "items": [
+    {
+      "id": "run_28795859660",
+      "run_id": 28795859660,
+      "artifact_id": 8110702515,
+      "filename": "torch-2.5.1+cu124-cp310-cp310-win_amd64.whl",
+      "normalized_name": "torch-2.5.1+cu124-cp310-cp310-win_amd64.whl",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6ccf307161c8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-06T13:40:29Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28795449315",
       "run_id": 28795449315,
