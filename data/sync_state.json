@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-06T09:06:22.367Z",
-  "lastRunId": 28779702236,
+  "updatedAt": "2026-07-06T09:22:00.362Z",
+  "lastRunId": 28781157265,
   "items": [
+    {
+      "id": "run_28781157265",
+      "run_id": 28781157265,
+      "artifact_id": 8104754649,
+      "filename": "wan22RemixNSFWI2v14bHigh.vFcd.safetensors",
+      "normalized_name": "wan22remixnsfwi2v14bhigh.vfcd.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ede40484ab42",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-06T09:21:28Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28779702236",
       "run_id": 28779702236,
@@ -65521,12 +65534,6 @@
       "normalized_name": "zimagetubonsfw_71bf16.safetensors",
       "share_url": "https://pan.quark.cn/s/8fa842939e96",
       "completed_at": "2026-04-25T23:50:21Z"
-    },
-    {
-      "filename": "wan22RemixNSFWI2v14bHigh.vFcd.safetensors",
-      "normalized_name": "wan22remixnsfwi2v14bhigh.vfcd.safetensors",
-      "share_url": "https://pan.quark.cn/s/e7a3d4ca6741",
-      "completed_at": "2026-04-25T23:49:18Z"
     },
     {
       "filename": "Qwen-Image-Edit-2509-Light-Migration.safetensors",
