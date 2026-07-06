@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-06T17:47:18.300Z",
-  "lastRunId": 28811503055,
+  "updatedAt": "2026-07-06T18:14:32.232Z",
+  "lastRunId": 28813195078,
   "items": [
+    {
+      "id": "run_28813195078",
+      "run_id": 28813195078,
+      "artifact_id": 8117734009,
+      "filename": "古月娜1.safetensors",
+      "normalized_name": "古月娜1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2fdb9980007d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-06T18:14:09Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28813180681",
+      "run_id": 28813180681,
+      "artifact_id": 8117728826,
+      "filename": "古月娜2.safetensors",
+      "normalized_name": "古月娜2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/28dade75e406",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-06T18:13:55Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28811503055",
       "run_id": 28811503055,
