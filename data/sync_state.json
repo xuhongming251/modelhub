@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-06T15:28:05.514Z",
-  "lastRunId": 28802730685,
+  "updatedAt": "2026-07-06T15:38:41.811Z",
+  "lastRunId": 28803654171,
   "items": [
+    {
+      "id": "run_28803654171",
+      "run_id": 28803654171,
+      "artifact_id": 8113951209,
+      "filename": "rgthree-comfy.zip",
+      "normalized_name": "rgthree-comfy.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0e8e6cad8cb6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-06T15:38:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28802730685",
       "run_id": 28802730685,
@@ -17057,19 +17070,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-24T05:07:48Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28076552574",
-      "run_id": 28076552574,
-      "artifact_id": 7840612516,
-      "filename": "rgthree-comfy.zip",
-      "normalized_name": "rgthree-comfy.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/474a54c28ce3",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-24T05:07:41Z",
       "workflow": "upload.yml"
     },
     {
