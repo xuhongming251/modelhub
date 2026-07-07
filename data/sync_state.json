@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-07T13:29:48.042Z",
-  "lastRunId": 28869751833,
+  "updatedAt": "2026-07-07T13:30:45.509Z",
+  "lastRunId": 28869773756,
   "items": [
+    {
+      "id": "run_28869773756",
+      "run_id": 28869773756,
+      "artifact_id": 8139349440,
+      "filename": "gemma-3-12b-it-qat-UD-Q4_K_XL.gguf",
+      "normalized_name": "gemma-3-12b-it-qat-ud-q4_k_xl.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c8f4aa831494",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-07T13:30:02Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28869751833",
       "run_id": 28869751833,
