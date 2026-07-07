@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-07T11:30:04.118Z",
-  "lastRunId": 28862653635,
+  "updatedAt": "2026-07-07T11:32:01.476Z",
+  "lastRunId": 28862701027,
   "items": [
+    {
+      "id": "run_28862701027",
+      "run_id": 28862701027,
+      "artifact_id": 8136381545,
+      "filename": "2dnPony_v2.safetensors",
+      "normalized_name": "2dnpony_v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/456569211196",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-07T11:31:20Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28862653635",
       "run_id": 28862653635,
