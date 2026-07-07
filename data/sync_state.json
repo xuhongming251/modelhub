@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-07T00:55:04.650Z",
-  "lastRunId": 28833692927,
+  "updatedAt": "2026-07-07T01:02:26.315Z",
+  "lastRunId": 28833957678,
   "items": [
+    {
+      "id": "run_28833957678",
+      "run_id": 28833957678,
+      "artifact_id": 8125442255,
+      "filename": "arthemyComicsKrea2.DM1C.safetensors",
+      "normalized_name": "arthemycomicskrea2.dm1c.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d0105c6cef55",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-07T01:01:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28833692927",
       "run_id": 28833692927,
@@ -27,19 +40,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-07T00:50:42Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28831903940",
-      "run_id": 28831903940,
-      "artifact_id": 8124996754,
-      "filename": "arthemyComicsKrea2.DM1C.safetensors",
-      "normalized_name": "arthemycomicskrea2.dm1c.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/2f4287fb8427",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-07T00:29:23Z",
       "workflow": "upload.yml"
     },
     {
