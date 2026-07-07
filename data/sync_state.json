@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-07T14:03:39.040Z",
-  "lastRunId": 28872174214,
+  "updatedAt": "2026-07-07T14:16:58.337Z",
+  "lastRunId": 28872345901,
   "items": [
+    {
+      "id": "run_28872345901",
+      "run_id": 28872345901,
+      "artifact_id": 8140673619,
+      "filename": "ltx-2.3-22b-distilled-1.1_transformer_only_mxfp8_block32.safetensors",
+      "normalized_name": "ltx-2.3-22b-distilled-1.1_transformer_only_mxfp8_block32.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/26717da9c163",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-07T14:16:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28872174214",
       "run_id": 28872174214,
