@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-07T12:32:43.362Z",
-  "lastRunId": 28866309930,
+  "updatedAt": "2026-07-07T12:38:12.185Z",
+  "lastRunId": 28866648918,
   "items": [
+    {
+      "id": "run_28866648918",
+      "run_id": 28866648918,
+      "artifact_id": 8137945929,
+      "filename": "ltx-2.3-22b-ic-lora-union-control-ref0.5.safetensors",
+      "normalized_name": "ltx-2.3-22b-ic-lora-union-control-ref0.5.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/aade65e3013e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-07T12:37:54Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28866622648",
+      "run_id": 28866622648,
+      "artifact_id": 8137939537,
+      "filename": "lora_weights.safetensors",
+      "normalized_name": "lora_weights.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6497dba9d1e2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-07T12:37:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28866309930",
       "run_id": 28866309930,
@@ -83406,12 +83432,6 @@
       "normalized_name": "round_breasts_zimg.safetensors",
       "share_url": "https://pan.quark.cn/s/fe1d09535ee3",
       "completed_at": "2026-03-08T00:07:22Z"
-    },
-    {
-      "filename": "ltx-2.3-22b-ic-lora-union-control-ref0.5.safetensors",
-      "normalized_name": "ltx-2.3-22b-ic-lora-union-control-ref0.5.safetensors",
-      "share_url": "https://pan.quark.cn/s/eaa5951381e1",
-      "completed_at": "2026-03-07T21:40:41Z"
     },
     {
       "filename": "1.zip",
