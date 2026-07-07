@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-07T15:30:26.775Z",
-  "lastRunId": 28878199064,
+  "updatedAt": "2026-07-07T15:34:10.770Z",
+  "lastRunId": 28878506824,
   "items": [
+    {
+      "id": "run_28878506824",
+      "run_id": 28878506824,
+      "artifact_id": 8142950397,
+      "filename": "windows",
+      "normalized_name": "windows",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/83a1c4522fe1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-07T15:33:22Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28878199064",
       "run_id": 28878199064,
@@ -76830,12 +76843,6 @@
       "normalized_name": "wan_dr34ml4y-all-in-one_nsfw.zip",
       "share_url": "https://pan.quark.cn/s/d258aff6540d",
       "completed_at": "2026-03-24T03:07:33Z"
-    },
-    {
-      "filename": "windows",
-      "normalized_name": "windows",
-      "share_url": "https://pan.quark.cn/s/b3ca79724307",
-      "completed_at": "2026-03-24T02:31:13Z"
     },
     {
       "filename": "cottonanima_preview2.safetensors",
