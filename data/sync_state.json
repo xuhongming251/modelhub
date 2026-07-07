@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-07T06:01:57.715Z",
-  "lastRunId": 28844906613,
+  "updatedAt": "2026-07-07T06:48:18.256Z",
+  "lastRunId": 28847195509,
   "items": [
+    {
+      "id": "run_28847195509",
+      "run_id": 28847195509,
+      "artifact_id": 8130042602,
+      "filename": "gemma_3_12B_it.safetensors",
+      "normalized_name": "gemma_3_12b_it.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2266278fb3e5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-07T06:47:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28844906613",
       "run_id": 28844906613,
@@ -62045,12 +62058,6 @@
       "normalized_name": "tnoobnaizezv9v5.gt6r.safetensors",
       "share_url": "https://pan.quark.cn/s/4856963fb1f4",
       "completed_at": "2026-05-03T10:58:47Z"
-    },
-    {
-      "filename": "gemma_3_12B_it.safetensors",
-      "normalized_name": "gemma_3_12b_it.safetensors",
-      "share_url": "https://pan.quark.cn/s/947430876dc6",
-      "completed_at": "2026-05-03T10:53:13Z"
     },
     {
       "filename": "colorwaterV4.PBdc.safetensors",
