@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-07T14:46:34.129Z",
-  "lastRunId": 28874589313,
+  "updatedAt": "2026-07-07T14:51:11.320Z",
+  "lastRunId": 28874713119,
   "items": [
+    {
+      "id": "run_28874713119",
+      "run_id": 28874713119,
+      "artifact_id": 8141668197,
+      "filename": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-Q6_K_P.gguf",
+      "normalized_name": "qwen3.6-35b-a3b-uncensored-hauhaucs-aggressive-q6_k_p.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/043b4fe0a18f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-07T14:50:27Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28873431443",
       "run_id": 28873431443,
@@ -67709,12 +67722,6 @@
       "completed_at": "2026-04-24T16:27:42Z"
     },
     {
-      "filename": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-Q6_K_P.gguf",
-      "normalized_name": "qwen3.6-35b-a3b-uncensored-hauhaucs-aggressive-q6_k_p.gguf",
-      "share_url": "https://pan.quark.cn/s/435bca474407",
-      "completed_at": "2026-04-24T16:24:39Z"
-    },
-    {
       "filename": "nipplediffusionF2Klein.xZCX.safetensors",
       "normalized_name": "nipplediffusionf2klein.xzcx.safetensors",
       "share_url": "https://pan.quark.cn/s/1dbcaea34bab",
@@ -84049,7 +84056,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
