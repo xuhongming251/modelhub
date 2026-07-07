@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-07T05:09:34.760Z",
-  "lastRunId": 28843056071,
+  "updatedAt": "2026-07-07T05:23:40.050Z",
+  "lastRunId": 28843581416,
   "items": [
+    {
+      "id": "run_28843581416",
+      "run_id": 28843581416,
+      "artifact_id": 8128719322,
+      "filename": "hsultrahdcgv50.nli9.safetensors",
+      "normalized_name": "hsultrahdcgv50.nli9.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/21e74fe03553",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-07T05:23:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28843056071",
       "run_id": 28843056071,
@@ -61063,12 +61076,6 @@
       "channel_name": "Quark",
       "completed_at": "2026-05-05T11:31:15Z",
       "workflow": "upload.yml"
-    },
-    {
-      "filename": "hsultrahdcgv50.nli9.safetensors",
-      "normalized_name": "hsultrahdcgv50.nli9.safetensors",
-      "share_url": "https://pan.quark.cn/s/58d3afb210a8",
-      "completed_at": "2026-05-05T10:30:02Z"
     },
     {
       "filename": "drawingspells12.P4nt.zip",
