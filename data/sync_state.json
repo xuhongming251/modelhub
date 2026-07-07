@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-07T14:16:58.337Z",
-  "lastRunId": 28872345901,
+  "updatedAt": "2026-07-07T14:21:00.199Z",
+  "lastRunId": 28873400138,
   "items": [
+    {
+      "id": "run_28873400138",
+      "run_id": 28873400138,
+      "artifact_id": 8140791352,
+      "filename": "perfect20world20v6.cmkV.safetensors",
+      "normalized_name": "perfect20world20v6.cmkv.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1d8d6b59eaac",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-07T14:20:21Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28873352170",
+      "run_id": 28873352170,
+      "artifact_id": 8140788194,
+      "filename": "moodyKrea2Mix_v30.safetensors",
+      "normalized_name": "moodykrea2mix_v30.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9f3cf5193083",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-07T14:20:16Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28872345901",
       "run_id": 28872345901,
@@ -729,19 +755,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-07T05:40:52Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28844175426",
-      "run_id": 28844175426,
-      "artifact_id": 8128940426,
-      "filename": "moodyKrea2Mix_v30.safetensors",
-      "normalized_name": "moodykrea2mix_v30.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/e2d96a8db902",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-07T05:39:07Z",
       "workflow": "upload.yml"
     },
     {
@@ -14795,19 +14808,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-27T12:47:33Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28288542335",
-      "run_id": 28288542335,
-      "artifact_id": 7924305875,
-      "filename": "perfect20world20v6.cmkV.safetensors",
-      "normalized_name": "perfect20world20v6.cmkv.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/94f22b9cc553",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-27T12:08:07Z",
       "workflow": "upload.yml"
     },
     {
@@ -83971,7 +83971,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
