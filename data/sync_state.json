@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-07T12:52:57.403Z",
+  "updatedAt": "2026-07-07T12:55:03.559Z",
   "lastRunId": 28867497918,
   "items": [
+    {
+      "id": "run_28867483241",
+      "run_id": 28867483241,
+      "artifact_id": 8138373363,
+      "filename": "Qwen3.5-4B-Uncensored-HauhauCS-Aggressive-Q8_0.gguf",
+      "normalized_name": "qwen3.5-4b-uncensored-hauhaucs-aggressive-q8_0.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c02d05100470",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-07T12:54:28Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28867497918",
       "run_id": 28867497918,
@@ -73305,12 +73318,6 @@
       "normalized_name": "unet.zip",
       "share_url": "https://pan.quark.cn/s/69e18f35742f",
       "completed_at": "2026-04-01T16:13:23Z"
-    },
-    {
-      "filename": "Qwen3.5-4B-Uncensored-HauhauCS-Aggressive-Q8_0.gguf",
-      "normalized_name": "qwen3.5-4b-uncensored-hauhaucs-aggressive-q8_0.gguf",
-      "share_url": "https://pan.quark.cn/s/f9c0519a5abc",
-      "completed_at": "2026-04-01T15:54:20Z"
     },
     {
       "filename": "buanimeNSFWStyleV3.E1uW.safetensors",
