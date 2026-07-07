@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-07T15:49:42.384Z",
-  "lastRunId": 28879461187,
+  "updatedAt": "2026-07-07T16:27:10.657Z",
+  "lastRunId": 28881915575,
   "items": [
+    {
+      "id": "run_28881915575",
+      "run_id": 28881915575,
+      "artifact_id": 8144437704,
+      "filename": "animeBulldozer_anima.safetensors",
+      "normalized_name": "animebulldozer_anima.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4259746a999f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-07T16:26:36Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28881904903",
+      "run_id": 28881904903,
+      "artifact_id": 8144427103,
+      "filename": "LTX23_audio_vae_bf16.safetensors",
+      "normalized_name": "ltx23_audio_vae_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/44bce029690e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-07T16:26:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28879461187",
       "run_id": 28879461187,
@@ -20983,19 +21009,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-21T11:23:32Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27901734856",
-      "run_id": 27901734856,
-      "artifact_id": 7774486155,
-      "filename": "animeBulldozer_anima.safetensors",
-      "normalized_name": "animebulldozer_anima.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/cbe2b714eb02",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-21T10:41:19Z",
       "workflow": "upload.yml"
     },
     {
@@ -83386,12 +83399,6 @@
       "completed_at": "2026-03-08T09:50:30Z"
     },
     {
-      "filename": "LTX23_audio_vae_bf16.safetensors",
-      "normalized_name": "ltx23_audio_vae_bf16.safetensors",
-      "share_url": "https://pan.quark.cn/s/c3eef13240ae",
-      "completed_at": "2026-03-08T09:39:25Z"
-    },
-    {
       "filename": "ltx-2.3_text_projection_bf16.safetensors",
       "normalized_name": "ltx-2.3_text_projection_bf16.safetensors",
       "share_url": "https://pan.quark.cn/s/ab9f441e85e8",
@@ -84168,7 +84175,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
