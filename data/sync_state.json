@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-07T08:45:49.226Z",
-  "lastRunId": 28853410506,
+  "updatedAt": "2026-07-07T08:50:00.846Z",
+  "lastRunId": 28853672899,
   "items": [
+    {
+      "id": "run_28853672899",
+      "run_id": 28853672899,
+      "artifact_id": 8132663224,
+      "filename": "gcc-11.4.0.tar.gz",
+      "normalized_name": "gcc-11.4.0.tar.gz",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5b3cfb255279",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-07T08:49:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28853410506",
       "run_id": 28853410506,
