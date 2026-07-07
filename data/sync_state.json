@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-07T05:41:26.938Z",
-  "lastRunId": 28844261627,
+  "updatedAt": "2026-07-07T06:01:57.715Z",
+  "lastRunId": 28844906613,
   "items": [
+    {
+      "id": "run_28844906613",
+      "run_id": 28844906613,
+      "artifact_id": 8129251441,
+      "filename": "chinese-wav2vec2-base.zip",
+      "normalized_name": "chinese-wav2vec2-base.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c5e8e02c2492",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-07T06:01:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28844261627",
       "run_id": 28844261627,
