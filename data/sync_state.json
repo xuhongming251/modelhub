@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-08T09:34:29.142Z",
-  "lastRunId": 28932532306,
+  "updatedAt": "2026-07-08T09:35:52.466Z",
+  "lastRunId": 28932642586,
   "items": [
+    {
+      "id": "run_28932642586",
+      "run_id": 28932642586,
+      "artifact_id": 8164096658,
+      "filename": "byt5_small_glyphxl_fp16.safetensors",
+      "normalized_name": "byt5_small_glyphxl_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1a721ec0f6d7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-08T09:35:22Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28932532306",
       "run_id": 28932532306,
@@ -10349,19 +10362,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-30T09:36:40Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28434379178",
-      "run_id": 28434379178,
-      "artifact_id": 7976434574,
-      "filename": "byt5_small_glyphxl_fp16.safetensors",
-      "normalized_name": "byt5_small_glyphxl_fp16.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/2ba31515c27a",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-30T09:29:46Z",
       "workflow": "upload.yml"
     },
     {
