@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-08T20:47:36.198Z",
-  "lastRunId": 28974545387,
+  "updatedAt": "2026-07-08T22:03:26.679Z",
+  "lastRunId": 28978850340,
   "items": [
+    {
+      "id": "run_28978850340",
+      "run_id": 28978850340,
+      "artifact_id": 8183127154,
+      "filename": "aesthetic-quality-modifiers-masterpiece",
+      "normalized_name": "aesthetic-quality-modifiers-masterpiece",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/731d490fe30c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-08T22:02:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28974545387",
       "run_id": 28974545387,
@@ -78432,12 +78445,6 @@
       "normalized_name": "comfyui-show-text.zip",
       "share_url": "https://pan.quark.cn/s/1ba1691ad704",
       "completed_at": "2026-03-21T15:31:23Z"
-    },
-    {
-      "filename": "aesthetic-quality-modifiers-masterpiece",
-      "normalized_name": "aesthetic-quality-modifiers-masterpiece",
-      "share_url": "https://pan.quark.cn/s/1cbfc5257c4b",
-      "completed_at": "2026-03-21T15:21:51Z"
     },
     {
       "filename": "requirements.txt",
