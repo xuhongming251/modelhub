@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-08T07:42:25.588Z",
-  "lastRunId": 28926011503,
+  "updatedAt": "2026-07-08T08:23:16.143Z",
+  "lastRunId": 28928394246,
   "items": [
+    {
+      "id": "run_28928394246",
+      "run_id": 28928394246,
+      "artifact_id": 8162345936,
+      "filename": "windowsdesktop-runtime-8.0.28-win-x64.exe",
+      "normalized_name": "windowsdesktop-runtime-8.0.28-win-x64.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9a3111aa56c4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-08T08:22:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28926011503",
       "run_id": 28926011503,
