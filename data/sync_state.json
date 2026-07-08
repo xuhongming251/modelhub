@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-08T02:47:22.617Z",
-  "lastRunId": 28913689328,
+  "updatedAt": "2026-07-08T03:10:37.761Z",
+  "lastRunId": 28914587363,
   "items": [
+    {
+      "id": "run_28914587363",
+      "run_id": 28914587363,
+      "artifact_id": 8157151568,
+      "filename": "pornmasterKrea2Fp8V1.nBTl.safetensors",
+      "normalized_name": "pornmasterkrea2fp8v1.nbtl.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0253f3c8a81a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-08T03:10:07Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28913689328",
       "run_id": 28913689328,
@@ -1210,19 +1223,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-07T07:48:10Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28850012970",
-      "run_id": 28850012970,
-      "artifact_id": 8131162222,
-      "filename": "pornmasterKrea2Fp8V1.nBTl.safetensors",
-      "normalized_name": "pornmasterkrea2fp8v1.nbtl.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/cdd0dfb2260c",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-07T07:44:17Z",
       "workflow": "upload.yml"
     },
     {
@@ -84370,7 +84370,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
