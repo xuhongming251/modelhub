@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-08T20:45:08.535Z",
-  "lastRunId": 28966511858,
+  "updatedAt": "2026-07-08T20:47:36.198Z",
+  "lastRunId": 28974545387,
   "items": [
+    {
+      "id": "run_28974545387",
+      "run_id": 28974545387,
+      "artifact_id": 8181468224,
+      "filename": "wan2.2_i2v_lightx2v_4steps_lora_v1_low_noise.safetensors",
+      "normalized_name": "wan2.2_i2v_lightx2v_4steps_lora_v1_low_noise.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b8a01eb04f0d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-08T20:47:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28966328455",
       "run_id": 28966328455,
@@ -3693,19 +3706,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-06T02:29:15Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28763915988",
-      "run_id": 28763915988,
-      "artifact_id": 8098500658,
-      "filename": "wan2.2_i2v_lightx2v_4steps_lora_v1_low_noise.safetensors",
-      "normalized_name": "wan2.2_i2v_lightx2v_4steps_lora_v1_low_noise.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/6216a07a444b",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-06T02:28:44Z",
       "workflow": "upload.yml"
     },
     {
