@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-08T01:24:57.320Z",
-  "lastRunId": 28910463073,
+  "updatedAt": "2026-07-08T01:26:33.255Z",
+  "lastRunId": 28910663883,
   "items": [
+    {
+      "id": "run_28910663883",
+      "run_id": 28910663883,
+      "artifact_id": 8155769505,
+      "filename": "Bernini-R_LightX2V_high_noise.safetensors",
+      "normalized_name": "bernini-r_lightx2v_high_noise.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8ababca0b5f0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-08T01:25:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28910463073",
       "run_id": 28910463073,
