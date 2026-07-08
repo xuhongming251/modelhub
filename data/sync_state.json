@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-08T08:27:49.665Z",
-  "lastRunId": 28928394246,
+  "updatedAt": "2026-07-08T09:06:10.235Z",
+  "lastRunId": 28930525228,
   "items": [
+    {
+      "id": "run_28930525228",
+      "run_id": 28930525228,
+      "artifact_id": 8163356217,
+      "filename": "hunyuanvideo1.5_720p_t2v_fp16.safetensors",
+      "normalized_name": "hunyuanvideo1.5_720p_t2v_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/63f19133ffcb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-08T09:05:20Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28928341698",
       "run_id": 28928341698,
@@ -65836,12 +65849,6 @@
       "normalized_name": "官方原版zimageturbo_turbo.safetensors",
       "share_url": "https://pan.quark.cn/s/74c07c9bb12e",
       "completed_at": "2026-04-29T14:03:32Z"
-    },
-    {
-      "filename": "hunyuanvideo1.5_720p_t2v_fp16.safetensors",
-      "normalized_name": "hunyuanvideo1.5_720p_t2v_fp16.safetensors",
-      "share_url": "https://pan.quark.cn/s/2ccc3c2ed41f",
-      "completed_at": "2026-04-29T13:08:51Z"
     },
     {
       "filename": "hunyuanvideo1.5_1080p_sr_distilled_fp16.safetensors",
