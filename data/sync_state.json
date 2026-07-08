@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-08T14:34:39.258Z",
-  "lastRunId": 28950801396,
+  "updatedAt": "2026-07-08T14:52:07.164Z",
+  "lastRunId": 28952037474,
   "items": [
+    {
+      "id": "run_28952037474",
+      "run_id": 28952037474,
+      "artifact_id": 8172162313,
+      "filename": "ffmpeg-8.1.2.tar.xz",
+      "normalized_name": "ffmpeg-8.1.2.tar.xz",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f6331bec4aa4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-08T14:51:28Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28950801396",
       "run_id": 28950801396,
