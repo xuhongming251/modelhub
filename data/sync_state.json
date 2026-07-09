@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-09T11:40:55.385Z",
-  "lastRunId": 29015524518,
+  "updatedAt": "2026-07-09T11:46:04.647Z",
+  "lastRunId": 29015649717,
   "items": [
+    {
+      "id": "run_29015622661",
+      "run_id": 29015622661,
+      "artifact_id": 8197464941,
+      "filename": "qwen06Fp16.7Htd.safetensors",
+      "normalized_name": "qwen06fp16.7htd.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4c8f418a8fcb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-09T11:43:08Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29015649717",
+      "run_id": 29015649717,
+      "artifact_id": 8197431891,
+      "filename": "AsumaIL.safetensors",
+      "normalized_name": "asumail.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5e0382fd4fa3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-09T11:41:38Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29015578017",
+      "run_id": 29015578017,
+      "artifact_id": 8197413157,
+      "filename": "CoAsuma.safetensors",
+      "normalized_name": "coasuma.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4cbe3f7c1d32",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-09T11:40:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29015521541",
       "run_id": 29015521541,
