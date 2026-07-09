@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-09T16:33:35.637Z",
+  "updatedAt": "2026-07-09T16:44:38.326Z",
   "lastRunId": 29033715536,
   "items": [
+    {
+      "id": "run_29031818689",
+      "run_id": 29031818689,
+      "artifact_id": 8205262964,
+      "filename": "ltx-2.3-22b-distilled-1.1-nvfp4.safetensors",
+      "normalized_name": "ltx-2.3-22b-distilled-1.1-nvfp4.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/05acb31223e9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-09T16:44:00Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29033715536",
       "run_id": 29033715536,
