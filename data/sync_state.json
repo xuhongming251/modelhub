@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-09T15:58:32.944Z",
-  "lastRunId": 29031571399,
+  "updatedAt": "2026-07-09T16:16:56.278Z",
+  "lastRunId": 29032683087,
   "items": [
+    {
+      "id": "run_29032683087",
+      "run_id": 29032683087,
+      "artifact_id": 8204563717,
+      "filename": "model-00001-of-00004.safetensors",
+      "normalized_name": "model-00001-of-00004.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c0392afd45cd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-09T16:16:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29031571399",
       "run_id": 29031571399,
@@ -85108,12 +85121,6 @@
       "normalized_name": "qwen3-vl-8b.zip",
       "share_url": "https://pan.quark.cn/s/8681eda23605",
       "completed_at": "2026-03-08T12:53:43Z"
-    },
-    {
-      "filename": "model-00001-of-00004.safetensors",
-      "normalized_name": "model-00001-of-00004.safetensors",
-      "share_url": "https://pan.quark.cn/s/76036d5d926d",
-      "completed_at": "2026-03-08T12:52:44Z"
     },
     {
       "filename": "animij9.OD6a.safetensors",
