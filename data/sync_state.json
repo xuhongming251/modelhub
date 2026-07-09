@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-09T13:18:49.029Z",
-  "lastRunId": 29020574901,
+  "updatedAt": "2026-07-09T13:26:23.665Z",
+  "lastRunId": 29021004761,
   "items": [
+    {
+      "id": "run_29021004761",
+      "run_id": 29021004761,
+      "artifact_id": 8199365464,
+      "filename": "Qwen-Image-Edit-2511-Lightning-4steps-V1.0-fp32.safetensors",
+      "normalized_name": "qwen-image-edit-2511-lightning-4steps-v1.0-fp32.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4fae54f217f1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-09T13:25:03Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29020574901",
       "run_id": 29020574901,
@@ -74997,12 +75010,6 @@
       "normalized_name": "beyond20reality_v30.safetensors",
       "share_url": "https://pan.quark.cn/s/6109c6cac0a0",
       "completed_at": "2026-04-02T09:36:36Z"
-    },
-    {
-      "filename": "Qwen-Image-Edit-2511-Lightning-4steps-V1.0-fp32.safetensors",
-      "normalized_name": "qwen-image-edit-2511-lightning-4steps-v1.0-fp32.safetensors",
-      "share_url": "https://pan.quark.cn/s/a01f63ab3384",
-      "completed_at": "2026-04-02T09:32:07Z"
     },
     {
       "filename": "qwen-image-edit-2511-multiple-angles-lora.safetensors",
