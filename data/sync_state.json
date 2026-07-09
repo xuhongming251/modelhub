@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-09T05:08:29.856Z",
-  "lastRunId": 28995498869,
+  "updatedAt": "2026-07-09T05:09:18.504Z",
+  "lastRunId": 28995554309,
   "items": [
+    {
+      "id": "run_28995554309",
+      "run_id": 28995554309,
+      "artifact_id": 8189577840,
+      "filename": "torchvision-0.24.1+cu128-cp313-cp313-win_amd64.whl",
+      "normalized_name": "torchvision-0.24.1+cu128-cp313-cp313-win_amd64.whl",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6adae3542252",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-09T05:09:02Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28995547784",
+      "run_id": 28995547784,
+      "artifact_id": 8189575451,
+      "filename": "torchaudio-2.9.1+cu128-cp313-cp313-win_amd64.whl",
+      "normalized_name": "torchaudio-2.9.1+cu128-cp313-cp313-win_amd64.whl",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8d31581c5a19",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-09T05:08:48Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28995498869",
       "run_id": 28995498869,
