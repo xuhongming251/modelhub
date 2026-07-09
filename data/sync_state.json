@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-09T01:30:08.856Z",
-  "lastRunId": 28987621612,
+  "updatedAt": "2026-07-09T01:31:16.932Z",
+  "lastRunId": 28987670876,
   "items": [
     {
-      "id": "run_28987621612",
-      "run_id": 28987621612,
-      "artifact_id": 8186595472,
+      "id": "run_28987670876",
+      "run_id": 28987670876,
+      "artifact_id": 8186611337,
+      "filename": "face_yolov8m.pt",
+      "normalized_name": "face_yolov8m.pt",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/73f3ca870d93",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-09T01:30:48Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_28987639754",
+      "run_id": 28987639754,
+      "artifact_id": 8186603466,
       "filename": "NSFW_master_ZIT_000017532.safetensors",
       "normalized_name": "nsfw_master_zit_000017532.safetensors",
       "original_url": "",
-      "share_url": "https://pan.quark.cn/s/2ad9a07067bd",
+      "share_url": "https://pan.quark.cn/s/f6f7d5412c51",
       "channel": "quark",
       "channel_name": "Quark",
-      "completed_at": "2026-07-09T01:29:38Z",
+      "completed_at": "2026-07-09T01:30:12Z",
       "workflow": "upload.yml"
     },
     {
@@ -74348,12 +74361,6 @@
       "normalized_name": "sam_vit_l_0b3195.pth",
       "share_url": "https://pan.quark.cn/s/471fc3bb102f",
       "completed_at": "2026-04-02T04:38:27Z"
-    },
-    {
-      "filename": "face_yolov8m.pt",
-      "normalized_name": "face_yolov8m.pt",
-      "share_url": "https://pan.quark.cn/s/a2b15e9a3ec3",
-      "completed_at": "2026-04-02T04:20:13Z"
     },
     {
       "filename": "GPEN-BFR-2048.onnx",
