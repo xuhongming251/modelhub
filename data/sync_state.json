@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-09T11:23:51.563Z",
-  "lastRunId": 29014656566,
+  "updatedAt": "2026-07-09T11:35:32.123Z",
+  "lastRunId": 29014972679,
   "items": [
+    {
+      "id": "run_29014972679",
+      "run_id": 29014972679,
+      "artifact_id": 8197183378,
+      "filename": "Fleetway-Elson.safetensors",
+      "normalized_name": "fleetway-elson.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c277a70220b3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-09T11:30:00Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29014656566",
       "run_id": 29014656566,
