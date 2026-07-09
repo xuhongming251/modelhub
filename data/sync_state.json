@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-09T13:00:40.057Z",
-  "lastRunId": 29019569032,
+  "updatedAt": "2026-07-09T13:18:49.029Z",
+  "lastRunId": 29020574901,
   "items": [
+    {
+      "id": "run_29020574901",
+      "run_id": 29020574901,
+      "artifact_id": 8199133652,
+      "filename": "CloudFileRelay-Setup-1.0.0.exe",
+      "normalized_name": "cloudfilerelay-setup-1.0.0.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b01876405a34",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-09T13:15:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29019569032",
       "run_id": 29019569032,
@@ -12403,19 +12416,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-30T02:59:13Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28417168056",
-      "run_id": 28417168056,
-      "artifact_id": 7969881612,
-      "filename": "CloudFileRelay-Setup-1.0.0.exe",
-      "normalized_name": "cloudfilerelay-setup-1.0.0.exe",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/e03583fe1f11",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-30T02:58:35Z",
       "workflow": "upload.yml"
     },
     {
