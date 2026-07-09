@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-09T13:47:05.254Z",
+  "updatedAt": "2026-07-09T13:47:48.165Z",
   "lastRunId": 29022642777,
   "items": [
+    {
+      "id": "run_29021734588",
+      "run_id": 29021734588,
+      "artifact_id": 8200063874,
+      "filename": "Ornith-1.0-35B-uncensored-heretic-Q8_0.gguf",
+      "normalized_name": "ornith-1.0-35b-uncensored-heretic-q8_0.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5fbb8e82f189",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-09T13:47:16Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29022642777",
       "run_id": 29022642777,
