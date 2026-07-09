@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-09T02:34:23.088Z",
-  "lastRunId": 28989867846,
+  "updatedAt": "2026-07-09T02:35:43.344Z",
+  "lastRunId": 28990009366,
   "items": [
+    {
+      "id": "run_28990009366",
+      "run_id": 28990009366,
+      "artifact_id": 8187500278,
+      "filename": "NIceAsians_Zimage.safetensors",
+      "normalized_name": "niceasians_zimage.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/74a128390a1e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-09T02:35:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28989065607",
       "run_id": 28989065607,
@@ -72764,12 +72777,6 @@
       "normalized_name": "z-image-fac1al.safetensors",
       "share_url": "https://pan.quark.cn/s/a97ad2da917c",
       "completed_at": "2026-04-08T04:57:28Z"
-    },
-    {
-      "filename": "NIceAsians_Zimage.safetensors",
-      "normalized_name": "niceasians_zimage.safetensors",
-      "share_url": "https://pan.quark.cn/s/8f3acd5ec4d4",
-      "completed_at": "2026-04-08T04:27:56Z"
     },
     {
       "filename": "ZITnsfwLoRA.safetensors",
