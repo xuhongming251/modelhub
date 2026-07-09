@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-09T04:26:51.618Z",
-  "lastRunId": 28994003025,
+  "updatedAt": "2026-07-09T05:08:29.856Z",
+  "lastRunId": 28995498869,
   "items": [
+    {
+      "id": "run_28995498869",
+      "run_id": 28995498869,
+      "artifact_id": 8189564214,
+      "filename": "torch-2.9.1+cu128-cp313-cp313-win_amd64.whl",
+      "normalized_name": "torch-2.9.1+cu128-cp313-cp313-win_amd64.whl",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/10cefc4e8c05",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-09T05:07:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28994003025",
       "run_id": 28994003025,
