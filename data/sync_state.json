@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-09T07:11:32.050Z",
-  "lastRunId": 29000736376,
+  "updatedAt": "2026-07-09T07:36:26.304Z",
+  "lastRunId": 29000818273,
   "items": [
+    {
+      "id": "run_29000818273",
+      "run_id": 29000818273,
+      "artifact_id": 8191849724,
+      "filename": "Qwen3-ASR-1.7B.zip",
+      "normalized_name": "qwen3-asr-1.7b.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/08ccf4733ce5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-09T07:30:51Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29000736376",
       "run_id": 29000736376,
@@ -84251,12 +84264,6 @@
       "normalized_name": "yan20il20v2.3pwj.safetensors",
       "share_url": "https://pan.quark.cn/s/9202973ceb91",
       "completed_at": "2026-03-09T06:08:18Z"
-    },
-    {
-      "filename": "Qwen3-ASR-1.7B.zip",
-      "normalized_name": "qwen3-asr-1.7b.zip",
-      "share_url": "https://pan.quark.cn/s/a000bfe6ccd7",
-      "completed_at": "2026-03-09T05:29:30Z"
     },
     {
       "filename": "mangaZImg.99M4.safetensors",
