@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-09T14:15:41.796Z",
-  "lastRunId": 29024521647,
+  "updatedAt": "2026-07-09T14:26:28.801Z",
+  "lastRunId": 29025227521,
   "items": [
+    {
+      "id": "run_29025227521",
+      "run_id": 29025227521,
+      "artifact_id": 8201256386,
+      "filename": "qwen_image_inpaint_diffsynth_controlnet-fp8.safetensors",
+      "normalized_name": "qwen_image_inpaint_diffsynth_controlnet-fp8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fe57fda29be9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-09T14:25:50Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29024521647",
       "run_id": 29024521647,
