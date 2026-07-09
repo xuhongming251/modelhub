@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-09T05:57:21.333Z",
-  "lastRunId": 28997090247,
+  "updatedAt": "2026-07-09T06:31:35.136Z",
+  "lastRunId": 28997708993,
   "items": [
+    {
+      "id": "run_28997708993",
+      "run_id": 28997708993,
+      "artifact_id": 8190777819,
+      "filename": "Qwen3-VL-4B-Instruct.zip",
+      "normalized_name": "qwen3-vl-4b-instruct.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b5f707fd6fbe",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-09T06:31:03Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_28997090247",
       "run_id": 28997090247,
@@ -78897,12 +78910,6 @@
       "normalized_name": "bge-m3.zip",
       "share_url": "https://pan.quark.cn/s/cef6bdaffd0b",
       "completed_at": "2026-03-21T12:03:43Z"
-    },
-    {
-      "filename": "Qwen3-VL-4B-Instruct.zip",
-      "normalized_name": "qwen3-vl-4b-instruct.zip",
-      "share_url": "https://pan.quark.cn/s/cbe73d8fb2d1",
-      "completed_at": "2026-03-21T11:24:01Z"
     },
     {
       "filename": "pgdrive-0.1.4-py3-none-any.whl",
