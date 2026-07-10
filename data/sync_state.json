@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-10T08:34:41.027Z",
-  "lastRunId": 29080118885,
+  "updatedAt": "2026-07-10T08:38:26.009Z",
+  "lastRunId": 29080351653,
   "items": [
+    {
+      "id": "run_29080351653",
+      "run_id": 29080351653,
+      "artifact_id": 8222488416,
+      "filename": "ltx-2-19b-distilled-fp8",
+      "normalized_name": "ltx-2-19b-distilled-fp8",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f4079327c397",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-10T08:37:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29080118885",
       "run_id": 29080118885,
