@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-10T07:45:18.260Z",
-  "lastRunId": 29077521733,
+  "updatedAt": "2026-07-10T07:47:00.323Z",
+  "lastRunId": 29077658436,
   "items": [
+    {
+      "id": "run_29077658436",
+      "run_id": 29077658436,
+      "artifact_id": 8221386296,
+      "filename": "Raiden_shogun.safetensors",
+      "normalized_name": "raiden_shogun.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3816e1127fd6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-10T07:46:23Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29077521733",
       "run_id": 29077521733,
