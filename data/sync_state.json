@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-10T07:20:42.392Z",
-  "lastRunId": 29076344836,
+  "updatedAt": "2026-07-10T07:31:31.909Z",
+  "lastRunId": 29076891210,
   "items": [
+    {
+      "id": "run_29076891210",
+      "run_id": 29076891210,
+      "artifact_id": 8221083380,
+      "filename": "ltx-2-spatial-upscaler-x2-1.0.safetensors",
+      "normalized_name": "ltx-2-spatial-upscaler-x2-1.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ddb476211e1b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-10T07:31:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29076316445",
       "run_id": 29076316445,
@@ -6735,19 +6748,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-05T04:31:05Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28729516643",
-      "run_id": 28729516643,
-      "artifact_id": 8088298319,
-      "filename": "ltx-2-spatial-upscaler-x2-1.0.safetensors",
-      "normalized_name": "ltx-2-spatial-upscaler-x2-1.0.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/4b67cf3473fe",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-05T04:31:04Z",
       "workflow": "upload.yml"
     },
     {
