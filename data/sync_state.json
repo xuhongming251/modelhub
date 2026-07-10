@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-10T20:20:48.764Z",
+  "updatedAt": "2026-07-10T20:30:46.413Z",
   "lastRunId": 29120548027,
   "items": [
+    {
+      "id": "run_29112437926",
+      "run_id": 29112437926,
+      "artifact_id": 8238712931,
+      "filename": "flux2-dev-mlx-q8.safetensors",
+      "normalized_name": "flux2-dev-mlx-q8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e8fb85075ff6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-10T20:30:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29119096900",
       "run_id": 29119096900,
