@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-10T05:20:20.521Z",
-  "lastRunId": 29071064732,
+  "updatedAt": "2026-07-10T05:25:15.195Z",
+  "lastRunId": 29071249201,
   "items": [
+    {
+      "id": "run_29071249201",
+      "run_id": 29071249201,
+      "artifact_id": 8218957156,
+      "filename": "prefectPonyV6Fp16.w74H.safetensors",
+      "normalized_name": "prefectponyv6fp16.w74h.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4f90ae2c1620",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-10T05:24:36Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29071064732",
       "run_id": 29071064732,
@@ -53535,19 +53548,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-19T12:45:04Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26097736108",
-      "run_id": 26097736108,
-      "artifact_id": 7083660195,
-      "filename": "prefectPonyV6Fp16.w74H.safetensors",
-      "normalized_name": "prefectponyv6fp16.w74h.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/ca63b657e641",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-19T12:40:51Z",
       "workflow": "upload.yml"
     },
     {
