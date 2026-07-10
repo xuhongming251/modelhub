@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-10T07:59:19.334Z",
+  "updatedAt": "2026-07-10T08:00:53.288Z",
   "lastRunId": 29078280608,
   "items": [
+    {
+      "id": "run_29077424581",
+      "run_id": 29077424581,
+      "artifact_id": 8221667949,
+      "filename": "Qwen-Rapid-AIO-NSFW-v23.safetensors",
+      "normalized_name": "qwen-rapid-aio-nsfw-v23.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/afeebeff8ef0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-10T08:00:12Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29078280608",
       "run_id": 29078280608,
@@ -51195,19 +51208,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-23T07:46:02Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26326681825",
-      "run_id": 26326681825,
-      "artifact_id": 7175241837,
-      "filename": "Qwen-Rapid-AIO-NSFW-v23.safetensors",
-      "normalized_name": "qwen-rapid-aio-nsfw-v23.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/b673237d7036",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-23T07:18:05Z",
       "workflow": "upload.yml"
     },
     {
