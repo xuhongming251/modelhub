@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-10T12:26:46.947Z",
-  "lastRunId": 29090506040,
+  "updatedAt": "2026-07-10T12:47:03.334Z",
+  "lastRunId": 29093090978,
   "items": [
+    {
+      "id": "run_29093090978",
+      "run_id": 29093090978,
+      "artifact_id": 8227806230,
+      "filename": "LTX 2.3 dev INT8 ConvRot - LTX2.3.safetensors",
+      "normalized_name": "ltx 2.3 dev int8 convrot - ltx2.3.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b58dfa61f7ef",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-10T12:46:28Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29090506040",
       "run_id": 29090506040,
@@ -87004,7 +87017,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
