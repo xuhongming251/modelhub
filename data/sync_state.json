@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-10T02:08:44.111Z",
-  "lastRunId": 29063946691,
+  "updatedAt": "2026-07-10T02:19:45.266Z",
+  "lastRunId": 29064376234,
   "items": [
+    {
+      "id": "run_29064376234",
+      "run_id": 29064376234,
+      "artifact_id": 8216586716,
+      "filename": "gpt-Image2-AnimaBase1-V1.safetensors",
+      "normalized_name": "gpt-image2-animabase1-v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1330c7dd0729",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-10T02:19:14Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29063572926",
+      "run_id": 29063572926,
+      "artifact_id": 8216457846,
+      "filename": "moodyRealV7SEE8908CE5A6B9.tyie.safetensors",
+      "normalized_name": "moodyrealv7see8908ce5a6b9.tyie.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7659a98bec32",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-10T02:08:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29063946691",
       "run_id": 29063946691,
