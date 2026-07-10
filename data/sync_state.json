@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-10T07:06:50.298Z",
-  "lastRunId": 29075543674,
+  "updatedAt": "2026-07-10T07:20:42.392Z",
+  "lastRunId": 29076344836,
   "items": [
+    {
+      "id": "run_29076316445",
+      "run_id": 29076316445,
+      "artifact_id": 8220870550,
+      "filename": "巨大的插入.safetensors",
+      "normalized_name": "巨大的插入.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b9261aa61d3e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-10T07:20:22Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29076344836",
+      "run_id": 29076344836,
+      "artifact_id": 8220866330,
+      "filename": "背景增强器.safetensors",
+      "normalized_name": "背景增强器.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/abccaef4fa97",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-10T07:20:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29074293730",
       "run_id": 29074293730,
