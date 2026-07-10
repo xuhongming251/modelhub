@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-10T02:19:45.266Z",
-  "lastRunId": 29064376234,
+  "updatedAt": "2026-07-10T02:25:44.110Z",
+  "lastRunId": 29064594052,
   "items": [
+    {
+      "id": "run_29064594052",
+      "run_id": 29064594052,
+      "artifact_id": 8216663234,
+      "filename": "flux1-fill-dev.safetensors",
+      "normalized_name": "flux1-fill-dev.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9b08a6b3c511",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-10T02:25:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29064376234",
       "run_id": 29064376234,
