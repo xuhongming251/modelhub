@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-10T14:31:09.705Z",
-  "lastRunId": 29100049048,
+  "updatedAt": "2026-07-10T14:32:44.055Z",
+  "lastRunId": 29100089010,
   "items": [
+    {
+      "id": "run_29100089010",
+      "run_id": 29100089010,
+      "artifact_id": 8230433798,
+      "filename": "krea2TurboInt8.l6J9.safetensors",
+      "normalized_name": "krea2turboint8.l6j9.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8d5c9f00cfd2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-10T14:32:12Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29099990462",
       "run_id": 29099990462,
@@ -5695,19 +5708,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-06T15:38:06Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28802730685",
-      "run_id": 28802730685,
-      "artifact_id": 8113663678,
-      "filename": "krea2TurboInt8.l6J9.safetensors",
-      "normalized_name": "krea2turboint8.l6j9.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/8d9a694c3826",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-06T15:27:29Z",
       "workflow": "upload.yml"
     },
     {
