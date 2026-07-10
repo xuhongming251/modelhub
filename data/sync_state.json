@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-10T06:06:43.706Z",
-  "lastRunId": 29072946281,
+  "updatedAt": "2026-07-10T06:10:20.533Z",
+  "lastRunId": 29073093073,
   "items": [
+    {
+      "id": "run_29073093073",
+      "run_id": 29073093073,
+      "artifact_id": 8219624326,
+      "filename": "cu121",
+      "normalized_name": "cu121",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7b68f06b603e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-10T06:09:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29072946281",
       "run_id": 29072946281,
@@ -75577,12 +75590,6 @@
       "normalized_name": "qwen3-vl-8b-instruct-c_abliterated-v3.f16.gguf",
       "share_url": "https://pan.quark.cn/s/0cd15777d208",
       "completed_at": "2026-04-02T16:53:07Z"
-    },
-    {
-      "filename": "cu121",
-      "normalized_name": "cu121",
-      "share_url": "https://pan.quark.cn/s/460e57aa35ef",
-      "completed_at": "2026-04-02T16:50:48Z"
     },
     {
       "filename": "Qwen3-VL-8B-Instruct-c_abliterated-v3.mmproj-Q8_0.gguf",
