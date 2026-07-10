@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-10T01:10:12.834Z",
-  "lastRunId": 29060423891,
+  "updatedAt": "2026-07-10T01:35:38.335Z",
+  "lastRunId": 29061879009,
   "items": [
+    {
+      "id": "run_29061879009",
+      "run_id": 29061879009,
+      "artifact_id": 8215997313,
+      "filename": "moodyRealV7.safetensors",
+      "normalized_name": "moodyrealv7.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3804bc7ada72",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-10T01:35:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29060423891",
       "run_id": 29060423891,
@@ -86113,7 +86126,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
