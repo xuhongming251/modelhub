@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-11T16:48:27.200Z",
-  "lastRunId": 29160414822,
+  "updatedAt": "2026-07-11T16:53:10.050Z",
+  "lastRunId": 29160569205,
   "items": [
+    {
+      "id": "run_29160569205",
+      "run_id": 29160569205,
+      "artifact_id": 8250689963,
+      "filename": "chrome-win64.zip",
+      "normalized_name": "chrome-win64.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c30a190f6470",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-11T16:52:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29160414822",
       "run_id": 29160414822,
