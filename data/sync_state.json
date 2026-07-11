@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-11T09:01:35.263Z",
-  "lastRunId": 29146986125,
+  "updatedAt": "2026-07-11T09:05:26.421Z",
+  "lastRunId": 29147131490,
   "items": [
+    {
+      "id": "run_29147131490",
+      "run_id": 29147131490,
+      "artifact_id": 8247086975,
+      "filename": "lustifyV8Apex-inpainting.safetensors",
+      "normalized_name": "lustifyv8apex-inpainting.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/069ffae69f02",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-11T09:04:56Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29147120592",
+      "run_id": 29147120592,
+      "artifact_id": 8247086305,
+      "filename": "lustifyApexV8.safetensors",
+      "normalized_name": "lustifyapexv8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/91527a98d227",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-11T09:04:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29146986125",
       "run_id": 29146986125,
