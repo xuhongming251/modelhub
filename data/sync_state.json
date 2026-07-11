@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-11T17:51:17.242Z",
-  "lastRunId": 29162236943,
+  "updatedAt": "2026-07-11T18:11:30.283Z",
+  "lastRunId": 29162944383,
   "items": [
+    {
+      "id": "run_29162944383",
+      "run_id": 29162944383,
+      "artifact_id": 8251335362,
+      "filename": "chrome-headless-shell-win64.zip",
+      "normalized_name": "chrome-headless-shell-win64.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/496a6116e532",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-11T18:10:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29162236943",
       "run_id": 29162236943,
