@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-11T08:52:07.567Z",
-  "lastRunId": 29146774615,
+  "updatedAt": "2026-07-11T08:54:27.822Z",
+  "lastRunId": 29146837107,
   "items": [
+    {
+      "id": "run_29146837107",
+      "run_id": 29146837107,
+      "artifact_id": 8247001038,
+      "filename": "Qwen-Image-Edit-2511-Lightning-4steps-V1.0-bf16.safetensors",
+      "normalized_name": "qwen-image-edit-2511-lightning-4steps-v1.0-bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b6a0e39c18bd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-11T08:53:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29146774615",
       "run_id": 29146774615,
@@ -7606,19 +7619,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-05T15:28:56Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28745510280",
-      "run_id": 28745510280,
-      "artifact_id": 8093138587,
-      "filename": "Qwen-Image-Edit-2511-Lightning-4steps-V1.0-bf16.safetensors",
-      "normalized_name": "qwen-image-edit-2511-lightning-4steps-v1.0-bf16.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/0cb1c1a7618c",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-05T15:25:30Z",
       "workflow": "upload.yml"
     },
     {
