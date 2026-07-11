@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-11T17:24:27.339Z",
-  "lastRunId": 29161515349,
+  "updatedAt": "2026-07-11T17:37:04.591Z",
+  "lastRunId": 29161905302,
   "items": [
+    {
+      "id": "run_29161905302",
+      "run_id": 29161905302,
+      "artifact_id": 8251052488,
+      "filename": "Comfyui-QwenEditUtils.zip",
+      "normalized_name": "comfyui-qweneditutils.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/37ec245816c2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-11T17:36:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29161515349",
       "run_id": 29161515349,
@@ -80476,12 +80489,6 @@
       "normalized_name": "低突然狗交i2vdoggysliderlow.fzro.safetensors",
       "share_url": "https://pan.quark.cn/s/532f9a6b3cbe",
       "completed_at": "2026-03-26T19:50:41Z"
-    },
-    {
-      "filename": "Comfyui-QwenEditUtils.zip",
-      "normalized_name": "comfyui-qweneditutils.zip",
-      "share_url": "https://pan.quark.cn/s/a9eaf8d26b50",
-      "completed_at": "2026-03-26T16:42:03Z"
     },
     {
       "filename": "wan2.2_animate_14B_bf16.safetensors",
