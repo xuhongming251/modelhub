@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-11T03:54:36.104Z",
-  "lastRunId": 29138721103,
+  "updatedAt": "2026-07-11T03:55:16.572Z",
+  "lastRunId": 29138739279,
   "items": [
+    {
+      "id": "run_29138739279",
+      "run_id": 29138739279,
+      "artifact_id": 8244429535,
+      "filename": "reanimate3D/CG 版V3.zUog.safetensors",
+      "normalized_name": "reanimate3d/cg 版v3.zuog.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fad7760f639d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-11T03:54:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29138721103",
       "run_id": 29138721103,
@@ -87875,7 +87888,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
