@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-11T19:24:38.592Z",
-  "lastRunId": 29164991410,
+  "updatedAt": "2026-07-11T19:30:33.172Z",
+  "lastRunId": 29165282014,
   "items": [
+    {
+      "id": "run_29165282014",
+      "run_id": 29165282014,
+      "artifact_id": 8251982636,
+      "filename": "FLUX.1-dev-ControlNet-Union-Pro-2.0.safetensors",
+      "normalized_name": "flux.1-dev-controlnet-union-pro-2.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/50f3b08b7807",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-11T19:30:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29164991410",
       "run_id": 29164991410,
