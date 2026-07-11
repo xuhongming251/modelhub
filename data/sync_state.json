@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-11T07:48:49.573Z",
-  "lastRunId": 29145081977,
+  "updatedAt": "2026-07-11T08:00:38.880Z",
+  "lastRunId": 29145404546,
   "items": [
+    {
+      "id": "run_29145404546",
+      "run_id": 29145404546,
+      "artifact_id": 8246575493,
+      "filename": "airi20akizukiOcIllus.yKQ9.safetensors",
+      "normalized_name": "airi20akizukiocillus.ykq9.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6c28d84d122a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-11T08:00:05Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29144854315",
+      "run_id": 29144854315,
+      "artifact_id": 8246481069,
+      "filename": "main",
+      "normalized_name": "main",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/25847f7622b4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-11T07:48:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29145081977",
       "run_id": 29145081977,
@@ -3433,19 +3459,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-09T05:07:57Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28994003025",
-      "run_id": 28994003025,
-      "artifact_id": 8188993918,
-      "filename": "main",
-      "normalized_name": "main",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/c46ac5faeb20",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-09T04:26:24Z",
       "workflow": "upload.yml"
     },
     {
@@ -23349,19 +23362,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-23T16:08:25Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28039484635",
-      "run_id": 28039484635,
-      "artifact_id": 7826446681,
-      "filename": "airi20akizukiOcIllus.yKQ9.safetensors",
-      "normalized_name": "airi20akizukiocillus.ykq9.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/ae13ed83902e",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-23T16:07:47Z",
       "workflow": "upload.yml"
     },
     {
