@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-11T13:00:46.613Z",
+  "updatedAt": "2026-07-11T13:02:09.579Z",
   "lastRunId": 29153530175,
   "items": [
+    {
+      "id": "run_29153377314",
+      "run_id": 29153377314,
+      "artifact_id": 8248850039,
+      "filename": "wan2.2_animate_14B_int8_convrot.safetensors",
+      "normalized_name": "wan2.2_animate_14b_int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/143110b101dd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-11T13:01:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29153530175",
       "run_id": 29153530175,
