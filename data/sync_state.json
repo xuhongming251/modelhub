@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-11T02:56:52.403Z",
-  "lastRunId": 29137029361,
+  "updatedAt": "2026-07-11T03:01:12.180Z",
+  "lastRunId": 29137156608,
   "items": [
+    {
+      "id": "run_29137156608",
+      "run_id": 29137156608,
+      "artifact_id": 8243960588,
+      "filename": "animaInt8_qwen306b.safetensors",
+      "normalized_name": "animaint8_qwen306b.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/45084f2a33ea",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-11T03:00:39Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29137029361",
       "run_id": 29137029361,
