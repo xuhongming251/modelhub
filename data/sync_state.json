@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-11T18:11:30.283Z",
-  "lastRunId": 29162944383,
+  "updatedAt": "2026-07-11T18:19:38.453Z",
+  "lastRunId": 29163212733,
   "items": [
+    {
+      "id": "run_29163212733",
+      "run_id": 29163212733,
+      "artifact_id": 8251401630,
+      "filename": "nsfw22HE8.BOcA.safetensors",
+      "normalized_name": "nsfw22he8.boca.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dac66e4d358f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-11T18:19:05Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29162944383",
       "run_id": 29162944383,
@@ -76645,12 +76658,6 @@
       "normalized_name": "girlslike_lora_gallery.zip",
       "share_url": "https://pan.quark.cn/s/db40e2191f07",
       "completed_at": "2026-04-06T12:40:29Z"
-    },
-    {
-      "filename": "nsfw22HE8.BOcA.safetensors",
-      "normalized_name": "nsfw22he8.boca.safetensors",
-      "share_url": "https://pan.quark.cn/s/0d85770f3972",
-      "completed_at": "2026-04-06T12:38:42Z"
     },
     {
       "filename": "molKeunMix_deepblueV2EPS.safetensors",
