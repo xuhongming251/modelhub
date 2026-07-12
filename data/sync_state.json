@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-12T02:43:05.592Z",
-  "lastRunId": 29177037372,
+  "updatedAt": "2026-07-12T03:01:56.218Z",
+  "lastRunId": 29177600878,
   "items": [
+    {
+      "id": "run_29177600878",
+      "run_id": 29177600878,
+      "artifact_id": 8255379542,
+      "filename": "bl0wb4ng_LN_80.safetensors",
+      "normalized_name": "bl0wb4ng_ln_80.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f84e727fe6c8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-12T03:01:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29176954749",
       "run_id": 29176954749,
@@ -88825,7 +88838,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
