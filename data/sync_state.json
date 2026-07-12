@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-12T07:02:05.132Z",
-  "lastRunId": 29183509563,
+  "updatedAt": "2026-07-12T07:27:34.361Z",
+  "lastRunId": 29183717384,
   "items": [
+    {
+      "id": "run_29183717384",
+      "run_id": 29183717384,
+      "artifact_id": 8257452819,
+      "filename": "flux-2-klein-9b-int8-convrot.safetensors",
+      "normalized_name": "flux-2-klein-9b-int8-convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c8230a299c2a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-12T07:26:58Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29183529266",
+      "run_id": 29183529266,
+      "artifact_id": 8257235675,
+      "filename": "概念-倒坐椅子上.safetensors",
+      "normalized_name": "概念-倒坐椅子上.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7cd145a413ac",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-12T07:01:55Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29183509563",
       "run_id": 29183509563,
