@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-12T02:34:52.103Z",
-  "lastRunId": 29176927203,
+  "updatedAt": "2026-07-12T02:36:55.865Z",
+  "lastRunId": 29176978275,
   "items": [
+    {
+      "id": "run_29176978275",
+      "run_id": 29176978275,
+      "artifact_id": 8255218660,
+      "filename": "redcraft22INT8Convrot_2Krea2Edition.safetensors",
+      "normalized_name": "redcraft22int8convrot_2krea2edition.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ccefa6c2cb20",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-12T02:36:27Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29176927203",
       "run_id": 29176927203,
@@ -6995,19 +7008,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-07T06:01:17Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28844261627",
-      "run_id": 28844261627,
-      "artifact_id": 8128963245,
-      "filename": "redcraft22INT8Convrot_2Krea2Edition.safetensors",
-      "normalized_name": "redcraft22int8convrot_2krea2edition.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/2d9d934c23ab",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-07T05:40:52Z",
       "workflow": "upload.yml"
     },
     {
