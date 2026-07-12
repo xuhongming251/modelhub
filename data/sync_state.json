@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-12T10:54:01.363Z",
-  "lastRunId": 29189337770,
+  "updatedAt": "2026-07-12T11:04:18.481Z",
+  "lastRunId": 29190135378,
   "items": [
+    {
+      "id": "run_29190135378",
+      "run_id": 29190135378,
+      "artifact_id": 8259257174,
+      "filename": "pornmasterKrea2-V1.safetensors",
+      "normalized_name": "pornmasterkrea2-v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/77a9aca17372",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-12T11:03:44Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29189337770",
       "run_id": 29189337770,
@@ -89300,7 +89313,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
