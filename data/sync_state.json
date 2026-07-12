@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-12T09:28:57.086Z",
-  "lastRunId": 29187508157,
+  "updatedAt": "2026-07-12T10:22:26.651Z",
+  "lastRunId": 29188904694,
   "items": [
+    {
+      "id": "run_29188904694",
+      "run_id": 29188904694,
+      "artifact_id": 8258907120,
+      "filename": "ornith-1.0-35b-Q4_K_M.gguf",
+      "normalized_name": "ornith-1.0-35b-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7413e9f3ebc0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-12T10:21:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29187508157",
       "run_id": 29187508157,
