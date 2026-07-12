@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-12T18:04:12.696Z",
+  "updatedAt": "2026-07-12T18:08:17.680Z",
   "lastRunId": 29203078136,
   "items": [
+    {
+      "id": "run_29202523739",
+      "run_id": 29202523739,
+      "artifact_id": 8263002003,
+      "filename": "10Eros_v1.4_bf16.safetensors",
+      "normalized_name": "10eros_v1.4_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a79f984f4bf9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-12T18:07:47Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29203078136",
       "run_id": 29203078136,
