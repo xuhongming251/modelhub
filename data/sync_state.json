@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-12T10:34:14.069Z",
-  "lastRunId": 29189298790,
+  "updatedAt": "2026-07-12T10:39:07.130Z",
+  "lastRunId": 29189337770,
   "items": [
+    {
+      "id": "run_29189337770",
+      "run_id": 29189337770,
+      "artifact_id": 8259046347,
+      "filename": "DSW14BLightspeed_HighV10.safetensors",
+      "normalized_name": "dsw14blightspeed_highv10.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/aef247768b26",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-12T10:38:28Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29189298790",
       "run_id": 29189298790,
@@ -89287,7 +89300,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
