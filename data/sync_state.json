@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-12T06:45:36.032Z",
-  "lastRunId": 29183090061,
+  "updatedAt": "2026-07-12T06:48:35.390Z",
+  "lastRunId": 29183109666,
   "items": [
+    {
+      "id": "run_29183109666",
+      "run_id": 29183109666,
+      "artifact_id": 8257102220,
+      "filename": "elsa2020krea202.eZMQ.safetensors",
+      "normalized_name": "elsa2020krea202.ezmq.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f45bc23ac046",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-12T06:48:01Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29183101631",
+      "run_id": 29183101631,
+      "artifact_id": 8257083600,
+      "filename": "priscilla20krea202.kR6B.safetensors",
+      "normalized_name": "priscilla20krea202.kr6b.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a401af648c34",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-12T06:45:40Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29183096012",
+      "run_id": 29183096012,
+      "artifact_id": 8257082855,
+      "filename": "rem2020krea20220v3.Sbes.safetensors",
+      "normalized_name": "rem2020krea20220v3.sbes.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/89c86bde4a89",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-12T06:45:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29183090061",
       "run_id": 29183090061,
@@ -89033,7 +89072,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
