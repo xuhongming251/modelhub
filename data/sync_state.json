@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-12T01:44:42.385Z",
+  "updatedAt": "2026-07-12T01:53:09.216Z",
   "lastRunId": 29175683446,
   "items": [
+    {
+      "id": "run_29174588815",
+      "run_id": 29174588815,
+      "artifact_id": 8254916521,
+      "filename": "ltx-2-19b-distilled-fp8.safetensors",
+      "normalized_name": "ltx-2-19b-distilled-fp8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8aa598a5635e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-12T01:52:27Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29175683446",
       "run_id": 29175683446,
@@ -2380,19 +2393,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-10T11:20:58Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29080826821",
-      "run_id": 29080826821,
-      "artifact_id": 8225653874,
-      "filename": "ltx-2-19b-distilled-fp8.safetensors",
-      "normalized_name": "ltx-2-19b-distilled-fp8.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/d2ce8474f8aa",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-10T11:04:24Z",
       "workflow": "upload.yml"
     },
     {
