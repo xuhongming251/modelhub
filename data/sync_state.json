@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-12T02:03:59.941Z",
-  "lastRunId": 29176139479,
+  "updatedAt": "2026-07-12T02:06:36.238Z",
+  "lastRunId": 29176227643,
   "items": [
+    {
+      "id": "run_29176227643",
+      "run_id": 29176227643,
+      "artifact_id": 8255014498,
+      "filename": "tiwmV7.z8QF.safetensors",
+      "normalized_name": "tiwmv7.z8qf.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9e1886e8d83d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-12T02:05:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29176139479",
       "run_id": 29176139479,
@@ -88773,7 +88786,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
