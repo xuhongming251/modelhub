@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-12T08:35:15.861Z",
-  "lastRunId": 29186055536,
+  "updatedAt": "2026-07-12T08:38:25.093Z",
+  "lastRunId": 29186126049,
   "items": [
+    {
+      "id": "run_29186126049",
+      "run_id": 29186126049,
+      "artifact_id": 8258054663,
+      "filename": "pretzelPoseAnima.safetensors",
+      "normalized_name": "pretzelposeanima.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/35ff0a5a527a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-12T08:37:45Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29186055536",
       "run_id": 29186055536,
