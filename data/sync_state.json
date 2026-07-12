@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-12T08:34:07.820Z",
-  "lastRunId": 29186027323,
+  "updatedAt": "2026-07-12T08:35:15.861Z",
+  "lastRunId": 29186055536,
   "items": [
+    {
+      "id": "run_29186055536",
+      "run_id": 29186055536,
+      "artifact_id": 8258031241,
+      "filename": "masquerade-nodes-comfyui.zip",
+      "normalized_name": "masquerade-nodes-comfyui.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/294413022424",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-12T08:34:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29186027323",
       "run_id": 29186027323,
@@ -22959,19 +22972,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-26T01:34:02Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28210739242",
-      "run_id": 28210739242,
-      "artifact_id": 7894780522,
-      "filename": "masquerade-nodes-comfyui.zip",
-      "normalized_name": "masquerade-nodes-comfyui.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/a2b770625a75",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-26T01:12:55Z",
       "workflow": "upload.yml"
     },
     {
