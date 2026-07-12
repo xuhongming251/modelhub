@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-12T09:19:03.191Z",
-  "lastRunId": 29186983623,
+  "updatedAt": "2026-07-12T09:28:57.086Z",
+  "lastRunId": 29187508157,
   "items": [
+    {
+      "id": "run_29187508157",
+      "run_id": 29187508157,
+      "artifact_id": 8258465239,
+      "filename": "WhisperJAV-1.8.14-Windows-x86_64.exe",
+      "normalized_name": "whisperjav-1.8.14-windows-x86_64.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/40cb3a48164d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-12T09:28:13Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29186983623",
       "run_id": 29186983623,
