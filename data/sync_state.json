@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-12T15:40:17.305Z",
-  "lastRunId": 29198612076,
+  "updatedAt": "2026-07-12T15:46:21.609Z",
+  "lastRunId": 29198676933,
   "items": [
+    {
+      "id": "run_29198676933",
+      "run_id": 29198676933,
+      "artifact_id": 8261763018,
+      "filename": "moodyCutieMixKrea2_v10BETA.safetensors",
+      "normalized_name": "moodycutiemixkrea2_v10beta.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/12900ba26fb6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-12T15:45:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29198612076",
       "run_id": 29198612076,
@@ -2939,19 +2952,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-10T15:17:06Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29102675372",
-      "run_id": 29102675372,
-      "artifact_id": 8231574947,
-      "filename": "moodyCutieMixKrea2_v10BETA.safetensors",
-      "normalized_name": "moodycutiemixkrea2_v10beta.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/071f021e55ae",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-10T15:15:38Z",
       "workflow": "upload.yml"
     },
     {
