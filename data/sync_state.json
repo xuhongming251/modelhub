@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-13T11:46:32.210Z",
-  "lastRunId": 29247324347,
+  "updatedAt": "2026-07-13T11:53:33.190Z",
+  "lastRunId": 29247521825,
   "items": [
+    {
+      "id": "run_29247521825",
+      "run_id": 29247521825,
+      "artifact_id": 8278084760,
+      "filename": "Krea2-Turbo-int8-ConvRot.safetensors",
+      "normalized_name": "krea2-turbo-int8-convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/071ebf573b24",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-13T11:52:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29247324347",
       "run_id": 29247324347,
