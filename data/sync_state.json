@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-13T08:14:03.324Z",
-  "lastRunId": 29234546661,
+  "updatedAt": "2026-07-13T08:15:33.738Z",
+  "lastRunId": 29234732782,
   "items": [
+    {
+      "id": "run_29234732782",
+      "run_id": 29234732782,
+      "artifact_id": 8272935419,
+      "filename": "ComfyUI_windows_portable_intel.7z",
+      "normalized_name": "comfyui_windows_portable_intel.7z",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/10fd4e2bc4ac",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-13T08:14:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29234546661",
       "run_id": 29234546661,
