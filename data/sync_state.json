@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-13T12:22:43.033Z",
-  "lastRunId": 29249553460,
+  "updatedAt": "2026-07-13T12:41:38.180Z",
+  "lastRunId": 29250202160,
   "items": [
+    {
+      "id": "run_29250202160",
+      "run_id": 29250202160,
+      "artifact_id": 8279255851,
+      "filename": "10Eros_v1.4_Bob_DMD_INT8_Convrot.safetensors",
+      "normalized_name": "10eros_v1.4_bob_dmd_int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/96fac0e8629e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-13T12:41:02Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29249553460",
       "run_id": 29249553460,
@@ -90310,7 +90323,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
