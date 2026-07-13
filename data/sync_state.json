@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-12T23:57:10.578Z",
-  "lastRunId": 29203078136,
+  "updatedAt": "2026-07-13T00:37:43.227Z",
+  "lastRunId": 29215390715,
   "items": [
+    {
+      "id": "run_29215390715",
+      "run_id": 29215390715,
+      "artifact_id": 8266474338,
+      "filename": "Wan2_2-I2V-A14B-HIGH_fp8_e4m3fn_scaled_KJ.safetensors",
+      "normalized_name": "wan2_2-i2v-a14b-high_fp8_e4m3fn_scaled_kj.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/47bfdfc0a7bd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-13T00:37:07Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29202589143",
       "run_id": 29202589143,
@@ -26755,19 +26768,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-22T00:52:31Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27922968459",
-      "run_id": 27922968459,
-      "artifact_id": 7780994026,
-      "filename": "Wan2_2-I2V-A14B-HIGH_fp8_e4m3fn_scaled_KJ.safetensors",
-      "normalized_name": "wan2_2-i2v-a14b-high_fp8_e4m3fn_scaled_kj.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/4f4374a06598",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-22T00:49:42Z",
       "workflow": "upload.yml"
     },
     {
