@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-13T06:29:24.491Z",
-  "lastRunId": 29228964779,
+  "updatedAt": "2026-07-13T06:31:55.001Z",
+  "lastRunId": 29228972293,
   "items": [
+    {
+      "id": "run_29228940881",
+      "run_id": 29228940881,
+      "artifact_id": 8270880343,
+      "filename": "ltx-2.3-22b-dev-fp8.safetensors",
+      "normalized_name": "ltx-2.3-22b-dev-fp8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b4d4c0f94856",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-13T06:31:31Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29228972293",
+      "run_id": 29228972293,
+      "artifact_id": 8270877953,
+      "filename": "gemma_3_12B_it_fp4_mixed.safetensors",
+      "normalized_name": "gemma_3_12b_it_fp4_mixed.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a39c8aecbcd7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-13T06:31:22Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29228964779",
       "run_id": 29228964779,
@@ -10622,19 +10648,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-05T04:37:17Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28729513073",
-      "run_id": 28729513073,
-      "artifact_id": 8088329252,
-      "filename": "gemma_3_12B_it_fp4_mixed.safetensors",
-      "normalized_name": "gemma_3_12b_it_fp4_mixed.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/6abe033059c0",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-05T04:35:46Z",
       "workflow": "upload.yml"
     },
     {
@@ -25910,19 +25923,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-23T10:23:35Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28017541360",
-      "run_id": 28017541360,
-      "artifact_id": 7817403228,
-      "filename": "ltx-2.3-22b-dev-fp8.safetensors",
-      "normalized_name": "ltx-2.3-22b-dev-fp8.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/9d079ccb90d4",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-23T09:54:56Z",
       "workflow": "upload.yml"
     },
     {
