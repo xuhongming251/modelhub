@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-13T07:52:57.205Z",
-  "lastRunId": 29233446825,
+  "updatedAt": "2026-07-13T08:05:24.508Z",
+  "lastRunId": 29234130303,
   "items": [
+    {
+      "id": "run_29234130303",
+      "run_id": 29234130303,
+      "artifact_id": 8272702026,
+      "filename": "烙印 - 猪 （kanji buta brand）.safetensors",
+      "normalized_name": "烙印 - 猪 （kanji buta brand）.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/01ac3d0ea6ec",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-13T08:04:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29233446825",
       "run_id": 29233446825,
@@ -89959,7 +89972,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
