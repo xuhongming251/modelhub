@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-13T08:59:34.079Z",
-  "lastRunId": 29237324860,
+  "updatedAt": "2026-07-13T09:01:21.309Z",
+  "lastRunId": 29237426778,
   "items": [
+    {
+      "id": "run_29237426778",
+      "run_id": 29237426778,
+      "artifact_id": 8273991482,
+      "filename": "NSFW动作/姿势/视角二次元Lora(anima).safetensors",
+      "normalized_name": "nsfw动作/姿势/视角二次元lora(anima).safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e99821c5e8ab",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-13T09:00:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29237324860",
       "run_id": 29237324860,
@@ -90154,7 +90167,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
