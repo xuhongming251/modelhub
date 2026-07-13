@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-13T07:09:57.135Z",
-  "lastRunId": 29231101240,
+  "updatedAt": "2026-07-13T07:12:10.711Z",
+  "lastRunId": 29231202711,
   "items": [
+    {
+      "id": "run_29231202711",
+      "run_id": 29231202711,
+      "artifact_id": 8271596523,
+      "filename": "guofeng42fp16.3SbT.safetensors",
+      "normalized_name": "guofeng42fp16.3sbt.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/61f651e3029a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-13T07:11:35Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29231080162",
+      "run_id": 29231080162,
+      "artifact_id": 8271562090,
+      "filename": "muse20by20stable20yogi.safetensors",
+      "normalized_name": "muse20by20stable20yogi.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bd37f1a5c204",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-13T07:09:55Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29231101240",
       "run_id": 29231101240,
@@ -78725,12 +78751,6 @@
       "normalized_name": "gemma-4-31b-it-heretic-ara-gguf.zip",
       "share_url": "https://pan.quark.cn/s/284fb401f7af",
       "completed_at": "2026-04-03T22:21:07Z"
-    },
-    {
-      "filename": "guofeng42fp16.3SbT.safetensors",
-      "normalized_name": "guofeng42fp16.3sbt.safetensors",
-      "share_url": "https://pan.quark.cn/s/ef4306fe649f",
-      "completed_at": "2026-04-03T20:13:15Z"
     },
     {
       "filename": "71cd764b-014f-4da7-8200-be4fdfebd5a0",
