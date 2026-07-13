@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-13T17:57:46.349Z",
-  "lastRunId": 29272440371,
+  "updatedAt": "2026-07-13T18:12:24.283Z",
+  "lastRunId": 29273459054,
   "items": [
+    {
+      "id": "run_29273453740",
+      "run_id": 29273453740,
+      "artifact_id": 8288366536,
+      "filename": "Fondled_Wan2.2_14B_I2V_HIGH_v1.0.safetensors",
+      "normalized_name": "fondled_wan2.2_14b_i2v_high_v1.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/26074904c81a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-13T18:11:47Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29273459054",
+      "run_id": 29273459054,
+      "artifact_id": 8288366029,
+      "filename": "glossyV1(anima).safetensors",
+      "normalized_name": "glossyv1(anima).safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cc1b77c3c38f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-13T18:11:44Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29272440371",
       "run_id": 29272440371,
