@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-13T08:58:35.391Z",
-  "lastRunId": 29237208901,
+  "updatedAt": "2026-07-13T08:59:34.079Z",
+  "lastRunId": 29237324860,
   "items": [
+    {
+      "id": "run_29237324860",
+      "run_id": 29237324860,
+      "artifact_id": 8273951967,
+      "filename": "ime2halfreal_flux_klein_9b_r128.safetensors",
+      "normalized_name": "ime2halfreal_flux_klein_9b_r128.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/60399b5590d5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-13T08:58:56Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29237186891",
+      "run_id": 29237186891,
+      "artifact_id": 8273939270,
+      "filename": "anime2halfreal_flux_klein_9b_r128.safetensors",
+      "normalized_name": "anime2halfreal_flux_klein_9b_r128.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ab258a5dbd8a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-13T08:58:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29237208901",
       "run_id": 29237208901,
@@ -90128,7 +90154,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
