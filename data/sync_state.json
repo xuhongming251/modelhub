@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-13T23:28:15.521Z",
-  "lastRunId": 29283849418,
+  "updatedAt": "2026-07-14T00:09:48.647Z",
+  "lastRunId": 29295018651,
   "items": [
+    {
+      "id": "run_29295018651",
+      "run_id": 29295018651,
+      "artifact_id": 8296429584,
+      "filename": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-Q4_K_M.gguf",
+      "normalized_name": "qwen3.6-35b-a3b-uncensored-hauhaucs-aggressive-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4dc4d9b19ce6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-14T00:09:16Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29283849418",
       "run_id": 29283849418,
@@ -75043,12 +75056,6 @@
       "normalized_name": "gemma-4-e4b-it.q8_0.gguf",
       "share_url": "https://pan.quark.cn/s/857b829de8f7",
       "completed_at": "2026-04-21T16:27:23Z"
-    },
-    {
-      "filename": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-Q4_K_M.gguf",
-      "normalized_name": "qwen3.6-35b-a3b-uncensored-hauhaucs-aggressive-q4_k_m.gguf",
-      "share_url": "https://pan.quark.cn/s/cc163ac5e990",
-      "completed_at": "2026-04-21T16:26:57Z"
     },
     {
       "filename": "Qwen3.5-9B-Abliterated-Claude-4.6-Opus-Reasoning-Distilled-v2.Q8_0.gguf",
