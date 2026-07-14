@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-14T07:54:28.457Z",
-  "lastRunId": 29316034600,
+  "updatedAt": "2026-07-14T08:08:45.789Z",
+  "lastRunId": 29316892231,
   "items": [
+    {
+      "id": "run_29316892231",
+      "run_id": 29316892231,
+      "artifact_id": 8304314541,
+      "filename": "splitAnimaV10.safetensors",
+      "normalized_name": "splitanimav10.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7dca9fa63c4f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-14T08:08:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29316034600",
       "run_id": 29316034600,
