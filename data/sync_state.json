@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-14T14:45:51.956Z",
-  "lastRunId": 29342235462,
+  "updatedAt": "2026-07-14T14:47:54.773Z",
+  "lastRunId": 29342348920,
   "items": [
+    {
+      "id": "run_29342348920",
+      "run_id": 29342348920,
+      "artifact_id": 8314581497,
+      "filename": "illuFrey61.5sKj.safetensors",
+      "normalized_name": "illufrey61.5skj.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1d3ad5163a30",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-14T14:47:19Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29342235462",
       "run_id": 29342235462,
@@ -91998,7 +92011,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
