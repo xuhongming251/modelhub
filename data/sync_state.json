@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-14T07:00:48.800Z",
-  "lastRunId": 29313087660,
+  "updatedAt": "2026-07-14T07:02:10.706Z",
+  "lastRunId": 29313122139,
   "items": [
+    {
+      "id": "run_29313122139",
+      "run_id": 29313122139,
+      "artifact_id": 8302879058,
+      "filename": "triton-3.7.1-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+      "normalized_name": "triton-3.7.1-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6e4c5bf946ef",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-14T07:01:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29313087660",
       "run_id": 29313087660,
