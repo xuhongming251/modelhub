@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-14T08:59:02.238Z",
-  "lastRunId": 29319921986,
+  "updatedAt": "2026-07-14T09:00:31.320Z",
+  "lastRunId": 29320036197,
   "items": [
+    {
+      "id": "run_29320036197",
+      "run_id": 29320036197,
+      "artifact_id": 8305512644,
+      "filename": "sageattention-2.2.0.post3+cu130torch2.10.0-cp312-cp312-win_amd64.whl",
+      "normalized_name": "sageattention-2.2.0.post3+cu130torch2.10.0-cp312-cp312-win_amd64.whl",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3567fed05c54",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-14T08:59:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29319921986",
       "run_id": 29319921986,
@@ -1704,19 +1717,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-13T11:31:04Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29242895278",
-      "run_id": 29242895278,
-      "artifact_id": 8276148902,
-      "filename": "sageattention-2.2.0.post3+cu130torch2.10.0-cp312-cp312-win_amd64.whl",
-      "normalized_name": "sageattention-2.2.0.post3+cu130torch2.10.0-cp312-cp312-win_amd64.whl",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/bf71ddaeefb7",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-13T10:29:12Z",
       "workflow": "upload.yml"
     },
     {
