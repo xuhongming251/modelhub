@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-14T05:13:53.079Z",
-  "lastRunId": 29307924103,
+  "updatedAt": "2026-07-14T05:15:00.662Z",
+  "lastRunId": 29307996072,
   "items": [
+    {
+      "id": "run_29307996072",
+      "run_id": 29307996072,
+      "artifact_id": 8300946209,
+      "filename": "qwen_3_06b_base.safetensors",
+      "normalized_name": "qwen_3_06b_base.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9532d7306666",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-14T05:14:32Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29307953726",
+      "run_id": 29307953726,
+      "artifact_id": 8300935239,
+      "filename": "anima-base-v1.0.safetensors",
+      "normalized_name": "anima-base-v1.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a216a3ee3db0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-14T05:13:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29307924103",
       "run_id": 29307924103,
@@ -810,19 +836,6 @@
       "workflow": "upload.yml"
     },
     {
-      "id": "run_29258200078",
-      "run_id": 29258200078,
-      "artifact_id": 8282184563,
-      "filename": "qwen_3_06b_base.safetensors",
-      "normalized_name": "qwen_3_06b_base.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/173f57230200",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-13T14:31:10Z",
-      "workflow": "upload.yml"
-    },
-    {
       "id": "run_29257931186",
       "run_id": 29257931186,
       "artifact_id": 8282090728,
@@ -833,19 +846,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-13T14:28:06Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29254761438",
-      "run_id": 29254761438,
-      "artifact_id": 8280735581,
-      "filename": "anima-base-v1.0.safetensors",
-      "normalized_name": "anima-base-v1.0.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/600060d31cb4",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-13T13:42:37Z",
       "workflow": "upload.yml"
     },
     {
