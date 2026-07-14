@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-14T14:47:54.773Z",
-  "lastRunId": 29342348920,
+  "updatedAt": "2026-07-14T14:59:40.582Z",
+  "lastRunId": 29343253296,
   "items": [
+    {
+      "id": "run_29343253296",
+      "run_id": 29343253296,
+      "artifact_id": 8314945982,
+      "filename": "krea2_darkbrush.safetensors",
+      "normalized_name": "krea2_darkbrush.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a1ca0b84bf5c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-14T14:59:03Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29342348920",
       "run_id": 29342348920,
@@ -22985,19 +22998,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-28T12:41:01Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28322505581",
-      "run_id": 28322505581,
-      "artifact_id": 7934681801,
-      "filename": "krea2_darkbrush.safetensors",
-      "normalized_name": "krea2_darkbrush.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/32e6d3817991",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-28T12:39:54Z",
       "workflow": "upload.yml"
     },
     {
