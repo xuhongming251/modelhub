@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-14T09:55:11.750Z",
-  "lastRunId": 29323404788,
+  "updatedAt": "2026-07-14T10:03:14.233Z",
+  "lastRunId": 29323892738,
   "items": [
+    {
+      "id": "run_29323892738",
+      "run_id": 29323892738,
+      "artifact_id": 8307059566,
+      "filename": "AI-Toolkit-Easy-Install.zip",
+      "normalized_name": "ai-toolkit-easy-install.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0b9666a7f152",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-14T10:02:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29323404788",
       "run_id": 29323404788,
@@ -53041,19 +53054,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-27T12:46:21Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26511193071",
-      "run_id": 26511193071,
-      "artifact_id": 7240234514,
-      "filename": "AI-Toolkit-Easy-Install.zip",
-      "normalized_name": "ai-toolkit-easy-install.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/33a9f281ae7e",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-27T12:30:30Z",
       "workflow": "upload.yml"
     },
     {
