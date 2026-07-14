@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-14T03:18:46.009Z",
-  "lastRunId": 29303169924,
+  "updatedAt": "2026-07-14T03:19:40.772Z",
+  "lastRunId": 29303198713,
   "items": [
+    {
+      "id": "run_29303198713",
+      "run_id": 29303198713,
+      "artifact_id": 8299278547,
+      "filename": "nova-animeam-v30.safetensors",
+      "normalized_name": "nova-animeam-v30.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6fea20898502",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-14T03:19:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29303169924",
       "run_id": 29303169924,
