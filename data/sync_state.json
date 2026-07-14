@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-14T19:41:03.063Z",
-  "lastRunId": 29362684860,
+  "updatedAt": "2026-07-14T19:46:52.881Z",
+  "lastRunId": 29363058358,
   "items": [
+    {
+      "id": "run_29363058358",
+      "run_id": 29363058358,
+      "artifact_id": 8322943181,
+      "filename": "ltx23ReasoningSulphur2.2pCF.safetensors",
+      "normalized_name": "ltx23reasoningsulphur2.2pcf.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d5f42a59bd7f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-14T19:46:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29362684860",
       "run_id": 29362684860,
@@ -32761,19 +32774,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-18T10:21:38Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27752518322",
-      "run_id": 27752518322,
-      "artifact_id": 7720445362,
-      "filename": "ltx23ReasoningSulphur2.2pCF.safetensors",
-      "normalized_name": "ltx23reasoningsulphur2.2pcf.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/ecb06ef7c8e0",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-18T10:14:21Z",
       "workflow": "upload.yml"
     },
     {
