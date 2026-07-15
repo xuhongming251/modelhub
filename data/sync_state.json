@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-15T16:09:18.937Z",
-  "lastRunId": 29431141677,
+  "updatedAt": "2026-07-15T16:58:10.486Z",
+  "lastRunId": 29434520402,
   "items": [
+    {
+      "id": "run_29434520402",
+      "run_id": 29434520402,
+      "artifact_id": 8350802486,
+      "filename": "wan2.2_i2v_A14b_high_noise_scaled_fp8_e4m3_lightx2v_4step_comfyui.git",
+      "normalized_name": "wan2.2_i2v_a14b_high_noise_scaled_fp8_e4m3_lightx2v_4step_comfyui.git",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/aa54775d02bd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-15T16:57:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29431141677",
       "run_id": 29431141677,
