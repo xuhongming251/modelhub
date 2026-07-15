@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-15T14:45:02.655Z",
-  "lastRunId": 29424749554,
+  "updatedAt": "2026-07-15T14:46:21.250Z",
+  "lastRunId": 29424841808,
   "items": [
+    {
+      "id": "run_29424841808",
+      "run_id": 29424841808,
+      "artifact_id": 8346858104,
+      "filename": "sam3.1_multiplex-int8_convrot.safetensors",
+      "normalized_name": "sam3.1_multiplex-int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a49f0e72a551",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-15T14:45:45Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29424749554",
       "run_id": 29424749554,
