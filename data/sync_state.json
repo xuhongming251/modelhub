@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-15T06:08:36.689Z",
+  "updatedAt": "2026-07-15T06:19:04.426Z",
   "lastRunId": 29393311129,
   "items": [
+    {
+      "id": "run_29392152240",
+      "run_id": 29392152240,
+      "artifact_id": 8334275160,
+      "filename": "FLUX.2-klein-base-9B-bucket-uncensored.safetensors",
+      "normalized_name": "flux.2-klein-base-9b-bucket-uncensored.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a8eb1b5c5514",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-15T06:18:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29393311129",
       "run_id": 29393311129,
