@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-15T06:04:02.921Z",
-  "lastRunId": 29392983082,
+  "updatedAt": "2026-07-15T06:08:36.689Z",
+  "lastRunId": 29393311129,
   "items": [
+    {
+      "id": "run_29393311129",
+      "run_id": 29393311129,
+      "artifact_id": 8334093011,
+      "filename": "krea2_vae_diffusion_pytorch_model.safetensors",
+      "normalized_name": "krea2_vae_diffusion_pytorch_model.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/73ede374e494",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-15T06:08:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29392983082",
       "run_id": 29392983082,
@@ -92375,7 +92388,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
