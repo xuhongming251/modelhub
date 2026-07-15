@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-15T05:16:29.812Z",
-  "lastRunId": 29390995074,
+  "updatedAt": "2026-07-15T05:25:28.640Z",
+  "lastRunId": 29391098390,
   "items": [
+    {
+      "id": "run_29391098390",
+      "run_id": 29391098390,
+      "artifact_id": 8333375897,
+      "filename": "Wan2_2-Animate-14B_fp8_scaled_e4m3fn_KJ_v2.safetensors",
+      "normalized_name": "wan2_2-animate-14b_fp8_scaled_e4m3fn_kj_v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e0251f47293e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-15T05:24:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29390995074",
       "run_id": 29390995074,
@@ -47607,19 +47620,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-06T15:04:15Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27065612109",
-      "run_id": 27065612109,
-      "artifact_id": 7455409225,
-      "filename": "Wan2_2-Animate-14B_fp8_scaled_e4m3fn_KJ_v2.safetensors",
-      "normalized_name": "wan2_2-animate-14b_fp8_scaled_e4m3fn_kj_v2.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/a2f55b951c79",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-06T15:02:24Z",
       "workflow": "upload.yml"
     },
     {
