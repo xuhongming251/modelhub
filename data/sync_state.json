@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-15T11:01:17.034Z",
-  "lastRunId": 29410040810,
+  "updatedAt": "2026-07-15T11:11:18.699Z",
+  "lastRunId": 29410663469,
   "items": [
+    {
+      "id": "run_29410663469",
+      "run_id": 29410663469,
+      "artifact_id": 8340956270,
+      "filename": "cetusmixWhalefall2.7fNl.safetensors",
+      "normalized_name": "cetusmixwhalefall2.7fnl.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/026d35414bfb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-15T11:10:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29410040810",
       "run_id": 29410040810,
@@ -23882,19 +23895,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-28T09:21:49Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28316977629",
-      "run_id": 28316977629,
-      "artifact_id": 7932935833,
-      "filename": "cetusmixWhalefall2.7fNl.safetensors",
-      "normalized_name": "cetusmixwhalefall2.7fnl.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/aee2294d18c3",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-28T08:49:40Z",
       "workflow": "upload.yml"
     },
     {
