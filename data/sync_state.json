@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-15T10:31:16.872Z",
-  "lastRunId": 29408333337,
+  "updatedAt": "2026-07-15T10:53:15.597Z",
+  "lastRunId": 29409031302,
   "items": [
+    {
+      "id": "run_29409031302",
+      "run_id": 29409031302,
+      "artifact_id": 8340524864,
+      "filename": "flux-union-controlnet.safetensors",
+      "normalized_name": "flux-union-controlnet.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8034b14757d4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-15T10:52:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29408333337",
       "run_id": 29408333337,
