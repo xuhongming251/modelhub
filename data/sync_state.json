@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-15T18:46:08.889Z",
-  "lastRunId": 29441744164,
+  "updatedAt": "2026-07-15T19:02:24.890Z",
+  "lastRunId": 29441863759,
   "items": [
+    {
+      "id": "run_29441863759",
+      "run_id": 29441863759,
+      "artifact_id": 8354182536,
+      "filename": "Qwen-Rapid-AIO-NSFW-v11.4.safetensors",
+      "normalized_name": "qwen-rapid-aio-nsfw-v11.4.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/46a9517b499e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-15T19:01:48Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29441744164",
       "run_id": 29441744164,
