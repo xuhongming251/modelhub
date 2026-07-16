@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-16T08:38:05.047Z",
-  "lastRunId": 29483963146,
+  "updatedAt": "2026-07-16T09:14:06.553Z",
+  "lastRunId": 29486309443,
   "items": [
+    {
+      "id": "run_29486309443",
+      "run_id": 29486309443,
+      "artifact_id": 8370528531,
+      "filename": "ComfyUI_windows_portable_nvidia.7z",
+      "normalized_name": "comfyui_windows_portable_nvidia.7z",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d910a92daa42",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-16T09:13:34Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29483963146",
       "run_id": 29483963146,
@@ -1717,19 +1730,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-15T05:16:00Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29389944091",
-      "run_id": 29389944091,
-      "artifact_id": 8332832123,
-      "filename": "ComfyUI_windows_portable_nvidia.7z",
-      "normalized_name": "comfyui_windows_portable_nvidia.7z",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/8fa335ce30ed",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-15T04:51:11Z",
       "workflow": "upload.yml"
     },
     {
