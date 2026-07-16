@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-16T05:41:53.928Z",
-  "lastRunId": 29472663375,
+  "updatedAt": "2026-07-16T05:56:39.721Z",
+  "lastRunId": 29472775059,
   "items": [
+    {
+      "id": "run_29472775059",
+      "run_id": 29472775059,
+      "artifact_id": 8366281491,
+      "filename": "Qwen-AgentWorld-35B-A3B-MTP-Uncensored-APEX-I-Balanced.gguf",
+      "normalized_name": "qwen-agentworld-35b-a3b-mtp-uncensored-apex-i-balanced.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a4082561b4ab",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-16T05:56:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29472663375",
       "run_id": 29472663375,
