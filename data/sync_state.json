@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-16T17:22:44.243Z",
-  "lastRunId": 29519438028,
+  "updatedAt": "2026-07-16T17:34:14.684Z",
+  "lastRunId": 29520198129,
   "items": [
+    {
+      "id": "run_29520198129",
+      "run_id": 29520198129,
+      "artifact_id": 8384372432,
+      "filename": "Stable-Yogi-Zimage-Turbo-INT8-ConvRot.safetensors",
+      "normalized_name": "stable-yogi-zimage-turbo-int8-convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3ee74759fe94",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-16T17:33:31Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29519438028",
       "run_id": 29519438028,
