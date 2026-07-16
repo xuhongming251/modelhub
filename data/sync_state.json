@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-16T16:54:28.819Z",
-  "lastRunId": 29517401805,
+  "updatedAt": "2026-07-16T17:01:13.106Z",
+  "lastRunId": 29517926476,
   "items": [
+    {
+      "id": "run_29517926476",
+      "run_id": 29517926476,
+      "artifact_id": 8383448395,
+      "filename": "201-gordon-dini.safetensors",
+      "normalized_name": "201-gordon-dini.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/249f96e8199f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-16T17:00:26Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29517401805",
       "run_id": 29517401805,
@@ -94300,7 +94313,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
