@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-16T17:34:14.684Z",
-  "lastRunId": 29520198129,
+  "updatedAt": "2026-07-16T18:11:51.388Z",
+  "lastRunId": 29522885845,
   "items": [
+    {
+      "id": "run_29522885845",
+      "run_id": 29522885845,
+      "artifact_id": 8385413844,
+      "filename": "RealESRGAN_x4plus.safetensors",
+      "normalized_name": "realesrgan_x4plus.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9c915ca1490d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-16T18:11:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29520198129",
       "run_id": 29520198129,
