@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-16T12:49:39.611Z",
-  "lastRunId": 29499552330,
+  "updatedAt": "2026-07-16T12:57:09.943Z",
+  "lastRunId": 29500013039,
   "items": [
+    {
+      "id": "run_29500013039",
+      "run_id": 29500013039,
+      "artifact_id": 8376054289,
+      "filename": "sinoxvisionKrea2Turbo_v10FP8Scaled.safetensors",
+      "normalized_name": "sinoxvisionkrea2turbo_v10fp8scaled.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/72c009504a6f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-16T12:56:35Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29499592344",
+      "run_id": 29499592344,
+      "artifact_id": 8375858510,
+      "filename": "动作-装填.safetensors",
+      "normalized_name": "动作-装填.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dabbc31e41d0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-16T12:49:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29499552330",
       "run_id": 29499552330,
