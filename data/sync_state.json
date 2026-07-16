@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-16T14:36:31.908Z",
+  "updatedAt": "2026-07-16T14:39:24.685Z",
   "lastRunId": 29507280569,
   "items": [
+    {
+      "id": "run_29507230192",
+      "run_id": 29507230192,
+      "artifact_id": 8379115691,
+      "filename": "F2K-9b-darkBeast_dbkBlitzV15_fp8.safetensors",
+      "normalized_name": "f2k-9b-darkbeast_dbkblitzv15_fp8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/450b528c0f97",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-16T14:38:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29507280569",
       "run_id": 29507280569,
