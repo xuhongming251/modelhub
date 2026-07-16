@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-16T08:32:40.853Z",
-  "lastRunId": 29483730134,
+  "updatedAt": "2026-07-16T08:38:05.047Z",
+  "lastRunId": 29483963146,
   "items": [
+    {
+      "id": "run_29483963146",
+      "run_id": 29483963146,
+      "artifact_id": 8369660734,
+      "filename": "moodyV8.fQWP.safetensors",
+      "normalized_name": "moodyv8.fqwp.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ebbe18607d2d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-16T08:37:25Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29483730134",
       "run_id": 29483730134,
@@ -87695,12 +87708,6 @@
       "normalized_name": "gemma-3-12b-it-heretic-v2_nvfp4.safetensors",
       "share_url": "https://pan.quark.cn/s/b148a49e8718",
       "completed_at": "2026-03-19T04:41:09Z"
-    },
-    {
-      "filename": "moodyV8.fQWP.safetensors",
-      "normalized_name": "moodyv8.fqwp.safetensors",
-      "share_url": "https://pan.quark.cn/s/e93b003e22d2",
-      "completed_at": "2026-03-19T04:31:57Z"
     },
     {
       "filename": "64afa133-d579-4fcc-adb7-408a8bb1c484",
