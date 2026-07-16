@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-16T16:24:00.020Z",
-  "lastRunId": 29515306851,
+  "updatedAt": "2026-07-16T16:30:28.943Z",
+  "lastRunId": 29515781016,
   "items": [
+    {
+      "id": "run_29515781016",
+      "run_id": 29515781016,
+      "artifact_id": 8382575939,
+      "filename": "zit_fdpo_v1.safetensors",
+      "normalized_name": "zit_fdpo_v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9b63631a11fc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-16T16:29:52Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29515306851",
       "run_id": 29515306851,
@@ -94274,7 +94287,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
