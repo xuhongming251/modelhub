@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-16T09:48:22.615Z",
-  "lastRunId": 29488442015,
+  "updatedAt": "2026-07-16T09:53:14.891Z",
+  "lastRunId": 29488690714,
   "items": [
+    {
+      "id": "run_29488690714",
+      "run_id": 29488690714,
+      "artifact_id": 8371495512,
+      "filename": "qwen_3_4b.safetensors",
+      "normalized_name": "qwen_3_4b.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7861f0944b8d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-16T09:52:43Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29488608789",
+      "run_id": 29488608789,
+      "artifact_id": 8371492220,
+      "filename": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-Q4_K_M.gguf",
+      "normalized_name": "qwen3.6-35b-a3b-uncensored-hauhaucs-aggressive-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/737d03079cff",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-16T09:52:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29488442015",
       "run_id": 29488442015,
@@ -1743,19 +1769,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-15T07:32:10Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29395411183",
-      "run_id": 29395411183,
-      "artifact_id": 8334910624,
-      "filename": "qwen_3_4b.safetensors",
-      "normalized_name": "qwen_3_4b.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/a04704849ba8",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-15T06:51:43Z",
       "workflow": "upload.yml"
     },
     {
@@ -4148,19 +4161,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-14T00:34:22Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29295018651",
-      "run_id": 29295018651,
-      "artifact_id": 8296429584,
-      "filename": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-Q4_K_M.gguf",
-      "normalized_name": "qwen3.6-35b-a3b-uncensored-hauhaucs-aggressive-q4_k_m.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/4dc4d9b19ce6",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-14T00:09:16Z",
       "workflow": "upload.yml"
     },
     {
