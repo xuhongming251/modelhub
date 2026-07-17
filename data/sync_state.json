@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-17T07:35:21.450Z",
-  "lastRunId": 29563508955,
+  "updatedAt": "2026-07-17T07:36:41.462Z",
+  "lastRunId": 29563575369,
   "items": [
+    {
+      "id": "run_29563575369",
+      "run_id": 29563575369,
+      "artifact_id": 8400210302,
+      "filename": "pornmaster-krea2-shot-size-slider",
+      "normalized_name": "pornmaster-krea2-shot-size-slider",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f589ed89e8a7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-17T07:36:07Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29563526378",
+      "run_id": 29563526378,
+      "artifact_id": 8400191857,
+      "filename": "pornmaster-krea2-skin-texture-slider",
+      "normalized_name": "pornmaster-krea2-skin-texture-slider",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c9cf3f010311",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-17T07:35:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29563508955",
       "run_id": 29563508955,
@@ -94742,7 +94768,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
