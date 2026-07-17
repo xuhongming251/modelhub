@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-17T07:41:57.013Z",
-  "lastRunId": 29563858404,
+  "updatedAt": "2026-07-17T07:49:34.920Z",
+  "lastRunId": 29564274427,
   "items": [
+    {
+      "id": "run_29564274427",
+      "run_id": 29564274427,
+      "artifact_id": 8400481919,
+      "filename": "Golden Boy_illustriousXL.safetensors",
+      "normalized_name": "golden boy_illustriousxl.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6f6bd29dcde6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-17T07:49:01Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29564220793",
+      "run_id": 29564220793,
+      "artifact_id": 8400482055,
+      "filename": "Krea2-公主脸-Woomy10.safetensors",
+      "normalized_name": "krea2-公主脸-woomy10.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c8048cb39ece",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-17T07:49:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29563858404",
       "run_id": 29563858404,
@@ -94781,7 +94807,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
