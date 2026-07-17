@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-17T07:36:41.462Z",
-  "lastRunId": 29563575369,
+  "updatedAt": "2026-07-17T07:41:57.013Z",
+  "lastRunId": 29563858404,
   "items": [
+    {
+      "id": "run_29563858404",
+      "run_id": 29563858404,
+      "artifact_id": 8400318494,
+      "filename": "Golden Boy_PONY.safetensors",
+      "normalized_name": "golden boy_pony.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/135425a4bc75",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-17T07:41:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29563575369",
       "run_id": 29563575369,
@@ -94768,7 +94781,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
