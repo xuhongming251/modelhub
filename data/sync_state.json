@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-17T06:19:15.135Z",
-  "lastRunId": 29559576798,
+  "updatedAt": "2026-07-17T06:22:04.452Z",
+  "lastRunId": 29559782536,
   "items": [
+    {
+      "id": "run_29559782536",
+      "run_id": 29559782536,
+      "artifact_id": 8398798475,
+      "filename": "OllamaSetup.exe",
+      "normalized_name": "ollamasetup.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/55974fce8747",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-17T06:21:34Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29559576798",
       "run_id": 29559576798,
@@ -62157,19 +62170,6 @@
       "workflow": "upload.yml"
     },
     {
-      "id": "run_26071601091",
-      "run_id": 26071601091,
-      "artifact_id": 7073317543,
-      "filename": "OllamaSetup.exe",
-      "normalized_name": "ollamasetup.exe",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/fdfac2354382",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-19T02:01:03Z",
-      "workflow": "upload.yml"
-    },
-    {
       "id": "run_26069926776",
       "run_id": 26069926776,
       "artifact_id": 7072712143,
@@ -94495,7 +94495,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
