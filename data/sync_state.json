@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-17T06:22:04.452Z",
-  "lastRunId": 29559782536,
+  "updatedAt": "2026-07-17T06:29:00.362Z",
+  "lastRunId": 29559930186,
   "items": [
+    {
+      "id": "run_29559930186",
+      "run_id": 29559930186,
+      "artifact_id": 8398914341,
+      "filename": "wan2.1_14B_SCAIL_2_fp16.safetensors",
+      "normalized_name": "wan2.1_14b_scail_2_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a02ab6f8cd41",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-17T06:28:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29559782536",
       "run_id": 29559782536,
