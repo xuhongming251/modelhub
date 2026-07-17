@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-17T07:49:34.920Z",
-  "lastRunId": 29564274427,
+  "updatedAt": "2026-07-17T08:07:04.928Z",
+  "lastRunId": 29565198248,
   "items": [
+    {
+      "id": "run_29565198248",
+      "run_id": 29565198248,
+      "artifact_id": 8400846228,
+      "filename": "1iTamamiYanagi.safetensors",
+      "normalized_name": "1itamamiyanagi.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/56a7d99559d5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-17T08:06:34Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29564274427",
       "run_id": 29564274427,
@@ -94807,7 +94820,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
