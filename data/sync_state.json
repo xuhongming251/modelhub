@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-17T03:47:23.968Z",
-  "lastRunId": 29551293849,
+  "updatedAt": "2026-07-17T05:26:31.230Z",
+  "lastRunId": 29557277102,
   "items": [
+    {
+      "id": "run_29557277102",
+      "run_id": 29557277102,
+      "artifact_id": 8397901630,
+      "filename": "krea2-textfusion-refusal-reduction-lora",
+      "normalized_name": "krea2-textfusion-refusal-reduction-lora",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b20a08df484a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-17T05:25:52Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29551293849",
       "run_id": 29551293849,
@@ -391,19 +404,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-16T15:14:02Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29510145004",
-      "run_id": 29510145004,
-      "artifact_id": 8380244410,
-      "filename": "krea2-textfusion-refusal-reduction-lora",
-      "normalized_name": "krea2-textfusion-refusal-reduction-lora",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/0756f7b440e3",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-16T15:13:34Z",
       "workflow": "upload.yml"
     },
     {
