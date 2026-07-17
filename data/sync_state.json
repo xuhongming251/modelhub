@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-17T08:17:58.638Z",
-  "lastRunId": 29565891598,
+  "updatedAt": "2026-07-17T08:26:57.066Z",
+  "lastRunId": 29566392792,
   "items": [
+    {
+      "id": "run_29566392792",
+      "run_id": 29566392792,
+      "artifact_id": 8401264158,
+      "filename": "130_n_alice_IL1.safetensors",
+      "normalized_name": "130_n_alice_il1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/be9519f3d1cd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-17T08:26:20Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29565891598",
       "run_id": 29565891598,
@@ -94859,7 +94872,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
