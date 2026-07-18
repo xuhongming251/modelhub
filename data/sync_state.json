@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-18T21:40:21.492Z",
+  "updatedAt": "2026-07-18T21:42:32.827Z",
   "lastRunId": 29662001009,
   "items": [
+    {
+      "id": "run_29661758435",
+      "run_id": 29661758435,
+      "artifact_id": 8434622094,
+      "filename": "RedZDX-v3-ZIB-Distilled-Lucis-5steps-BF16-diffusion-model.safetensors",
+      "normalized_name": "redzdx-v3-zib-distilled-lucis-5steps-bf16-diffusion-model.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7a57759da4a5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-18T21:42:15Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29660596170",
+      "run_id": 29660596170,
+      "artifact_id": 8434620213,
+      "filename": "kreamaniaV5dBf16.ZYVr.safetensors",
+      "normalized_name": "kreamaniav5dbf16.zyvr.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a609488e4c00",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-18T21:42:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29662001009",
       "run_id": 29662001009,
