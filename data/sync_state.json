@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-18T14:16:52.146Z",
-  "lastRunId": 29647675517,
+  "updatedAt": "2026-07-18T14:26:57.306Z",
+  "lastRunId": 29648007658,
   "items": [
+    {
+      "id": "run_29648007658",
+      "run_id": 29648007658,
+      "artifact_id": 8430616430,
+      "filename": "Qwen-Image-2512-Lightning-4steps-V1.0-bf16.safetensors",
+      "normalized_name": "qwen-image-2512-lightning-4steps-v1.0-bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/30465109d0e5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-18T14:26:29Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29647675517",
       "run_id": 29647675517,
@@ -73452,12 +73465,6 @@
       "normalized_name": "intorealism_sdxlv4.safetensors",
       "share_url": "https://pan.quark.cn/s/b2766d8d340f",
       "completed_at": "2026-05-05T03:50:20Z"
-    },
-    {
-      "filename": "Qwen-Image-2512-Lightning-4steps-V1.0-bf16.safetensors",
-      "normalized_name": "qwen-image-2512-lightning-4steps-v1.0-bf16.safetensors",
-      "share_url": "https://pan.quark.cn/s/67b0dec01a0f",
-      "completed_at": "2026-05-05T03:16:25Z"
     },
     {
       "filename": "57-suspender_stockings.safetensors",
