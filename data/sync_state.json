@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-18T17:31:49.310Z",
-  "lastRunId": 29653423959,
+  "updatedAt": "2026-07-18T17:50:36.503Z",
+  "lastRunId": 29654671412,
   "items": [
+    {
+      "id": "run_29654671412",
+      "run_id": 29654671412,
+      "artifact_id": 8432500909,
+      "filename": "anima-official",
+      "normalized_name": "anima-official",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4bf82ba5737e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-18T17:50:07Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29653423959",
       "run_id": 29653423959,
@@ -75251,12 +75264,6 @@
       "normalized_name": "d50e9e9c22ee",
       "share_url": "https://pan.quark.cn/s/87be178bc3c3",
       "completed_at": "2026-05-02T10:04:24Z"
-    },
-    {
-      "filename": "anima-official",
-      "normalized_name": "anima-official",
-      "share_url": "https://pan.quark.cn/s/d50e9e9c22ee",
-      "completed_at": "2026-05-02T10:00:01Z"
     },
     {
       "filename": "diffusion_pytorch_model.fp16.bin",
