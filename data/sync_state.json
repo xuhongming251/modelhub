@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-18T13:39:32.418Z",
-  "lastRunId": 29646503545,
+  "updatedAt": "2026-07-18T13:52:15.695Z",
+  "lastRunId": 29646775898,
   "items": [
+    {
+      "id": "run_29646775898",
+      "run_id": 29646775898,
+      "artifact_id": 8430310424,
+      "filename": "moodyKreaMixV41MM00001.aqK6.safetensors",
+      "normalized_name": "moodykreamixv41mm00001.aqk6.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9c415cd4af12",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-18T13:51:57Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29646773165",
+      "run_id": 29646773165,
+      "artifact_id": 8430309297,
+      "filename": "moodyCutieMixV2BF1600001.vpB8.safetensors",
+      "normalized_name": "moodycutiemixv2bf1600001.vpb8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1bc6fdc9b260",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-18T13:51:50Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29646503545",
       "run_id": 29646503545,
@@ -27,32 +53,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-18T13:36:29Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29646410254",
-      "run_id": 29646410254,
-      "artifact_id": 8430172652,
-      "filename": "moodyCutieMixV2BF1600001.vpB8.safetensors",
-      "normalized_name": "moodycutiemixv2bf1600001.vpb8.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/dc879c4c997e",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-18T13:36:21Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29646393220",
-      "run_id": 29646393220,
-      "artifact_id": 8430167561,
-      "filename": "moodyKreaMixV41MM00001.aqK6.safetensors",
-      "normalized_name": "moodykreamixv41mm00001.aqk6.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/b2d7715aaf26",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-18T13:35:49Z",
       "workflow": "upload.yml"
     },
     {
