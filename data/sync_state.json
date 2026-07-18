@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-18T17:59:49.987Z",
-  "lastRunId": 29654965043,
+  "updatedAt": "2026-07-18T18:10:19.825Z",
+  "lastRunId": 29655160086,
   "items": [
+    {
+      "id": "run_29655160086",
+      "run_id": 29655160086,
+      "artifact_id": 8432681826,
+      "filename": "DWPose.zip",
+      "normalized_name": "dwpose.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7b8d8ebbaf7e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-18T18:09:55Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29654965043",
       "run_id": 29654965043,
@@ -82840,12 +82853,6 @@
       "normalized_name": "e589d05a8c88a8639cd350d984baea51ffe88c5c7c715dd6e9edfd261e368e80.safetensors",
       "share_url": "https://pan.quark.cn/s/a6c33fe9b264",
       "completed_at": "2026-04-12T19:58:50Z"
-    },
-    {
-      "filename": "DWPose.zip",
-      "normalized_name": "dwpose.zip",
-      "share_url": "https://pan.quark.cn/s/4576a7fa810b",
-      "completed_at": "2026-04-12T18:12:03Z"
     },
     {
       "filename": "azure202620crimson.JKi9.safetensors",
