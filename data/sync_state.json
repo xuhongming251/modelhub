@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-18T15:44:06.806Z",
-  "lastRunId": 29649752723,
+  "updatedAt": "2026-07-18T15:55:35.971Z",
+  "lastRunId": 29650919549,
   "items": [
+    {
+      "id": "run_29650919549",
+      "run_id": 29650919549,
+      "artifact_id": 8431438871,
+      "filename": "config.json",
+      "normalized_name": "config.json",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8ac3f8aae11f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-18T15:55:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29649752723",
       "run_id": 29649752723,
@@ -91519,12 +91532,6 @@
       "normalized_name": "control_v11p_sd15_softedge.yaml",
       "share_url": "https://pan.quark.cn/s/88ed590efd77",
       "completed_at": "2026-03-16T04:45:18Z"
-    },
-    {
-      "filename": "config.json",
-      "normalized_name": "config.json",
-      "share_url": "https://pan.quark.cn/s/e37f04d22e9e",
-      "completed_at": "2026-03-16T04:44:44Z"
     },
     {
       "filename": "control_v11p_sd15s2_lineart_anime.yaml",
