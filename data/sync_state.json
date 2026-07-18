@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-18T16:23:33.803Z",
-  "lastRunId": 29651830407,
+  "updatedAt": "2026-07-18T16:24:52.363Z",
+  "lastRunId": 29651883142,
   "items": [
+    {
+      "id": "run_29651883142",
+      "run_id": 29651883142,
+      "artifact_id": 8431705187,
+      "filename": "Wan2.1_I2V_14B_CineScale_ntk20_lora_rank16_fp16.safetensors",
+      "normalized_name": "wan2.1_i2v_14b_cinescale_ntk20_lora_rank16_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5448d799ecf3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-18T16:24:29Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29651830407",
       "run_id": 29651830407,
