@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-19T08:17:31.468Z",
-  "lastRunId": 29679376245,
+  "updatedAt": "2026-07-19T08:45:20.411Z",
+  "lastRunId": 29680325736,
   "items": [
+    {
+      "id": "run_29680325736",
+      "run_id": 29680325736,
+      "artifact_id": 8440343934,
+      "filename": "miaomiaorealskin_anima11.safetensors",
+      "normalized_name": "miaomiaorealskin_anima11.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a24ccc59b98b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-19T08:44:50Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29679376245",
       "run_id": 29679376245,
@@ -8009,19 +8022,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-13T09:08:13Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29237733002",
-      "run_id": 29237733002,
-      "artifact_id": 8274122740,
-      "filename": "miaomiaoRealskin_anima11.safetensors",
-      "normalized_name": "miaomiaorealskin_anima11.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/1eae5611e80a",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-13T09:05:58Z",
       "workflow": "upload.yml"
     },
     {
