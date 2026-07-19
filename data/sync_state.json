@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-19T00:25:01.081Z",
-  "lastRunId": 29666615967,
+  "updatedAt": "2026-07-19T00:27:10.211Z",
+  "lastRunId": 29666939000,
   "items": [
+    {
+      "id": "run_29666939000",
+      "run_id": 29666939000,
+      "artifact_id": 8436007145,
+      "filename": "majicmixRealistic_v7.safetensors",
+      "normalized_name": "majicmixrealistic_v7.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/12025ea57b91",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-19T00:26:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29666146892",
       "run_id": 29666146892,
@@ -76517,12 +76530,6 @@
       "normalized_name": "realisticvisionv60b1_v51hypervae.safetensors",
       "share_url": "https://pan.quark.cn/s/f417c639a7db",
       "completed_at": "2026-05-01T10:39:56Z"
-    },
-    {
-      "filename": "majicmixRealistic_v7.safetensors",
-      "normalized_name": "majicmixrealistic_v7.safetensors",
-      "share_url": "https://pan.quark.cn/s/c36c03fb8736",
-      "completed_at": "2026-05-01T10:38:59Z"
     },
     {
       "filename": "lazymixRealAmateur_v40.safetensors",
