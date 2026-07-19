@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-19T16:55:17.043Z",
-  "lastRunId": 29695777356,
+  "updatedAt": "2026-07-19T16:56:05.416Z",
+  "lastRunId": 29695800495,
   "items": [
+    {
+      "id": "run_29695800495",
+      "run_id": 29695800495,
+      "artifact_id": 8444954387,
+      "filename": "pytorch_lora_weights.safetensors",
+      "normalized_name": "pytorch_lora_weights.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/88e26022f3ab",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-19T16:55:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29695777356",
       "run_id": 29695777356,
@@ -93217,12 +93230,6 @@
       "normalized_name": "vermeil.6qmw.safetensors",
       "share_url": "https://pan.baidu.com/s/16yROJn7yAUZLJ-NOTEEByQ?pwd=25d6",
       "completed_at": "2026-03-14T20:55:16Z"
-    },
-    {
-      "filename": "pytorch_lora_weights.safetensors",
-      "normalized_name": "pytorch_lora_weights.safetensors",
-      "share_url": "https://pan.baidu.com/s/1GSasi1aD-CBRHDhgDsQqwQ?pwd=345f",
-      "completed_at": "2026-03-14T20:51:40Z"
     },
     {
       "filename": "checkpointE47S517.MZ0Y.safetensors",
