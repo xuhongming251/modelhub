@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-19T14:59:11.390Z",
-  "lastRunId": 29691878541,
+  "updatedAt": "2026-07-19T15:10:55.024Z",
+  "lastRunId": 29692262872,
   "items": [
+    {
+      "id": "run_29692262872",
+      "run_id": 29692262872,
+      "artifact_id": 8443939743,
+      "filename": "one20obsession.7KUD.safetensors",
+      "normalized_name": "one20obsession.7kud.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/daca7f90086d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-19T15:10:19Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29691878541",
       "run_id": 29691878541,
@@ -4187,19 +4200,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-16T06:34:42Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29477074375",
-      "run_id": 29477074375,
-      "artifact_id": 8366971395,
-      "filename": "one20obsession.7KUD.safetensors",
-      "normalized_name": "one20obsession.7kud.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/ad7c0d219b2f",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-16T06:34:39Z",
       "workflow": "upload.yml"
     },
     {
