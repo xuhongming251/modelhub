@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-19T06:48:50.965Z",
-  "lastRunId": 29677008102,
+  "updatedAt": "2026-07-19T06:50:46.373Z",
+  "lastRunId": 29677046501,
   "items": [
+    {
+      "id": "run_29677046501",
+      "run_id": 29677046501,
+      "artifact_id": 8439246242,
+      "filename": "bge-large-zh-v1.5.Q8_0.gguf",
+      "normalized_name": "bge-large-zh-v1.5.q8_0.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2569441b427a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-19T06:50:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29677008102",
       "run_id": 29677008102,
