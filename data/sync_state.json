@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-19T05:52:50.346Z",
-  "lastRunId": 29675506969,
+  "updatedAt": "2026-07-19T05:53:54.775Z",
+  "lastRunId": 29675540008,
   "items": [
     {
-      "id": "run_29675506969",
-      "run_id": 29675506969,
-      "artifact_id": 8438728728,
-      "filename": "AnimaohouFlatStep00010000.KSAH.safetensors",
+      "id": "run_29675540008",
+      "run_id": 29675540008,
+      "artifact_id": 8438739316,
+      "filename": "ANIMAohouFlatStep00010000.KSAH.safetensors",
       "normalized_name": "animaohouflatstep00010000.ksah.safetensors",
       "original_url": "",
-      "share_url": "https://pan.quark.cn/s/953bc3ef0618",
+      "share_url": "https://pan.quark.cn/s/2a0b55222954",
       "channel": "quark",
       "channel_name": "Quark",
-      "completed_at": "2026-07-19T05:52:27Z",
+      "completed_at": "2026-07-19T05:53:39Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29675515937",
+      "run_id": 29675515937,
+      "artifact_id": 8438738018,
+      "filename": "Krea2-moodyKrea2MixV41_nvfp4.safetensors",
+      "normalized_name": "krea2-moodykrea2mixv41_nvfp4.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/891264f2456a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-19T05:53:32Z",
       "workflow": "upload.yml"
     },
     {
