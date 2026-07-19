@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-19T12:01:08.959Z",
-  "lastRunId": 29684639848,
+  "updatedAt": "2026-07-19T12:40:42.808Z",
+  "lastRunId": 29687068481,
   "items": [
+    {
+      "id": "run_29687068481",
+      "run_id": 29687068481,
+      "artifact_id": 8442512131,
+      "filename": "Ornith-1.0-35B-uncensored-heretic-Q8_0.gguf",
+      "normalized_name": "ornith-1.0-35b-uncensored-heretic-q8_0.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bf2a92b8626a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-19T12:40:07Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29684639848",
       "run_id": 29684639848,
@@ -13261,19 +13274,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-09T13:54:37Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29021734588",
-      "run_id": 29021734588,
-      "artifact_id": 8200063874,
-      "filename": "Ornith-1.0-35B-uncensored-heretic-Q8_0.gguf",
-      "normalized_name": "ornith-1.0-35b-uncensored-heretic-q8_0.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/5fbb8e82f189",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-09T13:47:16Z",
       "workflow": "upload.yml"
     },
     {
