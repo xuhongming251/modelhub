@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-19T19:41:23.545Z",
-  "lastRunId": 29698182120,
+  "updatedAt": "2026-07-19T20:49:45.006Z",
+  "lastRunId": 29703221455,
   "items": [
+    {
+      "id": "run_29703221455",
+      "run_id": 29703221455,
+      "artifact_id": 8447084228,
+      "filename": "jasna-windows-nvidia-0.8.1.7z.002",
+      "normalized_name": "jasna-windows-nvidia-0.8.1.7z.002",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5824f06d061a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-19T20:49:28Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29703214482",
+      "run_id": 29703214482,
+      "artifact_id": 8447082566,
+      "filename": "jasna-windows-nvidia-0.8.1.7z.001",
+      "normalized_name": "jasna-windows-nvidia-0.8.1.7z.001",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5d18f2b23dd7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-19T20:49:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29698182120",
       "run_id": 29698182120,
