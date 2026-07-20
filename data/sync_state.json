@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-20T14:19:48.226Z",
-  "lastRunId": 29749928378,
+  "updatedAt": "2026-07-20T14:28:18.186Z",
+  "lastRunId": 29750707885,
   "items": [
+    {
+      "id": "run_29750707885",
+      "run_id": 29750707885,
+      "artifact_id": 8464393967,
+      "filename": "yjitiu",
+      "normalized_name": "yjitiu",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ab8661816195",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-20T14:27:46Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29750004054",
+      "run_id": 29750004054,
+      "artifact_id": 8464135197,
+      "filename": "Krea2-MuseByStable_v20Turbo_fp8safetensors",
+      "normalized_name": "krea2-musebystable_v20turbo_fp8safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1f4e0c780057",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-20T14:19:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29749928378",
       "run_id": 29749928378,
