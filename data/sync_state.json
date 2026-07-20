@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-20T12:08:32.934Z",
-  "lastRunId": 29741027789,
+  "updatedAt": "2026-07-20T12:23:20.556Z",
+  "lastRunId": 29741955014,
   "items": [
+    {
+      "id": "run_29741955014",
+      "run_id": 29741955014,
+      "artifact_id": 8460722125,
+      "filename": "danceHipBumpI2vLow.uzgN.safetensors",
+      "normalized_name": "dancehipbumpi2vlow.uzgn.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/912d09c30639",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-20T12:22:44Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29741027789",
       "run_id": 29741027789,
@@ -85563,12 +85576,6 @@
       "completed_at": "2026-04-04T16:14:58Z"
     },
     {
-      "filename": "danceHipBumpI2vLow.uzgN.safetensors",
-      "normalized_name": "dancehipbumpi2vlow.uzgn.safetensors",
-      "share_url": "https://pan.quark.cn/s/51df8ea4189a",
-      "completed_at": "2026-04-04T16:05:11Z"
-    },
-    {
       "filename": "flux1Dev.ojBw.safetensors",
       "normalized_name": "flux1dev.ojbw.safetensors",
       "share_url": "https://pan.quark.cn/s/ced743d81839",
@@ -97001,7 +97008,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 3,
       "createdBefore": null,
       "exhausted": false
     }
