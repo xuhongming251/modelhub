@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-20T11:43:42.845Z",
-  "lastRunId": 29739490705,
+  "updatedAt": "2026-07-20T12:08:32.934Z",
+  "lastRunId": 29741027789,
   "items": [
     {
-      "id": "run_29739490705",
-      "run_id": 29739490705,
-      "artifact_id": 8459740627,
+      "id": "run_29741027789",
+      "run_id": 29741027789,
+      "artifact_id": 8460354662,
       "filename": "model_quint8_avx2.onnx",
       "normalized_name": "model_quint8_avx2.onnx",
       "original_url": "",
-      "share_url": "https://pan.baidu.com/s/1K9fLGZ7nvQe_4NfftXL_kQ?pwd=bc45",
-      "channel": "baidu",
-      "channel_name": "Baidu",
-      "completed_at": "2026-07-20T11:43:06Z",
+      "share_url": "https://yun.139.com/shareweb/#/w/i/2w2KPJDJuSt4m",
+      "channel": "yun139",
+      "channel_name": "yun139",
+      "completed_at": "2026-07-20T12:07:59Z",
       "workflow": "upload.yml"
     },
     {
@@ -97001,7 +97001,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
