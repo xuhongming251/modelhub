@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-20T14:37:10.279Z",
-  "lastRunId": 29751326574,
+  "updatedAt": "2026-07-20T14:38:37.287Z",
+  "lastRunId": 29751481078,
   "items": [
+    {
+      "id": "run_29751481078",
+      "run_id": 29751481078,
+      "artifact_id": 8464732434,
+      "filename": "ComfyUI-Binyuan-NVFP4-Converter.zip",
+      "normalized_name": "comfyui-binyuan-nvfp4-converter.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f9e129cd89ac",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-20T14:38:03Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29751396312",
+      "run_id": 29751396312,
+      "artifact_id": 8464701025,
+      "filename": "ComfyUI-Binyuan-Latent-Helper.zip",
+      "normalized_name": "comfyui-binyuan-latent-helper.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/988c3b7bf4ee",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-20T14:37:03Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29751326574",
       "run_id": 29751326574,
