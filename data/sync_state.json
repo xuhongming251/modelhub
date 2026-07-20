@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-20T15:12:45.507Z",
-  "lastRunId": 29754080086,
+  "updatedAt": "2026-07-20T15:15:17.352Z",
+  "lastRunId": 29754249523,
   "items": [
+    {
+      "id": "run_29754249523",
+      "run_id": 29754249523,
+      "artifact_id": 8465931680,
+      "filename": "GPU-Z.2.70.0.exe",
+      "normalized_name": "gpu-z.2.70.0.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fb1dafec0c0c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-20T15:14:39Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29754080086",
       "run_id": 29754080086,
