@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-20T15:07:47.164Z",
-  "lastRunId": 29753498618,
+  "updatedAt": "2026-07-20T15:12:45.507Z",
+  "lastRunId": 29754080086,
   "items": [
+    {
+      "id": "run_29754080086",
+      "run_id": 29754080086,
+      "artifact_id": 8465857584,
+      "filename": "qwen-image-vae.safetensors",
+      "normalized_name": "qwen-image-vae.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d9650efbfdf9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-20T15:12:27Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29753498618",
       "run_id": 29753498618,
