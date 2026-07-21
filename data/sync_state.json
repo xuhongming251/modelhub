@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-21T13:38:04.635Z",
-  "lastRunId": 29835250914,
+  "updatedAt": "2026-07-21T13:45:15.025Z",
+  "lastRunId": 29835710950,
   "items": [
+    {
+      "id": "run_29835710950",
+      "run_id": 29835710950,
+      "artifact_id": 8497222938,
+      "filename": "krea2redmix30Comfyui.iGA2.safetensors",
+      "normalized_name": "krea2redmix30comfyui.iga2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/93fecff084ee",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-21T13:44:33Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29835297380",
+      "run_id": 29835297380,
+      "artifact_id": 8497019377,
+      "filename": "antelopev2.zip",
+      "normalized_name": "antelopev2.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d21e96776fa9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-21T13:38:00Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29835250914",
       "run_id": 29835250914,
@@ -1873,19 +1899,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-19T17:28:16Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29696603851",
-      "run_id": 29696603851,
-      "artifact_id": 8445187835,
-      "filename": "krea2redmix30Comfyui.iGA2.safetensors",
-      "normalized_name": "krea2redmix30comfyui.iga2.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/b654ef8175ff",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-19T17:21:10Z",
       "workflow": "upload.yml"
     },
     {
