@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-21T04:25:43.775Z",
-  "lastRunId": 29801172980,
+  "updatedAt": "2026-07-21T04:47:31.437Z",
+  "lastRunId": 29801779756,
   "items": [
+    {
+      "id": "run_29801779756",
+      "run_id": 29801779756,
+      "artifact_id": 8484122701,
+      "filename": "Huihui-Qwen3-VL-4B-Instruct-abliterated.safetensors",
+      "normalized_name": "huihui-qwen3-vl-4b-instruct-abliterated.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/00d4035a9c8d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-21T04:47:03Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29801172980",
       "run_id": 29801172980,
@@ -28991,19 +29004,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-28T14:26:23Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28324354338",
-      "run_id": 28324354338,
-      "artifact_id": 7935265282,
-      "filename": "Huihui-Qwen3-VL-4B-Instruct-abliterated.safetensors",
-      "normalized_name": "huihui-qwen3-vl-4b-instruct-abliterated.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/d67ec54de11f",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-28T13:53:05Z",
       "workflow": "upload.yml"
     },
     {
