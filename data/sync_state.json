@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-21T09:56:12.918Z",
-  "lastRunId": 29820178539,
+  "updatedAt": "2026-07-21T10:02:05.720Z",
+  "lastRunId": 29820486731,
   "items": [
+    {
+      "id": "run_29820486731",
+      "run_id": 29820486731,
+      "artifact_id": 8491170534,
+      "filename": "Best_FaceID_v1.0_LoRA.safetensors",
+      "normalized_name": "best_faceid_v1.0_lora.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/edd68dacaf5d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-21T10:01:29Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29820178539",
       "run_id": 29820178539,
