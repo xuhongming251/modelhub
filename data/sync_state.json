@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-21T08:58:17.196Z",
-  "lastRunId": 29816299260,
+  "updatedAt": "2026-07-21T09:08:45.098Z",
+  "lastRunId": 29817040649,
   "items": [
+    {
+      "id": "run_29817040649",
+      "run_id": 29817040649,
+      "artifact_id": 8489764746,
+      "filename": "LinguaHaru-6.6-web-portable.zip",
+      "normalized_name": "linguaharu-6.6-web-portable.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5e6e4130ab35",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-21T09:08:29Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29816977115",
+      "run_id": 29816977115,
+      "artifact_id": 8489757367,
+      "filename": "lightx2v_T2V_14B_cfg_step_distill_v2_lora_rank256_bf16.safetensors",
+      "normalized_name": "lightx2v_t2v_14b_cfg_step_distill_v2_lora_rank256_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1a5125d8a1e4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-21T09:08:12Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29816299260",
       "run_id": 29816299260,
