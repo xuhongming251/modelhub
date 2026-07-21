@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-21T07:08:58.694Z",
-  "lastRunId": 29808322433,
+  "updatedAt": "2026-07-21T07:10:42.952Z",
+  "lastRunId": 29809418138,
   "items": [
+    {
+      "id": "run_29809418138",
+      "run_id": 29809418138,
+      "artifact_id": 8486804080,
+      "filename": "moodyRealV7SEE8908CE5A6B9.KZ7g.safetensors",
+      "normalized_name": "moodyrealv7see8908ce5a6b9.kz7g.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f2b600bc4303",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-21T07:10:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29807046742",
       "run_id": 29807046742,
@@ -794,19 +807,6 @@
       "channel": "baidu",
       "channel_name": "Baidu",
       "completed_at": "2026-07-20T13:36:33Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29745841878",
-      "run_id": 29745841878,
-      "artifact_id": 8462358118,
-      "filename": "moodyRealV7SEE8908CE5A6B9.KZ7g.safetensors",
-      "normalized_name": "moodyrealv7see8908ce5a6b9.kz7g.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/3173477b230e",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-20T13:21:19Z",
       "workflow": "upload.yml"
     },
     {
