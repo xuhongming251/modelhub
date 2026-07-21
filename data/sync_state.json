@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-21T13:20:48.198Z",
-  "lastRunId": 29833641327,
+  "updatedAt": "2026-07-21T13:26:11.618Z",
+  "lastRunId": 29834302968,
   "items": [
+    {
+      "id": "run_29834302968",
+      "run_id": 29834302968,
+      "artifact_id": 8496634337,
+      "filename": "ip-adapter.bin",
+      "normalized_name": "ip-adapter.bin",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/211d565a04b3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-21T13:25:29Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29833936499",
+      "run_id": 29833936499,
+      "artifact_id": 8496490944,
+      "filename": "diffusion_pytorch_model.safetensors",
+      "normalized_name": "diffusion_pytorch_model.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a76ad788ad8c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-21T13:20:44Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29832079972",
       "run_id": 29832079972,
@@ -924,19 +950,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-20T15:20:59Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29754583326",
-      "run_id": 29754583326,
-      "artifact_id": 8466083988,
-      "filename": "diffusion_pytorch_model.safetensors",
-      "normalized_name": "diffusion_pytorch_model.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/f9b6d21cb5aa",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-20T15:19:17Z",
       "workflow": "upload.yml"
     },
     {
@@ -73529,19 +73542,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-08T12:56:07Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25555729298",
-      "run_id": 25555729298,
-      "artifact_id": 6879177323,
-      "filename": "ip-adapter.bin",
-      "normalized_name": "ip-adapter.bin",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/ffd82c1066c6",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-08T12:34:21Z",
       "workflow": "upload.yml"
     },
     {
