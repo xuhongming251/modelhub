@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-21T09:30:02.241Z",
+  "updatedAt": "2026-07-21T09:46:54.551Z",
   "lastRunId": 29818226572,
   "items": [
+    {
+      "id": "run_29816459759",
+      "run_id": 29816459759,
+      "artifact_id": 8490762704,
+      "filename": "models_t5_umt5-xxl-enc-bf16_fully_uncensored.safetensors",
+      "normalized_name": "models_t5_umt5-xxl-enc-bf16_fully_uncensored.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6f433531acfa",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-21T09:46:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29818226572",
       "run_id": 29818226572,
