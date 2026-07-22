@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-22T17:47:46.573Z",
-  "lastRunId": 29943518868,
+  "updatedAt": "2026-07-22T17:51:16.181Z",
+  "lastRunId": 29943934063,
   "items": [
+    {
+      "id": "run_29943934063",
+      "run_id": 29943934063,
+      "artifact_id": 8539393674,
+      "filename": "sd-v1-5-inpainting.ckpt",
+      "normalized_name": "sd-v1-5-inpainting.ckpt",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0c8c6b0a3c53",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-22T17:50:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29943518868",
       "run_id": 29943518868,
