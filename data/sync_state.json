@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-22T17:35:46.900Z",
-  "lastRunId": 29941345565,
+  "updatedAt": "2026-07-22T17:47:46.573Z",
+  "lastRunId": 29943518868,
   "items": [
+    {
+      "id": "run_29943518868",
+      "run_id": 29943518868,
+      "artifact_id": 8539295241,
+      "filename": "sd-v1-5-pruned-emaonly.safetensors",
+      "normalized_name": "sd-v1-5-pruned-emaonly.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/51ac600b7963",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-22T17:47:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29941345565",
       "run_id": 29941345565,
@@ -87007,12 +87020,6 @@
       "normalized_name": "comfyui-advanced-controlnet.zip",
       "share_url": "https://pan.quark.cn/s/e24a11086a3e",
       "completed_at": "2026-04-05T09:40:07Z"
-    },
-    {
-      "filename": "sd-v1-5-pruned-emaonly.safetensors",
-      "normalized_name": "sd-v1-5-pruned-emaonly.safetensors",
-      "share_url": "https://pan.quark.cn/s/42c6e7cfeebf",
-      "completed_at": "2026-04-05T09:28:23Z"
     },
     {
       "filename": "moodyI2iImage2imageZIT_v20DualSampler.zip",
