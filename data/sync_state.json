@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-22T15:00:00.592Z",
-  "lastRunId": 29931104103,
+  "updatedAt": "2026-07-22T15:09:20.458Z",
+  "lastRunId": 29931935772,
   "items": [
+    {
+      "id": "run_29931916669",
+      "run_id": 29931916669,
+      "artifact_id": 8534426586,
+      "filename": "ComfyUI-dapaoAPI.zip",
+      "normalized_name": "comfyui-dapaoapi.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/679fdbd9e15a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-22T15:08:55Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29931935772",
+      "run_id": 29931935772,
+      "artifact_id": 8534423299,
+      "filename": "ComfyUI-Qwen3VL-DP.zip",
+      "normalized_name": "comfyui-qwen3vl-dp.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/924bd68976cb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-22T15:08:51Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29931154222",
+      "run_id": 29931154222,
+      "artifact_id": 8534134187,
+      "filename": "moodyKrea2Mix_cutieXEDITIONINT8.safetensors",
+      "normalized_name": "moodykrea2mix_cutiexeditionint8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/47826a9676b9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-22T14:59:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29931104103",
       "run_id": 29931104103,
@@ -27,19 +66,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-22T14:55:28Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29930744815",
-      "run_id": 29930744815,
-      "artifact_id": 8533979660,
-      "filename": "moodyKrea2Mix_cutieXEDITIONINT8.safetensors",
-      "normalized_name": "moodykrea2mix_cutiexeditionint8.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/1704d8a5a697",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-22T14:55:23Z",
       "workflow": "upload.yml"
     },
     {
@@ -72840,19 +72866,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-10T14:15:44Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25630904970",
-      "run_id": 25630904970,
-      "artifact_id": 6904342694,
-      "filename": "ComfyUI-dapaoAPI.zip",
-      "normalized_name": "comfyui-dapaoapi.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/161843c16a57",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-10T14:14:21Z",
       "workflow": "upload.yml"
     },
     {
