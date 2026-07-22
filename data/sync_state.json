@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-22T10:36:15.370Z",
-  "lastRunId": 29912464886,
+  "updatedAt": "2026-07-22T10:38:38.689Z",
+  "lastRunId": 29912609434,
   "items": [
+    {
+      "id": "run_29912609434",
+      "run_id": 29912609434,
+      "artifact_id": 8526509309,
+      "filename": "3107122",
+      "normalized_name": "3107122",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b37b5956b6cd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-22T10:37:55Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29912525414",
+      "run_id": 29912525414,
+      "artifact_id": 8526468687,
+      "filename": "animaCureArcanaShadow.RXHy.safetensors",
+      "normalized_name": "animacurearcanashadow.rxhy.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/02d0b9cd879b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-22T10:36:18Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29912464886",
       "run_id": 29912464886,
