@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-22T12:15:11.737Z",
-  "lastRunId": 29918769617,
+  "updatedAt": "2026-07-22T13:02:07.547Z",
+  "lastRunId": 29922080524,
   "items": [
+    {
+      "id": "run_29922080524",
+      "run_id": 29922080524,
+      "artifact_id": 8530333561,
+      "filename": "ComfyUI-LCS.zip",
+      "normalized_name": "comfyui-lcs.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/955da8ad54b4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-22T13:01:50Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29922055758",
+      "run_id": 29922055758,
+      "artifact_id": 8530324807,
+      "filename": "comfyui-krea2-conditioning.zip",
+      "normalized_name": "comfyui-krea2-conditioning.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f8f2235c08d0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-22T13:01:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29918769617",
       "run_id": 29918769617,
