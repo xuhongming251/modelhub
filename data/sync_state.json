@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-22T15:55:21.263Z",
+  "updatedAt": "2026-07-22T15:58:16.197Z",
   "lastRunId": 29935552649,
   "items": [
+    {
+      "id": "run_29933818175",
+      "run_id": 29933818175,
+      "artifact_id": 8536035274,
+      "filename": "Qwen3-VL-4B-Instruct.zip",
+      "normalized_name": "qwen3-vl-4b-instruct.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0f67187f12e5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-22T15:57:47Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29935552649",
       "run_id": 29935552649,
@@ -4473,19 +4486,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-18T16:08:47Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29649752723",
-      "run_id": 29649752723,
-      "artifact_id": 8431330514,
-      "filename": "Qwen3-VL-4B-Instruct.zip",
-      "normalized_name": "qwen3-vl-4b-instruct.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/4b4117675c11",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-18T15:43:43Z",
       "workflow": "upload.yml"
     },
     {
