@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-22T15:26:17.803Z",
-  "lastRunId": 29933199859,
+  "updatedAt": "2026-07-22T15:27:15.638Z",
+  "lastRunId": 29933279016,
   "items": [
+    {
+      "id": "run_29933279016",
+      "run_id": 29933279016,
+      "artifact_id": 8535005123,
+      "filename": "krea2GPTGrandPUSSYTruth_krea2GPT.safetensors",
+      "normalized_name": "krea2gptgrandpussytruth_krea2gpt.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6f4659bcf5a5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-22T15:26:43Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29933199859",
       "run_id": 29933199859,
@@ -8464,19 +8477,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-14T16:05:30Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29347513053",
-      "run_id": 29347513053,
-      "artifact_id": 8316729537,
-      "filename": "krea2GPTGrandPUSSYTruth_krea2GPT.safetensors",
-      "normalized_name": "krea2gptgrandpussytruth_krea2gpt.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/9050dd8161a4",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-14T15:57:40Z",
       "workflow": "upload.yml"
     },
     {
