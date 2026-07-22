@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-22T15:31:29.677Z",
-  "lastRunId": 29933694170,
+  "updatedAt": "2026-07-22T15:38:45.444Z",
+  "lastRunId": 29934258941,
   "items": [
+    {
+      "id": "run_29934258941",
+      "run_id": 29934258941,
+      "artifact_id": 8535385610,
+      "filename": "nudify+XL+better+bodies.safetensors",
+      "normalized_name": "nudify+xl+better+bodies.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9bd2884c66bc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-22T15:37:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29933624409",
       "run_id": 29933624409,
@@ -98623,7 +98636,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 3,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
