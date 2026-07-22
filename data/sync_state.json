@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-22T16:55:10.496Z",
-  "lastRunId": 29935552649,
+  "updatedAt": "2026-07-22T17:13:20.414Z",
+  "lastRunId": 29941345565,
   "items": [
+    {
+      "id": "run_29941345565",
+      "run_id": 29941345565,
+      "artifact_id": 8538304992,
+      "filename": "handfinetuning.safetensors",
+      "normalized_name": "handfinetuning.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b9c986ee3fa4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-22T17:12:45Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29922784243",
       "run_id": 29922784243,
