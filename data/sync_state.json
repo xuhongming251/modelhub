@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-23T04:32:27.965Z",
-  "lastRunId": 29979745084,
+  "updatedAt": "2026-07-23T04:37:08.181Z",
+  "lastRunId": 29979954025,
   "items": [
+    {
+      "id": "run_29979954025",
+      "run_id": 29979954025,
+      "artifact_id": 8552819405,
+      "filename": "ponyV6.0qsc.safetensors",
+      "normalized_name": "ponyv6.0qsc.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6f00106b248d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-23T04:36:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29979745084",
       "run_id": 29979745084,
