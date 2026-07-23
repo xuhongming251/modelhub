@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-23T12:25:39.758Z",
+  "updatedAt": "2026-07-23T12:27:31.937Z",
   "lastRunId": 30006864025,
   "items": [
+    {
+      "id": "run_30006660241",
+      "run_id": 30006660241,
+      "artifact_id": 8563402824,
+      "filename": "gemma-3-12b-it-ablit-norms-biproj-fp8mixed.safetensors",
+      "normalized_name": "gemma-3-12b-it-ablit-norms-biproj-fp8mixed.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cccf2be2d7aa",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-23T12:26:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30006864025",
       "run_id": 30006864025,
@@ -25091,19 +25104,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-02T00:27:51Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28556573763",
-      "run_id": 28556573763,
-      "artifact_id": 8025862352,
-      "filename": "gemma-3-12b-it-ablit-norms-biproj-fp8mixed.safetensors",
-      "normalized_name": "gemma-3-12b-it-ablit-norms-biproj-fp8mixed.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/9776537dc8d2",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-02T00:22:06Z",
       "workflow": "upload.yml"
     },
     {
