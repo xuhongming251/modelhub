@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-23T17:09:00.395Z",
+  "updatedAt": "2026-07-23T17:10:07.415Z",
   "lastRunId": 30028101549,
   "items": [
+    {
+      "id": "run_30027777282",
+      "run_id": 30027777282,
+      "artifact_id": 8572164208,
+      "filename": "wan2.2_bernini_r_high_noise_int4_convrot.safetensors",
+      "normalized_name": "wan2.2_bernini_r_high_noise_int4_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3ad646cb5d1e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-23T17:09:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30028101549",
       "run_id": 30028101549,
