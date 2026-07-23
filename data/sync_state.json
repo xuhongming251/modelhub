@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-23T11:02:43.961Z",
-  "lastRunId": 30001565104,
+  "updatedAt": "2026-07-23T11:08:00.969Z",
+  "lastRunId": 30001916882,
   "items": [
+    {
+      "id": "run_30001916882",
+      "run_id": 30001916882,
+      "artifact_id": 8561330864,
+      "filename": "comfyUI-llama-TE.zip",
+      "normalized_name": "comfyui-llama-te.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/483e94038805",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-23T11:07:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30001565104",
       "run_id": 30001565104,
