@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-23T11:55:50.049Z",
-  "lastRunId": 30004918918,
+  "updatedAt": "2026-07-23T12:00:22.088Z",
+  "lastRunId": 30005173057,
   "items": [
+    {
+      "id": "run_30005173057",
+      "run_id": 30005173057,
+      "artifact_id": 8562677946,
+      "filename": "Qwen-Image-ControlNet-Union_InstantX.safetensors",
+      "normalized_name": "qwen-image-controlnet-union_instantx.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1546RT-_Xo-PcUrEjI_SPUg?pwd=1f4d",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-07-23T11:59:43Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30004918918",
       "run_id": 30004918918,
