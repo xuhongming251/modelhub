@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-23T03:13:41.689Z",
-  "lastRunId": 29976378622,
+  "updatedAt": "2026-07-23T04:17:58.278Z",
+  "lastRunId": 29979163097,
   "items": [
+    {
+      "id": "run_29979163097",
+      "run_id": 29979163097,
+      "artifact_id": 8552543962,
+      "filename": "3dchinesestyle25.safetensors",
+      "normalized_name": "3dchinesestyle25.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b7f27fe0ffe0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-23T04:17:27Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29979149755",
+      "run_id": 29979149755,
+      "artifact_id": 8552542939,
+      "filename": "animaTurboV10.safetensors",
+      "normalized_name": "animaturbov10.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a56650f7882e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-23T04:17:26Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29976378622",
       "run_id": 29976378622,
