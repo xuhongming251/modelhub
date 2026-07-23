@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-23T04:37:08.181Z",
-  "lastRunId": 29979954025,
+  "updatedAt": "2026-07-23T04:48:52.777Z",
+  "lastRunId": 29980298400,
   "items": [
+    {
+      "id": "run_29980298400",
+      "run_id": 29980298400,
+      "artifact_id": 8552986726,
+      "filename": "wan2.2_i2v_low_noise_14B_int8_convrot.safetensors",
+      "normalized_name": "wan2.2_i2v_low_noise_14b_int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a41fb53f71cb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-23T04:48:27Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_29980285473",
+      "run_id": 29980285473,
+      "artifact_id": 8552981891,
+      "filename": "wan2.2_i2v_high_noise_14B_int8_convrot.safetensors",
+      "normalized_name": "wan2.2_i2v_high_noise_14b_int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3457348b9a14",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-23T04:48:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_29979954025",
       "run_id": 29979954025,
@@ -17577,32 +17603,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-08T06:36:04Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28921967520",
-      "run_id": 28921967520,
-      "artifact_id": 8159920092,
-      "filename": "wan2.2_i2v_low_noise_14B_int8_convrot.safetensors",
-      "normalized_name": "wan2.2_i2v_low_noise_14b_int8_convrot.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/191f0319fcb5",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-08T06:25:16Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28921959186",
-      "run_id": 28921959186,
-      "artifact_id": 8159908587,
-      "filename": "wan2.2_i2v_high_noise_14B_int8_convrot.safetensors",
-      "normalized_name": "wan2.2_i2v_high_noise_14b_int8_convrot.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/821287cb0a88",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-08T06:24:38Z",
       "workflow": "upload.yml"
     },
     {
