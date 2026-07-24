@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-24T05:14:26.140Z",
-  "lastRunId": 30068504174,
+  "updatedAt": "2026-07-24T05:41:42.624Z",
+  "lastRunId": 30069693413,
   "items": [
+    {
+      "id": "run_30069693413",
+      "run_id": 30069693413,
+      "artifact_id": 8587671990,
+      "filename": "wan2.1_vace_14B_fp16.safetensors",
+      "normalized_name": "wan2.1_vace_14b_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b7c4489567fc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-24T05:41:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30068504174",
       "run_id": 30068504174,
@@ -93501,12 +93514,6 @@
       "normalized_name": "wan2.1-vace-14b-bf16.zip",
       "share_url": "https://pan.quark.cn/s/553130d707cc",
       "completed_at": "2026-03-18T19:49:12Z"
-    },
-    {
-      "filename": "wan2.1_vace_14B_fp16.safetensors",
-      "normalized_name": "wan2.1_vace_14b_fp16.safetensors",
-      "share_url": "https://pan.quark.cn/s/4f3e072b8f5a",
-      "completed_at": "2026-03-18T17:50:35Z"
     },
     {
       "filename": "wan2.1_vace_1.3B_fp16.safetensors",
