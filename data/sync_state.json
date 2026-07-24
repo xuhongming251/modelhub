@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-24T15:51:48.447Z",
-  "lastRunId": 30107023575,
+  "updatedAt": "2026-07-24T15:59:46.773Z",
+  "lastRunId": 30107494226,
   "items": [
+    {
+      "id": "run_30107494226",
+      "run_id": 30107494226,
+      "artifact_id": 8602210396,
+      "filename": "wan-22-experimental-wan-general-nsfw-model",
+      "normalized_name": "wan-22-experimental-wan-general-nsfw-model",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0b7312ec0862",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-24T15:59:02Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30107023575",
       "run_id": 30107023575,
@@ -77130,19 +77143,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-06T08:36:16Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25424719035",
-      "run_id": 25424719035,
-      "artifact_id": 6825790427,
-      "filename": "wan-22-experimental-wan-general-nsfw-model",
-      "normalized_name": "wan-22-experimental-wan-general-nsfw-model",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/4672dd608b55",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-06T08:31:03Z",
       "workflow": "upload.yml"
     },
     {
