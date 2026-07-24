@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-24T06:41:33.634Z",
-  "lastRunId": 30072922549,
+  "updatedAt": "2026-07-24T06:45:00.699Z",
+  "lastRunId": 30073027740,
   "items": [
+    {
+      "id": "run_30073027740",
+      "run_id": 30073027740,
+      "artifact_id": 8588784218,
+      "filename": "达西瓦动漫风格 Krea2TurboUC.safetensors",
+      "normalized_name": "达西瓦动漫风格 krea2turbouc.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2a3ae6ae4f52",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-24T06:44:32Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30072966013",
+      "run_id": 30072966013,
+      "artifact_id": 8588724954,
+      "filename": "Z-Image-Turbo-Fun-Controlnet-Union.safetensors",
+      "normalized_name": "z-image-turbo-fun-controlnet-union.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/64739a6f4d92",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-24T06:41:25Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30072922549",
       "run_id": 30072922549,
@@ -34646,19 +34672,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-24T17:50:49Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28118234150",
-      "run_id": 28118234150,
-      "artifact_id": 7857786135,
-      "filename": "Z-Image-Turbo-Fun-Controlnet-Union.safetensors",
-      "normalized_name": "z-image-turbo-fun-controlnet-union.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/5bae5da388ad",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-24T17:47:33Z",
       "workflow": "upload.yml"
     },
     {
