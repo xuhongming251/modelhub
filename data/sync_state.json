@@ -1,19 +1,45 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-24T12:35:09.140Z",
-  "lastRunId": 30093411471,
+  "updatedAt": "2026-07-24T12:44:56.890Z",
+  "lastRunId": 30094157966,
   "items": [
     {
-      "id": "run_30092926306",
-      "run_id": 30092926306,
-      "artifact_id": 8596635080,
+      "id": "run_30094157966",
+      "run_id": 30094157966,
+      "artifact_id": 8596881031,
+      "filename": "LTX-2.3-OmniNFT-RL-Lora_bf16.safetensors",
+      "normalized_name": "ltx-2.3-omninft-rl-lora_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8773a08b979e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-24T12:44:30Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30094037054",
+      "run_id": 30094037054,
+      "artifact_id": 8596878365,
+      "filename": "ltx-2.3-22b-distilled-lora-1.1_fro90_ceil72_condsafe.safetensors",
+      "normalized_name": "ltx-2.3-22b-distilled-lora-1.1_fro90_ceil72_condsafe.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ac39de0569fe",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-24T12:44:24Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30092362673",
+      "run_id": 30092362673,
+      "artifact_id": 8596643325,
       "filename": "gemma-3-12b-it-heretic-v2_fp8_e4m3fn.safetensors",
       "normalized_name": "gemma-3-12b-it-heretic-v2_fp8_e4m3fn.safetensors",
       "original_url": "",
-      "share_url": "https://pan.quark.cn/s/89f5077f614e",
+      "share_url": "https://pan.quark.cn/s/8454aa778f4d",
       "channel": "quark",
       "channel_name": "Quark",
-      "completed_at": "2026-07-24T12:34:37Z",
+      "completed_at": "2026-07-24T12:34:56Z",
       "workflow": "upload.yml"
     },
     {
@@ -40564,19 +40590,6 @@
       "workflow": "upload.yml"
     },
     {
-      "id": "run_27757454349",
-      "run_id": 27757454349,
-      "artifact_id": 7722479922,
-      "filename": "ltx-2.3-22b-distilled-lora-1.1_fro90_ceil72_condsafe.safetensors",
-      "normalized_name": "ltx-2.3-22b-distilled-lora-1.1_fro90_ceil72_condsafe.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/370996ab3ec4",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-18T11:52:32Z",
-      "workflow": "upload.yml"
-    },
-    {
       "id": "run_27757241221",
       "run_id": 27757241221,
       "artifact_id": 7722391313,
@@ -58163,19 +58176,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-02T08:28:23Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26807807826",
-      "run_id": 26807807826,
-      "artifact_id": 7352633674,
-      "filename": "LTX-2.3-OmniNFT-RL-Lora_bf16.safetensors",
-      "normalized_name": "ltx-2.3-omninft-rl-lora_bf16.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/f8d08bc6d469",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-02T08:25:29Z",
       "workflow": "upload.yml"
     },
     {
