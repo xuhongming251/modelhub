@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-24T06:45:00.699Z",
-  "lastRunId": 30073027740,
+  "updatedAt": "2026-07-24T06:46:45.614Z",
+  "lastRunId": 30073253168,
   "items": [
+    {
+      "id": "run_30073253168",
+      "run_id": 30073253168,
+      "artifact_id": 8588818303,
+      "filename": "Python-3.12.13.tar.xz",
+      "normalized_name": "python-3.12.13.tar.xz",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3e842b41cec6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-24T06:46:16Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30073027740",
       "run_id": 30073027740,
