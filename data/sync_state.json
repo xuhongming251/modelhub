@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-24T15:38:48.185Z",
+  "updatedAt": "2026-07-24T15:44:05.453Z",
   "lastRunId": 30106075362,
   "items": [
+    {
+      "id": "run_30103527301",
+      "run_id": 30103527301,
+      "artifact_id": 8601779704,
+      "filename": "LTX2.3_DMD_reshaped_r256.safetensors",
+      "normalized_name": "ltx2.3_dmd_reshaped_r256.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d4c1cc52b920",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-24T15:43:07Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30106075362",
       "run_id": 30106075362,
@@ -2900,19 +2913,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-21T11:07:37Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29820142059",
-      "run_id": 29820142059,
-      "artifact_id": 8492119395,
-      "filename": "LTX2.3_DMD_reshaped_r256.safetensors",
-      "normalized_name": "ltx2.3_dmd_reshaped_r256.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/93f6813e2be9",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-21T10:38:39Z",
       "workflow": "upload.yml"
     },
     {
