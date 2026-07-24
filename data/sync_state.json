@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-24T15:51:08.901Z",
-  "lastRunId": 30106905694,
+  "updatedAt": "2026-07-24T15:51:48.447Z",
+  "lastRunId": 30107023575,
   "items": [
+    {
+      "id": "run_30107023575",
+      "run_id": 30107023575,
+      "artifact_id": 8602010213,
+      "filename": "slop-twerk-wan-22-i2v",
+      "normalized_name": "slop-twerk-wan-22-i2v",
+      "original_url": "",
+      "share_url": "https://yun.139.com/shareweb/#/w/i/2wFG5vFCcKq0c",
+      "channel": "yun139",
+      "channel_name": "yun139",
+      "completed_at": "2026-07-24T15:51:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30106905694",
       "run_id": 30106905694,
@@ -27,19 +40,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-24T15:50:04Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30106821030",
-      "run_id": 30106821030,
-      "artifact_id": 8601928106,
-      "filename": "slop-twerk-wan-22-i2v",
-      "normalized_name": "slop-twerk-wan-22-i2v",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/c5b162fec75c",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-24T15:48:26Z",
       "workflow": "upload.yml"
     },
     {
