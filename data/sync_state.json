@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-24T07:19:28.433Z",
+  "updatedAt": "2026-07-24T07:23:07.574Z",
   "lastRunId": 30074406426,
   "items": [
+    {
+      "id": "run_30072734147",
+      "run_id": 30072734147,
+      "artifact_id": 8589579456,
+      "filename": "基础型号NSFW20Bf16.safetensors",
+      "normalized_name": "基础型号nsfw20bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bdffca785c20",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-24T07:22:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30072641197",
       "run_id": 30072641197,
