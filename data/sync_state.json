@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-24T15:36:29.168Z",
-  "lastRunId": 30105925865,
+  "updatedAt": "2026-07-24T15:38:48.185Z",
+  "lastRunId": 30106075362,
   "items": [
+    {
+      "id": "run_30106075362",
+      "run_id": 30106075362,
+      "artifact_id": 8601644960,
+      "filename": "PornMaster-Pro-SDXL-V8-VAE.safetensors",
+      "normalized_name": "pornmaster-pro-sdxl-v8-vae.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ac0adcd30769",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-24T15:38:18Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30105925865",
       "run_id": 30105925865,
@@ -1093,19 +1106,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-23T17:08:26Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30024539769",
-      "run_id": 30024539769,
-      "artifact_id": 8570712880,
-      "filename": "PornMaster-Pro-SDXL-V8-VAE.safetensors",
-      "normalized_name": "pornmaster-pro-sdxl-v8-vae.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/bca4d0d4009b",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-23T16:19:55Z",
       "workflow": "upload.yml"
     },
     {
