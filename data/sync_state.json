@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-24T13:18:35.136Z",
-  "lastRunId": 30095775974,
+  "updatedAt": "2026-07-24T13:43:43.973Z",
+  "lastRunId": 30097968964,
   "items": [
+    {
+      "id": "run_30097968964",
+      "run_id": 30097968964,
+      "artifact_id": 8598388870,
+      "filename": "FireRed-Image-Edit-1.0-Lightning-8steps-v1.1.safetensors",
+      "normalized_name": "firered-image-edit-1.0-lightning-8steps-v1.1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6fe326e5740b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-24T13:43:22Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30097904201",
+      "run_id": 30097904201,
+      "artifact_id": 8598383428,
+      "filename": "krea2darkbeast1020steps.QK8N.safetensors",
+      "normalized_name": "krea2darkbeast1020steps.qk8n.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/216613b43673",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-24T13:43:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30094734973",
       "run_id": 30094734973,
@@ -807,19 +833,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-23T17:13:32Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30028237322",
-      "run_id": 30028237322,
-      "artifact_id": 8572224184,
-      "filename": "krea2darkbeast1020steps.QK8N.safetensors",
-      "normalized_name": "krea2darkbeast1020steps.qk8n.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/b2baad39b81f",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-23T17:11:47Z",
       "workflow": "upload.yml"
     },
     {
@@ -86916,12 +86929,6 @@
       "normalized_name": "qwen_image_edit_2511_fp8_e4m3fn_scaled.safetensors",
       "share_url": "https://pan.quark.cn/s/7c7bd843fa65",
       "completed_at": "2026-04-09T04:40:55Z"
-    },
-    {
-      "filename": "FireRed-Image-Edit-1.0-Lightning-8steps-v1.1.safetensors",
-      "normalized_name": "firered-image-edit-1.0-lightning-8steps-v1.1.safetensors",
-      "share_url": "https://pan.quark.cn/s/6d8a5b1dbef3",
-      "completed_at": "2026-04-09T04:18:30Z"
     },
     {
       "filename": "noobaixlnaixl.WvBU.safetensors",
