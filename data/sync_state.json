@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-24T12:09:11.529Z",
-  "lastRunId": 30091858319,
+  "updatedAt": "2026-07-24T12:11:46.625Z",
+  "lastRunId": 30092135359,
   "items": [
+    {
+      "id": "run_30092135359",
+      "run_id": 30092135359,
+      "artifact_id": 8596095966,
+      "filename": "ltx-2.3_text_projection_bf16.safetensors",
+      "normalized_name": "ltx-2.3_text_projection_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e2d634869f8c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-24T12:11:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30091858319",
       "run_id": 30091858319,
@@ -98684,12 +98697,6 @@
       "normalized_name": "mokubapoint.safetensors",
       "share_url": "https://pan.quark.cn/s/3483c03e8092",
       "completed_at": "2026-03-08T09:50:30Z"
-    },
-    {
-      "filename": "ltx-2.3_text_projection_bf16.safetensors",
-      "normalized_name": "ltx-2.3_text_projection_bf16.safetensors",
-      "share_url": "https://pan.quark.cn/s/ab9f441e85e8",
-      "completed_at": "2026-03-08T09:36:12Z"
     },
     {
       "filename": "gcHentaiaV13.VbRT.safetensors",
