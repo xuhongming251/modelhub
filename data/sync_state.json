@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-24T11:17:08.429Z",
-  "lastRunId": 30086576819,
+  "updatedAt": "2026-07-24T11:25:20.714Z",
+  "lastRunId": 30089283404,
   "items": [
+    {
+      "id": "run_30089283404",
+      "run_id": 30089283404,
+      "artifact_id": 8595063086,
+      "filename": "ltx2310eros_v12.safetensors",
+      "normalized_name": "ltx2310eros_v12.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9d2212c95850",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-24T11:24:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30086576819",
       "run_id": 30086576819,
