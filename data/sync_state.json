@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-24T08:01:00.288Z",
-  "lastRunId": 30077290975,
+  "updatedAt": "2026-07-24T08:13:18.125Z",
+  "lastRunId": 30077926369,
   "items": [
+    {
+      "id": "run_30077926369",
+      "run_id": 30077926369,
+      "artifact_id": 8590662928,
+      "filename": "tedainAnima.v2Tu.safetensors",
+      "normalized_name": "tedainanima.v2tu.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c0da2df0a554",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-24T08:12:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30077290975",
       "run_id": 30077290975,
@@ -99391,7 +99404,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 3,
       "createdBefore": null,
       "exhausted": false
     }
