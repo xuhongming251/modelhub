@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-24T04:33:37.458Z",
-  "lastRunId": 30067002957,
+  "updatedAt": "2026-07-24T04:38:52.885Z",
+  "lastRunId": 30067303145,
   "items": [
+    {
+      "id": "run_30067303145",
+      "run_id": 30067303145,
+      "artifact_id": 8586698484,
+      "filename": "mahiruShiinaOtonariNo.DLFv.safetensors",
+      "normalized_name": "mahirushiinaotonarino.dlfv.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/97d2fee6652f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-24T04:38:26Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30067002957",
       "run_id": 30067002957,
@@ -99137,7 +99150,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 3,
       "createdBefore": null,
       "exhausted": false
     }
