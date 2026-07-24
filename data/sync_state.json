@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-24T15:48:44.670Z",
-  "lastRunId": 30106821030,
+  "updatedAt": "2026-07-24T15:51:08.901Z",
+  "lastRunId": 30106905694,
   "items": [
+    {
+      "id": "run_30106905694",
+      "run_id": 30106905694,
+      "artifact_id": 8601974960,
+      "filename": "illustriousXLV01.C4Ut.safetensors",
+      "normalized_name": "illustriousxlv01.c4ut.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/acd308b0f990",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-24T15:50:08Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30104615162",
+      "run_id": 30104615162,
+      "artifact_id": 8601972633,
+      "filename": "LTX2.3_DMD_reshaped_r256.safetensors",
+      "normalized_name": "ltx2.3_dmd_reshaped_r256.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/48d7559cd0a9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-24T15:50:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30106821030",
       "run_id": 30106821030,
@@ -27,19 +53,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-24T15:47:28Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30103527301",
-      "run_id": 30103527301,
-      "artifact_id": 8601779704,
-      "filename": "LTX2.3_DMD_reshaped_r256.safetensors",
-      "normalized_name": "ltx2.3_dmd_reshaped_r256.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/d4c1cc52b920",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-24T15:43:07Z",
       "workflow": "upload.yml"
     },
     {
@@ -9764,19 +9777,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-15T02:05:35Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29382632142",
-      "run_id": 29382632142,
-      "artifact_id": 8330301971,
-      "filename": "illustriousXLV01.C4Ut.safetensors",
-      "normalized_name": "illustriousxlv01.c4ut.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/614650fc6a5b",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-15T01:51:45Z",
       "workflow": "upload.yml"
     },
     {
