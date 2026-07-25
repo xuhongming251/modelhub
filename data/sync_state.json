@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-25T11:22:45.761Z",
-  "lastRunId": 30156110691,
+  "updatedAt": "2026-07-25T11:24:05.109Z",
+  "lastRunId": 30156148556,
   "items": [
+    {
+      "id": "run_30156148556",
+      "run_id": 30156148556,
+      "artifact_id": 8619042024,
+      "filename": "hand_pose_model.pth",
+      "normalized_name": "hand_pose_model.pth",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/41dae2f53e3c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-25T11:23:27Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30156110691",
       "run_id": 30156110691,
@@ -78183,19 +78196,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-05T14:28:10Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25382426356",
-      "run_id": 25382426356,
-      "artifact_id": 6808898347,
-      "filename": "hand_pose_model.pth",
-      "normalized_name": "hand_pose_model.pth",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/e695bcf6f88c",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-05T14:27:19Z",
       "workflow": "upload.yml"
     },
     {
