@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-25T01:59:13.987Z",
-  "lastRunId": 30138833538,
+  "updatedAt": "2026-07-25T02:05:06.186Z",
+  "lastRunId": 30139734236,
   "items": [
+    {
+      "id": "run_30139733092",
+      "run_id": 30139733092,
+      "artifact_id": 8614055294,
+      "filename": "krea2RealismV2.dSP9.safetensors",
+      "normalized_name": "krea2realismv2.dsp9.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/348bc1f492e2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-25T02:04:40Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30139734236",
+      "run_id": 30139734236,
+      "artifact_id": 8614055229,
+      "filename": "Krea2-turbo-Ink_Jade-AIO-V1-fp8.safetensors",
+      "normalized_name": "krea2-turbo-ink_jade-aio-v1-fp8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1-4BMjsZGDmJaDy1F8Uy7UQ?pwd=2d48",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-07-25T02:04:39Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30138063751",
       "run_id": 30138063751,
@@ -20372,19 +20398,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-07T01:22:15Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28834519547",
-      "run_id": 28834519547,
-      "artifact_id": 8125634003,
-      "filename": "krea2RealismV2.dSP9.safetensors",
-      "normalized_name": "krea2realismv2.dsp9.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/cb27ba9995ca",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-07T01:15:25Z",
       "workflow": "upload.yml"
     },
     {
