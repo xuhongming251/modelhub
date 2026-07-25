@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-25T12:44:28.061Z",
-  "lastRunId": 30158301684,
+  "updatedAt": "2026-07-25T12:46:35.463Z",
+  "lastRunId": 30158492951,
   "items": [
+    {
+      "id": "run_30158492951",
+      "run_id": 30158492951,
+      "artifact_id": 8619593798,
+      "filename": "tang-城市设计平面-klein-v4.0.safetensors",
+      "normalized_name": "tang-城市设计平面-klein-v4.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1UrL9pIDQbBYcL9bi8d14Wg?pwd=bad0",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-07-25T12:45:55Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30158301684",
       "run_id": 30158301684,
@@ -53,19 +66,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-25T11:59:11Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30157083468",
-      "run_id": 30157083468,
-      "artifact_id": 8619294136,
-      "filename": "tang-城市设计平面-klein-v4.0.safetensors",
-      "normalized_name": "tang-城市设计平面-klein-v4.0.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.baidu.com/s/1shLLTj_dwdR5rpQnyZ3MEw?pwd=5a45",
-      "channel": "baidu",
-      "channel_name": "Baidu",
-      "completed_at": "2026-07-25T11:56:20Z",
       "workflow": "upload.yml"
     },
     {
