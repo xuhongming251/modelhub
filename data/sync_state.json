@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-25T08:38:04.182Z",
-  "lastRunId": 30151063174,
+  "updatedAt": "2026-07-25T08:45:55.669Z",
+  "lastRunId": 30151651498,
   "items": [
+    {
+      "id": "run_30151651498",
+      "run_id": 30151651498,
+      "artifact_id": 8617806349,
+      "filename": "yolov8m.pt",
+      "normalized_name": "yolov8m.pt",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9c79406438d0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-25T08:45:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30151063174",
       "run_id": 30151063174,
