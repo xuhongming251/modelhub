@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-25T12:46:35.463Z",
-  "lastRunId": 30158492951,
+  "updatedAt": "2026-07-25T13:02:27.139Z",
+  "lastRunId": 30158921135,
   "items": [
+    {
+      "id": "run_30158921135",
+      "run_id": 30158921135,
+      "artifact_id": 8619710299,
+      "filename": "majicflusV1.YIor.safetensors",
+      "normalized_name": "majicflusv1.yior.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a109b542bee4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-25T13:01:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30158492951",
       "run_id": 30158492951,
@@ -100118,12 +100131,6 @@
       "normalized_name": "boobsv21.safetensors",
       "share_url": "https://pan.quark.cn/s/97d23c35aff6",
       "completed_at": "2026-03-07T15:22:55Z"
-    },
-    {
-      "filename": "majicflusV1.YIor.safetensors",
-      "normalized_name": "majicflusv1.yior.safetensors",
-      "share_url": "https://pan.quark.cn/s/78b30d754abd",
-      "completed_at": "2026-03-07T15:22:31Z"
     },
     {
       "filename": "BigNats v2.safetensors",
