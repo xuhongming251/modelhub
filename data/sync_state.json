@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-25T05:05:57.025Z",
-  "lastRunId": 30144919427,
+  "updatedAt": "2026-07-25T05:32:25.031Z",
+  "lastRunId": 30145661849,
   "items": [
+    {
+      "id": "run_30145661849",
+      "run_id": 30145661849,
+      "artifact_id": 8615988660,
+      "filename": "Qwen3VL-4B-Instruct-Q4_K_M.gguf",
+      "normalized_name": "qwen3vl-4b-instruct-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cf227774f944",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-25T05:31:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30144919427",
       "run_id": 30144919427,
