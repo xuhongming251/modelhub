@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-25T03:47:33.282Z",
-  "lastRunId": 30142830830,
+  "updatedAt": "2026-07-25T04:10:49.636Z",
+  "lastRunId": 30143416591,
   "items": [
+    {
+      "id": "run_30143416591",
+      "run_id": 30143416591,
+      "artifact_id": 8615257844,
+      "filename": "Qwen3-VL-8B-Instruct-abliterated-v2.0.Q6_K.gguf",
+      "normalized_name": "qwen3-vl-8b-instruct-abliterated-v2.0.q6_k.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3f778b8ba1ef",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-25T04:10:22Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30142830830",
       "run_id": 30142830830,
