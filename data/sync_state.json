@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-25T18:01:08.785Z",
+  "updatedAt": "2026-07-25T18:04:15.153Z",
   "lastRunId": 30168753108,
   "items": [
+    {
+      "id": "run_30168656829",
+      "run_id": 30168656829,
+      "artifact_id": 8622348173,
+      "filename": "flux1-krea-dev_fp8_scaled.safetensors",
+      "normalized_name": "flux1-krea-dev_fp8_scaled.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0536a2b057cc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-25T18:03:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30168753108",
       "run_id": 30168753108,
