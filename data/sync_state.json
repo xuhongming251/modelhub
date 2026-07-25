@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-25T12:03:58.224Z",
+  "updatedAt": "2026-07-25T12:09:11.330Z",
   "lastRunId": 30157083468,
   "items": [
+    {
+      "id": "run_30157059493",
+      "run_id": 30157059493,
+      "artifact_id": 8619392845,
+      "filename": "flanimeV44fFp16.f5BC.safetensors",
+      "normalized_name": "flanimev44ffp16.f5bc.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/780007040118",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-25T12:08:44Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30157041688",
       "run_id": 30157041688,
@@ -100414,7 +100427,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 3,
       "createdBefore": null,
       "exhausted": false
     }
