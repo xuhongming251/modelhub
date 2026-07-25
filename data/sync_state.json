@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-25T09:42:00.139Z",
-  "lastRunId": 30153163703,
+  "updatedAt": "2026-07-25T10:03:14.925Z",
+  "lastRunId": 30153755682,
   "items": [
+    {
+      "id": "run_30153755682",
+      "run_id": 30153755682,
+      "artifact_id": 8618405069,
+      "filename": "meinamix_meinaV11.safetensors",
+      "normalized_name": "meinamix_meinav11.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3d88e705a0d9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-25T10:02:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30153163703",
       "run_id": 30153163703,
