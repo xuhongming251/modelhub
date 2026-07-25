@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-25T04:51:15.165Z",
-  "lastRunId": 30144709045,
+  "updatedAt": "2026-07-25T05:05:57.025Z",
+  "lastRunId": 30144919427,
   "items": [
+    {
+      "id": "run_30144919427",
+      "run_id": 30144919427,
+      "artifact_id": 8615725765,
+      "filename": "Krea2-qwen3-vl-4b-heretic-Q5_K_M.gguf",
+      "normalized_name": "krea2-qwen3-vl-4b-heretic-q5_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1ef9372fb863",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-25T05:05:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30144709045",
       "run_id": 30144709045,
