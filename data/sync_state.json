@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-25T14:21:03.103Z",
+  "updatedAt": "2026-07-25T14:22:19.622Z",
   "lastRunId": 30161409490,
   "items": [
+    {
+      "id": "run_30161274672",
+      "run_id": 30161274672,
+      "artifact_id": 8620351635,
+      "filename": "Gemma-4-E4B-Uncensored-HauhauCS-Aggressive-Q4_K_P.gguf",
+      "normalized_name": "gemma-4-e4b-uncensored-hauhaucs-aggressive-q4_k_p.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a5183900b184",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-25T14:21:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30161409490",
       "run_id": 30161409490,
