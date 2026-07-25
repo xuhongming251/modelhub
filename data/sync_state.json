@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-25T05:37:58.024Z",
-  "lastRunId": 30146076473,
+  "updatedAt": "2026-07-25T05:39:12.198Z",
+  "lastRunId": 30146107647,
   "items": [
+    {
+      "id": "run_30146107647",
+      "run_id": 30146107647,
+      "artifact_id": 8616052379,
+      "filename": "bantanStep00007000.ztky.safetensors",
+      "normalized_name": "bantanstep00007000.ztky.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b6aa76246eae",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-25T05:38:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30146076473",
       "run_id": 30146076473,
@@ -50480,19 +50493,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-13T05:52:23Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27458305782",
-      "run_id": 27458305782,
-      "artifact_id": 7607887355,
-      "filename": "bantanStep00007000.ztky.safetensors",
-      "normalized_name": "bantanstep00007000.ztky.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/772a9f52e64b",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-13T05:51:36Z",
       "workflow": "upload.yml"
     },
     {
