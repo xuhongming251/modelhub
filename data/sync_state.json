@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-25T10:49:27.467Z",
+  "updatedAt": "2026-07-25T10:52:41.324Z",
   "lastRunId": 30155072688,
   "items": [
+    {
+      "id": "run_30155048371",
+      "run_id": 30155048371,
+      "artifact_id": 8618770565,
+      "filename": "control_v11p_sd15_inpaint.pth",
+      "normalized_name": "control_v11p_sd15_inpaint.pth",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0f5780af3bff",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-25T10:49:27Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30155072688",
       "run_id": 30155072688,
@@ -96228,12 +96241,6 @@
       "normalized_name": "control_v11e_sd15_shuffle.pth",
       "share_url": "https://pan.quark.cn/s/404088744ec0",
       "completed_at": "2026-03-16T04:54:53Z"
-    },
-    {
-      "filename": "control_v11p_sd15_inpaint.pth",
-      "normalized_name": "control_v11p_sd15_inpaint.pth",
-      "share_url": "https://pan.quark.cn/s/6f700a73e3bc",
-      "completed_at": "2026-03-16T04:53:18Z"
     },
     {
       "filename": "control_v11e_sd15_ip2p.yaml",
