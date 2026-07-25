@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-25T17:00:42.284Z",
-  "lastRunId": 30165976701,
+  "updatedAt": "2026-07-25T17:25:34.326Z",
+  "lastRunId": 30167460771,
   "items": [
+    {
+      "id": "run_30167460771",
+      "run_id": 30167460771,
+      "artifact_id": 8622007055,
+      "filename": "qwen3-8b-abliterated-q5_k_m.gguf",
+      "normalized_name": "qwen3-8b-abliterated-q5_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0dad1e372c92",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-25T17:24:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30165976701",
       "run_id": 30165976701,
