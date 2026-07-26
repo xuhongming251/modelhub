@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-26T08:17:38.277Z",
-  "lastRunId": 30194332772,
+  "updatedAt": "2026-07-26T08:19:07.989Z",
+  "lastRunId": 30194380464,
   "items": [
+    {
+      "id": "run_30194380464",
+      "run_id": 30194380464,
+      "artifact_id": 8629627428,
+      "filename": "yoki-k2-v1_000001500.safetensors",
+      "normalized_name": "yoki-k2-v1_000001500.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0f19aa7d518b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-26T08:18:43Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30194332772",
       "run_id": 30194332772,
