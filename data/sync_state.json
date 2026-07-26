@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-26T07:37:40.909Z",
-  "lastRunId": 30193086801,
+  "updatedAt": "2026-07-26T07:41:15.374Z",
+  "lastRunId": 30193217351,
   "items": [
+    {
+      "id": "run_30193217351",
+      "run_id": 30193217351,
+      "artifact_id": 8629262861,
+      "filename": "Momoka-k2-v1-1000.safetensors",
+      "normalized_name": "momoka-k2-v1-1000.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ded4d584c648",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-26T07:40:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30193086801",
       "run_id": 30193086801,
@@ -4993,19 +5006,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-20T19:19:35Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29763474943",
-      "run_id": 29763474943,
-      "artifact_id": 8469775256,
-      "filename": "Momoka-k2-v1-1000.safetensors",
-      "normalized_name": "momoka-k2-v1-1000.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/21f38fe99c33",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-20T17:23:42Z",
       "workflow": "upload.yml"
     },
     {
