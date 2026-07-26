@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-26T08:19:57.905Z",
-  "lastRunId": 30194380464,
+  "updatedAt": "2026-07-26T08:22:31.822Z",
+  "lastRunId": 30194491182,
   "items": [
+    {
+      "id": "run_30194491182",
+      "run_id": 30194491182,
+      "artifact_id": 8629661793,
+      "filename": "momoka-zib-v2_clean.safetensors",
+      "normalized_name": "momoka-zib-v2_clean.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7030d0eca678",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-26T08:22:21Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30194483448",
+      "run_id": 30194483448,
+      "artifact_id": 8629659272,
+      "filename": "momoka-zib-seaart.safetensors",
+      "normalized_name": "momoka-zib-seaart.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bd6fa36df0d6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-26T08:22:03Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30194334839",
       "run_id": 30194334839,
@@ -24207,19 +24233,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-04T08:39:37Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28700756715",
-      "run_id": 28700756715,
-      "artifact_id": 8080102524,
-      "filename": "momoka-zib-seaart.safetensors",
-      "normalized_name": "momoka-zib-seaart.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/f48280e6dc06",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-04T08:38:15Z",
       "workflow": "upload.yml"
     },
     {
