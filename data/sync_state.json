@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-26T07:58:59.270Z",
-  "lastRunId": 30193748227,
+  "updatedAt": "2026-07-26T08:05:16.677Z",
+  "lastRunId": 30193858332,
   "items": [
+    {
+      "id": "run_30193858332",
+      "run_id": 30193858332,
+      "artifact_id": 8629496637,
+      "filename": "Qwythos-9B-Claude-Mythos-5-1M-MTP-Q8_0.gguf",
+      "normalized_name": "qwythos-9b-claude-mythos-5-1m-mtp-q8_0.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/129324e9bccf",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-26T08:04:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30193748227",
       "run_id": 30193748227,
@@ -27964,19 +27977,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-30T22:18:55Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28470622018",
-      "run_id": 28470622018,
-      "artifact_id": 7991928509,
-      "filename": "Qwythos-9B-Claude-Mythos-5-1M-MTP-Q8_0.gguf",
-      "normalized_name": "qwythos-9b-claude-mythos-5-1m-mtp-q8_0.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/1749f1cc0ad8",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-30T19:51:46Z",
       "workflow": "upload.yml"
     },
     {
