@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-26T13:04:02.996Z",
-  "lastRunId": 30203247918,
+  "updatedAt": "2026-07-26T13:10:18.413Z",
+  "lastRunId": 30203480094,
   "items": [
+    {
+      "id": "run_30203480094",
+      "run_id": 30203480094,
+      "artifact_id": 8632362878,
+      "filename": "wan2.2_i2v_lightx2v_4steps_lora_v1_high_noise.safetensors",
+      "normalized_name": "wan2.2_i2v_lightx2v_4steps_lora_v1_high_noise.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/654f9e0dddf1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-26T13:09:58Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30203475617",
+      "run_id": 30203475617,
+      "artifact_id": 8632361827,
+      "filename": "wan2.2_i2v_lightx2v_4steps_lora_v1_low_noise.safetensors",
+      "normalized_name": "wan2.2_i2v_lightx2v_4steps_lora_v1_low_noise.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1fc277da03d4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-26T13:09:52Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30203247918",
       "run_id": 30203247918,
@@ -7476,32 +7502,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-18T21:21:14Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29661416878",
-      "run_id": 29661416878,
-      "artifact_id": 8434431903,
-      "filename": "wan2.2_i2v_lightx2v_4steps_lora_v1_high_noise.safetensors",
-      "normalized_name": "wan2.2_i2v_lightx2v_4steps_lora_v1_high_noise.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/a57ad781bfa1",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-18T21:21:04Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29661411296",
-      "run_id": 29661411296,
-      "artifact_id": 8434430440,
-      "filename": "wan2.2_i2v_lightx2v_4steps_lora_v1_low_noise.safetensors",
-      "normalized_name": "wan2.2_i2v_lightx2v_4steps_lora_v1_low_noise.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/90ff14f56764",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-18T21:20:56Z",
       "workflow": "upload.yml"
     },
     {
