@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-26T09:46:28.724Z",
+  "updatedAt": "2026-07-26T10:01:59.692Z",
   "lastRunId": 30197030386,
   "items": [
+    {
+      "id": "run_30196777023",
+      "run_id": 30196777023,
+      "artifact_id": 8630432316,
+      "filename": "Huihui-HY-MT1.5-1.8B-abliterated.Q4_K_M.gguf",
+      "normalized_name": "huihui-hy-mt1.5-1.8b-abliterated.q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/452415d4dc75",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-26T09:46:23Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30197030386",
       "run_id": 30197030386,
