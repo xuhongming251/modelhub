@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-26T13:11:34.754Z",
-  "lastRunId": 30203480094,
+  "updatedAt": "2026-07-26T13:13:03.370Z",
+  "lastRunId": 30203572603,
   "items": [
+    {
+      "id": "run_30203572603",
+      "run_id": 30203572603,
+      "artifact_id": 8632387550,
+      "filename": "257749",
+      "normalized_name": "257749",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/884419dde908",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-26T13:12:39Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30203469591",
       "run_id": 30203469591,
@@ -89499,12 +89512,6 @@
       "normalized_name": "韩漫风格.safetensors",
       "share_url": "https://pan.quark.cn/s/f53e200ed322",
       "completed_at": "2026-04-05T05:59:58Z"
-    },
-    {
-      "filename": "257749",
-      "normalized_name": "257749",
-      "share_url": "https://pan.quark.cn/s/65ea05f95feb",
-      "completed_at": "2026-04-05T05:54:55Z"
     },
     {
       "filename": "韩漫风格",
