@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-26T08:32:21.290Z",
-  "lastRunId": 30194699218,
+  "updatedAt": "2026-07-26T08:35:02.362Z",
+  "lastRunId": 30194766485,
   "items": [
+    {
+      "id": "run_30194766485",
+      "run_id": 30194766485,
+      "artifact_id": 8629771170,
+      "filename": "sulphurDistil.BPM8.safetensors",
+      "normalized_name": "sulphurdistil.bpm8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5bfbe6df480f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-26T08:34:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30194699218",
       "run_id": 30194699218,
@@ -42771,19 +42784,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-18T06:27:59Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27740816330",
-      "run_id": 27740816330,
-      "artifact_id": 7715691869,
-      "filename": "sulphurDistil.BPM8.safetensors",
-      "normalized_name": "sulphurdistil.bpm8.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/5f79a275847c",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-18T06:23:21Z",
       "workflow": "upload.yml"
     },
     {
