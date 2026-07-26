@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-26T07:42:09.222Z",
-  "lastRunId": 30193217351,
+  "updatedAt": "2026-07-26T07:49:52.091Z",
+  "lastRunId": 30193366670,
   "items": [
+    {
+      "id": "run_30193366670",
+      "run_id": 30193366670,
+      "artifact_id": 8629345774,
+      "filename": "dasiwaKrea2TurboUC.cqGx.safetensors",
+      "normalized_name": "dasiwakrea2turbouc.cqgx.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/763519672d2e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-26T07:49:20Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30193217351",
       "run_id": 30193217351,
@@ -3251,19 +3264,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-22T17:12:45Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29922784243",
-      "run_id": 29922784243,
-      "artifact_id": 8537773713,
-      "filename": "dasiwaKrea2TurboUC.cqGx.safetensors",
-      "normalized_name": "dasiwakrea2turbouc.cqgx.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/af49fcb53a69",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-22T16:54:40Z",
       "workflow": "upload.yml"
     },
     {
