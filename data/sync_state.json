@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-26T04:58:57.459Z",
-  "lastRunId": 30186699809,
+  "updatedAt": "2026-07-26T06:13:08.942Z",
+  "lastRunId": 30190598550,
   "items": [
+    {
+      "id": "run_30190598550",
+      "run_id": 30190598550,
+      "artifact_id": 8628441478,
+      "filename": "mmproj-F32.gguf",
+      "normalized_name": "mmproj-f32.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c5b285559ec7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-26T06:12:34Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30186699809",
       "run_id": 30186699809,
