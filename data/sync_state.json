@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-26T08:12:55.859Z",
-  "lastRunId": 30194184834,
+  "updatedAt": "2026-07-26T08:17:38.277Z",
+  "lastRunId": 30194332772,
   "items": [
+    {
+      "id": "run_30194332772",
+      "run_id": 30194332772,
+      "artifact_id": 8629612470,
+      "filename": "dori-k2-v1.safetensors",
+      "normalized_name": "dori-k2-v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/da8c73b1d594",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-26T08:17:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30194184834",
       "run_id": 30194184834,
