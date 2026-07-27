@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-27T00:30:52.127Z",
-  "lastRunId": 30226765995,
+  "updatedAt": "2026-07-27T00:42:38.793Z",
+  "lastRunId": 30228033121,
   "items": [
+    {
+      "id": "run_30228033121",
+      "run_id": 30228033121,
+      "artifact_id": 8639137194,
+      "filename": "深喉KREA2_D33P_V2.safetensors",
+      "normalized_name": "深喉krea2_d33p_v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d7131f611fc3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-27T00:42:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30226765995",
       "run_id": 30226765995,
@@ -101430,7 +101443,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 3,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
