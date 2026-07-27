@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-27T14:20:02.078Z",
-  "lastRunId": 30274484362,
+  "updatedAt": "2026-07-27T14:25:18.662Z",
+  "lastRunId": 30274826771,
   "items": [
+    {
+      "id": "run_30274826771",
+      "run_id": 30274826771,
+      "artifact_id": 8656366963,
+      "filename": "krea2SAT.MWuF.safetensors",
+      "normalized_name": "krea2sat.mwuf.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/45515fc7105c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-27T14:24:47Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30274484362",
       "run_id": 30274484362,
@@ -625,19 +638,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-27T02:36:54Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30230118943",
-      "run_id": 30230118943,
-      "artifact_id": 8640089237,
-      "filename": "krea2SAT.MWuF.safetensors",
-      "normalized_name": "krea2sat.mwuf.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/eafc7d5c4de1",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-27T01:57:57Z",
       "workflow": "upload.yml"
     },
     {
