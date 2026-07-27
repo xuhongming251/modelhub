@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-27T04:52:32.127Z",
-  "lastRunId": 30238209011,
+  "updatedAt": "2026-07-27T05:11:12.924Z",
+  "lastRunId": 30238317300,
   "items": [
+    {
+      "id": "run_30238317300",
+      "run_id": 30238317300,
+      "artifact_id": 8642577931,
+      "filename": "Wan2.2_Remix_NSFW_i2v_14b_high_lighting_fp16_v2.1.safetensors",
+      "normalized_name": "wan2.2_remix_nsfw_i2v_14b_high_lighting_fp16_v2.1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ddced6029483",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-27T05:10:43Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30238209011",
       "run_id": 30238209011,
@@ -91450,12 +91463,6 @@
       "completed_at": "2026-04-01T09:59:48Z"
     },
     {
-      "filename": "Wan2.2_Remix_NSFW_i2v_14b_high_lighting_fp16_v2.1.safetensors",
-      "normalized_name": "wan2.2_remix_nsfw_i2v_14b_high_lighting_fp16_v2.1.safetensors",
-      "share_url": "https://pan.quark.cn/s/c6a6cce12445",
-      "completed_at": "2026-04-01T09:55:28Z"
-    },
-    {
       "filename": "wan22RemixNSFWI2v14bLow.yTOw.safetensors",
       "normalized_name": "wan22remixnsfwi2v14blow.ytow.safetensors",
       "share_url": "https://pan.quark.cn/s/eec133114751",
@@ -101586,7 +101593,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 3,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
