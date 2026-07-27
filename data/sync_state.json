@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-27T01:22:55.692Z",
-  "lastRunId": 30229633636,
+  "updatedAt": "2026-07-27T01:28:51.011Z",
+  "lastRunId": 30229863754,
   "items": [
+    {
+      "id": "run_30229863754",
+      "run_id": 30229863754,
+      "artifact_id": 8639712316,
+      "filename": "I2V-H-timestop.safetensors",
+      "normalized_name": "i2v-h-timestop.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ca83ec718d92",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-27T01:28:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30229633636",
       "run_id": 30229633636,
