@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-27T01:20:56.447Z",
-  "lastRunId": 30229565051,
+  "updatedAt": "2026-07-27T01:21:54.418Z",
+  "lastRunId": 30229603749,
   "items": [
+    {
+      "id": "run_30229603749",
+      "run_id": 30229603749,
+      "artifact_id": 8639636355,
+      "filename": "lada-v0.11.0_windows_nvidia.7z.002",
+      "normalized_name": "lada-v0.11.0_windows_nvidia.7z.002",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5d62107973b9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-27T01:21:29Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30229598898",
+      "run_id": 30229598898,
+      "artifact_id": 8639636596,
+      "filename": "lada-v0.11.0_windows_nvidia.7z.001",
+      "normalized_name": "lada-v0.11.0_windows_nvidia.7z.001",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/495b35e18616",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-27T01:21:28Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30229565051",
       "run_id": 30229565051,
@@ -16784,32 +16810,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-11T11:07:24Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29149288101",
-      "run_id": 29149288101,
-      "artifact_id": 8247678111,
-      "filename": "lada-v0.11.0_windows_nvidia.7z.002",
-      "normalized_name": "lada-v0.11.0_windows_nvidia.7z.002",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/cca0f12e190b",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-11T10:24:38Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29149281082",
-      "run_id": 29149281082,
-      "artifact_id": 8247677104,
-      "filename": "lada-v0.11.0_windows_nvidia.7z.001",
-      "normalized_name": "lada-v0.11.0_windows_nvidia.7z.001",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/cca6a8a2e6d6",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-11T10:24:28Z",
       "workflow": "upload.yml"
     },
     {
