@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-27T00:08:26.905Z",
-  "lastRunId": 30222723605,
+  "updatedAt": "2026-07-27T00:30:52.127Z",
+  "lastRunId": 30226765995,
   "items": [
+    {
+      "id": "run_30226765995",
+      "run_id": 30226765995,
+      "artifact_id": 8638994829,
+      "filename": "zitc110BF16V11.safetensors",
+      "normalized_name": "zitc110bf16v11.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/888f98b19081",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-27T00:30:22Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30222723605",
       "run_id": 30222723605,
@@ -101417,7 +101430,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 3,
       "createdBefore": null,
       "exhausted": false
     }
