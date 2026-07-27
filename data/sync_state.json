@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-27T13:33:09.839Z",
-  "lastRunId": 30270573960,
+  "updatedAt": "2026-07-27T13:37:58.301Z",
+  "lastRunId": 30270831742,
   "items": [
+    {
+      "id": "run_30270831742",
+      "run_id": 30270831742,
+      "artifact_id": 8654846203,
+      "filename": "Wan_2.2_I2V_LowNoise_10steps_fp8.safetensors",
+      "normalized_name": "wan_2.2_i2v_lownoise_10steps_fp8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0b001ac03e52",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-27T13:37:29Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30270573960",
       "run_id": 30270573960,
