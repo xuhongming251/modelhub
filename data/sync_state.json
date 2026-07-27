@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-27T10:13:23.306Z",
-  "lastRunId": 30257066544,
+  "updatedAt": "2026-07-27T10:30:51.120Z",
+  "lastRunId": 30258259598,
   "items": [
+    {
+      "id": "run_30258259598",
+      "run_id": 30258259598,
+      "artifact_id": 8649801209,
+      "filename": "Civitai 模型文件",
+      "normalized_name": "civitai 模型文件",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1v5KTOCCXMAEyWG4jnFAhTA?pwd=0c52",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-07-27T10:30:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30257066544",
       "run_id": 30257066544,
@@ -3134,19 +3147,6 @@
       "channel": "baidu",
       "channel_name": "Baidu",
       "completed_at": "2026-07-24T18:01:54Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30107405166",
-      "run_id": 30107405166,
-      "artifact_id": 8605163083,
-      "filename": "Civitai 模型文件",
-      "normalized_name": "civitai 模型文件",
-      "original_url": "",
-      "share_url": "https://pan.baidu.com/s/1nIy7JKPZ15SkEMBy17_V8Q?pwd=c5ab",
-      "channel": "baidu",
-      "channel_name": "Baidu",
-      "completed_at": "2026-07-24T18:01:42Z",
       "workflow": "upload.yml"
     },
     {
