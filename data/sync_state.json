@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-27T14:25:18.662Z",
+  "updatedAt": "2026-07-27T14:35:44.819Z",
   "lastRunId": 30274826771,
   "items": [
+    {
+      "id": "run_30273637343",
+      "run_id": 30273637343,
+      "artifact_id": 8656707939,
+      "filename": "Wan_2.2_T2V_HighNoise_10steps_fp8.safetensors",
+      "normalized_name": "wan_2.2_t2v_highnoise_10steps_fp8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6c21d29fad74",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-27T14:35:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30274826771",
       "run_id": 30274826771,
