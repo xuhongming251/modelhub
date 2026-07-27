@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-27T07:09:38.263Z",
-  "lastRunId": 30244926174,
+  "updatedAt": "2026-07-27T07:33:56.628Z",
+  "lastRunId": 30246475072,
   "items": [
+    {
+      "id": "run_30246475072",
+      "run_id": 30246475072,
+      "artifact_id": 8645236182,
+      "filename": "asianFemale.7Y7y.safetensors",
+      "normalized_name": "asianfemale.7y7y.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/14b14883d7e1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-27T07:33:28Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30244926174",
       "run_id": 30244926174,
@@ -101632,7 +101645,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 3,
       "createdBefore": null,
       "exhausted": false
     }
