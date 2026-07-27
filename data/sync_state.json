@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-27T05:11:12.924Z",
-  "lastRunId": 30238317300,
+  "updatedAt": "2026-07-27T05:33:18.995Z",
+  "lastRunId": 30239680019,
   "items": [
+    {
+      "id": "run_30239680019",
+      "run_id": 30239680019,
+      "artifact_id": 8642913382,
+      "filename": "Wan2.2_Remix_NSFW_i2v_14b_high_lighting_fp8_e4m3fn_v2.1.safetensors",
+      "normalized_name": "wan2.2_remix_nsfw_i2v_14b_high_lighting_fp8_e4m3fn_v2.1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dec5ce515ea3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-27T05:32:50Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30238317300",
       "run_id": 30238317300,
