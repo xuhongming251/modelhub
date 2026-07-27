@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-27T09:28:18.391Z",
-  "lastRunId": 30254016951,
+  "updatedAt": "2026-07-27T09:31:24.069Z",
+  "lastRunId": 30254211898,
   "items": [
+    {
+      "id": "run_30254211898",
+      "run_id": 30254211898,
+      "artifact_id": 8648208611,
+      "filename": "flux-lora-000010.safetensors",
+      "normalized_name": "flux-lora-000010.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d31efe749444",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-27T09:30:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30254016951",
       "run_id": 30254016951,
