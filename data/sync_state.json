@@ -1,19 +1,45 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-28T18:00:52.688Z",
-  "lastRunId": 30385312661,
+  "updatedAt": "2026-07-28T18:10:21.341Z",
+  "lastRunId": 30386126273,
   "items": [
     {
-      "id": "run_30385296693",
-      "run_id": 30385296693,
-      "artifact_id": 8698733403,
+      "id": "run_30386126273",
+      "run_id": 30386126273,
+      "artifact_id": 8699012000,
+      "filename": "8x_NMKD-Superscale_150000_G.pth",
+      "normalized_name": "8x_nmkd-superscale_150000_g.pth",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d5c23cb7251a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-28T18:09:34Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30385462060",
+      "run_id": 30385462060,
+      "artifact_id": 8698754086,
+      "filename": "animaTurboLoraV02.nyBd.safetensors",
+      "normalized_name": "animaturbolorav02.nybd.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4b49deeb693f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-28T18:00:53Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30385452475",
+      "run_id": 30385452475,
+      "artifact_id": 8698751995,
       "filename": "animaBase1Painterly.6s1q.safetensors",
       "normalized_name": "animabase1painterly.6s1q.safetensors",
       "original_url": "",
-      "share_url": "https://pan.quark.cn/s/e960d290a44c",
+      "share_url": "https://pan.quark.cn/s/2818599b9432",
       "channel": "quark",
       "channel_name": "Quark",
-      "completed_at": "2026-07-28T18:00:12Z",
+      "completed_at": "2026-07-28T18:00:49Z",
       "workflow": "upload.yml"
     },
     {
@@ -15471,19 +15497,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-14T03:13:33Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29302947518",
-      "run_id": 29302947518,
-      "artifact_id": 8299178209,
-      "filename": "animaTurboLoraV02.nyBd.safetensors",
-      "normalized_name": "animaturbolorav02.nybd.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/464473f60285",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-14T03:12:34Z",
       "workflow": "upload.yml"
     },
     {
@@ -102960,7 +102973,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 3,
       "createdBefore": null,
       "exhausted": false
     }
