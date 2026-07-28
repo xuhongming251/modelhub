@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-28T04:41:14.133Z",
-  "lastRunId": 30329385561,
+  "updatedAt": "2026-07-28T04:44:51.860Z",
+  "lastRunId": 30329549909,
   "items": [
+    {
+      "id": "run_30329549909",
+      "run_id": 30329549909,
+      "artifact_id": 8676863389,
+      "filename": "distill-opus-mt-en-zh.zip",
+      "normalized_name": "distill-opus-mt-en-zh.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d99e8668a8d4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-28T04:44:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30329385561",
       "run_id": 30329385561,
