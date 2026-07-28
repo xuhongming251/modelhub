@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-28T07:19:20.389Z",
-  "lastRunId": 30337905847,
+  "updatedAt": "2026-07-28T07:31:43.377Z",
+  "lastRunId": 30338691891,
   "items": [
+    {
+      "id": "run_30338691891",
+      "run_id": 30338691891,
+      "artifact_id": 8680157784,
+      "filename": "1-光影对比强烈风格.safetensors",
+      "normalized_name": "1-光影对比强烈风格.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7e790c9eb5df",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-28T07:31:12Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30337905847",
       "run_id": 30337905847,
@@ -102478,7 +102491,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 3,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
