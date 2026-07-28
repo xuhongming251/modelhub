@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-28T13:02:59.398Z",
-  "lastRunId": 30361495212,
+  "updatedAt": "2026-07-28T13:40:57.017Z",
+  "lastRunId": 30364515308,
   "items": [
+    {
+      "id": "run_30364515308",
+      "run_id": 30364515308,
+      "artifact_id": 8690190617,
+      "filename": "llama-joycaption-beta-one-hf-llava:Q4_K_M",
+      "normalized_name": "llama-joycaption-beta-one-hf-llava:q4_k_m",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c8f287f2a414",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-28T13:40:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30361495212",
       "run_id": 30361495212,
