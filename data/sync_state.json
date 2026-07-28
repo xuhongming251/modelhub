@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-28T09:10:24.804Z",
-  "lastRunId": 30345379295,
+  "updatedAt": "2026-07-28T09:44:01.083Z",
+  "lastRunId": 30347743714,
   "items": [
+    {
+      "id": "run_30347743714",
+      "run_id": 30347743714,
+      "artifact_id": 8683594223,
+      "filename": "GitHubDesktopSetup-x64.exe",
+      "normalized_name": "githubdesktopsetup-x64.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f7bf78cb1085",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-28T09:43:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30345379295",
       "run_id": 30345379295,
@@ -78989,19 +79002,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-07T12:04:45Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25493850323",
-      "run_id": 25493850323,
-      "artifact_id": 6854234085,
-      "filename": "GitHubDesktopSetup-x64.exe",
-      "normalized_name": "githubdesktopsetup-x64.exe",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/b8140df8f878",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-07T11:47:15Z",
       "workflow": "upload.yml"
     },
     {
