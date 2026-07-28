@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-28T02:21:36.040Z",
-  "lastRunId": 30322839935,
+  "updatedAt": "2026-07-28T02:49:57.913Z",
+  "lastRunId": 30324162707,
   "items": [
+    {
+      "id": "run_30324162707",
+      "run_id": 30324162707,
+      "artifact_id": 8675038056,
+      "filename": "seedvr2_ema_7b-Q8_K_M.gguf",
+      "normalized_name": "seedvr2_ema_7b-q8_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1PBp05Gp40j9pO6eleCC2Pw?pwd=e59b",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-07-28T02:49:20Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30322839935",
       "run_id": 30322839935,
@@ -95043,12 +95056,6 @@
       "normalized_name": "zitc50bf16diffusion.hhkv.safetensors",
       "share_url": "https://pan.quark.cn/s/4189f0ce17d8",
       "completed_at": "2026-03-23T18:22:41Z"
-    },
-    {
-      "filename": "seedvr2_ema_7b-Q8_K_M.gguf",
-      "normalized_name": "seedvr2_ema_7b-q8_k_m.gguf",
-      "share_url": "https://pan.quark.cn/s/72ac0b669943",
-      "completed_at": "2026-03-23T16:52:36Z"
     },
     {
       "filename": "wideShotAnima.vYiM.safetensors",
