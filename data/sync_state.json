@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-28T15:10:07.590Z",
-  "lastRunId": 30371959729,
+  "updatedAt": "2026-07-28T15:15:57.710Z",
+  "lastRunId": 30372236442,
   "items": [
+    {
+      "id": "run_30372236442",
+      "run_id": 30372236442,
+      "artifact_id": 8693466934,
+      "filename": "omnigen2_fp16.safetensors",
+      "normalized_name": "omnigen2_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2b8a4d9730d9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-28T15:15:27Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30371959729",
       "run_id": 30371959729,
