@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-28T09:04:50.592Z",
-  "lastRunId": 30344982449,
+  "updatedAt": "2026-07-28T09:10:24.804Z",
+  "lastRunId": 30345379295,
   "items": [
+    {
+      "id": "run_30345379295",
+      "run_id": 30345379295,
+      "artifact_id": 8682676477,
+      "filename": "ffmpeg-master-latest-win64-gpl-shared.zip",
+      "normalized_name": "ffmpeg-master-latest-win64-gpl-shared.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7e44b2288e9f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-28T09:09:43Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30344982449",
       "run_id": 30344982449,
