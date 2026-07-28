@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-28T11:32:47.738Z",
-  "lastRunId": 30355143000,
+  "updatedAt": "2026-07-28T12:08:31.578Z",
+  "lastRunId": 30357510364,
   "items": [
+    {
+      "id": "run_30357510364",
+      "run_id": 30357510364,
+      "artifact_id": 8687426938,
+      "filename": "krea2redmix30Fp8.coNf.safetensors",
+      "normalized_name": "krea2redmix30fp8.conf.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/849ef52ef424",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-28T12:07:45Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30355143000",
       "run_id": 30355143000,
@@ -4512,19 +4525,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-24T14:41:05Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30101747357",
-      "run_id": 30101747357,
-      "artifact_id": 8599929267,
-      "filename": "krea2redmix30Fp8.coNf.safetensors",
-      "normalized_name": "krea2redmix30fp8.conf.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/3e6f1f2d661b",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-24T14:38:31Z",
       "workflow": "upload.yml"
     },
     {
