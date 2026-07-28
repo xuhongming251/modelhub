@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-28T04:39:00.897Z",
-  "lastRunId": 30329263823,
+  "updatedAt": "2026-07-28T04:41:14.133Z",
+  "lastRunId": 30329385561,
   "items": [
+    {
+      "id": "run_30329385561",
+      "run_id": 30329385561,
+      "artifact_id": 8676811346,
+      "filename": "Furina and Hutao-12318-1-1-1777449260.7z",
+      "normalized_name": "furina and hutao-12318-1-1-1777449260.7z",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f8751b87e8e0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-28T04:40:41Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30329302286",
+      "run_id": 30329302286,
+      "artifact_id": 8676783338,
+      "filename": "head_swap_flux-klein_9b_000003500.safetensors",
+      "normalized_name": "head_swap_flux-klein_9b_000003500.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/107286179fb8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-28T04:38:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30329263823",
       "run_id": 30329263823,
