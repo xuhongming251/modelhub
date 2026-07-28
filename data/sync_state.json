@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-28T05:03:05.469Z",
-  "lastRunId": 30330429785,
+  "updatedAt": "2026-07-28T05:17:15.070Z",
+  "lastRunId": 30331115221,
   "items": [
+    {
+      "id": "run_30331115221",
+      "run_id": 30331115221,
+      "artifact_id": 8677404745,
+      "filename": "Miniconda3-latest-Windows-x86_64.exe",
+      "normalized_name": "miniconda3-latest-windows-x86_64.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/00b396e41009",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-28T05:16:43Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30330429785",
       "run_id": 30330429785,
