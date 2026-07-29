@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-29T09:09:39.449Z",
-  "lastRunId": 30437974255,
+  "updatedAt": "2026-07-29T09:10:50.346Z",
+  "lastRunId": 30438408916,
   "items": [
+    {
+      "id": "run_30438408916",
+      "run_id": 30438408916,
+      "artifact_id": 8718414031,
+      "filename": "qwen_2.5_vl_7b_NVFP4.gguf",
+      "normalized_name": "qwen_2.5_vl_7b_nvfp4.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/25d53b0448ed",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-29T09:10:22Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30437974255",
       "run_id": 30437974255,
