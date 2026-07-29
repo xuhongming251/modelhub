@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-29T23:31:00.017Z",
-  "lastRunId": 30482878806,
+  "updatedAt": "2026-07-29T23:46:00.844Z",
+  "lastRunId": 30500328141,
   "items": [
+    {
+      "id": "run_30500328141",
+      "run_id": 30500328141,
+      "artifact_id": 8743289728,
+      "filename": "darkBeast30BF16INT8_darkBeast330.safetensors",
+      "normalized_name": "darkbeast30bf16int8_darkbeast330.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f4f45785f61b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-29T23:45:31Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30482878806",
       "run_id": 30482878806,
