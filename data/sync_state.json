@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-29T09:55:06.950Z",
-  "lastRunId": 30441411737,
+  "updatedAt": "2026-07-29T09:56:45.235Z",
+  "lastRunId": 30441623064,
   "items": [
+    {
+      "id": "run_30441623064",
+      "run_id": 30441623064,
+      "artifact_id": 8719679351,
+      "filename": "qwen-image-edit-2511-multiple-angles-lora.safetensors",
+      "normalized_name": "qwen-image-edit-2511-multiple-angles-lora.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8dcff4b51382",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-29T09:56:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30441411737",
       "run_id": 30441411737,
@@ -313,19 +326,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-29T04:49:05Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30423021338",
-      "run_id": 30423021338,
-      "artifact_id": 8712576580,
-      "filename": "qwen-image-edit-2511-multiple-angles-lora.safetensors",
-      "normalized_name": "qwen-image-edit-2511-multiple-angles-lora.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/dcac0ce85808",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-29T04:43:21Z",
       "workflow": "upload.yml"
     },
     {
