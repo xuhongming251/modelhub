@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-29T12:29:15.598Z",
-  "lastRunId": 30451652347,
+  "updatedAt": "2026-07-29T13:00:26.920Z",
+  "lastRunId": 30453949030,
   "items": [
+    {
+      "id": "run_30453949030",
+      "run_id": 30453949030,
+      "artifact_id": 8724701736,
+      "filename": "Slower_setup_1.3.4.exe",
+      "normalized_name": "slower_setup_1.3.4.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2d79a23f50f6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-29T12:59:50Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30451652347",
       "run_id": 30451652347,
