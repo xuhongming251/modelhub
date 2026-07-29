@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-29T09:45:51.513Z",
-  "lastRunId": 30440849622,
+  "updatedAt": "2026-07-29T09:47:44.806Z",
+  "lastRunId": 30441000637,
   "items": [
+    {
+      "id": "run_30441000637",
+      "run_id": 30441000637,
+      "artifact_id": 8719432013,
+      "filename": "krea2coser",
+      "normalized_name": "krea2coser",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5e287d8ad7e6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-29T09:47:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30440849622",
       "run_id": 30440849622,
@@ -14,19 +27,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-29T09:45:17Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30440823719",
-      "run_id": 30440823719,
-      "artifact_id": 8719358511,
-      "filename": "krea2coser",
-      "normalized_name": "krea2coser",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/0797d24bbfdc",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-29T09:44:21Z",
       "workflow": "upload.yml"
     },
     {
