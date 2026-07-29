@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-29T17:48:07.408Z",
-  "lastRunId": 30476452998,
+  "updatedAt": "2026-07-29T19:06:40.993Z",
+  "lastRunId": 30482878806,
   "items": [
+    {
+      "id": "run_30482878806",
+      "run_id": 30482878806,
+      "artifact_id": 8736389088,
+      "filename": "OBS-Studio-32.2.1-Windows-x64-Installer.exe",
+      "normalized_name": "obs-studio-32.2.1-windows-x64-installer.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d5e04c058ce2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-29T19:06:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30476452998",
       "run_id": 30476452998,
