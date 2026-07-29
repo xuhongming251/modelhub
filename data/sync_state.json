@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-29T04:35:23.503Z",
-  "lastRunId": 30422627810,
+  "updatedAt": "2026-07-29T04:43:57.664Z",
+  "lastRunId": 30423021338,
   "items": [
+    {
+      "id": "run_30423021338",
+      "run_id": 30423021338,
+      "artifact_id": 8712576580,
+      "filename": "qwen-image-edit-2511-multiple-angles-lora.safetensors",
+      "normalized_name": "qwen-image-edit-2511-multiple-angles-lora.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dcac0ce85808",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-29T04:43:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30422627810",
       "run_id": 30422627810,
@@ -92439,12 +92452,6 @@
       "normalized_name": "beyond20reality_v30.safetensors",
       "share_url": "https://pan.quark.cn/s/6109c6cac0a0",
       "completed_at": "2026-04-02T09:36:36Z"
-    },
-    {
-      "filename": "qwen-image-edit-2511-multiple-angles-lora.safetensors",
-      "normalized_name": "qwen-image-edit-2511-multiple-angles-lora.safetensors",
-      "share_url": "https://pan.quark.cn/s/46ea90ec7490",
-      "completed_at": "2026-04-02T08:43:13Z"
     },
     {
       "filename": "xplusZV1300001.QacX.safetensors",
