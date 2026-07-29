@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-29T09:56:45.235Z",
-  "lastRunId": 30441623064,
+  "updatedAt": "2026-07-29T10:08:42.774Z",
+  "lastRunId": 30441646111,
   "items": [
+    {
+      "id": "run_30441646111",
+      "run_id": 30441646111,
+      "artifact_id": 8719695600,
+      "filename": "krea2Coser.CQDH.safetensors",
+      "normalized_name": "krea2coser.cqdh.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/49ee609066a9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-29T09:56:47Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30441623064",
       "run_id": 30441623064,
@@ -170,19 +183,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-29T09:01:00Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30434717176",
-      "run_id": 30434717176,
-      "artifact_id": 8716943179,
-      "filename": "krea2Coser.CQDH.safetensors",
-      "normalized_name": "krea2coser.cqdh.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/b554eb5b3973",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-29T08:15:00Z",
       "workflow": "upload.yml"
     },
     {
