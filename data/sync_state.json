@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-30T03:59:10.734Z",
-  "lastRunId": 30512568802,
+  "updatedAt": "2026-07-30T04:08:35.506Z",
+  "lastRunId": 30512795168,
   "items": [
+    {
+      "id": "run_30512795168",
+      "run_id": 30512795168,
+      "artifact_id": 8747817360,
+      "filename": "Wan2_1-I2V-14B-480p_fp8_e4m3fn_scaled_KJ.safetensors",
+      "normalized_name": "wan2_1-i2v-14b-480p_fp8_e4m3fn_scaled_kj.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d1c5ba41fa6e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-30T04:08:00Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30512568802",
       "run_id": 30512568802,
@@ -86141,12 +86154,6 @@
       "normalized_name": "wav2vec2-chinese-base_fp16.safetensors",
       "share_url": "https://pan.quark.cn/s/617414f0f786",
       "completed_at": "2026-04-27T21:44:29Z"
-    },
-    {
-      "filename": "Wan2_1-I2V-14B-480p_fp8_e4m3fn_scaled_KJ.safetensors",
-      "normalized_name": "wan2_1-i2v-14b-480p_fp8_e4m3fn_scaled_kj.safetensors",
-      "share_url": "https://pan.quark.cn/s/f131306bca73",
-      "completed_at": "2026-04-27T21:05:50Z"
     },
     {
       "filename": "wan2.1_infiniteTalk_multi_fp16.safetensors",
