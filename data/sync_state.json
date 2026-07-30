@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-30T03:37:46.365Z",
-  "lastRunId": 30510925864,
+  "updatedAt": "2026-07-30T03:56:09.374Z",
+  "lastRunId": 30512418659,
   "items": [
+    {
+      "id": "run_30512418659",
+      "run_id": 30512418659,
+      "artifact_id": 8747618827,
+      "filename": "Wan2.1-Fun-14B-InP-HPS2.1_reward_lora_comfy.safetensors",
+      "normalized_name": "wan2.1-fun-14b-inp-hps2.1_reward_lora_comfy.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1ebba0cb8fdc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-30T03:55:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30510925864",
       "run_id": 30510925864,
@@ -88012,12 +88025,6 @@
       "normalized_name": "wan2.2-lightning_i2v-a14b-4steps-lora_low_fp16.safetensors",
       "share_url": "https://pan.quark.cn/s/c16d5bdb36d2",
       "completed_at": "2026-04-23T08:58:22Z"
-    },
-    {
-      "filename": "Wan2.1-Fun-14B-InP-HPS2.1_reward_lora_comfy.safetensors",
-      "normalized_name": "wan2.1-fun-14b-inp-hps2.1_reward_lora_comfy.safetensors",
-      "share_url": "https://pan.quark.cn/s/fddfa33d4602",
-      "completed_at": "2026-04-23T07:37:01Z"
     },
     {
       "filename": "Sakiri-000007.safetensors",
