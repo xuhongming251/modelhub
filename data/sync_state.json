@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-30T05:04:59.847Z",
-  "lastRunId": 30515521780,
+  "updatedAt": "2026-07-30T05:05:41.616Z",
+  "lastRunId": 30515588802,
   "items": [
+    {
+      "id": "run_30515588802",
+      "run_id": 30515588802,
+      "artifact_id": 8748738845,
+      "filename": "depth-control-lora.safetensors",
+      "normalized_name": "depth-control-lora.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8e44e9f38d2c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-30T05:05:07Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30515091518",
       "run_id": 30515091518,
