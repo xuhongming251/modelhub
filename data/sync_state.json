@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-30T14:08:13.240Z",
-  "lastRunId": 30549895589,
+  "updatedAt": "2026-07-30T14:33:03.675Z",
+  "lastRunId": 30551987172,
   "items": [
+    {
+      "id": "run_30551987172",
+      "run_id": 30551987172,
+      "artifact_id": 8763227534,
+      "filename": "FLUX.2-klein-9B-manga-colorization-by-reference-LORA.zip",
+      "normalized_name": "flux.2-klein-9b-manga-colorization-by-reference-lora.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fb528f5b97a1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-30T14:32:23Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30549895589",
       "run_id": 30549895589,
