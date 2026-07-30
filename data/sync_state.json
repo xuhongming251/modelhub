@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-30T07:37:56.090Z",
+  "updatedAt": "2026-07-30T07:49:01.542Z",
   "lastRunId": 30523512774,
   "items": [
+    {
+      "id": "run_30521617315",
+      "run_id": 30521617315,
+      "artifact_id": 8751993755,
+      "filename": "moodyKreaMixV500001.62wc.safetensors",
+      "normalized_name": "moodykreamixv500001.62wc.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f943499b86e4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-30T07:48:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30523512774",
       "run_id": 30523512774,
@@ -103859,7 +103872,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 3,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
