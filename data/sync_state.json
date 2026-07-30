@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-30T06:49:19.436Z",
+  "updatedAt": "2026-07-30T06:54:16.819Z",
   "lastRunId": 30520668039,
   "items": [
+    {
+      "id": "run_30520593219",
+      "run_id": 30520593219,
+      "artifact_id": 8750738084,
+      "filename": "10Eros_v1.4_int8_convrot.safetensors",
+      "normalized_name": "10eros_v1.4_int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2e31c43d5bdf",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-30T06:53:43Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30520668039",
       "run_id": 30520668039,
