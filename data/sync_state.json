@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-31T18:40:56.427Z",
-  "lastRunId": 30656031936,
+  "updatedAt": "2026-07-31T18:51:10.341Z",
+  "lastRunId": 30656738267,
   "items": [
+    {
+      "id": "run_30656738267",
+      "run_id": 30656738267,
+      "artifact_id": 8803526589,
+      "filename": "areola.LCrt.safetensors",
+      "normalized_name": "areola.lcrt.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ed80c48b9a14",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-31T18:50:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30656031936",
       "run_id": 30656031936,
