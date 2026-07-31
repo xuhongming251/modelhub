@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-31T16:36:26.349Z",
+  "updatedAt": "2026-07-31T17:18:42.336Z",
   "lastRunId": 30647730155,
   "items": [
+    {
+      "id": "run_30645553504",
+      "run_id": 30645553504,
+      "artifact_id": 8801201729,
+      "filename": "flux-2-klein-9b-kv-int8-convrot.safetensors",
+      "normalized_name": "flux-2-klein-9b-kv-int8-convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e4200ef80c1b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-31T17:17:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30647730155",
       "run_id": 30647730155,
@@ -339,19 +352,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-31T13:06:27Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30626106728",
-      "run_id": 30626106728,
-      "artifact_id": 8794080238,
-      "filename": "flux-2-klein-9b-kv-int8-convrot.safetensors",
-      "normalized_name": "flux-2-klein-9b-kv-int8-convrot.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/2733bc046b46",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-31T13:03:40Z",
       "workflow": "upload.yml"
     },
     {
