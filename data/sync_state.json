@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-31T14:47:31.646Z",
-  "lastRunId": 30640034276,
+  "updatedAt": "2026-07-31T15:13:18.440Z",
+  "lastRunId": 30641868262,
   "items": [
+    {
+      "id": "run_30641868262",
+      "run_id": 30641868262,
+      "artifact_id": 8797767461,
+      "filename": "cudart-llama-bin-win-cuda-13.3-x64.zip",
+      "normalized_name": "cudart-llama-bin-win-cuda-13.3-x64.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/537adfa8d38f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-31T15:12:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30640034276",
       "run_id": 30640034276,
@@ -16771,19 +16784,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-14T12:32:40Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29332533957",
-      "run_id": 29332533957,
-      "artifact_id": 8310561006,
-      "filename": "cudart-llama-bin-win-cuda-13.3-x64.zip",
-      "normalized_name": "cudart-llama-bin-win-cuda-13.3-x64.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/95e0f8e3f42c",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-14T12:27:36Z",
       "workflow": "upload.yml"
     },
     {
