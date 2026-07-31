@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-31T06:16:53.992Z",
-  "lastRunId": 30609134556,
+  "updatedAt": "2026-07-31T06:41:10.372Z",
+  "lastRunId": 30610346777,
   "items": [
+    {
+      "id": "run_30610346777",
+      "run_id": 30610346777,
+      "artifact_id": 8785197754,
+      "filename": "NeatDM_setup.exe",
+      "normalized_name": "neatdm_setup.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c20345493e6e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-31T06:40:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30609134556",
       "run_id": 30609134556,
