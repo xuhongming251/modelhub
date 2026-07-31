@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-31T02:02:15.991Z",
-  "lastRunId": 30597877767,
+  "updatedAt": "2026-07-31T02:02:54.157Z",
+  "lastRunId": 30597906828,
   "items": [
+    {
+      "id": "run_30597906828",
+      "run_id": 30597906828,
+      "artifact_id": 8780822555,
+      "filename": "sensualFingeringV1Low.O8L2.safetensors",
+      "normalized_name": "sensualfingeringv1low.o8l2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/21727c2dd3f9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-31T02:02:26Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30597877767",
       "run_id": 30597877767,
@@ -49375,19 +49388,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-15T08:33:12Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27529060965",
-      "run_id": 27529060965,
-      "artifact_id": 7630853233,
-      "filename": "sensualFingeringV1Low.O8L2.safetensors",
-      "normalized_name": "sensualfingeringv1low.o8l2.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/d3ff68e7031b",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-15T06:48:48Z",
       "workflow": "upload.yml"
     },
     {
