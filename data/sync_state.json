@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-31T18:51:10.341Z",
-  "lastRunId": 30656738267,
+  "updatedAt": "2026-07-31T18:55:12.961Z",
+  "lastRunId": 30656974735,
   "items": [
+    {
+      "id": "run_30656974735",
+      "run_id": 30656974735,
+      "artifact_id": 8803629343,
+      "filename": "dreamshaperXL.safetensors",
+      "normalized_name": "dreamshaperxl.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5cf63f64e6e2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-31T18:54:44Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30656738267",
       "run_id": 30656738267,
