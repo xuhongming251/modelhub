@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-31T17:40:03.998Z",
-  "lastRunId": 30651979611,
+  "updatedAt": "2026-07-31T17:56:26.063Z",
+  "lastRunId": 30653048704,
   "items": [
+    {
+      "id": "run_30653048704",
+      "run_id": 30653048704,
+      "artifact_id": 8802149630,
+      "filename": "novaanimeilv16.4gPg.safetensors",
+      "normalized_name": "novaanimeilv16.4gpg.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6333cf06eab3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-31T17:55:45Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30651979611",
       "run_id": 30651979611,
@@ -103175,12 +103188,6 @@
       "normalized_name": "2226545",
       "share_url": "https://pan.quark.cn/s/b4bafa3cf930",
       "completed_at": "2026-03-10T23:17:09Z"
-    },
-    {
-      "filename": "novaanimeilv16.4gPg.safetensors",
-      "normalized_name": "novaanimeilv16.4gpg.safetensors",
-      "share_url": "https://pan.quark.cn/s/c5c998afc20b",
-      "completed_at": "2026-03-10T22:03:40Z"
     },
     {
       "filename": "chenkinnoobXL_v03.safetensors",
