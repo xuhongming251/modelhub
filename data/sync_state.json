@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-31T17:39:32.880Z",
-  "lastRunId": 30651912601,
+  "updatedAt": "2026-07-31T17:40:03.998Z",
+  "lastRunId": 30651979611,
   "items": [
+    {
+      "id": "run_30651979611",
+      "run_id": 30651979611,
+      "artifact_id": 8801739372,
+      "filename": "sdV15Inpainting202B201SD15.vUXD.safetensors",
+      "normalized_name": "sdv15inpainting202b201sd15.vuxd.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c772740f6793",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-31T17:39:27Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30651912601",
       "run_id": 30651912601,
@@ -102334,12 +102347,6 @@
       "normalized_name": "detailed-eye-v1.0-000013.safetensors",
       "share_url": "https://pan.baidu.com/s/1fX1OEHzfMmkX5P7BlUntJA?pwd=4866",
       "completed_at": "2026-03-13T18:30:53Z"
-    },
-    {
-      "filename": "sdV15Inpainting202B201SD15.vUXD.safetensors",
-      "normalized_name": "sdv15inpainting202b201sd15.vuxd.safetensors",
-      "share_url": "https://pan.quark.cn/s/9b4a6b3b8ea6",
-      "completed_at": "2026-03-13T18:04:22Z"
     },
     {
       "filename": "CyberRealisticPony_V16.0_FP16.safetensors",
