@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-31T08:16:35.195Z",
-  "lastRunId": 30614827462,
+  "updatedAt": "2026-07-31T08:29:54.908Z",
+  "lastRunId": 30616457929,
   "items": [
+    {
+      "id": "run_30616457929",
+      "run_id": 30616457929,
+      "artifact_id": 8787567016,
+      "filename": "Tomori_Nao-63.safetensors",
+      "normalized_name": "tomori_nao-63.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/89ce47f751c3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-31T08:29:25Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30614827462",
       "run_id": 30614827462,
@@ -104672,7 +104685,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
