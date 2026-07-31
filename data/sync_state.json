@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-31T13:00:37.349Z",
+  "updatedAt": "2026-07-31T13:04:12.390Z",
   "lastRunId": 30632159670,
   "items": [
+    {
+      "id": "run_30626106728",
+      "run_id": 30626106728,
+      "artifact_id": 8794080238,
+      "filename": "flux-2-klein-9b-kv-int8-convrot.safetensors",
+      "normalized_name": "flux-2-klein-9b-kv-int8-convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2733bc046b46",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-31T13:03:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30632159670",
       "run_id": 30632159670,
