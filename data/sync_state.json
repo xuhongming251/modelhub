@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-31T12:52:47.988Z",
-  "lastRunId": 30631659539,
+  "updatedAt": "2026-07-31T12:53:56.025Z",
+  "lastRunId": 30632146070,
   "items": [
+    {
+      "id": "run_30632146070",
+      "run_id": 30632146070,
+      "artifact_id": 8793808569,
+      "filename": "waiSHUFFLENOOBVPred.ovf4.safetensors",
+      "normalized_name": "waishufflenoobvpred.ovf4.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/89afe38fbe72",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-07-31T12:53:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30631659539",
       "run_id": 30631659539,
@@ -90242,12 +90255,6 @@
       "normalized_name": "2514310",
       "share_url": "https://pan.quark.cn/s/884acdd37807",
       "completed_at": "2026-04-19T09:31:17Z"
-    },
-    {
-      "filename": "waiSHUFFLENOOBVPred.ovf4.safetensors",
-      "normalized_name": "waishufflenoobvpred.ovf4.safetensors",
-      "share_url": "https://pan.quark.cn/s/0e4db48b3222",
-      "completed_at": "2026-04-19T09:18:45Z"
     },
     {
       "filename": "zmdAll2.Xn6q.safetensors",
