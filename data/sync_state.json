@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-01T15:25:08.883Z",
-  "lastRunId": 30705827934,
+  "updatedAt": "2026-08-01T15:29:09.172Z",
+  "lastRunId": 30705969943,
   "items": [
+    {
+      "id": "run_30705969943",
+      "run_id": 30705969943,
+      "artifact_id": 8820328826,
+      "filename": "Qwen_Qwen3-14B-Instruct-2507-GGUF",
+      "normalized_name": "qwen_qwen3-14b-instruct-2507-gguf",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1AaaNgXsnCo9I2s2WwAU8gA?pwd=3364",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-08-01T15:28:38Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30705840870",
+      "run_id": 30705840870,
+      "artifact_id": 8820286259,
+      "filename": "CB29TMKKPGX0B8DFEN1VE9RS90.safetensors",
+      "normalized_name": "cb29tmkkpgx0b8dfen1ve9rs90.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f31560679ede",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-01T15:25:00Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30705827934",
       "run_id": 30705827934,
