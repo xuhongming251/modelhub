@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-01T05:39:05.221Z",
-  "lastRunId": 30686206846,
+  "updatedAt": "2026-08-01T05:40:28.407Z",
+  "lastRunId": 30686244853,
   "items": [
+    {
+      "id": "run_30686244853",
+      "run_id": 30686244853,
+      "artifact_id": 8814014016,
+      "filename": "ltx-2.3-22b-ic-lora-union-control-ref0.5.safetensors",
+      "normalized_name": "ltx-2.3-22b-ic-lora-union-control-ref0.5.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/445f040449eb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-01T05:39:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30686206846",
       "run_id": 30686206846,
@@ -26053,19 +26066,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-07T12:52:23Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28866648918",
-      "run_id": 28866648918,
-      "artifact_id": 8137945929,
-      "filename": "ltx-2.3-22b-ic-lora-union-control-ref0.5.safetensors",
-      "normalized_name": "ltx-2.3-22b-ic-lora-union-control-ref0.5.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/aade65e3013e",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-07T12:37:54Z",
       "workflow": "upload.yml"
     },
     {
