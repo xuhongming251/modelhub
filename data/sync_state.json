@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-01T18:29:18.082Z",
-  "lastRunId": 30711402159,
+  "updatedAt": "2026-08-01T18:46:08.303Z",
+  "lastRunId": 30712595099,
   "items": [
+    {
+      "id": "run_30712595099",
+      "run_id": 30712595099,
+      "artifact_id": 8822539920,
+      "filename": "Qwen3-14B-Q4_K_M.gguf",
+      "normalized_name": "qwen3-14b-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1eNtrF_Ym69FcHLoOJ79rSQ?pwd=40f6",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-08-01T18:45:39Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30711402159",
       "run_id": 30711402159,
