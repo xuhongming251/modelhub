@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-01T17:07:45.789Z",
-  "lastRunId": 30709612175,
+  "updatedAt": "2026-08-01T17:09:52.083Z",
+  "lastRunId": 30709688846,
   "items": [
+    {
+      "id": "run_30709688846",
+      "run_id": 30709688846,
+      "artifact_id": 8821455403,
+      "filename": "wumo v2.0.safetensors",
+      "normalized_name": "wumo v2.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/56d4a106f553",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-01T17:09:11Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30709639183",
+      "run_id": 30709639183,
+      "artifact_id": 8821439347,
+      "filename": "Dream (Based On GuoFeng3).safetensors",
+      "normalized_name": "dream (based on guofeng3).safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0ecefd6f5f6f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-01T17:07:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30709612175",
       "run_id": 30709612175,
