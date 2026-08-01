@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-01T09:22:06.605Z",
-  "lastRunId": 30693558010,
+  "updatedAt": "2026-08-01T09:25:22.826Z",
+  "lastRunId": 30693673623,
   "items": [
+    {
+      "id": "run_30693673623",
+      "run_id": 30693673623,
+      "artifact_id": 8816534021,
+      "filename": "AWpainting_V14.safetensors",
+      "normalized_name": "awpainting_v14.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1cef26365c35",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-01T09:24:47Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30693558010",
       "run_id": 30693558010,
