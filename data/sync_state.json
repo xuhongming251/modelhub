@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-01T05:38:03.329Z",
-  "lastRunId": 30686175773,
+  "updatedAt": "2026-08-01T05:39:05.221Z",
+  "lastRunId": 30686206846,
   "items": [
+    {
+      "id": "run_30686206846",
+      "run_id": 30686206846,
+      "artifact_id": 8813999591,
+      "filename": "MelBandRoformer_fp16.safetensors",
+      "normalized_name": "melbandroformer_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f41220964a1c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-01T05:38:36Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30686165227",
       "run_id": 30686165227,
@@ -86675,12 +86688,6 @@
       "normalized_name": "jinjin_pony_v1.safetensors",
       "share_url": "https://pan.quark.cn/s/19d56ee1e40b",
       "completed_at": "2026-04-30T15:05:02Z"
-    },
-    {
-      "filename": "MelBandRoformer_fp16.safetensors",
-      "normalized_name": "melbandroformer_fp16.safetensors",
-      "share_url": "https://pan.quark.cn/s/68533f436dd3",
-      "completed_at": "2026-04-30T14:23:19Z"
     },
     {
       "filename": "blueArchiveAllV3.Yjxo.safetensors",
