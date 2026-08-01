@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-01T16:29:13.215Z",
+  "updatedAt": "2026-08-01T16:32:30.178Z",
   "lastRunId": 30708165440,
   "items": [
+    {
+      "id": "run_30705269517",
+      "run_id": 30705269517,
+      "artifact_id": 8821036766,
+      "filename": "prithivMLmods_Ophiuchi-Qwen3-14B-Instruct-GGUF.zip",
+      "normalized_name": "prithivmlmods_ophiuchi-qwen3-14b-instruct-gguf.zip",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1AEfpzV_cVjtVBDOH9P8AHw?pwd=3dce",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-08-01T16:32:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30708165440",
       "run_id": 30708165440,
@@ -40,19 +53,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-01T16:16:08Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30705186697",
-      "run_id": 30705186697,
-      "artifact_id": 8820766809,
-      "filename": "prithivMLmods_Ophiuchi-Qwen3-14B-Instruct-GGUF.zip",
-      "normalized_name": "prithivmlmods_ophiuchi-qwen3-14b-instruct-gguf.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/1eb6ea1e4446",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-01T16:08:14Z",
       "workflow": "upload.yml"
     },
     {
