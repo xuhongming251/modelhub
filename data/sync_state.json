@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-01T17:09:52.083Z",
-  "lastRunId": 30709688846,
+  "updatedAt": "2026-08-01T17:55:14.164Z",
+  "lastRunId": 30711266461,
   "items": [
+    {
+      "id": "run_30711266461",
+      "run_id": 30711266461,
+      "artifact_id": 8821968511,
+      "filename": "glm-4-9b-chat-Q4_K_M.gguf",
+      "normalized_name": "glm-4-9b-chat-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/29ab659d5ec3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-01T17:54:43Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30709688846",
       "run_id": 30709688846,
