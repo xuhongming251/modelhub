@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-01T05:26:05.158Z",
-  "lastRunId": 30685788157,
+  "updatedAt": "2026-08-01T05:38:03.329Z",
+  "lastRunId": 30686175773,
   "items": [
+    {
+      "id": "run_30686165227",
+      "run_id": 30686165227,
+      "artifact_id": 8813987044,
+      "filename": "ltx-2.3-id-lora-celebvhq-3k.safetensors",
+      "normalized_name": "ltx-2.3-id-lora-celebvhq-3k.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3aa7abb368fa",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-01T05:37:34Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30686175773",
+      "run_id": 30686175773,
+      "artifact_id": 8813985521,
+      "filename": "tentacledv1.mcOD.safetensors",
+      "normalized_name": "tentacledv1.mcod.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/df817952b76b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-01T05:37:27Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30685788157",
       "run_id": 30685788157,
