@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-01T16:08:49.722Z",
-  "lastRunId": 30706786653,
+  "updatedAt": "2026-08-01T16:16:39.777Z",
+  "lastRunId": 30707553964,
   "items": [
+    {
+      "id": "run_30707553964",
+      "run_id": 30707553964,
+      "artifact_id": 8820850686,
+      "filename": "Qwen3-30B-A3B-Instruct-2507-Q4_K_M.gguf",
+      "normalized_name": "qwen3-30b-a3b-instruct-2507-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bf9f63910606",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-01T16:16:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30705186697",
       "run_id": 30705186697,
