@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-01T19:02:45.082Z",
+  "updatedAt": "2026-08-01T19:06:39.979Z",
   "lastRunId": 30712595099,
   "items": [
+    {
+      "id": "run_30706933156",
+      "run_id": 30706933156,
+      "artifact_id": 8822762303,
+      "filename": "Qwen3-30B-A3B-Instruct-2507-Q4_K_M.gguf",
+      "normalized_name": "qwen3-30b-a3b-instruct-2507-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1mwmjYeB2Lq33PxbAtfBR2w?pwd=b383",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-08-01T19:06:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30705101273",
       "run_id": 30705101273,
@@ -157,19 +170,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-01T16:21:03Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30707553964",
-      "run_id": 30707553964,
-      "artifact_id": 8820850686,
-      "filename": "Qwen3-30B-A3B-Instruct-2507-Q4_K_M.gguf",
-      "normalized_name": "qwen3-30b-a3b-instruct-2507-q4_k_m.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/bf9f63910606",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-01T16:16:08Z",
       "workflow": "upload.yml"
     },
     {
