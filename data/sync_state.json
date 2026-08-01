@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-01T07:02:53.971Z",
+  "updatedAt": "2026-08-01T07:06:28.864Z",
   "lastRunId": 30688563895,
   "items": [
+    {
+      "id": "run_30688290359",
+      "run_id": 30688290359,
+      "artifact_id": 8814998678,
+      "filename": "Qwen3.6-14B-A3B-VibeForged-v2-Q4_K_M.gguf",
+      "normalized_name": "qwen3.6-14b-a3b-vibeforged-v2-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1MVcS5maO2NAUVbeou9Lolg?pwd=1f7d",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-08-01T07:06:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30688563895",
       "run_id": 30688563895,
