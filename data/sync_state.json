@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-01T12:56:05.221Z",
-  "lastRunId": 30700664792,
+  "updatedAt": "2026-08-01T13:00:02.008Z",
+  "lastRunId": 30700787560,
   "items": [
+    {
+      "id": "run_30700787560",
+      "run_id": 30700787560,
+      "artifact_id": 8818747595,
+      "filename": "ghostmix_V20bakedvae.safetensors",
+      "normalized_name": "ghostmix_v20bakedvae.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/80d89bf5d7f8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-01T12:59:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30700664792",
       "run_id": 30700664792,
@@ -86664,12 +86677,6 @@
       "completed_at": "2026-05-01T10:45:56Z"
     },
     {
-      "filename": "ghostmix_v20Bakedvae.safetensors",
-      "normalized_name": "ghostmix_v20bakedvae.safetensors",
-      "share_url": "https://pan.quark.cn/s/ac37b05a4f00",
-      "completed_at": "2026-05-01T10:45:53Z"
-    },
-    {
       "filename": "prefectPonyXL_v6.safetensors",
       "normalized_name": "prefectponyxl_v6.safetensors",
       "share_url": "https://pan.quark.cn/s/aae45edff0db",
@@ -105812,7 +105819,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
