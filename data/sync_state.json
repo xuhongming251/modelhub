@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-01T08:10:45.371Z",
-  "lastRunId": 30691207907,
+  "updatedAt": "2026-08-01T08:13:34.452Z",
+  "lastRunId": 30691305641,
   "items": [
+    {
+      "id": "run_30691305641",
+      "run_id": 30691305641,
+      "artifact_id": 8815754443,
+      "filename": "VAE-kl-f8-anime2.safetensors",
+      "normalized_name": "vae-kl-f8-anime2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/991a1cbd45fa",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-01T08:12:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30691207907",
       "run_id": 30691207907,
