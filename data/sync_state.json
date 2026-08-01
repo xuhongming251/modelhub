@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-01T06:38:28.844Z",
-  "lastRunId": 30688091275,
+  "updatedAt": "2026-08-01T07:00:04.469Z",
+  "lastRunId": 30688563895,
   "items": [
+    {
+      "id": "run_30688563895",
+      "run_id": 30688563895,
+      "artifact_id": 8814916183,
+      "filename": "ltx-2.3-22b-distilled-1.1_transformer_only_fp8_scaled.safetensors",
+      "normalized_name": "ltx-2.3-22b-distilled-1.1_transformer_only_fp8_scaled.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c8a29c6c528f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-01T06:59:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30688091275",
       "run_id": 30688091275,
@@ -53,19 +66,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-01T05:49:02Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30686152605",
-      "run_id": 30686152605,
-      "artifact_id": 8814095126,
-      "filename": "ltx-2.3-22b-distilled-1.1_transformer_only_fp8_scaled.safetensors",
-      "normalized_name": "ltx-2.3-22b-distilled-1.1_transformer_only_fp8_scaled.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/638b45fe69ef",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-01T05:47:12Z",
       "workflow": "upload.yml"
     },
     {
