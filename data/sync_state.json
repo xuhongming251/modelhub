@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-01T07:27:08.580Z",
-  "lastRunId": 30689692791,
+  "updatedAt": "2026-08-01T07:29:28.127Z",
+  "lastRunId": 30689812470,
   "items": [
+    {
+      "id": "run_30689812470",
+      "run_id": 30689812470,
+      "artifact_id": 8815257000,
+      "filename": "OBS-Studio-32.2.1-Windows-x64.zip",
+      "normalized_name": "obs-studio-32.2.1-windows-x64.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ed6244cbca7b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-01T07:28:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30689692791",
       "run_id": 30689692791,
