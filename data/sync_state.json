@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-02T09:37:14.490Z",
+  "updatedAt": "2026-08-02T09:38:19.280Z",
   "lastRunId": 30742089903,
   "items": [
+    {
+      "id": "run_30742086930",
+      "run_id": 30742086930,
+      "artifact_id": 8831630876,
+      "filename": "Cherry-Studio-2.0.0-rc.3-x64-portable.exe",
+      "normalized_name": "cherry-studio-2.0.0-rc.3-x64-portable.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c6e226bb8d73",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-02T09:37:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30742089903",
       "run_id": 30742089903,
