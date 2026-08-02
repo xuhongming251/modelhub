@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-02T23:32:30.483Z",
-  "lastRunId": 30763985542,
+  "updatedAt": "2026-08-02T23:45:13.623Z",
+  "lastRunId": 30772837237,
   "items": [
+    {
+      "id": "run_30772837237",
+      "run_id": 30772837237,
+      "artifact_id": 8841085376,
+      "filename": "moodyKreaMixV6seAsianFever4K.safetensors",
+      "normalized_name": "moodykreamixv6seasianfever4k.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/19f0703167fc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-02T23:44:39Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30763985542",
       "run_id": 30763985542,
@@ -107042,7 +107055,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
