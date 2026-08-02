@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-02T16:01:51.614Z",
+  "updatedAt": "2026-08-02T16:06:03.496Z",
   "lastRunId": 30755506704,
   "items": [
+    {
+      "id": "run_30755320789",
+      "run_id": 30755320789,
+      "artifact_id": 8835878748,
+      "filename": "qwen3.5_4b_bf16.safetensors",
+      "normalized_name": "qwen3.5_4b_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/671849b83bbd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-02T16:05:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30755506704",
       "run_id": 30755506704,
@@ -88664,12 +88677,6 @@
       "normalized_name": "ministral-3-3b.safetensors",
       "share_url": "https://pan.quark.cn/s/cb328b22f116",
       "completed_at": "2026-04-29T17:54:15Z"
-    },
-    {
-      "filename": "qwen3.5_4b_bf16.safetensors",
-      "normalized_name": "qwen3.5_4b_bf16.safetensors",
-      "share_url": "https://pan.quark.cn/s/33c813546ac4",
-      "completed_at": "2026-04-29T17:43:27Z"
     },
     {
       "filename": "ace_step_v1_3.5b.safetensors",
