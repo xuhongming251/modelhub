@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-02T03:33:49.865Z",
+  "updatedAt": "2026-08-02T03:36:09.291Z",
   "lastRunId": 30730763153,
   "items": [
+    {
+      "id": "run_30729862905",
+      "run_id": 30729862905,
+      "artifact_id": 8827924433,
+      "filename": "fullgreed_bf16.safetensors",
+      "normalized_name": "fullgreed_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fb5fc56b8bb0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-02T03:35:34Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30730763153",
       "run_id": 30730763153,
