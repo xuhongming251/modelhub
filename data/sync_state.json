@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-02T15:02:30.033Z",
-  "lastRunId": 30753413604,
+  "updatedAt": "2026-08-02T15:03:24.794Z",
+  "lastRunId": 30753432972,
   "items": [
+    {
+      "id": "run_30753432972",
+      "run_id": 30753432972,
+      "artifact_id": 8835181982,
+      "filename": "ComfyUI-WD14-Tagger.zip",
+      "normalized_name": "comfyui-wd14-tagger.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/98cabada7706",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-02T15:02:35Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30753423072",
+      "run_id": 30753423072,
+      "artifact_id": 8835180361,
+      "filename": "ComfyUI-Inpaint-CropAndStitch.zip",
+      "normalized_name": "comfyui-inpaint-cropandstitch.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f399744cf6e0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-02T15:02:28Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30753413604",
       "run_id": 30753413604,
@@ -43918,19 +43944,6 @@
       "workflow": "upload.yml"
     },
     {
-      "id": "run_28076388380",
-      "run_id": 28076388380,
-      "artifact_id": 7840559106,
-      "filename": "ComfyUI-Inpaint-CropAndStitch.zip",
-      "normalized_name": "comfyui-inpaint-cropandstitch.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/aa06f7c84574",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-24T05:03:24Z",
-      "workflow": "upload.yml"
-    },
-    {
       "id": "run_28076077389",
       "run_id": 28076077389,
       "artifact_id": 7840447521,
@@ -67016,19 +67029,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-31T16:08:22Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26717037633",
-      "run_id": 26717037633,
-      "artifact_id": 7317978956,
-      "filename": "ComfyUI-WD14-Tagger.zip",
-      "normalized_name": "comfyui-wd14-tagger.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/3c629e6d6deb",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-31T15:44:28Z",
       "workflow": "upload.yml"
     },
     {
