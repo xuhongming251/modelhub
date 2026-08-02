@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-02T12:59:33.907Z",
+  "updatedAt": "2026-08-02T13:02:09.410Z",
   "lastRunId": 30748883858,
   "items": [
+    {
+      "id": "run_30747932769",
+      "run_id": 30747932769,
+      "artifact_id": 8833827696,
+      "filename": "Cydonia-24B-v3i-Q4_K_M.gguf",
+      "normalized_name": "cydonia-24b-v3i-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/549a368e0970",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-02T13:01:34Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30748823484",
       "run_id": 30748823484,
