@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-02T09:59:07.064Z",
-  "lastRunId": 30742089903,
+  "updatedAt": "2026-08-02T10:01:19.310Z",
+  "lastRunId": 30742682214,
   "items": [
+    {
+      "id": "run_30742682214",
+      "run_id": 30742682214,
+      "artifact_id": 8831885046,
+      "filename": "gemma-4-26b-a4b-heretic-mixed-qat-ud-q4-k-xl.gguf",
+      "normalized_name": "gemma-4-26b-a4b-heretic-mixed-qat-ud-q4-k-xl.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/50c8d8343b3e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-02T10:00:48Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30742066175",
       "run_id": 30742066175,
@@ -106625,7 +106638,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
