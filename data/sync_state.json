@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-02T12:58:00.349Z",
+  "updatedAt": "2026-08-02T12:59:33.907Z",
   "lastRunId": 30748883858,
   "items": [
+    {
+      "id": "run_30748823484",
+      "run_id": 30748823484,
+      "artifact_id": 8833799168,
+      "filename": "Qwythos-9B-Claude-Mythos-5-1M-Q4_K_M.gguf",
+      "normalized_name": "qwythos-9b-claude-mythos-5-1m-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b4386326062f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-02T12:58:57Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30748099842",
+      "run_id": 30748099842,
+      "artifact_id": 8833789376,
+      "filename": "soliloquy.oBw7.safetensors",
+      "normalized_name": "soliloquy.obw7.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/399548cffd45",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-02T12:58:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30748883858",
       "run_id": 30748883858,
