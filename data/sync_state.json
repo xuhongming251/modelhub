@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-02T09:15:30.945Z",
-  "lastRunId": 30741148401,
+  "updatedAt": "2026-08-02T09:21:44.409Z",
+  "lastRunId": 30741576282,
   "items": [
     {
-      "id": "run_30741148401",
-      "run_id": 30741148401,
-      "artifact_id": 8831395184,
+      "id": "run_30741576282",
+      "run_id": 30741576282,
+      "artifact_id": 8831462146,
+      "filename": "LTX23_audio_vae_bf16.safetensors",
+      "normalized_name": "ltx23_audio_vae_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8741653d9b93",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-02T09:21:10Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30740855549",
+      "run_id": 30740855549,
+      "artifact_id": 8831398862,
       "filename": "gemma_3_12B_it.safetensors",
       "normalized_name": "gemma_3_12b_it.safetensors",
       "original_url": "",
-      "share_url": "https://pan.quark.cn/s/adb942157363",
+      "share_url": "https://pan.quark.cn/s/1e8fb795a900",
       "channel": "quark",
       "channel_name": "Quark",
-      "completed_at": "2026-08-02T09:14:56Z",
+      "completed_at": "2026-08-02T09:15:14Z",
       "workflow": "upload.yml"
     },
     {
@@ -9647,19 +9660,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-24T12:29:09Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30093193883",
-      "run_id": 30093193883,
-      "artifact_id": 8596490047,
-      "filename": "LTX23_audio_vae_bf16.safetensors",
-      "normalized_name": "ltx23_audio_vae_bf16.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/50ca9822174f",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-24T12:28:35Z",
       "workflow": "upload.yml"
     },
     {
@@ -106612,7 +106612,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
