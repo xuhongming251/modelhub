@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-03T04:25:55.960Z",
-  "lastRunId": 30783917865,
+  "updatedAt": "2026-08-03T04:41:05.353Z",
+  "lastRunId": 30784987374,
   "items": [
+    {
+      "id": "run_30784987374",
+      "run_id": 30784987374,
+      "artifact_id": 8844969356,
+      "filename": "Anima-TrainFlow-v1.1.0-Portable.7z",
+      "normalized_name": "anima-trainflow-v1.1.0-portable.7z",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/55464d8b943a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-03T04:40:36Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30780868330",
+      "run_id": 30780868330,
+      "artifact_id": 8844747831,
+      "filename": "minimax_h3_fl2va_int8_convrot.safetensors",
+      "normalized_name": "minimax_h3_fl2va_int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7cc6a76fe0e6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-03T04:25:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30780904082",
       "run_id": 30780904082,
