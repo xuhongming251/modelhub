@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-03T18:07:08.749Z",
-  "lastRunId": 30839343762,
+  "updatedAt": "2026-08-03T18:11:27.967Z",
+  "lastRunId": 30839993222,
   "items": [
+    {
+      "id": "run_30839993222",
+      "run_id": 30839993222,
+      "artifact_id": 8866406718,
+      "filename": "moodyKreaMixV600001.hR8r.safetensors",
+      "normalized_name": "moodykreamixv600001.hr8r.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1a292d1b0508",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-03T18:11:08Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30832931074",
+      "run_id": 30832931074,
+      "artifact_id": 8866394369,
+      "filename": "qwen3vl_32b_minimax_h3_ultra_uncensored_heretic_int8_convrot.safetensors",
+      "normalized_name": "qwen3vl_32b_minimax_h3_ultra_uncensored_heretic_int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7d46c1213515",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-03T18:10:45Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30835247224",
+      "run_id": 30835247224,
+      "artifact_id": 8866285735,
+      "filename": "nijiSweetSpotKREA2V1.T9iZ.safetensors",
+      "normalized_name": "nijisweetspotkrea2v1.t9iz.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1eNffDmyOLKFjt3Xfvd9dUg?pwd=1f4b",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-08-03T18:06:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30835360611",
       "run_id": 30835360611,
@@ -391,19 +430,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-03T15:43:00Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30828280922",
-      "run_id": 30828280922,
-      "artifact_id": 8861843266,
-      "filename": "moodyKreaMixV600001.hR8r.safetensors",
-      "normalized_name": "moodykreamixv600001.hr8r.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/e29790087bd3",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-03T15:38:09Z",
       "workflow": "upload.yml"
     },
     {
