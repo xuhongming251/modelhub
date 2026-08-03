@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-03T00:12:51.509Z",
-  "lastRunId": 30773864525,
+  "updatedAt": "2026-08-03T01:43:47.917Z",
+  "lastRunId": 30777521763,
   "items": [
+    {
+      "id": "run_30777521763",
+      "run_id": 30777521763,
+      "artifact_id": 8842539685,
+      "filename": "zen.installer.exe",
+      "normalized_name": "zen.installer.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/11321fee376b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-03T01:43:13Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30773864525",
       "run_id": 30773864525,
