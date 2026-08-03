@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-03T17:13:20.295Z",
-  "lastRunId": 30835693625,
+  "updatedAt": "2026-08-03T17:14:12.151Z",
+  "lastRunId": 30835745256,
   "items": [
+    {
+      "id": "run_30835745256",
+      "run_id": 30835745256,
+      "artifact_id": 8864743642,
+      "filename": "sl2test001.safetensors",
+      "normalized_name": "sl2test001.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d7d804d95481",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-03T17:13:42Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30835715429",
+      "run_id": 30835715429,
+      "artifact_id": 8864734332,
+      "filename": "tangwutong.hpZu.safetensors",
+      "normalized_name": "tangwutong.hpzu.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b615c01f2acc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-03T17:13:25Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30835636779",
+      "run_id": 30835636779,
+      "artifact_id": 8864731705,
+      "filename": "Douluo_Dalu__Blue_Silver_King.safetensors",
+      "normalized_name": "douluo_dalu__blue_silver_king.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/32b50f0350c9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-03T17:13:18Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30835693625",
       "run_id": 30835693625,
@@ -14,19 +53,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-03T17:12:59Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30835666585",
-      "run_id": 30835666585,
-      "artifact_id": 8864716594,
-      "filename": "Douluo_Dalu__Blue_Silver_King.safetensors",
-      "normalized_name": "douluo_dalu__blue_silver_king.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/68567d50edae",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-03T17:12:49Z",
       "workflow": "upload.yml"
     },
     {
