@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-03T11:24:19.723Z",
+  "updatedAt": "2026-08-03T11:26:21.224Z",
   "lastRunId": 30809141039,
   "items": [
+    {
+      "id": "run_30803648948",
+      "run_id": 30803648948,
+      "artifact_id": 8854150027,
+      "filename": "z_image_turbo_scaled_fp8_e4m3fn.safetensors",
+      "normalized_name": "z_image_turbo_scaled_fp8_e4m3fn.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6779e09c461a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-03T11:25:52Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30809141039",
       "run_id": 30809141039,
