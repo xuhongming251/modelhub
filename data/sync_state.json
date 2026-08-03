@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-03T02:28:24.269Z",
-  "lastRunId": 30779338620,
+  "updatedAt": "2026-08-03T02:34:46.180Z",
+  "lastRunId": 30779587305,
   "items": [
+    {
+      "id": "run_30779587305",
+      "run_id": 30779587305,
+      "artifact_id": 8843187393,
+      "filename": "Ghost-Downloader-v4.2.5-Windows-x86_64.zip",
+      "normalized_name": "ghost-downloader-v4.2.5-windows-x86_64.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a4e76024eb14",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-03T02:34:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30779338620",
       "run_id": 30779338620,
