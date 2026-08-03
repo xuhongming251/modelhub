@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-03T10:11:28.811Z",
-  "lastRunId": 30804389101,
+  "updatedAt": "2026-08-03T10:17:18.505Z",
+  "lastRunId": 30804892744,
   "items": [
+    {
+      "id": "run_30804892744",
+      "run_id": 30804892744,
+      "artifact_id": 8852334002,
+      "filename": "qwen306bBase.NepP.safetensors",
+      "normalized_name": "qwen306bbase.nepp.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6ce045d28f0e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-03T10:16:52Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30804389101",
       "run_id": 30804389101,
