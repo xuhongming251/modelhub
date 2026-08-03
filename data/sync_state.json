@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-03T07:24:42.084Z",
+  "updatedAt": "2026-08-03T07:38:21.588Z",
   "lastRunId": 30793418836,
   "items": [
+    {
+      "id": "run_30792778923",
+      "run_id": 30792778923,
+      "artifact_id": 8848232800,
+      "filename": "qwen3vl32bMinimaxH3.S5pR.safetensors",
+      "normalized_name": "qwen3vl32bminimaxh3.s5pr.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8a30ff0fb333",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-03T07:37:25Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30793418836",
       "run_id": 30793418836,
@@ -107367,7 +107380,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 3,
       "createdBefore": null,
       "exhausted": false
     }
