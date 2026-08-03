@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-03T10:07:49.908Z",
-  "lastRunId": 30803443353,
+  "updatedAt": "2026-08-03T10:11:28.811Z",
+  "lastRunId": 30804389101,
   "items": [
+    {
+      "id": "run_30804389101",
+      "run_id": 30804389101,
+      "artifact_id": 8852169800,
+      "filename": "Flux_2-Turbo-LoRA_comfyui.safetensors",
+      "normalized_name": "flux_2-turbo-lora_comfyui.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fdbb76a9749d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-03T10:10:45Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30802820470",
       "run_id": 30802820470,
@@ -89261,12 +89274,6 @@
       "completed_at": "2026-04-29T15:31:21Z"
     },
     {
-      "filename": "Flux_2-Turbo-LoRA_comfyui.safetensors",
-      "normalized_name": "flux_2-turbo-lora_comfyui.safetensors",
-      "share_url": "https://pan.quark.cn/s/6a632dff2505",
-      "completed_at": "2026-04-29T15:30:36Z"
-    },
-    {
       "filename": "Data.zip",
       "normalized_name": "data.zip",
       "share_url": "https://pan.quark.cn/s/3ed3ebb0ff6f",
@@ -107563,7 +107570,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 3,
+      "page": 2,
       "createdBefore": null,
       "exhausted": false
     }
