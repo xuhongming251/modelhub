@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-03T17:07:14.666Z",
-  "lastRunId": 30835212606,
+  "updatedAt": "2026-08-03T17:10:30.980Z",
+  "lastRunId": 30835431891,
   "items": [
+    {
+      "id": "run_30835431891",
+      "run_id": 30835431891,
+      "artifact_id": 8864629980,
+      "filename": "wlop2V1Epoch15.86sz.safetensors",
+      "normalized_name": "wlop2v1epoch15.86sz.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/16rQ9iqSsj10kqq-hMr1FkA?pwd=f5a0",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-08-03T17:09:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30835212606",
       "run_id": 30835212606,
@@ -108064,7 +108077,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 2,
+      "page": 3,
       "createdBefore": null,
       "exhausted": false
     }
