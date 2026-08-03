@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-03T13:31:03.007Z",
-  "lastRunId": 30818206543,
+  "updatedAt": "2026-08-03T13:32:49.242Z",
+  "lastRunId": 30818369063,
   "items": [
+    {
+      "id": "run_30818369063",
+      "run_id": 30818369063,
+      "artifact_id": 8857726923,
+      "filename": "Comfyui-Memory_Cleanup.zip",
+      "normalized_name": "comfyui-memory_cleanup.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/56ce6f1764c9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-03T13:32:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30818206543",
       "run_id": 30818206543,
@@ -64975,19 +64988,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-05T08:02:04Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27001464752",
-      "run_id": 27001464752,
-      "artifact_id": 7431029758,
-      "filename": "Comfyui-Memory_Cleanup.zip",
-      "normalized_name": "comfyui-memory_cleanup.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/1569266717e1",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-05T07:24:03Z",
       "workflow": "upload.yml"
     },
     {
