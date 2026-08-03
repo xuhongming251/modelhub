@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-03T03:06:00.216Z",
+  "updatedAt": "2026-08-03T03:11:55.815Z",
   "lastRunId": 30780662441,
   "items": [
+    {
+      "id": "run_30779620300",
+      "run_id": 30779620300,
+      "artifact_id": 8843677933,
+      "filename": "qwen3vl_32b_minimax_h3_int8_convrot.safetensors",
+      "normalized_name": "qwen3vl_32b_minimax_h3_int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1dX97mSxzLa03WxVwMh1LNg?pwd=fe35",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-08-03T03:11:19Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30779603457",
       "run_id": 30779603457,
