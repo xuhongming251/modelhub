@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-04T07:31:28.739Z",
-  "lastRunId": 30887994164,
+  "updatedAt": "2026-08-04T07:34:22.673Z",
+  "lastRunId": 30888265302,
   "items": [
+    {
+      "id": "run_30888265302",
+      "run_id": 30888265302,
+      "artifact_id": 8883954524,
+      "filename": "slop_twerk_HighNoise_merged3_7_v2.safetensors",
+      "normalized_name": "slop_twerk_highnoise_merged3_7_v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/31552aeae4b7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-04T07:33:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30887994164",
       "run_id": 30887994164,
@@ -81407,19 +81420,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-13T12:26:38Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25798945079",
-      "run_id": 25798945079,
-      "artifact_id": 6969957691,
-      "filename": "slop_twerk_HighNoise_merged3_7_v2.safetensors",
-      "normalized_name": "slop_twerk_highnoise_merged3_7_v2.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/880ca9e2b0a5",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-13T12:25:57Z",
       "workflow": "upload.yml"
     },
     {
