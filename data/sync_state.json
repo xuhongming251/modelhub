@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-04T02:22:33.071Z",
-  "lastRunId": 30871488816,
+  "updatedAt": "2026-08-04T02:25:35.528Z",
+  "lastRunId": 30871704525,
   "items": [
+    {
+      "id": "run_30871704525",
+      "run_id": 30871704525,
+      "artifact_id": 8878102728,
+      "filename": "animaContextDetailer.51Av.safetensors",
+      "normalized_name": "animacontextdetailer.51av.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/778f4e5086cd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-04T02:25:17Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30871678105",
+      "run_id": 30871678105,
+      "artifact_id": 8878099037,
+      "filename": "animaBase1Masterpiece.ZWrQ.safetensors",
+      "normalized_name": "animabase1masterpiece.zwrq.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1qqAdPcVFMT5GLIsj9bwaAQ?pwd=2015",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-08-04T02:25:03Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30871472576",
       "run_id": 30871472576,
@@ -326,19 +352,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-03T18:19:39Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30835399662",
-      "run_id": 30835399662,
-      "artifact_id": 8866562650,
-      "filename": "animaBase1Masterpiece.ZWrQ.safetensors",
-      "normalized_name": "animabase1masterpiece.zwrq.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.baidu.com/s/1sB-E61yzP7U_glSRsEggSQ?pwd=82a8",
-      "channel": "baidu",
-      "channel_name": "Baidu",
-      "completed_at": "2026-08-03T18:16:35Z",
       "workflow": "upload.yml"
     },
     {
@@ -7385,19 +7398,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-28T18:00:49Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30385300383",
-      "run_id": 30385300383,
-      "artifact_id": 8698690848,
-      "filename": "animaContextDetailer.51Av.safetensors",
-      "normalized_name": "animacontextdetailer.51av.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/69a9def4940b",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-28T17:58:45Z",
       "workflow": "upload.yml"
     },
     {
