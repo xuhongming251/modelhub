@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-04T08:40:04.520Z",
-  "lastRunId": 30892838150,
+  "updatedAt": "2026-08-04T08:57:28.094Z",
+  "lastRunId": 30893980381,
   "items": [
+    {
+      "id": "run_30893980381",
+      "run_id": 30893980381,
+      "artifact_id": 8886260311,
+      "filename": "LTX23-redgta10LTX23Comfyui_int8.safetensors",
+      "normalized_name": "ltx23-redgta10ltx23comfyui_int8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/25ecb2333c17",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-04T08:56:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30892838150",
       "run_id": 30892838150,
