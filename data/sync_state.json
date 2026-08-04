@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-04T06:11:49.014Z",
-  "lastRunId": 30883102208,
+  "updatedAt": "2026-08-04T06:28:13.925Z",
+  "lastRunId": 30884042956,
   "items": [
+    {
+      "id": "run_30884042956",
+      "run_id": 30884042956,
+      "artifact_id": 8882367364,
+      "filename": "python-3.12.10-embed-amd64.zip",
+      "normalized_name": "python-3.12.10-embed-amd64.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a34e14946f86",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-04T06:27:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30883102208",
       "run_id": 30883102208,
