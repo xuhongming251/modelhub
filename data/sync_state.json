@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-04T15:41:33.819Z",
-  "lastRunId": 30925276989,
+  "updatedAt": "2026-08-04T15:43:26.330Z",
+  "lastRunId": 30925505799,
   "items": [
+    {
+      "id": "run_30925505799",
+      "run_id": 30925505799,
+      "artifact_id": 8898905413,
+      "filename": "battleThroughTheHeavens.Hl13.safetensors",
+      "normalized_name": "battlethroughtheheavens.hl13.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/50f19656e4b4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-04T15:43:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30925276989",
       "run_id": 30925276989,
@@ -209,19 +222,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-04T14:20:40Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30918383260",
-      "run_id": 30918383260,
-      "artifact_id": 8896014483,
-      "filename": "battleThroughTheHeavens.Hl13.safetensors",
-      "normalized_name": "battlethroughtheheavens.hl13.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/751c506aeb64",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-04T14:20:25Z",
       "workflow": "upload.yml"
     },
     {
