@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-04T09:27:27.762Z",
-  "lastRunId": 30896329906,
+  "updatedAt": "2026-08-04T09:35:39.342Z",
+  "lastRunId": 30896924893,
   "items": [
+    {
+      "id": "run_30896924893",
+      "run_id": 30896924893,
+      "artifact_id": 8887408891,
+      "filename": "film_net_fp16.safetensors",
+      "normalized_name": "film_net_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/78da16fca0a8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-04T09:35:12Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30896329906",
       "run_id": 30896329906,
