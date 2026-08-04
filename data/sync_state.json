@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-04T05:05:17.355Z",
+  "updatedAt": "2026-08-04T05:07:15.066Z",
   "lastRunId": 30879514757,
   "items": [
+    {
+      "id": "run_30870623261",
+      "run_id": 30870623261,
+      "artifact_id": 8880787644,
+      "filename": "qwen3vl_32b_minimax_h3_ultra_uncensored_heretic_int8_convrot.safetensors",
+      "normalized_name": "qwen3vl_32b_minimax_h3_ultra_uncensored_heretic_int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b98e976c9b03",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-04T05:06:50Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30879514757",
       "run_id": 30879514757,
@@ -625,19 +638,6 @@
       "channel": "baidu",
       "channel_name": "Baidu",
       "completed_at": "2026-08-03T18:12:27Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30832931074",
-      "run_id": 30832931074,
-      "artifact_id": 8866394369,
-      "filename": "qwen3vl_32b_minimax_h3_ultra_uncensored_heretic_int8_convrot.safetensors",
-      "normalized_name": "qwen3vl_32b_minimax_h3_ultra_uncensored_heretic_int8_convrot.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/7d46c1213515",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-03T18:10:45Z",
       "workflow": "upload.yml"
     },
     {
