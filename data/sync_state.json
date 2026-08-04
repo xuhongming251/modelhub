@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-04T14:20:03.046Z",
-  "lastRunId": 30918314111,
+  "updatedAt": "2026-08-04T14:21:12.334Z",
+  "lastRunId": 30918417927,
   "items": [
+    {
+      "id": "run_30918417927",
+      "run_id": 30918417927,
+      "artifact_id": 8896034082,
+      "filename": "Cai_Lin__Battle_Through_the_Heavens__Illustrious.safetensors",
+      "normalized_name": "cai_lin__battle_through_the_heavens__illustrious.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0a2109eb7832",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-04T14:20:57Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30918401739",
+      "run_id": 30918401739,
+      "artifact_id": 8896023153,
+      "filename": "Ya_Fei__Battle_Through_the_Heavens__Illustrious.safetensors",
+      "normalized_name": "ya_fei__battle_through_the_heavens__illustrious.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e1e6b8355fe1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-04T14:20:40Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30918383260",
+      "run_id": 30918383260,
+      "artifact_id": 8896014483,
+      "filename": "battleThroughTheHeavens.Hl13.safetensors",
+      "normalized_name": "battlethroughtheheavens.hl13.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/751c506aeb64",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-04T14:20:25Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30918314111",
       "run_id": 30918314111,
@@ -93087,12 +93126,6 @@
       "completed_at": "2026-04-25T04:15:07Z"
     },
     {
-      "filename": "Cai_Lin__Battle_Through_the_Heavens__Illustrious.safetensors",
-      "normalized_name": "cai_lin__battle_through_the_heavens__illustrious.safetensors",
-      "share_url": "https://pan.quark.cn/s/47a2b5a2cf18",
-      "completed_at": "2026-04-25T04:13:49Z"
-    },
-    {
       "filename": "Shan_Qing_Luo__Martial_Peak__Illustrious.safetensors",
       "normalized_name": "shan_qing_luo__martial_peak__illustrious.safetensors",
       "share_url": "https://pan.quark.cn/s/afcd5b66d3a6",
@@ -103633,12 +103666,6 @@
       "normalized_name": "battle_through_the_heavens__elder_hua.safetensors",
       "share_url": "https://pan.baidu.com/s/17qnzOoiKZ-opdQRhL53qwg?pwd=6053",
       "completed_at": "2026-03-18T21:46:03Z"
-    },
-    {
-      "filename": "battleThroughTheHeavens.Hl13.safetensors",
-      "normalized_name": "battlethroughtheheavens.hl13.safetensors",
-      "share_url": "https://pan.baidu.com/s/1vfyHd-NFke_y1SQ4wMH8Lg?pwd=45a0",
-      "completed_at": "2026-03-18T21:45:26Z"
     },
     {
       "filename": "Gemma3-12B-NVFP4-Sikaworld-HF.safetensors",
