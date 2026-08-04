@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-04T16:19:36.512Z",
-  "lastRunId": 30926771147,
+  "updatedAt": "2026-08-04T16:23:12.844Z",
+  "lastRunId": 30928778704,
   "items": [
+    {
+      "id": "run_30928778704",
+      "run_id": 30928778704,
+      "artifact_id": 8900238641,
+      "filename": "triton_windows-3.5.1.post24-cp311-cp311-win_amd64.whl",
+      "normalized_name": "triton_windows-3.5.1.post24-cp311-cp311-win_amd64.whl",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/53d56055adce",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-04T16:22:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30925607059",
       "run_id": 30925607059,
