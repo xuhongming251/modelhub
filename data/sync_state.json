@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-04T02:10:50.151Z",
-  "lastRunId": 30870380706,
+  "updatedAt": "2026-08-04T02:21:45.327Z",
+  "lastRunId": 30871488816,
   "items": [
+    {
+      "id": "run_30871488816",
+      "run_id": 30871488816,
+      "artifact_id": 8878035990,
+      "filename": "nijiSweetSpotKREA2V1.T9iZ.safetensors",
+      "normalized_name": "nijisweetspotkrea2v1.t9iz.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1cj_SA7QeLiMrcSSD_35kug?pwd=f12f",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-08-04T02:21:16Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30869669731",
       "run_id": 30869669731,
@@ -352,19 +365,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-03T18:10:45Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30835247224",
-      "run_id": 30835247224,
-      "artifact_id": 8866285735,
-      "filename": "nijiSweetSpotKREA2V1.T9iZ.safetensors",
-      "normalized_name": "nijisweetspotkrea2v1.t9iz.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.baidu.com/s/1eNffDmyOLKFjt3Xfvd9dUg?pwd=1f4b",
-      "channel": "baidu",
-      "channel_name": "Baidu",
-      "completed_at": "2026-08-03T18:06:57Z",
       "workflow": "upload.yml"
     },
     {
