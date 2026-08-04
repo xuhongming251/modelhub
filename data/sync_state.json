@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-04T04:51:53.156Z",
-  "lastRunId": 30878597801,
+  "updatedAt": "2026-08-04T04:58:07.594Z",
+  "lastRunId": 30879123754,
   "items": [
+    {
+      "id": "run_30879123754",
+      "run_id": 30879123754,
+      "artifact_id": 8880619323,
+      "filename": "main.zip",
+      "normalized_name": "main.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4e6092caa9d9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-04T04:57:29Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30878597801",
       "run_id": 30878597801,
@@ -14,19 +27,6 @@
       "channel": "baidu",
       "channel_name": "Baidu",
       "completed_at": "2026-08-04T04:51:20Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30878596175",
-      "run_id": 30878596175,
-      "artifact_id": 8880417539,
-      "filename": "main.zip",
-      "normalized_name": "main.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/df31f456a34b",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-04T04:45:50Z",
       "workflow": "upload.yml"
     },
     {
