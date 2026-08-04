@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-04T12:19:53.062Z",
-  "lastRunId": 30908493898,
+  "updatedAt": "2026-08-04T12:23:05.657Z",
+  "lastRunId": 30908784518,
   "items": [
+    {
+      "id": "run_30908784518",
+      "run_id": 30908784518,
+      "artifact_id": 8892154370,
+      "filename": "u2net.onnx",
+      "normalized_name": "u2net.onnx",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/52d5b605e83a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-04T12:22:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30908493898",
       "run_id": 30908493898,
