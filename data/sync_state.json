@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-04T15:39:50.817Z",
-  "lastRunId": 30923747026,
+  "updatedAt": "2026-08-04T15:41:33.819Z",
+  "lastRunId": 30925276989,
   "items": [
+    {
+      "id": "run_30925276989",
+      "run_id": 30925276989,
+      "artifact_id": 8898840937,
+      "filename": "Wan2.2-Fun-A14B-InP-low-noise-MPS.safetensors",
+      "normalized_name": "wan2.2-fun-a14b-inp-low-noise-mps.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c6f238f09ac9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-04T15:41:07Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30925200356",
+      "run_id": 30925200356,
+      "artifact_id": 8898801247,
+      "filename": "Wan2.2-Fun-A14B-InP-high-noise-MPS.safetensors",
+      "normalized_name": "wan2.2-fun-a14b-inp-high-noise-mps.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/18f31b0abbd4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-04T15:39:55Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30921356308",
       "run_id": 30921356308,
