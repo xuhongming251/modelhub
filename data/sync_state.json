@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-04T14:31:56.899Z",
-  "lastRunId": 30919321529,
+  "updatedAt": "2026-08-04T14:36:10.129Z",
+  "lastRunId": 30919681237,
   "items": [
+    {
+      "id": "run_30919681237",
+      "run_id": 30919681237,
+      "artifact_id": 8896540473,
+      "filename": "redcraft-or-2-or-3-int8int4fp8-scaled",
+      "normalized_name": "redcraft-or-2-or-3-int8int4fp8-scaled",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1ZGfr_olfe-NiRNOBA1GLWw?pwd=c0ba",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-08-04T14:35:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30919321529",
       "run_id": 30919321529,
@@ -9010,19 +9023,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-28T06:51:16Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30335747573",
-      "run_id": 30335747573,
-      "artifact_id": 8679041691,
-      "filename": "redcraft-or-2-or-3-int8int4fp8-scaled",
-      "normalized_name": "redcraft-or-2-or-3-int8int4fp8-scaled",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/7dcd7d575743",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-28T06:43:29Z",
       "workflow": "upload.yml"
     },
     {
