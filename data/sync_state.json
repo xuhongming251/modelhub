@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-04T03:57:12.185Z",
-  "lastRunId": 30875628640,
+  "updatedAt": "2026-08-04T03:58:39.284Z",
+  "lastRunId": 30876237411,
   "items": [
+    {
+      "id": "run_30876237411",
+      "run_id": 30876237411,
+      "artifact_id": 8879628947,
+      "filename": "ff12.opAE.safetensors",
+      "normalized_name": "ff12.opae.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/424552cfaa1a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-04T03:58:22Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_30876229389",
+      "run_id": 30876229389,
+      "artifact_id": 8879626036,
+      "filename": "Fluffy_furry.safetensors",
+      "normalized_name": "fluffy_furry.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cdc85eb2b9c5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-04T03:58:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30875628640",
       "run_id": 30875628640,
