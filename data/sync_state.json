@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-04T18:49:02.654Z",
+  "updatedAt": "2026-08-04T18:59:21.192Z",
   "lastRunId": 30938679039,
   "items": [
+    {
+      "id": "run_30921655702",
+      "run_id": 30921655702,
+      "artifact_id": 8905150475,
+      "filename": "redcraft23INT8INT4FP8_30Krea2.safetensors",
+      "normalized_name": "redcraft23int8int4fp8_30krea2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1CNxCxvQSWoESTSinMVoppQ?pwd=60a9",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-08-04T18:58:45Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30923134704",
       "run_id": 30923134704,
@@ -14210,19 +14223,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-22T15:28:20Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29933404552",
-      "run_id": 29933404552,
-      "artifact_id": 8535059085,
-      "filename": "redcraft23INT8INT4FP8_30Krea2.safetensors",
-      "normalized_name": "redcraft23int8int4fp8_30krea2.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/d72478b8d70e",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-22T15:28:19Z",
       "workflow": "upload.yml"
     },
     {
