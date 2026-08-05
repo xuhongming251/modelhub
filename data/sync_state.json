@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05T18:46:32.631Z",
+  "updatedAt": "2026-08-05T18:47:11.792Z",
   "lastRunId": 31035261335,
   "items": [
+    {
+      "id": "run_31032785479",
+      "run_id": 31032785479,
+      "artifact_id": 8942704779,
+      "filename": "ltx-2-19b-dev.safetensors",
+      "normalized_name": "ltx-2-19b-dev.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1qH473xR638kcxHBxtdgmdw?pwd=845e",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-08-05T18:46:43Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31033333955",
       "run_id": 31033333955,
@@ -101369,12 +101382,6 @@
       "normalized_name": "qwenimageeditremix.zdkk.safetensors",
       "share_url": "https://pan.quark.cn/s/2b9ac68971e0",
       "completed_at": "2026-03-29T12:43:36Z"
-    },
-    {
-      "filename": "ltx-2-19b-dev.safetensors",
-      "normalized_name": "ltx-2-19b-dev.safetensors",
-      "share_url": "https://pan.quark.cn/s/7c1e66c72bff",
-      "completed_at": "2026-03-29T12:34:49Z"
     },
     {
       "filename": "darkBeastMar2126Latest_dbzit9DIMRclaw.safetensors",
