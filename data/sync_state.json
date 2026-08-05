@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05T11:49:14.083Z",
-  "lastRunId": 31002912640,
+  "updatedAt": "2026-08-05T11:54:03.907Z",
+  "lastRunId": 31003239196,
   "items": [
+    {
+      "id": "run_31003239196",
+      "run_id": 31003239196,
+      "artifact_id": 8929186007,
+      "filename": "ultrafluxV1VAE.RPFL.safetensors",
+      "normalized_name": "ultrafluxv1vae.rpfl.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8842a4327ba1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-05T11:53:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31002912640",
       "run_id": 31002912640,
