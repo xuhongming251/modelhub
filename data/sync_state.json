@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05T03:25:08.683Z",
+  "updatedAt": "2026-08-05T03:28:49.310Z",
   "lastRunId": 30972123144,
   "items": [
+    {
+      "id": "run_30970901171",
+      "run_id": 30970901171,
+      "artifact_id": 8916976083,
+      "filename": "qwen3vl_32b_heretic_minimax_h3_nvfp4.safetensors",
+      "normalized_name": "qwen3vl_32b_heretic_minimax_h3_nvfp4.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fa55512765ef",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-05T03:28:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30972123144",
       "run_id": 30972123144,
