@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05T13:41:15.597Z",
-  "lastRunId": 31011321149,
+  "updatedAt": "2026-08-05T13:42:07.190Z",
+  "lastRunId": 31011385183,
   "items": [
+    {
+      "id": "run_31011385183",
+      "run_id": 31011385183,
+      "artifact_id": 8932587724,
+      "filename": "bounceTestHighnoise.TcSD.safetensors",
+      "normalized_name": "bouncetesthighnoise.tcsd.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/eb25e16b9f4b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-05T13:41:31Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_31011360206",
+      "run_id": 31011360206,
+      "artifact_id": 8932580522,
+      "filename": "bounceTestLownoise.4Dyr.safetensors",
+      "normalized_name": "bouncetestlownoise.4dyr.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1bf938c01467",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-05T13:41:20Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_31011344115",
+      "run_id": 31011344115,
+      "artifact_id": 8932569946,
+      "filename": "bouncelowwan22.DZJH.safetensors",
+      "normalized_name": "bouncelowwan22.dzjh.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c8af6dda6e99",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-05T13:41:03Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31011321149",
       "run_id": 31011321149,
@@ -68966,32 +69005,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-03T09:48:56Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26875516247",
-      "run_id": 26875516247,
-      "artifact_id": 7380529318,
-      "filename": "bounceTestHighnoise.TcSD.safetensors",
-      "normalized_name": "bouncetesthighnoise.tcsd.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/945002c47c7b",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-03T09:19:35Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26875472850",
-      "run_id": 26875472850,
-      "artifact_id": 7380509968,
-      "filename": "bounceTestLownoise.4Dyr.safetensors",
-      "normalized_name": "bouncetestlownoise.4dyr.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/4e6fcee886cf",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-03T09:18:40Z",
       "workflow": "upload.yml"
     },
     {
