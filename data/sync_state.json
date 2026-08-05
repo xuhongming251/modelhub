@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05T10:57:47.626Z",
-  "lastRunId": 30999387545,
+  "updatedAt": "2026-08-05T11:06:36.997Z",
+  "lastRunId": 31000050779,
   "items": [
+    {
+      "id": "run_31000050779",
+      "run_id": 31000050779,
+      "artifact_id": 8927847125,
+      "filename": "animaNijiSweetSpotV4.4BZv.safetensors",
+      "normalized_name": "animanijisweetspotv4.4bzv.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e9f611a10f91",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-05T11:06:02Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30999387545",
       "run_id": 30999387545,
@@ -2055,19 +2068,6 @@
       "channel": "baidu",
       "channel_name": "Baidu",
       "completed_at": "2026-08-04T02:25:03Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30871472576",
-      "run_id": 30871472576,
-      "artifact_id": 8878049505,
-      "filename": "animaNijiSweetSpotV4.4BZv.safetensors",
-      "normalized_name": "animanijisweetspotv4.4bzv.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.baidu.com/s/16e6WPKsR9EeRKRlUgnPhrg?pwd=79ae",
-      "channel": "baidu",
-      "channel_name": "Baidu",
-      "completed_at": "2026-08-04T02:22:04Z",
       "workflow": "upload.yml"
     },
     {
