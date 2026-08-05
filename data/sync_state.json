@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05T10:34:30.159Z",
-  "lastRunId": 30997824936,
+  "updatedAt": "2026-08-05T10:35:47.097Z",
+  "lastRunId": 30997964847,
   "items": [
+    {
+      "id": "run_30997964847",
+      "run_id": 30997964847,
+      "artifact_id": 8926991646,
+      "filename": "ComfyUI-Impact-Pack.zip",
+      "normalized_name": "comfyui-impact-pack.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/117635555f4a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-05T10:35:07Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30997824936",
       "run_id": 30997824936,
@@ -3134,19 +3147,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-03T13:11:01Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30816508293",
-      "run_id": 30816508293,
-      "artifact_id": 8856961442,
-      "filename": "ComfyUI-Impact-Pack.zip",
-      "normalized_name": "comfyui-impact-pack.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/11bfd0664758",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-03T13:08:19Z",
       "workflow": "upload.yml"
     },
     {
