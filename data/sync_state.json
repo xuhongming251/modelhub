@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05T06:05:26.019Z",
-  "lastRunId": 30979185961,
+  "updatedAt": "2026-08-05T06:25:04.423Z",
+  "lastRunId": 30980917757,
   "items": [
+    {
+      "id": "run_30980917757",
+      "run_id": 30980917757,
+      "artifact_id": 8920213713,
+      "filename": "slat_flow_imgshape2tex_dit_1_3B_1024_bf16.gguf",
+      "normalized_name": "slat_flow_imgshape2tex_dit_1_3b_1024_bf16.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d0958ac3e2e2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-05T06:24:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30979036778",
       "run_id": 30979036778,
