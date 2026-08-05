@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05T11:54:03.907Z",
-  "lastRunId": 31003239196,
+  "updatedAt": "2026-08-05T12:09:37.208Z",
+  "lastRunId": 31004351210,
   "items": [
+    {
+      "id": "run_31004351210",
+      "run_id": 31004351210,
+      "artifact_id": 8929644705,
+      "filename": "4xNomosWebPhoto_RealPLKSR.pth",
+      "normalized_name": "4xnomoswebphoto_realplksr.pth",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fc2a96e79612",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-05T12:09:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31003239196",
       "run_id": 31003239196,
@@ -19748,19 +19761,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-16T19:23:30Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29526305291",
-      "run_id": 29526305291,
-      "artifact_id": 8386780957,
-      "filename": "4xNomosWebPhoto_RealPLKSR.pth",
-      "normalized_name": "4xnomoswebphoto_realplksr.pth",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/4f938b8f58db",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-16T19:01:15Z",
       "workflow": "upload.yml"
     },
     {
