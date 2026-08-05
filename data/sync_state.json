@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05T11:35:14.759Z",
-  "lastRunId": 31001872208,
+  "updatedAt": "2026-08-05T11:49:14.083Z",
+  "lastRunId": 31002912640,
   "items": [
+    {
+      "id": "run_31002912640",
+      "run_id": 31002912640,
+      "artifact_id": 8929050445,
+      "filename": "moody-krea-2-mix-uncensored",
+      "normalized_name": "moody-krea-2-mix-uncensored",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/eeab00d98e0f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-05T11:48:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31001872208",
       "run_id": 31001872208,
@@ -14,19 +27,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-05T11:34:42Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_31001834372",
-      "run_id": 31001834372,
-      "artifact_id": 8928594190,
-      "filename": "moody-krea-2-mix-uncensored",
-      "normalized_name": "moody-krea-2-mix-uncensored",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/2d0d3bdce1d0",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-05T11:32:34Z",
       "workflow": "upload.yml"
     },
     {
