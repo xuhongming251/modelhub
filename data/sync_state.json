@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05T14:10:46.364Z",
-  "lastRunId": 31013563033,
+  "updatedAt": "2026-08-05T14:19:05.188Z",
+  "lastRunId": 31014373856,
   "items": [
+    {
+      "id": "run_31014373856",
+      "run_id": 31014373856,
+      "artifact_id": 8933860480,
+      "filename": "krea2GptruthE980BCE79C9F.26GD.safetensors",
+      "normalized_name": "krea2gptruthe980bce79c9f.26gd.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b7e55b697ed7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-05T14:18:23Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31013563033",
       "run_id": 31013563033,
@@ -3329,19 +3342,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-03T14:20:46Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30821921692",
-      "run_id": 30821921692,
-      "artifact_id": 8859228162,
-      "filename": "krea2GptruthE980BCE79C9F.26GD.safetensors",
-      "normalized_name": "krea2gptruthe980bce79c9f.26gd.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/ae83c7b42233",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-03T14:18:16Z",
       "workflow": "upload.yml"
     },
     {
