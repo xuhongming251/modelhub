@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05T18:35:33.505Z",
+  "updatedAt": "2026-08-05T18:46:32.631Z",
   "lastRunId": 31035261335,
   "items": [
+    {
+      "id": "run_31033333955",
+      "run_id": 31033333955,
+      "artifact_id": 8942677982,
+      "filename": "ltx-2-19b-dev-fp8.safetensors",
+      "normalized_name": "ltx-2-19b-dev-fp8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1shuh1KoOgp5cbMAKzV5huw?pwd=1785",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-08-05T18:45:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31035261335",
       "run_id": 31035261335,
@@ -34204,19 +34217,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-05T04:37:17Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28729500848",
-      "run_id": 28729500848,
-      "artifact_id": 8088322038,
-      "filename": "ltx-2-19b-dev-fp8.safetensors",
-      "normalized_name": "ltx-2-19b-dev-fp8.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/4ba0cab53f7c",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-05T04:34:37Z",
       "workflow": "upload.yml"
     },
     {
