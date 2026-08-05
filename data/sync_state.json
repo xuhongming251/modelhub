@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05T12:57:15.438Z",
-  "lastRunId": 31007842465,
+  "updatedAt": "2026-08-05T13:07:14.260Z",
+  "lastRunId": 31008620669,
   "items": [
+    {
+      "id": "run_31008620669",
+      "run_id": 31008620669,
+      "artifact_id": 8931419896,
+      "filename": "slopTwerkLownoise.rOsM.safetensors",
+      "normalized_name": "sloptwerklownoise.rosm.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/243d363178be",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-05T13:06:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31007842465",
       "run_id": 31007842465,
@@ -9699,19 +9712,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-28T12:34:55Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30359517141",
-      "run_id": 30359517141,
-      "artifact_id": 8688180304,
-      "filename": "slopTwerkLownoise.rOsM.safetensors",
-      "normalized_name": "sloptwerklownoise.rosm.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/3b53056eaa14",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-28T12:34:34Z",
       "workflow": "upload.yml"
     },
     {
