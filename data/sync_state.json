@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05T13:23:17.644Z",
-  "lastRunId": 31009691067,
+  "updatedAt": "2026-08-05T13:24:23.687Z",
+  "lastRunId": 31009943502,
   "items": [
+    {
+      "id": "run_31009874864",
+      "run_id": 31009874864,
+      "artifact_id": 8931991032,
+      "filename": "身材测试.safetensors",
+      "normalized_name": "身材测试.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2f87b863a00f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-05T13:24:06Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_31009943502",
+      "run_id": 31009943502,
+      "artifact_id": 8931978318,
+      "filename": "动作测试.safetensors",
+      "normalized_name": "动作测试.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/af74d0904255",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-05T13:23:44Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31009571452",
       "run_id": 31009571452,
