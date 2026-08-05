@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-04T23:37:16.702Z",
-  "lastRunId": 30959089563,
+  "updatedAt": "2026-08-05T00:07:35.716Z",
+  "lastRunId": 30961110812,
   "items": [
+    {
+      "id": "run_30961110812",
+      "run_id": 30961110812,
+      "artifact_id": 8913360352,
+      "filename": "gemma-3-12b-it-heretic-v2-Q6_K.gguf",
+      "normalized_name": "gemma-3-12b-it-heretic-v2-q6_k.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8e851d9af53e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-05T00:06:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30959089563",
       "run_id": 30959089563,
