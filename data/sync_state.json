@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05T06:54:11.680Z",
-  "lastRunId": 30982847239,
+  "updatedAt": "2026-08-05T07:06:53.007Z",
+  "lastRunId": 30983691279,
   "items": [
+    {
+      "id": "run_30983691279",
+      "run_id": 30983691279,
+      "artifact_id": 8921174981,
+      "filename": "pILHutao.u24P.safetensors",
+      "normalized_name": "pilhutao.u24p.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7dda9ba4c8c8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-05T07:06:18Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30982847239",
       "run_id": 30982847239,
@@ -109892,7 +109905,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 2,
+      "page": 3,
       "createdBefore": null,
       "exhausted": false
     }
