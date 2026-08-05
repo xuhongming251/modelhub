@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05T04:51:47.502Z",
-  "lastRunId": 30976254904,
+  "updatedAt": "2026-08-05T04:57:25.060Z",
+  "lastRunId": 30976587186,
   "items": [
+    {
+      "id": "run_30976587186",
+      "run_id": 30976587186,
+      "artifact_id": 8918477778,
+      "filename": "ComfyUI.zip",
+      "normalized_name": "comfyui.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/620ef6c4b391",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-05T04:57:03Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_30976254904",
       "run_id": 30976254904,
@@ -89177,12 +89190,6 @@
       "normalized_name": "bloodorangemixhalf nsfw sd1.5.safetensors",
       "share_url": "https://pan.quark.cn/s/ab05ab0cd658",
       "completed_at": "2026-05-03T03:52:37Z"
-    },
-    {
-      "filename": "ComfyUI.zip",
-      "normalized_name": "comfyui.zip",
-      "share_url": "https://pan.quark.cn/s/6d356329260a",
-      "completed_at": "2026-05-03T03:40:05Z"
     },
     {
       "filename": "misonoMika.safetensors",
