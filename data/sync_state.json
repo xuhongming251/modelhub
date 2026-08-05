@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05T17:33:10.713Z",
-  "lastRunId": 31029273111,
+  "updatedAt": "2026-08-05T17:34:29.844Z",
+  "lastRunId": 31030497132,
   "items": [
+    {
+      "id": "run_31030115807",
+      "run_id": 31030115807,
+      "artifact_id": 8940465980,
+      "filename": "miaomiaoAnimaLh3d10N.6k33.safetensors",
+      "normalized_name": "miaomiaoanimalh3d10n.6k33.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1LCmxcRsV-mCzMVpQobQWew?pwd=d36c",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-08-05T17:33:41Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_31030497132",
+      "run_id": 31030497132,
+      "artifact_id": 8940448961,
+      "filename": "krea29d6Figurecrafter.7IOv.safetensors",
+      "normalized_name": "krea29d6figurecrafter.7iov.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/88b93250e6a3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-05T17:33:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31029273111",
       "run_id": 31029273111,
@@ -1834,19 +1860,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-04T12:14:36Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30907118764",
-      "run_id": 30907118764,
-      "artifact_id": 8891645913,
-      "filename": "miaomiaoAnimaLh3d10N.6k33.safetensors",
-      "normalized_name": "miaomiaoanimalh3d10n.6k33.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.baidu.com/s/1cBTpspJozgs07fqjimV4eA?pwd=7b77",
-      "channel": "baidu",
-      "channel_name": "Baidu",
-      "completed_at": "2026-08-04T12:05:05Z",
       "workflow": "upload.yml"
     },
     {
