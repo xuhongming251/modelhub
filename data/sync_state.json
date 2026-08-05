@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05T13:07:14.260Z",
-  "lastRunId": 31008620669,
+  "updatedAt": "2026-08-05T13:10:08.897Z",
+  "lastRunId": 31008841947,
   "items": [
+    {
+      "id": "run_31008841947",
+      "run_id": 31008841947,
+      "artifact_id": 8931515155,
+      "filename": "Nvidia_RTX_Nodes_ComfyUI.zip",
+      "normalized_name": "nvidia_rtx_nodes_comfyui.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e9bbedd6c076",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-05T13:09:34Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31008620669",
       "run_id": 31008620669,
@@ -106507,12 +106520,6 @@
       "normalized_name": "tainted00001.rxgb.safetensors",
       "share_url": "https://pan.baidu.com/s/1lzF5bapCif9YabZqWJGP0w?pwd=abe1",
       "completed_at": "2026-03-16T00:19:49Z"
-    },
-    {
-      "filename": "Nvidia_RTX_Nodes_ComfyUI.zip",
-      "normalized_name": "nvidia_rtx_nodes_comfyui.zip",
-      "share_url": "https://pan.quark.cn/s/f5a07e4ec78a",
-      "completed_at": "2026-03-15T22:57:13Z"
     },
     {
       "filename": "plsPretendudont.tknm.safetensors",
