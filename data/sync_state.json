@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-06T14:16:23.510Z",
-  "lastRunId": 31109266635,
+  "updatedAt": "2026-08-06T14:19:41.046Z",
+  "lastRunId": 31109546858,
   "items": [
+    {
+      "id": "run_31108590008",
+      "run_id": 31108590008,
+      "artifact_id": 8971316503,
+      "filename": "Haunting.Havens.v1.01.rar",
+      "normalized_name": "haunting.havens.v1.01.rar",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d4309142184d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-06T14:19:01Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_31109546858",
+      "run_id": 31109546858,
+      "artifact_id": 8971223551,
+      "filename": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+      "normalized_name": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2d5b1e0fa8e0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-06T14:16:23Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31109266635",
       "run_id": 31109266635,
@@ -287,19 +313,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-06T11:56:15Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_31098983789",
-      "run_id": 31098983789,
-      "artifact_id": 8966709259,
-      "filename": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
-      "normalized_name": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/e169ecb7d6d2",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-06T11:54:37Z",
       "workflow": "upload.yml"
     },
     {
