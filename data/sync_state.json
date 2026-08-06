@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-06T23:48:00.482Z",
-  "lastRunId": 31132203029,
+  "updatedAt": "2026-08-06T23:57:09.769Z",
+  "lastRunId": 31132365350,
   "items": [
+    {
+      "id": "run_31132365350",
+      "run_id": 31132365350,
+      "artifact_id": 8976722444,
+      "filename": "PinkCherry_h3_fl2va_int8_convrot_v0.1-alpha.safetensors",
+      "normalized_name": "pinkcherry_h3_fl2va_int8_convrot_v0.1-alpha.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/26052bdd3d88",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-06T23:56:34Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31132203029",
       "run_id": 31132203029,
@@ -677,19 +690,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-06T10:49:31Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_31085418407",
-      "run_id": 31085418407,
-      "artifact_id": 8963094187,
-      "filename": "PinkCherry_h3_fl2va_int8_convrot_v0.1-alpha.safetensors",
-      "normalized_name": "pinkcherry_h3_fl2va_int8_convrot_v0.1-alpha.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/60a95cc42d25",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-06T09:42:30Z",
       "workflow": "upload.yml"
     },
     {
@@ -111180,7 +111180,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 3,
       "createdBefore": null,
       "exhausted": false
     }
