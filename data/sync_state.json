@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-06T01:57:02.053Z",
-  "lastRunId": 31062751302,
+  "updatedAt": "2026-08-06T02:22:48.871Z",
+  "lastRunId": 31065386318,
   "items": [
+    {
+      "id": "run_31065386318",
+      "run_id": 31065386318,
+      "artifact_id": 8953645201,
+      "filename": "krea-2-turbo-official-comfy-org-checkpoints-krea2",
+      "normalized_name": "krea-2-turbo-official-comfy-org-checkpoints-krea2",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a5745b474b47",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-06T02:22:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31062731653",
       "run_id": 31062731653,
@@ -10245,19 +10258,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-28T10:10:24Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30349429028",
-      "run_id": 30349429028,
-      "artifact_id": 8684244843,
-      "filename": "krea-2-turbo-official-comfy-org-checkpoints-krea2",
-      "normalized_name": "krea-2-turbo-official-comfy-org-checkpoints-krea2",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/17edc3f3e375",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-28T10:07:05Z",
       "workflow": "upload.yml"
     },
     {
