@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-06T11:16:43.797Z",
-  "lastRunId": 31096545114,
+  "updatedAt": "2026-08-06T11:19:51.194Z",
+  "lastRunId": 31096613781,
   "items": [
+    {
+      "id": "run_31096613781",
+      "run_id": 31096613781,
+      "artifact_id": 8965754004,
+      "filename": "control_v11p_sd15_scribble_fp16.safetensors",
+      "normalized_name": "control_v11p_sd15_scribble_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7659803efa04",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-06T11:19:16Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31096545114",
       "run_id": 31096545114,
