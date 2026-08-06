@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-06T02:56:05.091Z",
+  "updatedAt": "2026-08-06T02:57:37.647Z",
   "lastRunId": 31066932930,
   "items": [
+    {
+      "id": "run_31066908773",
+      "run_id": 31066908773,
+      "artifact_id": 8954183032,
+      "filename": "精美色情片V4BF16.78dX.safetensors",
+      "normalized_name": "精美色情片v4bf16.78dx.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/10d317e13297",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-06T02:57:02Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31066932930",
       "run_id": 31066932930,
@@ -110595,7 +110608,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 3,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
