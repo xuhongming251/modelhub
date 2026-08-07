@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-07T17:12:58.373Z",
-  "lastRunId": 31201172929,
+  "updatedAt": "2026-08-07T17:47:50.825Z",
+  "lastRunId": 31203838499,
   "items": [
+    {
+      "id": "run_31203838499",
+      "run_id": 31203838499,
+      "artifact_id": 9003916990,
+      "filename": "ntrmix20XIII2.MJam.safetensors",
+      "normalized_name": "ntrmix20xiii2.mjam.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b6cbd14bb6dd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-07T17:47:20Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31201172929",
       "run_id": 31201172929,
@@ -96181,12 +96194,6 @@
       "normalized_name": "2758hinaasianflux1.oczf.safetensors",
       "share_url": "https://pan.quark.cn/s/b2dca6422388",
       "completed_at": "2026-04-22T14:32:08Z"
-    },
-    {
-      "filename": "ntrmix20XIII2.MJam.safetensors",
-      "normalized_name": "ntrmix20xiii2.mjam.safetensors",
-      "share_url": "https://pan.quark.cn/s/b9078c941522",
-      "completed_at": "2026-04-22T14:30:47Z"
     },
     {
       "filename": "smoothmixTxt2vidHigh.04wu.safetensors",
