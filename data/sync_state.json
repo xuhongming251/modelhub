@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-07T17:55:33.999Z",
+  "updatedAt": "2026-08-07T18:28:56.884Z",
   "lastRunId": 31203838499,
   "items": [
+    {
+      "id": "run_31201484348",
+      "run_id": 31201484348,
+      "artifact_id": 9005152624,
+      "filename": "ComfyUI_windows_portable_amd.7z",
+      "normalized_name": "comfyui_windows_portable_amd.7z",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1uFKDs5lSfdLAvr4kzbSdRQ?pwd=13c2",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-08-07T18:28:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31203838499",
       "run_id": 31203838499,
@@ -49973,19 +49986,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-23T07:50:57Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28010625646",
-      "run_id": 28010625646,
-      "artifact_id": 7814518386,
-      "filename": "ComfyUI_windows_portable_amd.7z",
-      "normalized_name": "comfyui_windows_portable_amd.7z",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/1dbeff5400ae",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-23T07:46:02Z",
       "workflow": "upload.yml"
     },
     {
