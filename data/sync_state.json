@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-07T09:01:10.334Z",
-  "lastRunId": 31164011923,
+  "updatedAt": "2026-08-07T09:04:34.124Z",
+  "lastRunId": 31164261981,
   "items": [
+    {
+      "id": "run_31164261981",
+      "run_id": 31164261981,
+      "artifact_id": 8988335137,
+      "filename": "qwen3vl_32b_h3_ultra_uncensored_heretic_int8_convrot.safetensors",
+      "normalized_name": "qwen3vl_32b_h3_ultra_uncensored_heretic_int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1hpibaGN6Mb-iM-xonVt7UQ?pwd=eb88",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-08-07T09:03:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31164011923",
       "run_id": 31164011923,
