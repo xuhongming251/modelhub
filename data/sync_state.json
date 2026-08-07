@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-07T14:35:23.512Z",
-  "lastRunId": 31188219919,
+  "updatedAt": "2026-08-07T14:50:19.570Z",
+  "lastRunId": 31189391988,
   "items": [
+    {
+      "id": "run_31189391988",
+      "run_id": 31189391988,
+      "artifact_id": 8998180278,
+      "filename": "animajmVae.safetensors",
+      "normalized_name": "animajmvae.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a45f30322b2e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-07T14:49:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31188219919",
       "run_id": 31188219919,
