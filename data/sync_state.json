@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-07T04:03:27.747Z",
-  "lastRunId": 31145443728,
+  "updatedAt": "2026-08-07T04:31:29.510Z",
+  "lastRunId": 31147511033,
   "items": [
+    {
+      "id": "run_31147511033",
+      "run_id": 31147511033,
+      "artifact_id": 8982070284,
+      "filename": "smoothMixWan2214BI2V_t2vHighV40.safetensors",
+      "normalized_name": "smoothmixwan2214bi2v_t2vhighv40.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6a7dce428793",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-07T04:30:59Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_31145562640",
+      "run_id": 31145562640,
+      "artifact_id": 8981553152,
+      "filename": "ubuntu-26.04-desktop-amd64.iso",
+      "normalized_name": "ubuntu-26.04-desktop-amd64.iso",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/01d8e4d70d3c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-07T04:02:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31145443728",
       "run_id": 31145443728,
@@ -111297,7 +111323,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 2,
+      "page": 3,
       "createdBefore": null,
       "exhausted": false
     }
