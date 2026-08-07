@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-07T09:33:55.910Z",
-  "lastRunId": 31166328924,
+  "updatedAt": "2026-08-07T09:43:57.032Z",
+  "lastRunId": 31167052567,
   "items": [
+    {
+      "id": "run_31167052567",
+      "run_id": 31167052567,
+      "artifact_id": 8989401955,
+      "filename": "Flux2-Klein-9B-consistency-V2.safetensors",
+      "normalized_name": "flux2-klein-9b-consistency-v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4c0e90af1c14",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-07T09:43:27Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31166328924",
       "run_id": 31166328924,
