@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-07T09:04:34.124Z",
-  "lastRunId": 31164261981,
+  "updatedAt": "2026-08-07T09:17:36.188Z",
+  "lastRunId": 31165191168,
   "items": [
+    {
+      "id": "run_31165191168",
+      "run_id": 31165191168,
+      "artifact_id": 8988663728,
+      "filename": "ComfyUI-EulerDiscreteScheduler.zip",
+      "normalized_name": "comfyui-eulerdiscretescheduler.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9cba19aae576",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-07T09:16:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31164261981",
       "run_id": 31164261981,
@@ -109475,12 +109488,6 @@
       "normalized_name": "smoothxxxanimation.j6bq.safetensors",
       "share_url": "https://pan.quark.cn/s/cb12d0e27f6f",
       "completed_at": "2026-03-11T04:51:21Z"
-    },
-    {
-      "filename": "ComfyUI-EulerDiscreteScheduler.zip",
-      "normalized_name": "comfyui-eulerdiscretescheduler.zip",
-      "share_url": "https://pan.quark.cn/s/c9c1e3eb90c8",
-      "completed_at": "2026-03-11T04:10:37Z"
     },
     {
       "filename": "968a21697701",
