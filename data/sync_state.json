@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-08T11:06:37.593Z",
-  "lastRunId": 31254210908,
+  "updatedAt": "2026-08-08T11:14:25.396Z",
+  "lastRunId": 31254488624,
   "items": [
+    {
+      "id": "run_31254488624",
+      "run_id": 31254488624,
+      "artifact_id": 9020986002,
+      "filename": "hanfu-000018.safetensors",
+      "normalized_name": "hanfu-000018.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0b7c109f0fcb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-08T11:13:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31254210908",
       "run_id": 31254210908,
