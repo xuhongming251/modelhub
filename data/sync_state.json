@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-07T23:35:22.205Z",
-  "lastRunId": 31207513966,
+  "updatedAt": "2026-08-08T00:53:20.632Z",
+  "lastRunId": 31230515799,
   "items": [
+    {
+      "id": "run_31230515799",
+      "run_id": 31230515799,
+      "artifact_id": 9013876419,
+      "filename": "Qwen-Rapid-NSFW-v18_Q4_K.gguf",
+      "normalized_name": "qwen-rapid-nsfw-v18_q4_k.gguf",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1t0FtXZnFYgPB47SFVgqg8A?pwd=8822",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-08-08T00:52:47Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31207460420",
       "run_id": 31207460420,
