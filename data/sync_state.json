@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-08T15:25:46.799Z",
-  "lastRunId": 31264332344,
+  "updatedAt": "2026-08-08T15:37:28.995Z",
+  "lastRunId": 31264396106,
   "items": [
+    {
+      "id": "run_31264396106",
+      "run_id": 31264396106,
+      "artifact_id": 9023710048,
+      "filename": "mmproj-Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-f16.gguf",
+      "normalized_name": "mmproj-qwen3.6-35b-a3b-uncensored-hauhaucs-aggressive-f16.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d68754a39b9d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-08T15:25:45Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31264332344",
       "run_id": 31264332344,
@@ -96723,12 +96736,6 @@
       "normalized_name": "qwen3.5-9b-abliterated-claude-4.6-opus-reasoning-distilled-v2.q8_0.gguf",
       "share_url": "https://pan.quark.cn/s/4a2bb64c8263",
       "completed_at": "2026-04-21T16:25:03Z"
-    },
-    {
-      "filename": "mmproj-Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-f16.gguf",
-      "normalized_name": "mmproj-qwen3.6-35b-a3b-uncensored-hauhaucs-aggressive-f16.gguf",
-      "share_url": "https://pan.quark.cn/s/f2d32a4c161f",
-      "completed_at": "2026-04-21T16:24:37Z"
     },
     {
       "filename": "Abiray/Qwen3.5-9B-Abliterated-Claude-4.6-Opus-Reasoning-Distilled-v2-mmproj-f16.gguf",
