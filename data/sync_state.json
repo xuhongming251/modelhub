@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-08T14:58:48.111Z",
-  "lastRunId": 31261970534,
+  "updatedAt": "2026-08-08T15:25:46.799Z",
+  "lastRunId": 31264332344,
   "items": [
+    {
+      "id": "run_31264332344",
+      "run_id": 31264332344,
+      "artifact_id": 9023703886,
+      "filename": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-IQ2_M.gguf",
+      "normalized_name": "qwen3.6-35b-a3b-uncensored-hauhaucs-aggressive-iq2_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b43d1dcec975",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-08T15:25:16Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31261970534",
       "run_id": 31261970534,
@@ -97562,12 +97575,6 @@
       "normalized_name": "yao_guang_honkai_star_rail.safetensors",
       "share_url": "https://pan.quark.cn/s/02bc524e53f0",
       "completed_at": "2026-04-19T07:29:26Z"
-    },
-    {
-      "filename": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive-IQ2_M.gguf",
-      "normalized_name": "qwen3.6-35b-a3b-uncensored-hauhaucs-aggressive-iq2_m.gguf",
-      "share_url": "https://pan.quark.cn/s/8555a68f75ff",
-      "completed_at": "2026-04-19T07:28:37Z"
     },
     {
       "filename": "charHonkaisrRobinV2.nLmU.safetensors",
