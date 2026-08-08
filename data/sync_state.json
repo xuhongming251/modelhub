@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-08T06:38:40.988Z",
-  "lastRunId": 31244260468,
+  "updatedAt": "2026-08-08T06:42:54.887Z",
+  "lastRunId": 31244466812,
   "items": [
+    {
+      "id": "run_31244466812",
+      "run_id": 31244466812,
+      "artifact_id": 9018057368,
+      "filename": "KJminimax_h3_fl2v_lightx2v_turbo_4step_v0.1_comfy.safetensors",
+      "normalized_name": "kjminimax_h3_fl2v_lightx2v_turbo_4step_v0.1_comfy.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5d2293ac0c5a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-08T06:42:23Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31244212066",
       "run_id": 31244212066,
