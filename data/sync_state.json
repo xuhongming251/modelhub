@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-09T08:57:47.353Z",
-  "lastRunId": 31300962648,
+  "updatedAt": "2026-08-09T09:13:04.661Z",
+  "lastRunId": 31305341497,
   "items": [
+    {
+      "id": "run_31305341497",
+      "run_id": 31305341497,
+      "artifact_id": 9035755925,
+      "filename": "hand_pose_model.pth",
+      "normalized_name": "hand_pose_model.pth",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/672a076cc10a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-09T09:12:45Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_31305331034",
+      "run_id": 31305331034,
+      "artifact_id": 9035752836,
+      "filename": "body_pose_model.pth",
+      "normalized_name": "body_pose_model.pth",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/acb259332994",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-09T09:12:26Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_31304722316",
+      "run_id": 31304722316,
+      "artifact_id": 9035575903,
+      "filename": "H3_Turbo_Stable_4V4A.json",
+      "normalized_name": "h3_turbo_stable_4v4a.json",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f153c9ea6210",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-09T08:57:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31300962648",
       "run_id": 31300962648,
@@ -15162,19 +15201,6 @@
       "workflow": "upload.yml"
     },
     {
-      "id": "run_30156148556",
-      "run_id": 30156148556,
-      "artifact_id": 8619042024,
-      "filename": "hand_pose_model.pth",
-      "normalized_name": "hand_pose_model.pth",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/41dae2f53e3c",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-25T11:23:27Z",
-      "workflow": "upload.yml"
-    },
-    {
       "id": "run_30156110691",
       "run_id": 30156110691,
       "artifact_id": 8619034052,
@@ -15185,19 +15211,6 @@
       "channel": "baidu",
       "channel_name": "Baidu",
       "completed_at": "2026-07-25T11:22:20Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30156036514",
-      "run_id": 30156036514,
-      "artifact_id": 8619012775,
-      "filename": "body_pose_model.pth",
-      "normalized_name": "body_pose_model.pth",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/ed15073834a3",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-25T11:19:27Z",
       "workflow": "upload.yml"
     },
     {
