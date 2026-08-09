@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-09T17:32:51.973Z",
-  "lastRunId": 31321888479,
+  "updatedAt": "2026-08-09T18:02:08.224Z",
+  "lastRunId": 31327424728,
   "items": [
+    {
+      "id": "run_31327424728",
+      "run_id": 31327424728,
+      "artifact_id": 9042060542,
+      "filename": "qwen3vl_4b_heretic_int8_convrot.safetensors",
+      "normalized_name": "qwen3vl_4b_heretic_int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9e31a5dae03a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-09T18:01:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31321888479",
       "run_id": 31321888479,
