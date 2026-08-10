@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T11:00:47.498Z",
-  "lastRunId": 31381549522,
+  "updatedAt": "2026-08-10T11:01:38.295Z",
+  "lastRunId": 31381609357,
   "items": [
+    {
+      "id": "run_31381609357",
+      "run_id": 31381609357,
+      "artifact_id": 9060079078,
+      "filename": "canonKrea2.VSre.safetensors",
+      "normalized_name": "canonkrea2.vsre.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e07ffcf11f2f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-10T11:01:02Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31381549522",
       "run_id": 31381549522,
