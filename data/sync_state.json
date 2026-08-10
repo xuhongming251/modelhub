@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T12:19:29.733Z",
-  "lastRunId": 31387400027,
+  "updatedAt": "2026-08-10T12:20:27.645Z",
+  "lastRunId": 31387445022,
   "items": [
+    {
+      "id": "run_31387445022",
+      "run_id": 31387445022,
+      "artifact_id": 9062268358,
+      "filename": "genitalColorKrea2.cnqr.safetensors",
+      "normalized_name": "genitalcolorkrea2.cnqr.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cc7ac3641e74",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-10T12:19:47Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31387400027",
       "run_id": 31387400027,
@@ -113600,7 +113613,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
