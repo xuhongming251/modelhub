@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T12:21:50.603Z",
-  "lastRunId": 31387575323,
+  "updatedAt": "2026-08-10T12:23:11.851Z",
+  "lastRunId": 31387667795,
   "items": [
+    {
+      "id": "run_31387667795",
+      "run_id": 31387667795,
+      "artifact_id": 9062347092,
+      "filename": "nipplesProtruding.3tze.safetensors",
+      "normalized_name": "nipplesprotruding.3tze.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/916716e96f8a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-10T12:22:25Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_31387610214",
+      "run_id": 31387610214,
+      "artifact_id": 9062327341,
+      "filename": "flaccidErectKrea2.EFSl.safetensors",
+      "normalized_name": "flacciderectkrea2.efsl.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c16f36b2ab6f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-10T12:21:47Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31387575323",
       "run_id": 31387575323,
@@ -113652,7 +113678,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
