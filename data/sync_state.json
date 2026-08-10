@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T07:46:14.949Z",
-  "lastRunId": 31365681478,
+  "updatedAt": "2026-08-10T09:03:26.233Z",
+  "lastRunId": 31372665431,
   "items": [
+    {
+      "id": "run_31372665431",
+      "run_id": 31372665431,
+      "artifact_id": 9056715230,
+      "filename": "格罗克娜娜 黑兽3.0.safetensors",
+      "normalized_name": "格罗克娜娜 黑兽3.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/463c2cb1605e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-10T09:02:46Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_31366056280",
+      "run_id": 31366056280,
+      "artifact_id": 9054445767,
+      "filename": "pornmasterZImage_turboV35Fp8.safetensors",
+      "normalized_name": "pornmasterzimage_turbov35fp8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/401d9aa5b4d2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-10T07:40:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31365681478",
       "run_id": 31365681478,
@@ -112560,7 +112586,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 2,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
