@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T09:24:06.561Z",
-  "lastRunId": 31372907108,
+  "updatedAt": "2026-08-10T09:44:06.787Z",
+  "lastRunId": 31375900158,
   "items": [
+    {
+      "id": "run_31375900158",
+      "run_id": 31375900158,
+      "artifact_id": 9057901365,
+      "filename": "barphotK2V1.KZU5.safetensors",
+      "normalized_name": "barphotk2v1.kzu5.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1f5b8bc4c4e3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-10T09:43:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31372907108",
       "run_id": 31372907108,
@@ -112612,7 +112625,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 1,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
