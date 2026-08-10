@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T12:13:52.328Z",
-  "lastRunId": 31386180962,
+  "updatedAt": "2026-08-10T12:16:13.408Z",
+  "lastRunId": 31387135057,
   "items": [
+    {
+      "id": "run_31387135057",
+      "run_id": 31387135057,
+      "artifact_id": 9062137810,
+      "filename": "hairLengthKrea2.4Xar.safetensors",
+      "normalized_name": "hairlengthkrea2.4xar.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1ec1a2ff47c4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-10T12:15:26Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_31386952708",
+      "run_id": 31386952708,
+      "artifact_id": 9062070997,
+      "filename": "femboyKrea2.CbAk.safetensors",
+      "normalized_name": "femboykrea2.cbak.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f881265db18c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-10T12:13:12Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31386180962",
       "run_id": 31386180962,
@@ -113535,7 +113561,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 3,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
