@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-12T16:46:40.543Z",
-  "lastRunId": 31619090247,
+  "updatedAt": "2026-08-12T16:59:52.708Z",
+  "lastRunId": 31620268294,
   "items": [
+    {
+      "id": "run_31620268294",
+      "run_id": 31620268294,
+      "artifact_id": 9150950199,
+      "filename": "nova3dcgam-v2.safetensors",
+      "normalized_name": "nova3dcgam-v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/748c76f42a70",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-12T16:59:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31619090247",
       "run_id": 31619090247,
