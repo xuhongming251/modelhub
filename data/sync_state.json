@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-12T02:49:32.723Z",
-  "lastRunId": 31557997193,
+  "updatedAt": "2026-08-12T03:25:28.801Z",
+  "lastRunId": 31559730253,
   "items": [
+    {
+      "id": "run_31559730253",
+      "run_id": 31559730253,
+      "artifact_id": 9127370118,
+      "filename": "prithivMLmods/Qwen3-VL-4B-Instruct-Unredacted-MAX-model.safetensors",
+      "normalized_name": "prithivmlmods/qwen3-vl-4b-instruct-unredacted-max-model.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0e3fdace511e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-12T03:24:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31557990053",
       "run_id": 31557990053,
