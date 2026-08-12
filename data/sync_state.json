@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-12T05:55:58.594Z",
-  "lastRunId": 31565747257,
+  "updatedAt": "2026-08-12T07:24:48.833Z",
+  "lastRunId": 31573771307,
   "items": [
+    {
+      "id": "run_31573771307",
+      "run_id": 31573771307,
+      "artifact_id": 9132343720,
+      "filename": "AIRI-0.11.3-windows-x64-setup.exe",
+      "normalized_name": "airi-0.11.3-windows-x64-setup.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/769243a75c24",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-12T07:24:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31565747257",
       "run_id": 31565747257,
