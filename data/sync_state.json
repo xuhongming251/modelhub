@@ -1,8 +1,60 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-12T07:57:33.316Z",
-  "lastRunId": 31575491242,
+  "updatedAt": "2026-08-12T08:05:53.092Z",
+  "lastRunId": 31576731027,
   "items": [
+    {
+      "id": "run_31576729948",
+      "run_id": 31576729948,
+      "artifact_id": 9133467741,
+      "filename": "bf86df67-64c2-4bb4-933c-0c5611b0665c",
+      "normalized_name": "bf86df67-64c2-4bb4-933c-0c5611b0665c",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/215d03f8bf1f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-12T08:05:31Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_31576731027",
+      "run_id": 31576731027,
+      "artifact_id": 9133467263,
+      "filename": "semi.6dCR.safetensors",
+      "normalized_name": "semi.6dcr.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3afcc04df0c6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-12T08:05:30Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_31576713814",
+      "run_id": 31576713814,
+      "artifact_id": 9133461216,
+      "filename": "hairVolumeKrea2.Ulpl.safetensors",
+      "normalized_name": "hairvolumekrea2.ulpl.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d0da4bf4253d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-12T08:05:18Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_31576090342",
+      "run_id": 31576090342,
+      "artifact_id": 9133234947,
+      "filename": "TE_MAN.zip",
+      "normalized_name": "te_man.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f7137cd5a667",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-12T07:57:03Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31575491242",
       "run_id": 31575491242,
@@ -3433,19 +3485,6 @@
       "channel": "baidu",
       "channel_name": "Baidu",
       "completed_at": "2026-08-07T14:03:49Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_31184022945",
-      "run_id": 31184022945,
-      "artifact_id": 8995970509,
-      "filename": "TE_MAN.zip",
-      "normalized_name": "te_man.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/45b30fc8d5f7",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-07T13:44:24Z",
       "workflow": "upload.yml"
     },
     {
