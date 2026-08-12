@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-12T08:13:12.212Z",
-  "lastRunId": 31577294473,
+  "updatedAt": "2026-08-12T08:14:39.400Z",
+  "lastRunId": 31577309988,
   "items": [
+    {
+      "id": "run_31577309988",
+      "run_id": 31577309988,
+      "artifact_id": 9133715444,
+      "filename": "krea220see20throught.A0jT.safetensors",
+      "normalized_name": "krea220see20throught.a0jt.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ea665ed72300",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-12T08:13:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31577294473",
       "run_id": 31577294473,
@@ -114621,7 +114634,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
