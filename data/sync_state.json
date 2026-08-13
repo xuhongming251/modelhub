@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-13T15:59:48.804Z",
-  "lastRunId": 31710180066,
+  "updatedAt": "2026-08-13T16:22:08.055Z",
+  "lastRunId": 31720207159,
   "items": [
+    {
+      "id": "run_31720207159",
+      "run_id": 31720207159,
+      "artifact_id": 9188963830,
+      "filename": "vagassistE40.PuZN.safetensors",
+      "normalized_name": "vagassiste40.puzn.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a189e8e815d7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-13T16:21:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31710180066",
       "run_id": 31710180066,
@@ -115063,7 +115076,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 2,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
