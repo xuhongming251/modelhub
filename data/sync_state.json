@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-13T12:05:12.247Z",
-  "lastRunId": 31698306708,
+  "updatedAt": "2026-08-13T12:10:08.286Z",
+  "lastRunId": 31698337012,
   "items": [
+    {
+      "id": "run_31698337012",
+      "run_id": 31698337012,
+      "artifact_id": 9180348304,
+      "filename": "LARP_v0-5.safetensors",
+      "normalized_name": "larp_v0-5.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c0c988f098b5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-13T12:09:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31698306708",
       "run_id": 31698306708,
