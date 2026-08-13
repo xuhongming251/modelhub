@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-13T04:56:43.747Z",
-  "lastRunId": 31666429933,
+  "updatedAt": "2026-08-13T05:58:06.971Z",
+  "lastRunId": 31668550146,
   "items": [
+    {
+      "id": "run_31668550146",
+      "run_id": 31668550146,
+      "artifact_id": 9168869510,
+      "filename": "redcraftcadsupdatedma.6hLg.safetensors",
+      "normalized_name": "redcraftcadsupdatedma.6hlg.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/55669607da3f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-13T04:56:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31666429933",
       "run_id": 31666429933,
@@ -21360,19 +21373,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-21T07:32:03Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29810719532",
-      "run_id": 29810719532,
-      "artifact_id": 8487310977,
-      "filename": "redcraftcadsupdatedma.6hLg.safetensors",
-      "normalized_name": "redcraftcadsupdatedma.6hlg.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/abdc65959a74",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-21T07:31:57Z",
       "workflow": "upload.yml"
     },
     {
@@ -114946,7 +114946,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 2,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
