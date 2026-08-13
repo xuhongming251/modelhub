@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-13T13:46:44.073Z",
-  "lastRunId": 31706559086,
+  "updatedAt": "2026-08-13T14:09:52.315Z",
+  "lastRunId": 31708398303,
   "items": [
+    {
+      "id": "run_31708398303",
+      "run_id": 31708398303,
+      "artifact_id": 9184240898,
+      "filename": "open-webui-docker-image",
+      "normalized_name": "open-webui-docker-image",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1823fcad0195",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-13T14:09:13Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31706559086",
       "run_id": 31706559086,
