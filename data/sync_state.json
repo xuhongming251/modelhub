@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-13T11:30:30.127Z",
-  "lastRunId": 31695145937,
+  "updatedAt": "2026-08-13T11:49:37.171Z",
+  "lastRunId": 31695735995,
   "items": [
+    {
+      "id": "run_31695735995",
+      "run_id": 31695735995,
+      "artifact_id": 9179225408,
+      "filename": "ultraRealKrea2V2.61iQ.safetensors",
+      "normalized_name": "ultrarealkrea2v2.61iq.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1ff3a782cfb2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-13T11:30:03Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31695145937",
       "run_id": 31695145937,
@@ -4889,19 +4902,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-06T13:05:02Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_31104198758",
-      "run_id": 31104198758,
-      "artifact_id": 8968796074,
-      "filename": "ultraRealKrea2V2.61iQ.safetensors",
-      "normalized_name": "ultrarealkrea2v2.61iq.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/79c93544fe3b",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-06T13:04:47Z",
       "workflow": "upload.yml"
     },
     {
@@ -114972,7 +114972,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 2,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
