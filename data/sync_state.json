@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-13T14:09:52.315Z",
-  "lastRunId": 31708398303,
+  "updatedAt": "2026-08-13T14:27:46.913Z",
+  "lastRunId": 31710180066,
   "items": [
+    {
+      "id": "run_31710180066",
+      "run_id": 31710180066,
+      "artifact_id": 9184887408,
+      "filename": "ubuntu-24.04-minimal-cloudimg-arm64-docker",
+      "normalized_name": "ubuntu-24.04-minimal-cloudimg-arm64-docker",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2975e17dc6ac",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-13T14:27:05Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31708398303",
       "run_id": 31708398303,
