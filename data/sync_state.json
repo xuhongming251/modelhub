@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-14T05:10:29.624Z",
-  "lastRunId": 31772092453,
+  "updatedAt": "2026-08-14T05:17:28.191Z",
+  "lastRunId": 31772427190,
   "items": [
+    {
+      "id": "run_31772427190",
+      "run_id": 31772427190,
+      "artifact_id": 9208630693,
+      "filename": "lustifyNSFWCheckpoint_V10Krea2.safetensors",
+      "normalized_name": "lustifynsfwcheckpoint_v10krea2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e50d81dae72e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-14T05:16:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31772092453",
       "run_id": 31772092453,
@@ -115226,7 +115239,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
