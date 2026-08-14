@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-14T11:45:06.226Z",
-  "lastRunId": 31791406509,
+  "updatedAt": "2026-08-14T12:21:35.237Z",
+  "lastRunId": 31799897456,
   "items": [
+    {
+      "id": "run_31799858944",
+      "run_id": 31799858944,
+      "artifact_id": 9218820563,
+      "filename": "minimax_music3_dit_fp16.safetensors",
+      "normalized_name": "minimax_music3_dit_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b487edf25178",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-14T12:20:56Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_31799897456",
+      "run_id": 31799897456,
+      "artifact_id": 9218821026,
+      "filename": "minimax_music3_dav.safetensors",
+      "normalized_name": "minimax_music3_dav.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/09bd2fde969f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-14T12:20:55Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31791406509",
       "run_id": 31791406509,
