@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-14T08:25:12.146Z",
-  "lastRunId": 31783717376,
+  "updatedAt": "2026-08-14T08:26:28.986Z",
+  "lastRunId": 31783809762,
   "items": [
+    {
+      "id": "run_31783809762",
+      "run_id": 31783809762,
+      "artifact_id": 9212699883,
+      "filename": "kome-cola_v2_epoch40.safetensors",
+      "normalized_name": "kome-cola_v2_epoch40.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0881b95fad76",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-14T08:25:45Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31783717376",
       "run_id": 31783717376,
