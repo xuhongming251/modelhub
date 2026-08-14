@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-14T09:45:59.293Z",
-  "lastRunId": 31789350680,
+  "updatedAt": "2026-08-14T09:47:32.437Z",
+  "lastRunId": 31789373537,
   "items": [
+    {
+      "id": "run_31789373537",
+      "run_id": 31789373537,
+      "artifact_id": 9214844184,
+      "filename": "qwen3vl32bHeretic.XFTi.safetensors",
+      "normalized_name": "qwen3vl32bheretic.xfti.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/98c362558c5c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-14T09:46:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31789350680",
       "run_id": 31789350680,
