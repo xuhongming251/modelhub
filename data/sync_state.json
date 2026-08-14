@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-14T08:40:27.365Z",
-  "lastRunId": 31784790057,
+  "updatedAt": "2026-08-14T08:41:22.704Z",
+  "lastRunId": 31784833981,
   "items": [
+    {
+      "id": "run_31784833981",
+      "run_id": 31784833981,
+      "artifact_id": 9213091659,
+      "filename": "revanimatedV2Rebirth.z5W3.safetensors",
+      "normalized_name": "revanimatedv2rebirth.z5w3.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8fbd04aca508",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-14T08:40:47Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31784790057",
       "run_id": 31784790057,
@@ -110892,12 +110905,6 @@
       "normalized_name": "realcartoonpixarv12p.sqkm.safetensors",
       "share_url": "https://pan.baidu.com/s/1oIms6jS2J-68N3fry-NU1g?pwd=a7bd",
       "completed_at": "2026-03-17T14:19:24Z"
-    },
-    {
-      "filename": "revanimatedV2Rebirth.z5W3.safetensors",
-      "normalized_name": "revanimatedv2rebirth.z5w3.safetensors",
-      "share_url": "https://pan.baidu.com/s/1vm_D1p71w64icUZC_nl7xQ?pwd=b2b7",
-      "completed_at": "2026-03-17T14:16:08Z"
     },
     {
       "filename": "Qwen-Rapid-AIO-NSFW-v19.safetensors",
