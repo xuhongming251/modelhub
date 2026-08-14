@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-14T00:30:58.073Z",
-  "lastRunId": 31755507559,
+  "updatedAt": "2026-08-14T01:14:04.386Z",
+  "lastRunId": 31759886781,
   "items": [
+    {
+      "id": "run_31759886781",
+      "run_id": 31759886781,
+      "artifact_id": 9204194743,
+      "filename": "mmproj-Qwen3.6-27B-Uncensored-HauhauCS-Aggressive-f16.gguf",
+      "normalized_name": "mmproj-qwen3.6-27b-uncensored-hauhaucs-aggressive-f16.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/98d89dabd86d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-14T01:13:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31755438761",
       "run_id": 31755438761,
@@ -99538,12 +99551,6 @@
       "normalized_name": "qwen3.6-27b-uncensored-hauhaucs-aggressive-q5_k_p.gguf",
       "share_url": "https://pan.quark.cn/s/088f8f5bb7c2",
       "completed_at": "2026-04-23T17:55:35Z"
-    },
-    {
-      "filename": "mmproj-Qwen3.6-27B-Uncensored-HauhauCS-Aggressive-f16.gguf",
-      "normalized_name": "mmproj-qwen3.6-27b-uncensored-hauhaucs-aggressive-f16.gguf",
-      "share_url": "https://pan.quark.cn/s/94e67385fd6d",
-      "completed_at": "2026-04-23T17:08:56Z"
     },
     {
       "filename": "lunerriamixanimeILL_v3.safetensors",
