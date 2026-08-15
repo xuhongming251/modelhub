@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-15T14:49:31.434Z",
-  "lastRunId": 31889542721,
+  "updatedAt": "2026-08-15T15:04:34.978Z",
+  "lastRunId": 31890148988,
   "items": [
+    {
+      "id": "run_31890148988",
+      "run_id": 31890148988,
+      "artifact_id": 9248693570,
+      "filename": "krea2_turbo_bf16.safetensors",
+      "normalized_name": "krea2_turbo_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/13YQ0A1vkfgebYNVBS8cUCA?pwd=b666",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-08-15T15:03:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31889542721",
       "run_id": 31889542721,
@@ -116003,7 +116016,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
