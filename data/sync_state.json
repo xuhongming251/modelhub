@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-15T07:28:57.205Z",
-  "lastRunId": 31871990110,
+  "updatedAt": "2026-08-15T07:31:46.314Z",
+  "lastRunId": 31872102599,
   "items": [
+    {
+      "id": "run_31872102599",
+      "run_id": 31872102599,
+      "artifact_id": 9243720285,
+      "filename": "gcHentaiaV13.VbRT.safetensors",
+      "normalized_name": "gchentaiav13.vbrt.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7136e6576f61",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-15T07:31:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31871990110",
       "run_id": 31871990110,
@@ -115021,12 +115034,6 @@
       "normalized_name": "mokubapoint.safetensors",
       "share_url": "https://pan.quark.cn/s/3483c03e8092",
       "completed_at": "2026-03-08T09:50:30Z"
-    },
-    {
-      "filename": "gcHentaiaV13.VbRT.safetensors",
-      "normalized_name": "gchentaiav13.vbrt.safetensors",
-      "share_url": "https://pan.quark.cn/s/6bc781d3cb05",
-      "completed_at": "2026-03-08T09:34:23Z"
     },
     {
       "filename": "Background_lineart_test-000005.safetensors",
