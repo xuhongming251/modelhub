@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-15T02:39:14.662Z",
-  "lastRunId": 31859640451,
+  "updatedAt": "2026-08-15T02:42:58.769Z",
+  "lastRunId": 31859822361,
   "items": [
+    {
+      "id": "run_31859822361",
+      "run_id": 31859822361,
+      "artifact_id": 9240196475,
+      "filename": "toiletTunesRawInt8.qsO3.safetensors",
+      "normalized_name": "toilettunesrawint8.qso3.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ebd8c6a25705",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-15T02:42:28Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31859640451",
       "run_id": 31859640451,
@@ -23518,19 +23531,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-19T13:49:03Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29689543493",
-      "run_id": 29689543493,
-      "artifact_id": 8443143970,
-      "filename": "toiletTunesRawInt8.qsO3.safetensors",
-      "normalized_name": "toilettunesrawint8.qso3.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/075ea73e91b0",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-19T13:48:30Z",
       "workflow": "upload.yml"
     },
     {
