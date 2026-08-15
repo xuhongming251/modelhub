@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-15T08:40:27.077Z",
+  "updatedAt": "2026-08-15T08:41:57.176Z",
   "lastRunId": 31874395116,
   "items": [
+    {
+      "id": "run_31874389191",
+      "run_id": 31874389191,
+      "artifact_id": 9244511282,
+      "filename": "Qwen3.8-27B-UD-Q2_K_XL.gguf",
+      "normalized_name": "qwen3.8-27b-ud-q2_k_xl.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/85cb83f6a9b2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-15T08:41:26Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31874395116",
       "run_id": 31874395116,
