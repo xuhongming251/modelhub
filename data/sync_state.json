@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-16T04:37:36.547Z",
+  "updatedAt": "2026-08-16T04:42:13.748Z",
   "lastRunId": 31926822044,
   "items": [
+    {
+      "id": "run_31925497754",
+      "run_id": 31925497754,
+      "artifact_id": 9258196021,
+      "filename": "Qwen3.6-27B-Uncensored-Genesis-MTP-Q4_K_M.gguf",
+      "normalized_name": "qwen3.6-27b-uncensored-genesis-mtp-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b7c256f64157",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-16T04:41:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31926822044",
       "run_id": 31926822044,
