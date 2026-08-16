@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-16T03:49:40.126Z",
-  "lastRunId": 31922818568,
+  "updatedAt": "2026-08-16T04:00:19.453Z",
+  "lastRunId": 31925504026,
   "items": [
+    {
+      "id": "run_31925504026",
+      "run_id": 31925504026,
+      "artifact_id": 9257711295,
+      "filename": "mmproj-Qwen3.6-27B-Uncensored-Genesis-F16.gguf",
+      "normalized_name": "mmproj-qwen3.6-27b-uncensored-genesis-f16.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4d32dfbf219f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-16T03:59:34Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31920144797",
       "run_id": 31920144797,
