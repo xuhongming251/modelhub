@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-16T04:42:13.748Z",
-  "lastRunId": 31926822044,
+  "updatedAt": "2026-08-16T04:55:28.337Z",
+  "lastRunId": 31927735072,
   "items": [
+    {
+      "id": "run_31927735072",
+      "run_id": 31927735072,
+      "artifact_id": 9258342390,
+      "filename": "OpenJDK8U-jdk_x64_windows_hotspot_8u502b07.zip",
+      "normalized_name": "openjdk8u-jdk_x64_windows_hotspot_8u502b07.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8cf0721bdd6c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-16T04:54:50Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31925497754",
       "run_id": 31925497754,
