@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-16T06:48:21.846Z",
-  "lastRunId": 31930612468,
+  "updatedAt": "2026-08-16T06:54:11.230Z",
+  "lastRunId": 31932001219,
   "items": [
+    {
+      "id": "run_31932001219",
+      "run_id": 31932001219,
+      "artifact_id": 9259697880,
+      "filename": "Anima-2.9B-preview-v1_int8_convrot.safetensors",
+      "normalized_name": "anima-2.9b-preview-v1_int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fb8edcf97b9c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-16T06:53:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31930612468",
       "run_id": 31930612468,
