@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-17T16:58:10.054Z",
-  "lastRunId": 32045055881,
+  "updatedAt": "2026-08-17T17:16:40.236Z",
+  "lastRunId": 32045832170,
   "items": [
+    {
+      "id": "run_32045832170",
+      "run_id": 32045832170,
+      "artifact_id": 9294055559,
+      "filename": "qwen3-vl-4b-heretic_int8_dynamic_convrot.safetensors",
+      "normalized_name": "qwen3-vl-4b-heretic_int8_dynamic_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/549020f14d9c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-17T17:12:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32045055881",
       "run_id": 32045055881,
@@ -690,19 +703,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-16T02:32:15Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_31921118887",
-      "run_id": 31921118887,
-      "artifact_id": 9256448420,
-      "filename": "qwen3-vl-4b-heretic_int8_dynamic_convrot.safetensors",
-      "normalized_name": "qwen3-vl-4b-heretic_int8_dynamic_convrot.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/e5f71bfed68c",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-16T02:13:27Z",
       "workflow": "upload.yml"
     },
     {
@@ -116595,7 +116595,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 10,
       "createdBefore": null,
       "exhausted": false
     }
