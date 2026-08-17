@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-17T01:02:45.102Z",
-  "lastRunId": 31983614982,
+  "updatedAt": "2026-08-17T01:13:25.248Z",
+  "lastRunId": 31984267327,
   "items": [
+    {
+      "id": "run_31984267327",
+      "run_id": 31984267327,
+      "artifact_id": 9273268785,
+      "filename": "nijiCuteStyle.kDQN.safetensors",
+      "normalized_name": "nijicutestyle.kdqn.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/73b9454d3ce4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-17T01:12:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31983614982",
       "run_id": 31983614982,
@@ -104421,12 +104434,6 @@
       "normalized_name": "v2.2.0",
       "share_url": "https://pan.quark.cn/s/9c46a41fa7ff",
       "completed_at": "2026-04-07T14:53:42Z"
-    },
-    {
-      "filename": "nijiCuteStyle.kDQN.safetensors",
-      "normalized_name": "nijicutestyle.kdqn.safetensors",
-      "share_url": "https://pan.quark.cn/s/f907b68a51b6",
-      "completed_at": "2026-04-07T14:38:51Z"
     },
     {
       "filename": "Qwen3.5-9B-Claude-4.6-OS-AV-H-UNCENSORED-THINK-D_AU-Q6_K-imat.gguf",
