@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-17T04:01:08.548Z",
+  "updatedAt": "2026-08-17T04:12:52.044Z",
   "lastRunId": 31992931022,
   "items": [
+    {
+      "id": "run_31992054954",
+      "run_id": 31992054954,
+      "artifact_id": 9276110574,
+      "filename": "Qwen3.8-27B-ABLITERATED-Q3_K_M.gguf",
+      "normalized_name": "qwen3.8-27b-abliterated-q3_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ec7df8db3c7b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-17T04:12:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31992931022",
       "run_id": 31992931022,
