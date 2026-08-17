@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-17T03:51:34.514Z",
-  "lastRunId": 31991875035,
+  "updatedAt": "2026-08-17T04:01:08.548Z",
+  "lastRunId": 31992931022,
   "items": [
+    {
+      "id": "run_31992931022",
+      "run_id": 31992931022,
+      "artifact_id": 9275921580,
+      "filename": "mmproj-Hermes3.6-35B-A3B-Uncensored-Genesis-F16.gguf",
+      "normalized_name": "mmproj-hermes3.6-35b-a3b-uncensored-genesis-f16.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e2ab4acb75cc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-17T04:00:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31991590468",
       "run_id": 31991590468,
