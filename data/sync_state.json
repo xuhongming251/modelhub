@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-17T03:40:56.273Z",
+  "updatedAt": "2026-08-17T03:42:12.927Z",
   "lastRunId": 31991875035,
   "items": [
+    {
+      "id": "run_31991854130",
+      "run_id": 31991854130,
+      "artifact_id": 9275608693,
+      "filename": "Qwen3.8-27B-Uncensored-IQ4_XS.gguf",
+      "normalized_name": "qwen3.8-27b-uncensored-iq4_xs.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/258fb6ba4aaa",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-17T03:41:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_31991875035",
       "run_id": 31991875035,
@@ -116387,7 +116400,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
