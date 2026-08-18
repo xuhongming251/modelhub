@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-18T01:05:23.155Z",
-  "lastRunId": 32086724163,
+  "updatedAt": "2026-08-18T01:09:11.284Z",
+  "lastRunId": 32087111350,
   "items": [
+    {
+      "id": "run_32087111350",
+      "run_id": 32087111350,
+      "artifact_id": 9307081151,
+      "filename": "bfs_head_v5_2511_merged_version_rank_16_fp16.safetensors",
+      "normalized_name": "bfs_head_v5_2511_merged_version_rank_16_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f2c3e2af3318",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-18T01:08:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32086724163",
       "run_id": 32086724163,
@@ -112516,12 +112529,6 @@
       "normalized_name": "bfs_head_v5_2511_original.safetensors",
       "share_url": "https://pan.quark.cn/s/5a45bb18d53f",
       "completed_at": "2026-03-16T13:31:16Z"
-    },
-    {
-      "filename": "bfs_head_v5_2511_merged_version_rank_16_fp16.safetensors",
-      "normalized_name": "bfs_head_v5_2511_merged_version_rank_16_fp16.safetensors",
-      "share_url": "https://pan.quark.cn/s/694bc1d5e920",
-      "completed_at": "2026-03-16T13:30:42Z"
     },
     {
       "filename": "bfs_head_v1_flux-klein_9b_step3500_rank128.safetensors",
