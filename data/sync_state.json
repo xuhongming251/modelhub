@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-18T14:47:59.040Z",
-  "lastRunId": 32148776676,
+  "updatedAt": "2026-08-18T14:56:20.414Z",
+  "lastRunId": 32151213905,
   "items": [
+    {
+      "id": "run_32138911078",
+      "run_id": 32138911078,
+      "artifact_id": 9329837854,
+      "filename": "Hermes3.6-35B-A3B-Uncensored-Genesis-V7-Q8_K_P.gguf",
+      "normalized_name": "hermes3.6-35b-a3b-uncensored-genesis-v7-q8_k_p.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8052f694ab68",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-18T14:55:45Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32151213905",
+      "run_id": 32151213905,
+      "artifact_id": 9329835245,
+      "filename": "animeScreenshotsVpred.yn6X.safetensors",
+      "normalized_name": "animescreenshotsvpred.yn6x.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dede95db02f2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-18T14:55:38Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32142144285",
+      "run_id": 32142144285,
+      "artifact_id": 9329503240,
+      "filename": "Hermes3.6-35B-A3B-Uncensored-Genesis-V9-MTP-APEX.gguf",
+      "normalized_name": "hermes3.6-35b-a3b-uncensored-genesis-v9-mtp-apex.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d71433228c3d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-18T14:47:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32148776676",
       "run_id": 32148776676,
@@ -116960,7 +116999,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
