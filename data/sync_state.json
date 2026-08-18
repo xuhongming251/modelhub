@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-18T11:51:39.830Z",
-  "lastRunId": 32133633271,
+  "updatedAt": "2026-08-18T11:57:23.519Z",
+  "lastRunId": 32133638869,
   "items": [
+    {
+      "id": "run_32133638869",
+      "run_id": 32133638869,
+      "artifact_id": 9323333105,
+      "filename": "Qwen3.8-27B-Uncensored-OrcaRouter-Q4_K_M.gguf",
+      "normalized_name": "qwen3.8-27b-uncensored-orcarouter-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3d064d342add",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-18T11:56:48Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32133633271",
       "run_id": 32133633271,
@@ -157,19 +170,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-18T05:38:01Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_32093746854",
-      "run_id": 32093746854,
-      "artifact_id": 9310333876,
-      "filename": "Qwen3.8-27B-Uncensored-OrcaRouter-Q4_K_M.gguf",
-      "normalized_name": "qwen3.8-27b-uncensored-orcarouter-q4_k_m.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/3902dd653686",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-18T03:55:12Z",
       "workflow": "upload.yml"
     },
     {
