@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-18T12:58:02.810Z",
-  "lastRunId": 32139566521,
+  "updatedAt": "2026-08-18T13:00:43.652Z",
+  "lastRunId": 32139592029,
   "items": [
+    {
+      "id": "run_32139592029",
+      "run_id": 32139592029,
+      "artifact_id": 9325418835,
+      "filename": "h3ErosMax_beta2.safetensors",
+      "normalized_name": "h3erosmax_beta2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f0599b6a01ea",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-18T13:00:03Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32139566521",
       "run_id": 32139566521,
