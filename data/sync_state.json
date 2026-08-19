@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T12:57:06.966Z",
-  "lastRunId": 32255251332,
+  "updatedAt": "2026-08-19T12:58:04.316Z",
+  "lastRunId": 32255276616,
   "items": [
+    {
+      "id": "run_32255276616",
+      "run_id": 32255276616,
+      "artifact_id": 9366055466,
+      "filename": "anima29BPreviewV1.0JaY.safetensors",
+      "normalized_name": "anima29bpreviewv1.0jay.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d343513a6794",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-19T12:57:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32255251332",
       "run_id": 32255251332,
@@ -2380,19 +2393,6 @@
       "channel": "baidu",
       "channel_name": "Baidu",
       "completed_at": "2026-08-14T18:30:00Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_31822771807",
-      "run_id": 31822771807,
-      "artifact_id": 9227619755,
-      "filename": "anima29BPreviewV1.0JaY.safetensors",
-      "normalized_name": "anima29bpreviewv1.0jay.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/a16407f21e06",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-14T17:11:33Z",
       "workflow": "upload.yml"
     },
     {
