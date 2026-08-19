@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T21:32:17.777Z",
-  "lastRunId": 32303248555,
+  "updatedAt": "2026-08-19T22:00:43.233Z",
+  "lastRunId": 32306643685,
   "items": [
+    {
+      "id": "run_32306643685",
+      "run_id": 32306643685,
+      "artifact_id": 9384938458,
+      "filename": "birefnet.safetensors",
+      "normalized_name": "birefnet.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/66c2292e4041",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-19T22:00:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32303248555",
       "run_id": 32303248555,
