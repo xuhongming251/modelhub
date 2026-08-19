@@ -1,8 +1,73 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T15:10:14.276Z",
-  "lastRunId": 32265875429,
+  "updatedAt": "2026-08-19T15:28:15.313Z",
+  "lastRunId": 32269315281,
   "items": [
+    {
+      "id": "run_32269315281",
+      "run_id": 32269315281,
+      "artifact_id": 9371821968,
+      "filename": "ideogramSnofsV1.safetensors",
+      "normalized_name": "ideogramsnofsv1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/83b6380ddfb1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-19T15:27:43Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32268277933",
+      "run_id": 32268277933,
+      "artifact_id": 9371112408,
+      "filename": "Ideogram cum lora-3500.safetensors",
+      "normalized_name": "ideogram cum lora-3500.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/94eefaa3b4f4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-19T15:09:33Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32265841486",
+      "run_id": 32265841486,
+      "artifact_id": 9370816779,
+      "filename": "krea2_raw_bf16.safetensors",
+      "normalized_name": "krea2_raw_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/84a8ac9f64fa",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-19T15:02:06Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32266368510",
+      "run_id": 32266368510,
+      "artifact_id": 9370538744,
+      "filename": "qwen_2.5_vl_7b.safetensors",
+      "normalized_name": "qwen_2.5_vl_7b.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/561bc2f21de4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-19T14:55:08Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32266037828",
+      "run_id": 32266037828,
+      "artifact_id": 9370400335,
+      "filename": "qwen_3_4b.safetensors",
+      "normalized_name": "qwen_3_4b.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0cbcc432cc6b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-19T14:51:34Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32265875429",
       "run_id": 32265875429,
@@ -11987,19 +12052,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-03T11:49:06Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30810712533",
-      "run_id": 30810712533,
-      "artifact_id": 8854735311,
-      "filename": "qwen_3_4b.safetensors",
-      "normalized_name": "qwen_3_4b.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/2a5080b29603",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-03T11:48:15Z",
       "workflow": "upload.yml"
     },
     {
@@ -38000,19 +38052,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-08T16:51:20Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28958251521",
-      "run_id": 28958251521,
-      "artifact_id": 8174974066,
-      "filename": "krea2_raw_bf16.safetensors",
-      "normalized_name": "krea2_raw_bf16.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/fe7110ce854e",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-08T16:24:59Z",
       "workflow": "upload.yml"
     },
     {
@@ -92824,19 +92863,6 @@
       "workflow": "upload.yml"
     },
     {
-      "id": "run_25587680253",
-      "run_id": 25587680253,
-      "artifact_id": 6891640351,
-      "filename": "qwen_2.5_vl_7b.safetensors",
-      "normalized_name": "qwen_2.5_vl_7b.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/e48d888a85ab",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-09T01:27:01Z",
-      "workflow": "upload.yml"
-    },
-    {
       "id": "run_25587206486",
       "run_id": 25587206486,
       "artifact_id": 6891466569,
@@ -117454,7 +117480,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
