@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T12:24:56.564Z",
+  "updatedAt": "2026-08-19T12:27:25.246Z",
   "lastRunId": 32252393556,
   "items": [
+    {
+      "id": "run_32252367781",
+      "run_id": 32252367781,
+      "artifact_id": 9365031123,
+      "filename": "qwen3vl32bMinimaxH3.ZDQS.safetensors",
+      "normalized_name": "qwen3vl32bminimaxh3.zdqs.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e2476e0b8c03",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-19T12:26:50Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32252393556",
       "run_id": 32252393556,
