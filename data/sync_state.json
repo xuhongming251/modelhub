@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T10:30:50.854Z",
-  "lastRunId": 32225756968,
+  "updatedAt": "2026-08-19T10:46:12.408Z",
+  "lastRunId": 32244114749,
   "items": [
+    {
+      "id": "run_32244114749",
+      "run_id": 32244114749,
+      "artifact_id": 9361950177,
+      "filename": "Z-Image-Turbo-Fun-Controlnet-Union-2.1-lite-2602-8steps.safetensors",
+      "normalized_name": "z-image-turbo-fun-controlnet-union-2.1-lite-2602-8steps.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6883f6894f23",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-19T10:45:28Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32225756968",
       "run_id": 32225756968,
