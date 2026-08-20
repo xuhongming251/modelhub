@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T16:12:13.438Z",
-  "lastRunId": 32390544271,
+  "updatedAt": "2026-08-20T16:21:41.836Z",
+  "lastRunId": 32391416961,
   "items": [
+    {
+      "id": "run_32391416961",
+      "run_id": 32391416961,
+      "artifact_id": 9414981704,
+      "filename": "mmproj-Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-BF16.gguf",
+      "normalized_name": "mmproj-qwen3.8-27b-uncensored-hauhaucs-aggressive-bf16.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b01be5f1a94f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-20T16:21:01Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32390584239",
+      "run_id": 32390584239,
+      "artifact_id": 9414660777,
+      "filename": "Qwen-Image-Edit-2511-Ultra-Realistic-Portrait_20.safetensors",
+      "normalized_name": "qwen-image-edit-2511-ultra-realistic-portrait_20.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e697f81185c8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-20T16:12:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32390544271",
       "run_id": 32390544271,
@@ -612,19 +638,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-19T06:48:42Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_32221577674",
-      "run_id": 32221577674,
-      "artifact_id": 9354095436,
-      "filename": "mmproj-Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-BF16.gguf",
-      "normalized_name": "mmproj-qwen3.8-27b-uncensored-hauhaucs-aggressive-bf16.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/75abde07ab32",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-19T06:00:44Z",
       "workflow": "upload.yml"
     },
     {
