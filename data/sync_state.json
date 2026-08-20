@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T16:21:41.836Z",
-  "lastRunId": 32391416961,
+  "updatedAt": "2026-08-20T16:24:11.392Z",
+  "lastRunId": 32391466526,
   "items": [
+    {
+      "id": "run_32391466526",
+      "run_id": 32391466526,
+      "artifact_id": 9415069979,
+      "filename": "Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-FastMTP-32K.gguf",
+      "normalized_name": "qwen3.8-27b-uncensored-hauhaucs-aggressive-fastmtp-32k.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/80ddd3f116b5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-20T16:23:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32391416961",
       "run_id": 32391416961,
