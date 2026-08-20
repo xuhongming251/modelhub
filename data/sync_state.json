@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T02:38:55.167Z",
-  "lastRunId": 32320686178,
+  "updatedAt": "2026-08-20T02:51:07.722Z",
+  "lastRunId": 32325858318,
   "items": [
+    {
+      "id": "run_32325858318",
+      "run_id": 32325858318,
+      "artifact_id": 9391374796,
+      "filename": "qwen_2.5_vl_7b_nvfp4.safetensors",
+      "normalized_name": "qwen_2.5_vl_7b_nvfp4.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/aec0b206abd9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-20T02:50:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32320686178",
       "run_id": 32320686178,
