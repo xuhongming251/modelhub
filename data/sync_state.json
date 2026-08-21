@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T09:38:28.848Z",
-  "lastRunId": 32464932288,
+  "updatedAt": "2026-08-21T09:42:15.417Z",
+  "lastRunId": 32467552509,
   "items": [
+    {
+      "id": "run_32467552509",
+      "run_id": 32467552509,
+      "artifact_id": 9441800206,
+      "filename": "Qwen3.6-27B-uncensored-abliterated-MTP-i1-IQ4_XS-FFN-IQ3.gguf",
+      "normalized_name": "qwen3.6-27b-uncensored-abliterated-mtp-i1-iq4_xs-ffn-iq3.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/48190cd5cc8b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T09:41:29Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32464932288",
       "run_id": 32464932288,
