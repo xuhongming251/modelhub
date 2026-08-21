@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T06:53:33.014Z",
-  "lastRunId": 32456112752,
+  "updatedAt": "2026-08-21T06:58:46.273Z",
+  "lastRunId": 32456130381,
   "items": [
+    {
+      "id": "run_32456130381",
+      "run_id": 32456130381,
+      "artifact_id": 9437438769,
+      "filename": "Wan2_1-VACE-module-14B_fp8_e4m3fn_scaled_KJ.safetensors",
+      "normalized_name": "wan2_1-vace-module-14b_fp8_e4m3fn_scaled_kj.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1ZLeIvFqs94yDlPv2wzwi_w?pwd=2c88",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-08-21T06:58:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32456112752",
       "run_id": 32456112752,
@@ -110499,12 +110512,6 @@
       "normalized_name": "flat chest v1.safetensors",
       "share_url": "https://pan.quark.cn/s/a807dfb7859c",
       "completed_at": "2026-03-27T10:47:07Z"
-    },
-    {
-      "filename": "Wan2_1-VACE-module-14B_fp8_e4m3fn_scaled_KJ.safetensors",
-      "normalized_name": "wan2_1-vace-module-14b_fp8_e4m3fn_scaled_kj.safetensors",
-      "share_url": "https://pan.quark.cn/s/4ac8ee5ad7c4",
-      "completed_at": "2026-03-27T10:45:45Z"
     },
     {
       "filename": "Wan2_2-T2V-A14B_HIGH_fp8_e4m3fn_scaled_KJ.safetensors",
