@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T10:47:29.137Z",
-  "lastRunId": 32474126489,
+  "updatedAt": "2026-08-21T11:02:27.772Z",
+  "lastRunId": 32475275835,
   "items": [
+    {
+      "id": "run_32475275835",
+      "run_id": 32475275835,
+      "artifact_id": 9444050296,
+      "filename": "genshinNingguangIngame.Zo2c.safetensors",
+      "normalized_name": "genshinningguangingame.zo2c.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0b4dda31528b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T11:01:45Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32474126489",
       "run_id": 32474126489,
@@ -119127,7 +119140,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
