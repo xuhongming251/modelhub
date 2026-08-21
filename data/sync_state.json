@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T18:38:32.196Z",
-  "lastRunId": 32508111426,
+  "updatedAt": "2026-08-21T18:49:45.684Z",
+  "lastRunId": 32515230004,
   "items": [
+    {
+      "id": "run_32515230004",
+      "run_id": 32515230004,
+      "artifact_id": 9458520454,
+      "filename": "H3_Motion_BoosterV2.safetensors",
+      "normalized_name": "h3_motion_boosterv2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/336a61f43dab",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T18:49:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32508111426",
       "run_id": 32508111426,
