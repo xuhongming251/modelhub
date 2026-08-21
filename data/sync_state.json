@@ -1,8 +1,73 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T10:39:07.333Z",
-  "lastRunId": 32473533507,
+  "updatedAt": "2026-08-21T10:39:57.881Z",
+  "lastRunId": 32473573903,
   "items": [
+    {
+      "id": "run_32473573903",
+      "run_id": 32473573903,
+      "artifact_id": 9443469995,
+      "filename": "genshinDehyaIngame.YNH9.safetensors",
+      "normalized_name": "genshindehyaingame.ynh9.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/89b250466d05",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T10:39:38Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32473563088",
+      "run_id": 32473563088,
+      "artifact_id": 9443469552,
+      "filename": "genshinNaviaIngame.NHJj.safetensors",
+      "normalized_name": "genshinnaviaingame.nhjj.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/840414c4614e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T10:39:37Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32473549776",
+      "run_id": 32473549776,
+      "artifact_id": 9443462652,
+      "filename": "genshinClorindeIngame.KVE6.safetensors",
+      "normalized_name": "genshinclorindeingame.kve6.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/895b1c5395e5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T10:39:20Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32473540256",
+      "run_id": 32473540256,
+      "artifact_id": 9443458015,
+      "filename": "genshinRaidenShogun.wqtz.safetensors",
+      "normalized_name": "genshinraidenshogun.wqtz.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0714ed7bab94",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T10:39:11Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32473521490",
+      "run_id": 32473521490,
+      "artifact_id": 9443453920,
+      "filename": "genshinSaraKujouIngame.BdZ5.safetensors",
+      "normalized_name": "genshinsarakujouingame.bdz5.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7a8779bf0d01",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T10:39:02Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32473533507",
       "run_id": 32473533507,
@@ -118854,7 +118919,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
