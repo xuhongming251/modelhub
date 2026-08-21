@@ -1,8 +1,60 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T10:17:58.336Z",
-  "lastRunId": 32467552509,
+  "updatedAt": "2026-08-21T10:27:45.340Z",
+  "lastRunId": 32472658448,
   "items": [
+    {
+      "id": "run_32472638907",
+      "run_id": 32472638907,
+      "artifact_id": 9443129188,
+      "filename": "danicaAnimaV1.MEh8.safetensors",
+      "normalized_name": "danicaanimav1.meh8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/52da53eb8059",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T10:27:18Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32472658448",
+      "run_id": 32472658448,
+      "artifact_id": 9443128631,
+      "filename": "3138167TrainingData.3WnB.zip",
+      "normalized_name": "3138167trainingdata.3wnb.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8a4d1918dcee",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T10:27:17Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32472651886",
+      "run_id": 32472651886,
+      "artifact_id": 9443125399,
+      "filename": "genshinImpactStyleAnima.v1XE.safetensors",
+      "normalized_name": "genshinimpactstyleanima.v1xe.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/88bf7e999288",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T10:27:10Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32472644378",
+      "run_id": 32472644378,
+      "artifact_id": 9443123745,
+      "filename": "odetteAnimaV1.KlOi.safetensors",
+      "normalized_name": "odetteanimav1.kloi.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/befb2edc6e38",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T10:27:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32466462047",
       "run_id": 32466462047,
@@ -4928,19 +4980,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-12T16:46:02Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_31612765906",
-      "run_id": 31612765906,
-      "artifact_id": 9147923442,
-      "filename": "odetteAnimaV1.KlOi.safetensors",
-      "normalized_name": "odetteanimav1.kloi.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/d1080426a086",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-12T15:32:24Z",
       "workflow": "upload.yml"
     },
     {
@@ -118750,7 +118789,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
