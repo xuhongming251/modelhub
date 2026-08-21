@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T09:42:15.417Z",
+  "updatedAt": "2026-08-21T10:17:58.336Z",
   "lastRunId": 32467552509,
   "items": [
+    {
+      "id": "run_32466462047",
+      "run_id": 32466462047,
+      "artifact_id": 9442843913,
+      "filename": "Qwen3.8-27B-ULTIMATE-UNCENSORED-MTP-IQ4-16GB.gguf",
+      "normalized_name": "qwen3.8-27b-ultimate-uncensored-mtp-iq4-16gb.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1c2274b05b52",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T10:17:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32467552509",
       "run_id": 32467552509,
