@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T10:39:57.881Z",
-  "lastRunId": 32473573903,
+  "updatedAt": "2026-08-21T10:43:02.322Z",
+  "lastRunId": 32473830851,
   "items": [
+    {
+      "id": "run_32473830851",
+      "run_id": 32473830851,
+      "artifact_id": 9443549076,
+      "filename": "genshinHutaoIngame.FxD5.safetensors",
+      "normalized_name": "genshinhutaoingame.fxd5.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/37f067ee4845",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T10:42:40Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32473792408",
+      "run_id": 32473792408,
+      "artifact_id": 9443546151,
+      "filename": "genshinKokomiSangonomiya.OEN2.safetensors",
+      "normalized_name": "genshinkokomisangonomiya.oen2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d4fb48497034",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T10:42:33Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32473782257",
+      "run_id": 32473782257,
+      "artifact_id": 9443542466,
+      "filename": "genshinNoelleIngame.tcIz.safetensors",
+      "normalized_name": "genshinnoelleingame.tciz.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c662cc586491",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T10:42:25Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32473573903",
       "run_id": 32473573903,
@@ -18747,19 +18786,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-29T13:48:46Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30457629063",
-      "run_id": 30457629063,
-      "artifact_id": 8726218122,
-      "filename": "genshinHutaoIngame.FxD5.safetensors",
-      "normalized_name": "genshinhutaoingame.fxd5.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/db416127e919",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-29T13:47:55Z",
       "workflow": "upload.yml"
     },
     {
@@ -118919,7 +118945,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
