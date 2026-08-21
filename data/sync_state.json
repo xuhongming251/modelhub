@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T07:44:02.744Z",
-  "lastRunId": 32458056672,
+  "updatedAt": "2026-08-21T08:17:57.243Z",
+  "lastRunId": 32462167004,
   "items": [
+    {
+      "id": "run_32462167004",
+      "run_id": 32462167004,
+      "artifact_id": 9439413228,
+      "filename": "Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-IQ4_XS-MTP.gguf",
+      "normalized_name": "qwen3.8-27b-uncensored-hauhaucs-aggressive-iq4_xs-mtp.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1eb475917aca",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T08:17:18Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32458056672",
       "run_id": 32458056672,
