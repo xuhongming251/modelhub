@@ -1,8 +1,99 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T10:46:46.284Z",
-  "lastRunId": 32474076949,
+  "updatedAt": "2026-08-21T10:47:29.137Z",
+  "lastRunId": 32474126489,
   "items": [
+    {
+      "id": "run_32474126489",
+      "run_id": 32474126489,
+      "artifact_id": 9443661602,
+      "filename": "genshinSigewinneIngame.cvWi.safetensors",
+      "normalized_name": "genshinsigewinneingame.cvwi.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/59321f706f18",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T10:46:54Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32474118987",
+      "run_id": 32474118987,
+      "artifact_id": 9443661508,
+      "filename": "genshinIansanIngame.PnHH.safetensors",
+      "normalized_name": "genshiniansaningame.pnhh.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/31fa6c92d280",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T10:46:54Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32474112836",
+      "run_id": 32474112836,
+      "artifact_id": 9443658485,
+      "filename": "genshinKachinaIngame.Yubc.safetensors",
+      "normalized_name": "genshinkachinaingame.yubc.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d32cde9e3c9e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T10:46:45Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32474105813",
+      "run_id": 32474105813,
+      "artifact_id": 9443657463,
+      "filename": "genshinDionaIngame.vWVM.safetensors",
+      "normalized_name": "genshindionaingame.vwvm.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4d93f6918e7b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T10:46:43Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32474098141",
+      "run_id": 32474098141,
+      "artifact_id": 9443652288,
+      "filename": "genshinYaoyaoIngame.eam7.safetensors",
+      "normalized_name": "genshinyaoyaoingame.eam7.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/54a26185c3e1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T10:46:30Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32474092357",
+      "run_id": 32474092357,
+      "artifact_id": 9443650095,
+      "filename": "genshinSayuIngameAnima.DWKE.safetensors",
+      "normalized_name": "genshinsayuingameanima.dwke.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f4443db59c78",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T10:46:26Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32474084294",
+      "run_id": 32474084294,
+      "artifact_id": 9443647129,
+      "filename": "genshinQiqiIngameAnima.dWTD.safetensors",
+      "normalized_name": "genshinqiqiingameanima.dwtd.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6834350b6064",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T10:46:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32474076949",
       "run_id": 32474076949,
@@ -119036,7 +119127,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
