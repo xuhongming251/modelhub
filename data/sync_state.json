@@ -1,8 +1,73 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T10:43:02.322Z",
-  "lastRunId": 32473830851,
+  "updatedAt": "2026-08-21T10:43:50.254Z",
+  "lastRunId": 32473855806,
   "items": [
+    {
+      "id": "run_32473855806",
+      "run_id": 32473855806,
+      "artifact_id": 9443569429,
+      "filename": "genshinYoimiyaIngame.Whwf.safetensors",
+      "normalized_name": "genshinyoimiyaingame.whwf.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/62c95a52b3fd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T10:43:22Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32473848960",
+      "run_id": 32473848960,
+      "artifact_id": 9443565489,
+      "filename": "genshinNilouIngame.Cz0T.safetensors",
+      "normalized_name": "genshinnilouingame.cz0t.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a5b2a274ea25",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T10:43:15Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32473841496",
+      "run_id": 32473841496,
+      "artifact_id": 9443564015,
+      "filename": "genshinJeanIngameAnima.YAy1.safetensors",
+      "normalized_name": "genshinjeaningameanima.yay1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1f3bd80afa87",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T10:43:12Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32473820862",
+      "run_id": 32473820862,
+      "artifact_id": 9443554758,
+      "filename": "genshinGanyuIngame.55nl.safetensors",
+      "normalized_name": "genshinganyuingame.55nl.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/16fc9571e59a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T10:42:52Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32473810015",
+      "run_id": 32473810015,
+      "artifact_id": 9443551670,
+      "filename": "genshinFischlIngame.B4yx.safetensors",
+      "normalized_name": "genshinfischlingame.b4yx.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1ad81bef87f7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T10:42:44Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32473830851",
       "run_id": 32473830851,
@@ -118945,7 +119010,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
