@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T14:08:31.524Z",
+  "updatedAt": "2026-08-21T14:30:56.033Z",
   "lastRunId": 32490400861,
   "items": [
+    {
+      "id": "run_32464771670",
+      "run_id": 32464771670,
+      "artifact_id": 9450282430,
+      "filename": "Huihui-Qwen3.6-27B-abliterated-i1-IQ4_XS.gguf",
+      "normalized_name": "huihui-qwen3.6-27b-abliterated-i1-iq4_xs.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/328c3bbf9a14",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T14:30:05Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32490400861",
       "run_id": 32490400861,
@@ -53,19 +66,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-21T12:08:16Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_32464867925",
-      "run_id": 32464867925,
-      "artifact_id": 9445800675,
-      "filename": "Huihui-Qwen3.6-27B-abliterated-i1-IQ4_XS.gguf",
-      "normalized_name": "huihui-qwen3.6-27b-abliterated-i1-iq4_xs.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/3ac27abb000a",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-21T12:07:18Z",
       "workflow": "upload.yml"
     },
     {
