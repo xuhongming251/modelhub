@@ -1,8 +1,99 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T06:37:40.391Z",
-  "lastRunId": 32455076682,
+  "updatedAt": "2026-08-21T06:38:30.374Z",
+  "lastRunId": 32455137910,
   "items": [
+    {
+      "id": "run_32455137910",
+      "run_id": 32455137910,
+      "artifact_id": 9436997167,
+      "filename": "genshinColleiIngame.4o5G.safetensors",
+      "normalized_name": "genshincolleiingame.4o5g.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3e5526262224",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T06:38:14Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32455121756",
+      "run_id": 32455121756,
+      "artifact_id": 9436992665,
+      "filename": "genshinDoriIngameAnima.nr1D.safetensors",
+      "normalized_name": "genshindoriingameanima.nr1d.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cb343c6c5c49",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T06:38:00Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32455114778",
+      "run_id": 32455114778,
+      "artifact_id": 9436988352,
+      "filename": "genshinKiraraIngame.mxVC.safetensors",
+      "normalized_name": "genshinkiraraingame.mxvc.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d004d8e05400",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T06:37:47Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32455108268",
+      "run_id": 32455108268,
+      "artifact_id": 9436985966,
+      "filename": "genshinFaruzanIngame.cvnw.safetensors",
+      "normalized_name": "genshinfaruzaningame.cvnw.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/40167e7e0f68",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T06:37:40Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32455101089",
+      "run_id": 32455101089,
+      "artifact_id": 9436985406,
+      "filename": "genshinRosariaIngame.oDOH.safetensors",
+      "normalized_name": "genshinrosariaingame.odoh.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0fac3ab76c6b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T06:37:39Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32455093148",
+      "run_id": 32455093148,
+      "artifact_id": 9436981871,
+      "filename": "genshinLanYanIngame.EZ8G.safetensors",
+      "normalized_name": "genshinlanyaningame.ez8g.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/db7412f77f02",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T06:37:31Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32455084181",
+      "run_id": 32455084181,
+      "artifact_id": 9436981533,
+      "filename": "genshinChioriIngame.pgbB.safetensors",
+      "normalized_name": "genshinchioriingame.pgbb.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/740399aa3264",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T06:37:27Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32455059343",
       "run_id": 32455059343,
@@ -118397,7 +118488,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
