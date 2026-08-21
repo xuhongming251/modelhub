@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T11:54:33.391Z",
-  "lastRunId": 32475275835,
+  "updatedAt": "2026-08-21T11:57:29.727Z",
+  "lastRunId": 32476957861,
   "items": [
+    {
+      "id": "run_32476957861",
+      "run_id": 32476957861,
+      "artifact_id": 9445521369,
+      "filename": "Qwen3.8-27B-ULTIMATE-UNCENSORED-MTP-IQ4-16GB.gguf",
+      "normalized_name": "qwen3.8-27b-ultimate-uncensored-mtp-iq4-16gb.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/943c7d1295ee",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T11:56:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32464759136",
       "run_id": 32464759136,
@@ -430,19 +443,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-21T10:27:06Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_32466462047",
-      "run_id": 32466462047,
-      "artifact_id": 9442843913,
-      "filename": "Qwen3.8-27B-ULTIMATE-UNCENSORED-MTP-IQ4-16GB.gguf",
-      "normalized_name": "qwen3.8-27b-ultimate-uncensored-mtp-iq4-16gb.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/1c2274b05b52",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-21T10:17:17Z",
       "workflow": "upload.yml"
     },
     {
