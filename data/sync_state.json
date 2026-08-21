@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T14:40:13.675Z",
+  "updatedAt": "2026-08-21T14:43:04.574Z",
   "lastRunId": 32493253775,
   "items": [
+    {
+      "id": "run_32492745059",
+      "run_id": 32492745059,
+      "artifact_id": 9450705101,
+      "filename": "SenseNova-U1.5-8B-MoT-LoRA-8step-ComfyUI.safetensors",
+      "normalized_name": "sensenova-u1.5-8b-mot-lora-8step-comfyui.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3addc024fbe9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T14:42:22Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32493253775",
       "run_id": 32493253775,
