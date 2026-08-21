@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T06:58:46.273Z",
+  "updatedAt": "2026-08-21T07:05:53.996Z",
   "lastRunId": 32456130381,
   "items": [
+    {
+      "id": "run_32456093363",
+      "run_id": 32456093363,
+      "artifact_id": 9437596943,
+      "filename": "umt5-xxl-enc-bf16.safetensors",
+      "normalized_name": "umt5-xxl-enc-bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/17uW7mMSQSww4JH9dhqxf6A?pwd=2f97",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-08-21T07:05:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32456130381",
       "run_id": 32456130381,
@@ -58293,19 +58306,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-21T08:00:03Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27897874360",
-      "run_id": 27897874360,
-      "artifact_id": 7773202551,
-      "filename": "umt5-xxl-enc-bf16.safetensors",
-      "normalized_name": "umt5-xxl-enc-bf16.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/587ee94a7f69",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-21T07:55:52Z",
       "workflow": "upload.yml"
     },
     {
