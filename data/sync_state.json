@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T10:43:50.254Z",
-  "lastRunId": 32473855806,
+  "updatedAt": "2026-08-21T10:46:46.284Z",
+  "lastRunId": 32474076949,
   "items": [
+    {
+      "id": "run_32474076949",
+      "run_id": 32474076949,
+      "artifact_id": 9443644957,
+      "filename": "genshinKleeIngameAnima.FA00.safetensors",
+      "normalized_name": "genshinkleeingameanima.fa00.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9f6705cad1b6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T10:46:14Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32474059706",
+      "run_id": 32474059706,
+      "artifact_id": 9443639900,
+      "filename": "genshinAetherIngame.iEke.safetensors",
+      "normalized_name": "genshinaetheringame.ieke.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/68b576bbc39b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T10:46:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32473855806",
       "run_id": 32473855806,
@@ -119010,7 +119036,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
