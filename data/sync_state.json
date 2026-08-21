@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T01:23:41.880Z",
-  "lastRunId": 32425638806,
+  "updatedAt": "2026-08-21T02:11:56.663Z",
+  "lastRunId": 32438923999,
   "items": [
+    {
+      "id": "run_32438923999",
+      "run_id": 32438923999,
+      "artifact_id": 9431711056,
+      "filename": "mmproj-Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-BF16-MTP.gguf",
+      "normalized_name": "mmproj-qwen3.8-27b-uncensored-hauhaucs-aggressive-bf16-mtp.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cece074d9d76",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T02:11:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32425638806",
       "run_id": 32425638806,
