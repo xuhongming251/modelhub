@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T07:15:36.239Z",
-  "lastRunId": 32457480433,
+  "updatedAt": "2026-08-21T07:22:37.407Z",
+  "lastRunId": 32458056672,
   "items": [
+    {
+      "id": "run_32458056672",
+      "run_id": 32458056672,
+      "artifact_id": 9438004525,
+      "filename": "lightx2v_I2V_14B_480p_cfg_step_distill_rank128_bf16.safetensors",
+      "normalized_name": "lightx2v_i2v_14b_480p_cfg_step_distill_rank128_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1ugXM_5dE8uMajHj66Qe7pw?pwd=a54b",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-08-21T07:21:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32456160091",
       "run_id": 32456160091,
@@ -110525,12 +110538,6 @@
       "normalized_name": "wan2_2-t2v-a14b_high_fp8_e4m3fn_scaled_kj.safetensors",
       "share_url": "https://pan.quark.cn/s/2fd814f94152",
       "completed_at": "2026-03-27T10:43:33Z"
-    },
-    {
-      "filename": "lightx2v_I2V_14B_480p_cfg_step_distill_rank128_bf16.safetensors",
-      "normalized_name": "lightx2v_i2v_14b_480p_cfg_step_distill_rank128_bf16.safetensors",
-      "share_url": "https://pan.quark.cn/s/515f435117e3",
-      "completed_at": "2026-03-27T10:43:06Z"
     },
     {
       "filename": "ComfyUI-Auto-Model-Repair.zip",
