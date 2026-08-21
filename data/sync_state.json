@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T15:10:06.489Z",
+  "updatedAt": "2026-08-21T15:11:07.060Z",
   "lastRunId": 32496022898,
   "items": [
+    {
+      "id": "run_32492728565",
+      "run_id": 32492728565,
+      "artifact_id": 9451657889,
+      "filename": "SenseNova-U1.5-8B-MoT-pruned-int8_convrot.safetensors",
+      "normalized_name": "sensenova-u1.5-8b-mot-pruned-int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/84558598d692",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T15:10:26Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32496022898",
       "run_id": 32496022898,
@@ -119270,7 +119283,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
