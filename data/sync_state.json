@@ -1,8 +1,99 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T06:38:30.374Z",
-  "lastRunId": 32455137910,
+  "updatedAt": "2026-08-21T06:39:16.592Z",
+  "lastRunId": 32455186663,
   "items": [
+    {
+      "id": "run_32455186663",
+      "run_id": 32455186663,
+      "artifact_id": 9437012220,
+      "filename": "genshinChascaIngame.I7IA.safetensors",
+      "normalized_name": "genshinchascaingame.i7ia.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/caf0540acdb1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T06:38:55Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32455180274",
+      "run_id": 32455180274,
+      "artifact_id": 9437009944,
+      "filename": "genshinEmilieIngame.fczt.safetensors",
+      "normalized_name": "genshinemilieingame.fczt.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/01ac581804ec",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T06:38:48Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32455173109",
+      "run_id": 32455173109,
+      "artifact_id": 9437007714,
+      "filename": "genshinCharlotteIngame.bsm9.safetensors",
+      "normalized_name": "genshincharlotteingame.bsm9.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5b71951a5480",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T06:38:42Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32455165607",
+      "run_id": 32455165607,
+      "artifact_id": 9437005179,
+      "filename": "genshinYanfeiIngame.jycF.safetensors",
+      "normalized_name": "genshinyanfeiingame.jycf.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6f434a1a77b5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T06:38:36Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32455158229",
+      "run_id": 32455158229,
+      "artifact_id": 9437004068,
+      "filename": "genshinXilonenIngame.MRHq.safetensors",
+      "normalized_name": "genshinxiloneningame.mrhq.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1d31817ecb0d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T06:38:33Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32455151907",
+      "run_id": 32455151907,
+      "artifact_id": 9437001689,
+      "filename": "genshinEscoffierIngame.I1Ty.safetensors",
+      "normalized_name": "genshinescoffieringame.i1ty.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dc869580681d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T06:38:25Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32455130807",
+      "run_id": 32455130807,
+      "artifact_id": 9436997965,
+      "filename": "genshinXianyunIngame.JfDq.safetensors",
+      "normalized_name": "genshinxianyuningame.jfdq.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bbfc15c19d58",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-21T06:38:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32455137910",
       "run_id": 32455137910,
@@ -118488,7 +118579,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
