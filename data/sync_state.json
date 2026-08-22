@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T18:32:47.606Z",
-  "lastRunId": 32588453887,
+  "updatedAt": "2026-08-22T18:41:25.774Z",
+  "lastRunId": 32589203082,
   "items": [
+    {
+      "id": "run_32589203082",
+      "run_id": 32589203082,
+      "artifact_id": 9480421164,
+      "filename": "loxs20utopic20world.rhWz.safetensors",
+      "normalized_name": "loxs20utopic20world.rhwz.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6798d801e1d3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-22T18:40:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32588453887",
       "run_id": 32588453887,
@@ -120305,7 +120318,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
