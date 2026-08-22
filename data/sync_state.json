@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T08:17:08.398Z",
-  "lastRunId": 32561773029,
+  "updatedAt": "2026-08-22T08:24:12.075Z",
+  "lastRunId": 32561925274,
   "items": [
+    {
+      "id": "run_32561925274",
+      "run_id": 32561925274,
+      "artifact_id": 9473087582,
+      "filename": "Qwen3.8-27B-Ridge-3.7bpw.gguf",
+      "normalized_name": "qwen3.8-27b-ridge-3.7bpw.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/247375f89530",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-22T08:23:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32561773029",
       "run_id": 32561773029,
