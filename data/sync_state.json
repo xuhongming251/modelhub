@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T11:01:30.650Z",
-  "lastRunId": 32569135902,
+  "updatedAt": "2026-08-22T11:14:43.419Z",
+  "lastRunId": 32569713915,
   "items": [
+    {
+      "id": "run_32569713915",
+      "run_id": 32569713915,
+      "artifact_id": 9475001989,
+      "filename": "yolox_l.torchscript.pt",
+      "normalized_name": "yolox_l.torchscript.pt",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/34573fade38b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-22T11:14:11Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32569147973",
+      "run_id": 32569147973,
+      "artifact_id": 9474860722,
+      "filename": "myAnimaLora.QGJC.safetensors",
+      "normalized_name": "myanimalora.qgjc.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/53d6060717ee",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-22T11:01:30Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32569141770",
+      "run_id": 32569141770,
+      "artifact_id": 9474859096,
+      "filename": "animaGuizhencao.PEbb.safetensors",
+      "normalized_name": "animaguizhencao.pebb.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c3a0dca513dc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-22T11:01:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32569135902",
       "run_id": 32569135902,
@@ -105740,12 +105779,6 @@
       "normalized_name": "cbb601a663a8eff87085c2b87cc3dc298076e261",
       "share_url": "https://pan.quark.cn/s/17709e4003f6",
       "completed_at": "2026-04-18T14:18:19Z"
-    },
-    {
-      "filename": "animaGuizhencao.PEbb.safetensors",
-      "normalized_name": "animaguizhencao.pebb.safetensors",
-      "share_url": "https://pan.quark.cn/s/65b89ddf73bb",
-      "completed_at": "2026-04-18T14:15:15Z"
     },
     {
       "filename": "difconsistencyRawVae.faKY.pt",
