@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T08:32:15.917Z",
-  "lastRunId": 32562321187,
+  "updatedAt": "2026-08-22T09:00:09.397Z",
+  "lastRunId": 32563701139,
   "items": [
+    {
+      "id": "run_32563701139",
+      "run_id": 32563701139,
+      "artifact_id": 9473499209,
+      "filename": "ComfyUI_windows_portable_nvidia_cu126.7z",
+      "normalized_name": "comfyui_windows_portable_nvidia_cu126.7z",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c5cd9a1f68b3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-22T08:59:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32562321187",
       "run_id": 32562321187,
@@ -118167,12 +118180,6 @@
       "normalized_name": "ltx-2-3-22b-dev_transformer_only_fp8_input_scaled.safetensors",
       "share_url": "https://pan.quark.cn/s/db656c8049f7",
       "completed_at": "2026-03-09T17:42:23Z"
-    },
-    {
-      "filename": "ComfyUI_windows_portable_nvidia_cu126.7z",
-      "normalized_name": "comfyui_windows_portable_nvidia_cu126.7z",
-      "share_url": "https://pan.quark.cn/s/22875d544f8a",
-      "completed_at": "2026-03-09T16:31:43Z"
     },
     {
       "filename": "animaxAnimaFinetune_v05.safetensors",
