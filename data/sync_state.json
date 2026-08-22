@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T14:49:02.532Z",
-  "lastRunId": 32579506596,
+  "updatedAt": "2026-08-22T14:51:32.348Z",
+  "lastRunId": 32579832665,
   "items": [
+    {
+      "id": "run_32579832665",
+      "run_id": 32579832665,
+      "artifact_id": 9477510794,
+      "filename": "小囡囡_v2.safetensors",
+      "normalized_name": "小囡囡_v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/98d1b2747e09",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-22T14:51:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32579506596",
       "run_id": 32579506596,
@@ -120123,7 +120136,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
