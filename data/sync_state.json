@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T20:49:48.438Z",
-  "lastRunId": 32596280095,
+  "updatedAt": "2026-08-22T20:56:17.959Z",
+  "lastRunId": 32598016441,
   "items": [
+    {
+      "id": "run_32598016441",
+      "run_id": 32598016441,
+      "artifact_id": 9482102585,
+      "filename": "yiqingwu_v1.safetensors",
+      "normalized_name": "yiqingwu_v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e4cb713fc95d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-22T20:55:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32596280095",
       "run_id": 32596280095,
@@ -120331,7 +120344,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
