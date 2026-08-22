@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T14:51:32.348Z",
-  "lastRunId": 32579832665,
+  "updatedAt": "2026-08-22T14:54:15.945Z",
+  "lastRunId": 32579960001,
   "items": [
+    {
+      "id": "run_32579960001",
+      "run_id": 32579960001,
+      "artifact_id": 9477542753,
+      "filename": "K_topdownassup.safetensors",
+      "normalized_name": "k_topdownassup.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1dd70aeab727",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-22T14:53:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32579832665",
       "run_id": 32579832665,
