@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T16:26:57.158Z",
-  "lastRunId": 32584051336,
+  "updatedAt": "2026-08-22T16:29:49.823Z",
+  "lastRunId": 32584439182,
   "items": [
+    {
+      "id": "run_32584439182",
+      "run_id": 32584439182,
+      "artifact_id": 9478758039,
+      "filename": "miaomiaoAnimeReality_ani11.safetensors",
+      "normalized_name": "miaomiaoanimereality_ani11.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6c1785b22813",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-22T16:29:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32584051336",
       "run_id": 32584051336,
@@ -120253,7 +120266,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
