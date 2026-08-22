@@ -1,8 +1,60 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T03:43:26.877Z",
-  "lastRunId": 32549062864,
+  "updatedAt": "2026-08-22T03:49:56.907Z",
+  "lastRunId": 32550004236,
   "items": [
+    {
+      "id": "run_32549990023",
+      "run_id": 32549990023,
+      "artifact_id": 9469749626,
+      "filename": "genshinMualaniIngame.tQUi.safetensors",
+      "normalized_name": "genshinmualaniingame.tqui.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/735b79423f7e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-22T03:49:41Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32550004236",
+      "run_id": 32550004236,
+      "artifact_id": 9469747975,
+      "filename": "amberAnimaV2.gsbu.safetensors",
+      "normalized_name": "amberanimav2.gsbu.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a955fa7677fd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-22T03:49:38Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32549994532",
+      "run_id": 32549994532,
+      "artifact_id": 9469746145,
+      "filename": "kukiShinobuGuy90Anima.dXEH.safetensors",
+      "normalized_name": "kukishinobuguy90anima.dxeh.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d1a9fb30ece0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-22T03:49:26Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32549998818",
+      "run_id": 32549998818,
+      "artifact_id": 9469746126,
+      "filename": "mualaniGiGuy90Anima.02Cc.safetensors",
+      "normalized_name": "mualanigiguy90anima.02cc.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/71257b86a714",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-22T03:49:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32549062864",
       "run_id": 32549062864,
@@ -1288,19 +1340,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-21T06:37:27Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_32455059343",
-      "run_id": 32455059343,
-      "artifact_id": 9436973566,
-      "filename": "genshinMualaniIngame.tQUi.safetensors",
-      "normalized_name": "genshinmualaniingame.tqui.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/f689fd623f1a",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-21T06:37:05Z",
       "workflow": "upload.yml"
     },
     {
@@ -119465,7 +119504,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
