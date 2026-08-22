@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T11:25:01.855Z",
-  "lastRunId": 32570153476,
+  "updatedAt": "2026-08-22T11:33:58.863Z",
+  "lastRunId": 32570575732,
   "items": [
+    {
+      "id": "run_32570568324",
+      "run_id": 32570568324,
+      "artifact_id": 9475209566,
+      "filename": "KNP_000003000.safetensors",
+      "normalized_name": "knp_000003000.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8044023474f0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-22T11:33:27Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32570575732",
+      "run_id": 32570575732,
+      "artifact_id": 9475208880,
+      "filename": "Krea2_TextFusion_Refusal_Reduction.safetensors",
+      "normalized_name": "krea2_textfusion_refusal_reduction.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ccbb911ce2f0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-22T11:33:25Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32570153476",
       "run_id": 32570153476,
@@ -29186,19 +29212,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-18T14:52:32Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29648647745",
-      "run_id": 29648647745,
-      "artifact_id": 8430800797,
-      "filename": "Krea2_TextFusion_Refusal_Reduction.safetensors",
-      "normalized_name": "krea2_textfusion_refusal_reduction.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/c1e2d7af9a72",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-18T14:45:51Z",
       "workflow": "upload.yml"
     },
     {
