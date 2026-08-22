@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T11:53:19.314Z",
-  "lastRunId": 32571201764,
+  "updatedAt": "2026-08-22T11:56:29.685Z",
+  "lastRunId": 32571583186,
   "items": [
+    {
+      "id": "run_32571583186",
+      "run_id": 32571583186,
+      "artifact_id": 9475452585,
+      "filename": "dw-ll_ucoco_384_bs5.torchscript.pt",
+      "normalized_name": "dw-ll_ucoco_384_bs5.torchscript.pt",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/33f7599089ac",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-22T11:55:51Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32571201764",
       "run_id": 32571201764,
@@ -113080,12 +113093,6 @@
       "normalized_name": "dr34ml4yi2v14blowv2.4w6g.safetensors",
       "share_url": "https://pan.quark.cn/s/390d749ebf9d",
       "completed_at": "2026-03-22T13:57:34Z"
-    },
-    {
-      "filename": "dw-ll_ucoco_384_bs5.torchscript.pt",
-      "normalized_name": "dw-ll_ucoco_384_bs5.torchscript.pt",
-      "share_url": "https://pan.quark.cn/s/d124955c0dbb",
-      "completed_at": "2026-03-22T13:14:29Z"
     },
     {
       "filename": "LTX-2. 3-Guofeng",
