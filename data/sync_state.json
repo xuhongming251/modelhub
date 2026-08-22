@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T15:22:57.227Z",
-  "lastRunId": 32581285184,
+  "updatedAt": "2026-08-22T15:23:59.509Z",
+  "lastRunId": 32581506079,
   "items": [
+    {
+      "id": "run_32581506079",
+      "run_id": 32581506079,
+      "artifact_id": 9477921437,
+      "filename": "剧烈身体痉挛.safetensors",
+      "normalized_name": "剧烈身体痉挛.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1e6a65cab89f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-22T15:23:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32581285184",
       "run_id": 32581285184,
@@ -120214,7 +120227,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
