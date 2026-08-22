@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T12:41:20.876Z",
-  "lastRunId": 32573573356,
+  "updatedAt": "2026-08-22T12:43:58.992Z",
+  "lastRunId": 32573727198,
   "items": [
+    {
+      "id": "run_32573727198",
+      "run_id": 32573727198,
+      "artifact_id": 9476000212,
+      "filename": "k2-herpov-v2.safetensors",
+      "normalized_name": "k2-herpov-v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fac85c4d4642",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-22T12:43:18Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32573573356",
       "run_id": 32573573356,
