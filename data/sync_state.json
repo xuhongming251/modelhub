@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-23T14:54:55.759Z",
-  "lastRunId": 32646828936,
+  "updatedAt": "2026-08-23T15:02:54.648Z",
+  "lastRunId": 32647207134,
   "items": [
+    {
+      "id": "run_32647207134",
+      "run_id": 32647207134,
+      "artifact_id": 9495196937,
+      "filename": "qingxiaoIllustrious.b8Vh.safetensors",
+      "normalized_name": "qingxiaoillustrious.b8vh.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b60b282d5e8e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-23T15:02:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32646828936",
       "run_id": 32646828936,
@@ -120566,7 +120579,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
