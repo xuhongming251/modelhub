@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-23T04:31:25.715Z",
-  "lastRunId": 32618037282,
+  "updatedAt": "2026-08-23T04:37:28.857Z",
+  "lastRunId": 32618219521,
   "items": [
+    {
+      "id": "run_32618219521",
+      "run_id": 32618219521,
+      "artifact_id": 9487608515,
+      "filename": "Wan2_1-VACE-module-14B_fp8_e4m3fn_scaled_KJ.safetensors",
+      "normalized_name": "wan2_1-vace-module-14b_fp8_e4m3fn_scaled_kj.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/30d8fa8e539a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-23T04:37:00Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32618124346",
+      "run_id": 32618124346,
+      "artifact_id": 9487606187,
+      "filename": "Wan2_2-T2V-A14B_HIGH_fp8_e4m3fn_scaled_KJ.safetensors",
+      "normalized_name": "wan2_2-t2v-a14b_high_fp8_e4m3fn_scaled_kj.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d0230df6b315",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-23T04:36:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32618037282",
       "run_id": 32618037282,
@@ -2107,19 +2133,6 @@
       "channel": "baidu",
       "channel_name": "Baidu",
       "completed_at": "2026-08-21T07:05:15Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_32456130381",
-      "run_id": 32456130381,
-      "artifact_id": 9437438769,
-      "filename": "Wan2_1-VACE-module-14B_fp8_e4m3fn_scaled_KJ.safetensors",
-      "normalized_name": "wan2_1-vace-module-14b_fp8_e4m3fn_scaled_kj.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.baidu.com/s/1ZLeIvFqs94yDlPv2wzwi_w?pwd=2c88",
-      "channel": "baidu",
-      "channel_name": "Baidu",
-      "completed_at": "2026-08-21T06:58:15Z",
       "workflow": "upload.yml"
     },
     {
@@ -112255,12 +112268,6 @@
       "normalized_name": "b4eaa98b-a8d1-49ea-a618-057e02d7bc80.safetensors",
       "share_url": "https://pan.quark.cn/s/4e7debb271ea",
       "completed_at": "2026-03-27T11:07:42Z"
-    },
-    {
-      "filename": "Wan2_2-T2V-A14B_HIGH_fp8_e4m3fn_scaled_KJ.safetensors",
-      "normalized_name": "wan2_2-t2v-a14b_high_fp8_e4m3fn_scaled_kj.safetensors",
-      "share_url": "https://pan.quark.cn/s/2fd814f94152",
-      "completed_at": "2026-03-27T10:43:33Z"
     },
     {
       "filename": "ComfyUI-Auto-Model-Repair.zip",
