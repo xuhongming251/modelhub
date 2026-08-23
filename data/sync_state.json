@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-23T03:51:45.747Z",
-  "lastRunId": 32612349474,
+  "updatedAt": "2026-08-23T04:31:25.715Z",
+  "lastRunId": 32618037282,
   "items": [
+    {
+      "id": "run_32618037282",
+      "run_id": 32618037282,
+      "artifact_id": 9487539798,
+      "filename": "WanVideo_comfy_fp8_scaled",
+      "normalized_name": "wanvideo_comfy_fp8_scaled",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b9a8ae7a6b32",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-23T04:30:52Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32612349474",
       "run_id": 32612349474,
@@ -120370,7 +120383,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
