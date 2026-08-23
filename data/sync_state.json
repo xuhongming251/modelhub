@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-23T05:10:37.275Z",
-  "lastRunId": 32619461237,
+  "updatedAt": "2026-08-23T05:20:52.559Z",
+  "lastRunId": 32619863803,
   "items": [
+    {
+      "id": "run_32619863803",
+      "run_id": 32619863803,
+      "artifact_id": 9488111653,
+      "filename": "Wan2_2-T2V-A14B-LOW_fp8_e4m3fn_scaled_KJ.safetensors",
+      "normalized_name": "wan2_2-t2v-a14b-low_fp8_e4m3fn_scaled_kj.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/86bb869e552a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-23T05:20:13Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32619461237",
       "run_id": 32619461237,
@@ -2094,19 +2107,6 @@
       "channel": "baidu",
       "channel_name": "Baidu",
       "completed_at": "2026-08-21T07:21:53Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_32456160091",
-      "run_id": 32456160091,
-      "artifact_id": 9437829187,
-      "filename": "Wan2_2-T2V-A14B-LOW_fp8_e4m3fn_scaled_KJ.safetensors",
-      "normalized_name": "wan2_2-t2v-a14b-low_fp8_e4m3fn_scaled_kj.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.baidu.com/s/1Hp-FvykbkYkkkKo-yvSiGQ?pwd=98a5",
-      "channel": "baidu",
-      "channel_name": "Baidu",
-      "completed_at": "2026-08-21T07:14:54Z",
       "workflow": "upload.yml"
     },
     {
