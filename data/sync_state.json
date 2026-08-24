@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T18:42:10.664Z",
+  "updatedAt": "2026-08-24T19:02:53.455Z",
   "lastRunId": 32756531831,
   "items": [
+    {
+      "id": "run_32752783371",
+      "run_id": 32752783371,
+      "artifact_id": 9534371459,
+      "filename": "DasiwaMinimaxH3_dasiwaREF2VAHybridV1.zip",
+      "normalized_name": "dasiwaminimaxh3_dasiwaref2vahybridv1.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ae190dd70415",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-24T19:02:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32750200459",
       "run_id": 32750200459,
@@ -14,19 +27,6 @@
       "channel": "baidu",
       "channel_name": "Baidu",
       "completed_at": "2026-08-24T18:36:19Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_32752788400",
-      "run_id": 32752788400,
-      "artifact_id": 9533072956,
-      "filename": "DasiwaMinimaxH3_dasiwaREF2VAHybridV1.zip",
-      "normalized_name": "dasiwaminimaxh3_dasiwaref2vahybridv1.zip",
-      "original_url": "",
-      "share_url": "https://pan.baidu.com/s/1PiOAYveLUCjBSWgbMuqdow?pwd=51ea",
-      "channel": "baidu",
-      "channel_name": "Baidu",
-      "completed_at": "2026-08-24T18:23:50Z",
       "workflow": "upload.yml"
     },
     {
