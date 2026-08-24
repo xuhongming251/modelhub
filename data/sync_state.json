@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T03:16:03.667Z",
-  "lastRunId": 32685796547,
+  "updatedAt": "2026-08-24T03:39:07.221Z",
+  "lastRunId": 32686568030,
   "items": [
+    {
+      "id": "run_32686568030",
+      "run_id": 32686568030,
+      "artifact_id": 9506034442,
+      "filename": "Qwen2.5-VL-7B-Instruct-abliterated_nvfp4.safetensors",
+      "normalized_name": "qwen2.5-vl-7b-instruct-abliterated_nvfp4.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fb624dcfbf3d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-24T03:38:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32685796547",
       "run_id": 32685796547,
