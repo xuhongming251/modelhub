@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T16:19:48.893Z",
-  "lastRunId": 32750078005,
+  "updatedAt": "2026-08-24T16:20:37.100Z",
+  "lastRunId": 32750148087,
   "items": [
+    {
+      "id": "run_32750148087",
+      "run_id": 32750148087,
+      "artifact_id": 9528679555,
+      "filename": "PullDownAllClothes_V1_L_Wan2-2_i2v_A14B.safetensors",
+      "normalized_name": "pulldownallclothes_v1_l_wan2-2_i2v_a14b.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/97d8718a3aa7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-24T16:20:00Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32749975018",
+      "run_id": 32749975018,
+      "artifact_id": 9528673083,
+      "filename": "ControlNet_UNION_SDXL_ProMax.safetensors",
+      "normalized_name": "controlnet_union_sdxl_promax.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ff6f40b2b2c7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-24T16:19:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32750078005",
       "run_id": 32750078005,
