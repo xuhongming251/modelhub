@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T04:26:53.982Z",
-  "lastRunId": 32689964578,
+  "updatedAt": "2026-08-24T04:47:48.344Z",
+  "lastRunId": 32689977083,
   "items": [
+    {
+      "id": "run_32689977083",
+      "run_id": 32689977083,
+      "artifact_id": 9506928761,
+      "filename": "AfterMidnight_ref2va_h3_sexytime_rank64-v1.2.safetensors",
+      "normalized_name": "aftermidnight_ref2va_h3_sexytime_rank64-v1.2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5b0e029865d2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-24T04:26:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32689937858",
       "run_id": 32689937858,
@@ -3550,19 +3563,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-20T17:01:47Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_32393322599",
-      "run_id": 32393322599,
-      "artifact_id": 9415686048,
-      "filename": "AfterMidnight_ref2va_h3_sexytime_rank64-v1.2.safetensors",
-      "normalized_name": "aftermidnight_ref2va_h3_sexytime_rank64-v1.2.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/cb3f538ea397",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-20T16:41:10Z",
       "workflow": "upload.yml"
     },
     {
