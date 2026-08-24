@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T15:19:58.593Z",
-  "lastRunId": 32744066230,
+  "updatedAt": "2026-08-24T15:27:18.956Z",
+  "lastRunId": 32744768747,
   "items": [
+    {
+      "id": "run_32744768747",
+      "run_id": 32744768747,
+      "artifact_id": 9526615665,
+      "filename": "Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-FastMTP-32K.gguf",
+      "normalized_name": "qwen3.8-27b-uncensored-hauhaucs-aggressive-fastmtp-32k.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fe82118b8c89",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-24T15:26:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32744066230",
       "run_id": 32744066230,
@@ -3940,19 +3953,6 @@
       "channel": "baidu",
       "channel_name": "Baidu",
       "completed_at": "2026-08-20T16:30:13Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_32391466526",
-      "run_id": 32391466526,
-      "artifact_id": 9415069979,
-      "filename": "Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-FastMTP-32K.gguf",
-      "normalized_name": "qwen3.8-27b-uncensored-hauhaucs-aggressive-fastmtp-32k.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/80ddd3f116b5",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-20T16:23:30Z",
       "workflow": "upload.yml"
     },
     {
