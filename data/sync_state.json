@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T11:55:18.558Z",
-  "lastRunId": 32723919741,
+  "updatedAt": "2026-08-24T11:57:42.953Z",
+  "lastRunId": 32724392867,
   "items": [
+    {
+      "id": "run_32724392867",
+      "run_id": 32724392867,
+      "artifact_id": 9518956617,
+      "filename": "llama-b10605-bin-win-cuda-13.3-x64.zip",
+      "normalized_name": "llama-b10605-bin-win-cuda-13.3-x64.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d8a8aab6b6a6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-24T11:57:05Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32723919741",
       "run_id": 32723919741,
