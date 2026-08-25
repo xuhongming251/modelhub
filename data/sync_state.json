@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T07:48:14.357Z",
-  "lastRunId": 32823282115,
+  "updatedAt": "2026-08-25T07:50:29.862Z",
+  "lastRunId": 32823462448,
   "items": [
+    {
+      "id": "run_32823462448",
+      "run_id": 32823462448,
+      "artifact_id": 9553995116,
+      "filename": "hdrEffectVAE_v10.safetensors",
+      "normalized_name": "hdreffectvae_v10.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ed177a510337",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-25T07:49:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32823282115",
       "run_id": 32823282115,
