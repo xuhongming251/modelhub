@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T09:04:07.246Z",
+  "updatedAt": "2026-08-25T09:08:30.801Z",
   "lastRunId": 32829826940,
   "items": [
+    {
+      "id": "run_32828331204",
+      "run_id": 32828331204,
+      "artifact_id": 9556448159,
+      "filename": "情绪业余混音Krea2 未删减版V2.0.safetensors",
+      "normalized_name": "情绪业余混音krea2 未删减版v2.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5623d82949c1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-25T09:07:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32829826940",
       "run_id": 32829826940,
@@ -121528,7 +121541,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
