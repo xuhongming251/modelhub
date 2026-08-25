@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T09:22:39.426Z",
-  "lastRunId": 32831526204,
+  "updatedAt": "2026-08-25T09:23:52.644Z",
+  "lastRunId": 32831623743,
   "items": [
+    {
+      "id": "run_32831623743",
+      "run_id": 32831623743,
+      "artifact_id": 9556966504,
+      "filename": "Krea2_Anything2RealCharacters-V3漫转真.safetensors",
+      "normalized_name": "krea2_anything2realcharacters-v3漫转真.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c56bbc48cb48",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-25T09:23:20Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32831526204",
       "run_id": 32831526204,
@@ -121658,7 +121671,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
