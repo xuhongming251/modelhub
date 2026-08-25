@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T02:39:58.320Z",
-  "lastRunId": 32802107105,
+  "updatedAt": "2026-08-25T02:43:41.574Z",
+  "lastRunId": 32802429888,
   "items": [
+    {
+      "id": "run_32802429888",
+      "run_id": 32802429888,
+      "artifact_id": 9546960407,
+      "filename": "hmcumshotV2.3K76.safetensors",
+      "normalized_name": "hmcumshotv2.3k76.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8dc001b37340",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-25T02:43:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32802107105",
       "run_id": 32802107105,
@@ -121320,7 +121333,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
