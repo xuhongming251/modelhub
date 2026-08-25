@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T09:23:52.644Z",
-  "lastRunId": 32831623743,
+  "updatedAt": "2026-08-25T09:26:37.248Z",
+  "lastRunId": 32831696806,
   "items": [
+    {
+      "id": "run_32831696806",
+      "run_id": 32831696806,
+      "artifact_id": 9557066024,
+      "filename": "krea stable non merge version照片真实增强.safetensors",
+      "normalized_name": "krea stable non merge version照片真实增强.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6966ef03462e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-25T09:26:01Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32831572989",
+      "run_id": 32831572989,
+      "artifact_id": 9556984629,
+      "filename": "sinoxKrea2Aesthetics_visionV11AesInt8.safetensors",
+      "normalized_name": "sinoxkrea2aesthetics_visionv11aesint8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/554373ced9cc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-25T09:23:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32831623743",
       "run_id": 32831623743,
@@ -121671,7 +121697,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
