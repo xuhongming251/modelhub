@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T12:51:50.623Z",
-  "lastRunId": 32849557639,
+  "updatedAt": "2026-08-25T12:55:56.039Z",
+  "lastRunId": 32850205711,
   "items": [
+    {
+      "id": "run_32850205711",
+      "run_id": 32850205711,
+      "artifact_id": 9563957638,
+      "filename": "text_encoders/qwen3vl_32b_minimax_h3_bf16.safetensors",
+      "normalized_name": "text_encoders/qwen3vl_32b_minimax_h3_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1DmdSO5yCXHdr4m05rV0yQw?pwd=47e3",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-08-25T12:55:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32849557639",
       "run_id": 32849557639,
