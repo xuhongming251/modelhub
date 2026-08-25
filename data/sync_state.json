@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T07:56:17.917Z",
-  "lastRunId": 32823975682,
+  "updatedAt": "2026-08-25T08:28:53.473Z",
+  "lastRunId": 32826681241,
   "items": [
+    {
+      "id": "run_32826681241",
+      "run_id": 32826681241,
+      "artifact_id": 9555180409,
+      "filename": "Shibarin_3D_MMD.safetensors",
+      "normalized_name": "shibarin_3d_mmd.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5340cbe9d2c9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-25T08:28:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32823975682",
       "run_id": 32823975682,
@@ -121450,7 +121463,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
