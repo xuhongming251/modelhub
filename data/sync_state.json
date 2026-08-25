@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T09:19:30.141Z",
-  "lastRunId": 32831223544,
+  "updatedAt": "2026-08-25T09:21:46.859Z",
+  "lastRunId": 32831430430,
   "items": [
+    {
+      "id": "run_32831430430",
+      "run_id": 32831430430,
+      "artifact_id": 9556893233,
+      "filename": "RealisticSnapshotKrea2真实快照.safetensors",
+      "normalized_name": "realisticsnapshotkrea2真实快照.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9fb3f5089ca7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-25T09:21:11Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32831363178",
+      "run_id": 32831363178,
+      "artifact_id": 9556893179,
+      "filename": "gyaru20transformation20.CiRf.safetensors",
+      "normalized_name": "gyaru20transformation20.cirf.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ec05714c6f2c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-25T09:21:11Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32831104585",
+      "run_id": 32831104585,
+      "artifact_id": 9556832830,
+      "filename": "pornmasterKrea2_v2TurboInt8色情大师.safetensors",
+      "normalized_name": "pornmasterkrea2_v2turboint8色情大师.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5ddc23cbee5e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-25T09:19:26Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32831223544",
       "run_id": 32831223544,
@@ -121580,7 +121619,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
