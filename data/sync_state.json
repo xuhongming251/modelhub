@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T09:26:37.248Z",
-  "lastRunId": 32831696806,
+  "updatedAt": "2026-08-25T09:27:34.644Z",
+  "lastRunId": 32831738814,
   "items": [
+    {
+      "id": "run_32831738814",
+      "run_id": 32831738814,
+      "artifact_id": 9557099964,
+      "filename": "krea2Turbo18For_v2用于角色18+设计.safetensors",
+      "normalized_name": "krea2turbo18for_v2用于角色18+设计.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b0e25fb8149f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-25T09:27:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32831696806",
       "run_id": 32831696806,
@@ -121697,7 +121710,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
