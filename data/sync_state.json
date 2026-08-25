@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T10:12:14.882Z",
-  "lastRunId": 32835817210,
+  "updatedAt": "2026-08-25T10:20:35.768Z",
+  "lastRunId": 32836531729,
   "items": [
+    {
+      "id": "run_32836531729",
+      "run_id": 32836531729,
+      "artifact_id": 9558861852,
+      "filename": "Dark Beast | 黑兽3.0INT8 Convrot.safetensors",
+      "normalized_name": "dark beast | 黑兽3.0int8 convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/42bfdec0c714",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-25T10:19:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32835817210",
       "run_id": 32835817210,
@@ -121775,7 +121788,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
