@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T18:45:38.098Z",
-  "lastRunId": 32881582492,
+  "updatedAt": "2026-08-25T19:31:18.145Z",
+  "lastRunId": 32888919061,
   "items": [
+    {
+      "id": "run_32888919061",
+      "run_id": 32888919061,
+      "artifact_id": 9579037786,
+      "filename": "Wan2.2-I2V-A14B-LowNoise-Q8_0.gguf",
+      "normalized_name": "wan2.2-i2v-a14b-lownoise-q8_0.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8b549a148360",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-25T19:30:43Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32881582492",
       "run_id": 32881582492,
@@ -98268,19 +98281,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-08T08:54:49Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25546328609",
-      "run_id": 25546328609,
-      "artifact_id": 6875394682,
-      "filename": "Wan2.2-I2V-A14B-LowNoise-Q8_0.gguf",
-      "normalized_name": "wan2.2-i2v-a14b-lownoise-q8_0.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/c0790cd2a0a8",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-08T08:50:06Z",
       "workflow": "upload.yml"
     },
     {
