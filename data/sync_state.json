@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-26T14:50:48.136Z",
-  "lastRunId": 32982669341,
+  "updatedAt": "2026-08-26T15:01:34.889Z",
+  "lastRunId": 32983553123,
   "items": [
+    {
+      "id": "run_32983553123",
+      "run_id": 32983553123,
+      "artifact_id": 9612512514,
+      "filename": "moodyKrea2Mix_v50.safetensors",
+      "normalized_name": "moodykrea2mix_v50.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ab1aba05b34c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-26T15:00:44Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32982725638",
+      "run_id": 32982725638,
+      "artifact_id": 9612122460,
+      "filename": "wan_2.2_i2v_slap_low_v2.0.safetensors",
+      "normalized_name": "wan_2.2_i2v_slap_low_v2.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5a3568f06009",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-26T14:50:48Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32982669341",
       "run_id": 32982669341,
@@ -26170,19 +26196,6 @@
       "channel": "baidu",
       "channel_name": "Baidu",
       "completed_at": "2026-07-25T14:18:44Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30160495097",
-      "run_id": 30160495097,
-      "artifact_id": 8620110765,
-      "filename": "moodyKrea2Mix_v50.safetensors",
-      "normalized_name": "moodykrea2mix_v50.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/15127fc4e63e",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-25T13:51:46Z",
       "workflow": "upload.yml"
     },
     {
@@ -75063,19 +75076,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-12T11:22:19Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27412381875",
-      "run_id": 27412381875,
-      "artifact_id": 7590114568,
-      "filename": "wan_2.2_i2v_slap_low_v2.0.safetensors",
-      "normalized_name": "wan_2.2_i2v_slap_low_v2.0.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/59cac8ed86c4",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-12T11:19:21Z",
       "workflow": "upload.yml"
     },
     {
