@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-26T08:56:50.099Z",
-  "lastRunId": 32950255603,
+  "updatedAt": "2026-08-26T09:00:24.239Z",
+  "lastRunId": 32950474666,
   "items": [
+    {
+      "id": "run_32950474666",
+      "run_id": 32950474666,
+      "artifact_id": 9599967418,
+      "filename": "mmproj-Gemma-4-E4B-Uncensored-HauhauCS-Aggressive-f16.gguf",
+      "normalized_name": "mmproj-gemma-4-e4b-uncensored-hauhaucs-aggressive-f16.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6ea5e1d7e809",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-26T08:59:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32950255603",
       "run_id": 32950255603,
@@ -106680,12 +106693,6 @@
       "normalized_name": "gemma-4-e4b-uncensored-hauhaucs-aggressive-q4_k_m.gguf",
       "share_url": "https://pan.quark.cn/s/df2b73f55715",
       "completed_at": "2026-04-24T11:11:45Z"
-    },
-    {
-      "filename": "mmproj-Gemma-4-E4B-Uncensored-HauhauCS-Aggressive-f16.gguf",
-      "normalized_name": "mmproj-gemma-4-e4b-uncensored-hauhaucs-aggressive-f16.gguf",
-      "share_url": "https://pan.quark.cn/s/9cf18d9a7f9b",
-      "completed_at": "2026-04-24T11:09:06Z"
     },
     {
       "filename": "Gemma-4-E4B-Uncensored-HauhauCS-Aggressive-Q5_K_M.gguf",
