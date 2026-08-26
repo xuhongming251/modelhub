@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-26T04:59:17.794Z",
-  "lastRunId": 32925790659,
+  "updatedAt": "2026-08-26T05:36:03.149Z",
+  "lastRunId": 32932210015,
   "items": [
+    {
+      "id": "run_32932202789",
+      "run_id": 32932202789,
+      "artifact_id": 9593592352,
+      "filename": "Next-Trainer-v3.0.0-kohya.7z.001",
+      "normalized_name": "next-trainer-v3.0.0-kohya.7z.001",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/90a5865cbd1a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-26T04:58:43Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_32932210015",
+      "run_id": 32932210015,
+      "artifact_id": 9593590907,
+      "filename": "Next-Trainer-v3.0.0-kohya.7z.002",
+      "normalized_name": "next-trainer-v3.0.0-kohya.7z.002",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a23a1c6f2fda",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-26T04:58:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32925790659",
       "run_id": 32925790659,
