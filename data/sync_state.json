@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-26T05:52:11.516Z",
-  "lastRunId": 32935596892,
+  "updatedAt": "2026-08-26T05:56:42.549Z",
+  "lastRunId": 32935806272,
   "items": [
+    {
+      "id": "run_32935806272",
+      "run_id": 32935806272,
+      "artifact_id": 9594847989,
+      "filename": "Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced-Q4_K_M.gguf",
+      "normalized_name": "gemma4-12b-qat-uncensored-hauhaucs-balanced-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/766bbabad294",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-26T05:56:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_32935596892",
       "run_id": 32935596892,
