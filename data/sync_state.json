@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-27T09:47:19.591Z",
-  "lastRunId": 33054013369,
+  "updatedAt": "2026-08-27T09:56:19.335Z",
+  "lastRunId": 33060649872,
   "items": [
+    {
+      "id": "run_33060649872",
+      "run_id": 33060649872,
+      "artifact_id": 9641578404,
+      "filename": "eustia.xogs.safetensors",
+      "normalized_name": "eustia.xogs.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9acf6794903c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-27T09:55:43Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_33059999126",
+      "run_id": 33059999126,
+      "artifact_id": 9641309254,
+      "filename": "fione20silvaria.g8Wi.safetensors",
+      "normalized_name": "fione20silvaria.g8wi.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e2ef1c8a8cbf",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-27T09:46:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33054013369",
       "run_id": 33054013369,
@@ -122627,7 +122653,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
