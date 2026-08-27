@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-27T02:09:27.599Z",
-  "lastRunId": 33032326920,
+  "updatedAt": "2026-08-27T02:11:28.335Z",
+  "lastRunId": 33032448002,
   "items": [
+    {
+      "id": "run_33032448002",
+      "run_id": 33032448002,
+      "artifact_id": 9630749691,
+      "filename": "sd-webui-traintrain.zip",
+      "normalized_name": "sd-webui-traintrain.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2d2380fa8011",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-27T02:10:52Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33032326920",
       "run_id": 33032326920,
