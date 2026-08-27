@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-27T12:31:12.615Z",
-  "lastRunId": 33072142209,
+  "updatedAt": "2026-08-27T12:35:15.668Z",
+  "lastRunId": 33072167191,
   "items": [
+    {
+      "id": "run_33072167191",
+      "run_id": 33072167191,
+      "artifact_id": 9646384078,
+      "filename": "Qwen2.5-VL-7B-Instruct-mmproj-f16.gguf",
+      "normalized_name": "qwen2.5-vl-7b-instruct-mmproj-f16.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/150f14dbfb60",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-27T12:34:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33072142209",
       "run_id": 33072142209,
