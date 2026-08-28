@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T13:06:29.364Z",
-  "lastRunId": 33171273851,
+  "updatedAt": "2026-08-28T13:26:59.561Z",
+  "lastRunId": 33175343868,
   "items": [
+    {
+      "id": "run_33175343868",
+      "run_id": 33175343868,
+      "artifact_id": 9687329463,
+      "filename": "animaDoubao.GfJA.safetensors",
+      "normalized_name": "animadoubao.gfja.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4602db7e6959",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-28T13:26:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33171273851",
       "run_id": 33171273851,
@@ -123674,7 +123687,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
