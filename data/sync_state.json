@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T08:08:08.140Z",
-  "lastRunId": 33154011377,
+  "updatedAt": "2026-08-28T08:19:32.148Z",
+  "lastRunId": 33154655644,
   "items": [
+    {
+      "id": "run_33154655644",
+      "run_id": 33154655644,
+      "artifact_id": 9679164253,
+      "filename": "481-FK_dentalgag.safetensors",
+      "normalized_name": "481-fk_dentalgag.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/34852011a93e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-28T08:18:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33154011377",
       "run_id": 33154011377,
