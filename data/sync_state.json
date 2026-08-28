@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T08:00:48.168Z",
-  "lastRunId": 33153564437,
+  "updatedAt": "2026-08-28T08:04:37.525Z",
+  "lastRunId": 33153822971,
   "items": [
+    {
+      "id": "run_33153822971",
+      "run_id": 33153822971,
+      "artifact_id": 9678787376,
+      "filename": "FK_strappadobj.safetensors",
+      "normalized_name": "fk_strappadobj.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3b6eecc1347b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-28T08:04:07Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33153564437",
       "run_id": 33153564437,
