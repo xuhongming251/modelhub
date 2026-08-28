@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T13:46:12.476Z",
-  "lastRunId": 33176563062,
+  "updatedAt": "2026-08-28T14:31:44.632Z",
+  "lastRunId": 33180019516,
   "items": [
+    {
+      "id": "run_33180019516",
+      "run_id": 33180019516,
+      "artifact_id": 9689481656,
+      "filename": "Flux2-Klein-9B-True-v2-Q4_K.gguf",
+      "normalized_name": "flux2-klein-9b-true-v2-q4_k.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1ec5f89ea8e6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-28T14:31:03Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33176563062",
       "run_id": 33176563062,
