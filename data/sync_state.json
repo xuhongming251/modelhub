@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T11:17:56.332Z",
-  "lastRunId": 33166488327,
+  "updatedAt": "2026-08-28T11:21:43.496Z",
+  "lastRunId": 33166744648,
   "items": [
+    {
+      "id": "run_33166744648",
+      "run_id": 33166744648,
+      "artifact_id": 9683898527,
+      "filename": "moodyProMix_v13INT8CONVROT.safetensors",
+      "normalized_name": "moodypromix_v13int8convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9bd760c4b331",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-28T11:21:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33166488327",
       "run_id": 33166488327,
