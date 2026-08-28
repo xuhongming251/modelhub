@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T12:07:33.759Z",
-  "lastRunId": 33169766359,
+  "updatedAt": "2026-08-28T12:10:57.822Z",
+  "lastRunId": 33169953598,
   "items": [
+    {
+      "id": "run_33169953598",
+      "run_id": 33169953598,
+      "artifact_id": 9685175498,
+      "filename": "kurasawaAnzu.YxKV.safetensors",
+      "normalized_name": "kurasawaanzu.yxkv.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b5f18efb5a5f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-28T12:10:20Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33169766359",
       "run_id": 33169766359,
@@ -123596,7 +123609,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
