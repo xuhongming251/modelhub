@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T21:04:46.657Z",
-  "lastRunId": 33191258774,
+  "updatedAt": "2026-08-28T22:17:59.062Z",
+  "lastRunId": 33216133915,
   "items": [
+    {
+      "id": "run_33216133915",
+      "run_id": 33216133915,
+      "artifact_id": 9703421324,
+      "filename": "terraRisingUnity_v30Unity.safetensors",
+      "normalized_name": "terrarisingunity_v30unity.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/34d42242719b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-28T22:17:23Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_33210383985",
+      "run_id": 33210383985,
+      "artifact_id": 9701543897,
+      "filename": "fnMomentAnimaTurbo_v40NoTurbo.safetensors",
+      "normalized_name": "fnmomentanimaturbo_v40noturbo.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b44054dce488",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-28T21:04:13Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33190832692",
       "run_id": 33190832692,
@@ -123791,7 +123817,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 3,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
