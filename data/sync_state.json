@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T15:26:16.568Z",
-  "lastRunId": 33184594050,
+  "updatedAt": "2026-08-28T15:41:38.581Z",
+  "lastRunId": 33186085205,
   "items": [
+    {
+      "id": "run_33186085205",
+      "run_id": 33186085205,
+      "artifact_id": 9691829088,
+      "filename": "dasiwaMinimaxH3Ref2vaV1Pruned.JFaJ.safetensors",
+      "normalized_name": "dasiwaminimaxh3ref2vav1pruned.jfaj.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ba4630d34f94",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-28T15:40:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33184594050",
       "run_id": 33184594050,
@@ -105,19 +118,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-28T13:26:21Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_33171273851",
-      "run_id": 33171273851,
-      "artifact_id": 9686725090,
-      "filename": "dasiwaMinimaxH3Ref2vaV1Pruned.JFaJ.safetensors",
-      "normalized_name": "dasiwaminimaxh3ref2vav1pruned.jfaj.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/cad108bd703f",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-28T13:05:57Z",
       "workflow": "upload.yml"
     },
     {
