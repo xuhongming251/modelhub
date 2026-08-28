@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T15:09:15.978Z",
-  "lastRunId": 33183646002,
+  "updatedAt": "2026-08-28T15:17:12.467Z",
+  "lastRunId": 33184299829,
   "items": [
+    {
+      "id": "run_33184279184",
+      "run_id": 33184279184,
+      "artifact_id": 9691033019,
+      "filename": "minimax-h3-digicam.safetensors",
+      "normalized_name": "minimax-h3-digicam.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6f11c4db4279",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-28T15:16:50Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_33184299829",
+      "run_id": 33184299829,
+      "artifact_id": 9691027093,
+      "filename": "PlagueKind-tiddies-realismslider.safetensors",
+      "normalized_name": "plaguekind-tiddies-realismslider.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/53e271df365d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-28T15:16:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33183646002",
       "run_id": 33183646002,
