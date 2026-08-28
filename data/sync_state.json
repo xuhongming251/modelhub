@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T05:58:49.610Z",
-  "lastRunId": 33146357051,
+  "updatedAt": "2026-08-28T06:06:37.722Z",
+  "lastRunId": 33146578589,
   "items": [
+    {
+      "id": "run_33146578589",
+      "run_id": 33146578589,
+      "artifact_id": 9676070650,
+      "filename": "flux-2-klein-9b-Q4_K_M.gguf",
+      "normalized_name": "flux-2-klein-9b-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f612d8c3a31b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-28T06:06:03Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_33146381756",
+      "run_id": 33146381756,
+      "artifact_id": 9675928974,
+      "filename": "urushiharaSatoshi.utaf.safetensors",
+      "normalized_name": "urushiharasatoshi.utaf.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2e546708d604",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-28T05:58:47Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33146357051",
       "run_id": 33146357051,
