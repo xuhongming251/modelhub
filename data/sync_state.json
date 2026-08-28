@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T15:41:38.581Z",
-  "lastRunId": 33186085205,
+  "updatedAt": "2026-08-28T16:10:39.995Z",
+  "lastRunId": 33188072544,
   "items": [
+    {
+      "id": "run_33188072544",
+      "run_id": 33188072544,
+      "artifact_id": 9692769614,
+      "filename": "faster-whisper-large-v3.zip",
+      "normalized_name": "faster-whisper-large-v3.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c89942a3c00d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-28T16:09:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33186085205",
       "run_id": 33186085205,
