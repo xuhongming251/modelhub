@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T01:54:56.885Z",
-  "lastRunId": 33134094352,
+  "updatedAt": "2026-08-28T01:55:57.333Z",
+  "lastRunId": 33134299005,
   "items": [
+    {
+      "id": "run_33134299005",
+      "run_id": 33134299005,
+      "artifact_id": 9671431396,
+      "filename": "ComfyUI-QwenVL.zip",
+      "normalized_name": "comfyui-qwenvl.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/43c3e28cb441",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-28T01:55:22Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_33134251219",
+      "run_id": 33134251219,
+      "artifact_id": 9671413315,
+      "filename": "kreaamateurV2.W59Q.safetensors",
+      "normalized_name": "kreaamateurv2.w59q.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f9d5aae968d3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-28T01:54:22Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33134094352",
       "run_id": 33134094352,
@@ -11220,19 +11246,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-10T12:01:37Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_31385879948",
-      "run_id": 31385879948,
-      "artifact_id": 9061709088,
-      "filename": "kreaamateurV2.W59Q.safetensors",
-      "normalized_name": "kreaamateurv2.w59q.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/9c530e8e3846",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-10T12:00:06Z",
       "workflow": "upload.yml"
     },
     {
@@ -121803,12 +121816,6 @@
       "normalized_name": "heu_kms_activator_v63.3.0.rar",
       "share_url": "https://pan.quark.cn/s/368c6cb54157",
       "completed_at": "2026-03-09T10:26:36Z"
-    },
-    {
-      "filename": "ComfyUI-QwenVL.zip",
-      "normalized_name": "comfyui-qwenvl.zip",
-      "share_url": "https://pan.quark.cn/s/ad6dcb65461c",
-      "completed_at": "2026-03-09T09:38:06Z"
     },
     {
       "filename": "4x-NMKD-YandereNeo.pth",
