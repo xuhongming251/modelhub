@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T12:41:46.286Z",
-  "lastRunId": 33253093617,
+  "updatedAt": "2026-08-29T12:42:25.294Z",
+  "lastRunId": 33253113776,
   "items": [
+    {
+      "id": "run_33253113776",
+      "run_id": 33253113776,
+      "artifact_id": 9714982750,
+      "filename": "tawawaHokuroChaned.tIUq.safetensors",
+      "normalized_name": "tawawahokurochaned.tiuq.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4257facfd6d8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-29T12:41:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33253093617",
       "run_id": 33253093617,
@@ -124585,7 +124598,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
