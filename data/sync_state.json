@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T12:42:25.294Z",
-  "lastRunId": 33253113776,
+  "updatedAt": "2026-08-29T12:43:18.221Z",
+  "lastRunId": 33253169535,
   "items": [
+    {
+      "id": "run_33253157350",
+      "run_id": 33253157350,
+      "artifact_id": 9714996740,
+      "filename": "tawawaGimaiChan.VuVt.safetensors",
+      "normalized_name": "tawawagimaichan.vuvt.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/44b91c48b618",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-29T12:43:00Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_33253169535",
+      "run_id": 33253169535,
+      "artifact_id": 9714993243,
+      "filename": "tawawaSadaChan.TtpL.safetensors",
+      "normalized_name": "tawawasadachan.ttpl.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f42a761274ae",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-29T12:42:43Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_33253131907",
+      "run_id": 33253131907,
+      "artifact_id": 9714988542,
+      "filename": "tawawaRikeiChan.SnBc.safetensors",
+      "normalized_name": "tawawarikeichan.snbc.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a3cc37cca334",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-29T12:42:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33253113776",
       "run_id": 33253113776,
@@ -124598,7 +124637,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
