@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T13:29:54.869Z",
-  "lastRunId": 33255095066,
+  "updatedAt": "2026-08-29T13:41:22.457Z",
+  "lastRunId": 33255594658,
   "items": [
+    {
+      "id": "run_33255594658",
+      "run_id": 33255594658,
+      "artifact_id": 9715706059,
+      "filename": "待转存模型文件",
+      "normalized_name": "待转存模型文件",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3c746c4f875a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-29T13:40:45Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33255095066",
       "run_id": 33255095066,
@@ -8295,19 +8308,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-21T02:27:00Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_32439282489",
-      "run_id": 32439282489,
-      "artifact_id": 9431820930,
-      "filename": "待转存模型文件",
-      "normalized_name": "待转存模型文件",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/2e265af7f830",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-21T02:17:00Z",
       "workflow": "upload.yml"
     },
     {
