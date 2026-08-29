@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T19:52:03.484Z",
-  "lastRunId": 33271890014,
+  "updatedAt": "2026-08-29T20:06:57.123Z",
+  "lastRunId": 33272565756,
   "items": [
+    {
+      "id": "run_33272565756",
+      "run_id": 33272565756,
+      "artifact_id": 9720534229,
+      "filename": "cuda_12.4.1_551.78_windows.exe",
+      "normalized_name": "cuda_12.4.1_551.78_windows.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7d42966c8f3f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-29T20:06:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33271890014",
       "run_id": 33271890014,
