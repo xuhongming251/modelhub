@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T17:47:36.128Z",
-  "lastRunId": 33266274096,
+  "updatedAt": "2026-08-29T17:51:41.495Z",
+  "lastRunId": 33266668031,
   "items": [
+    {
+      "id": "run_33266668031",
+      "run_id": 33266668031,
+      "artifact_id": 9718855335,
+      "filename": "cuda_13.0.0_windows.exe",
+      "normalized_name": "cuda_13.0.0_windows.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/abbff50981d8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-29T17:51:10Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_33266508260",
+      "run_id": 33266508260,
+      "artifact_id": 9718809808,
+      "filename": "taka84.safetensors",
+      "normalized_name": "taka84.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/108210085082",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-29T17:47:25Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33266274096",
       "run_id": 33266274096,
@@ -21503,19 +21529,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-02T08:48:19Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30740442558",
-      "run_id": 30740442558,
-      "artifact_id": 8831093576,
-      "filename": "cuda_13.0.0_windows.exe",
-      "normalized_name": "cuda_13.0.0_windows.exe",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/d082076ea34d",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-02T08:47:30Z",
       "workflow": "upload.yml"
     },
     {
