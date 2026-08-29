@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T18:31:18.554Z",
-  "lastRunId": 33268358911,
+  "updatedAt": "2026-08-29T18:34:05.350Z",
+  "lastRunId": 33268554288,
   "items": [
+    {
+      "id": "run_33268554288",
+      "run_id": 33268554288,
+      "artifact_id": 9719393128,
+      "filename": "shuiwu-000050.safetensors",
+      "normalized_name": "shuiwu-000050.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a616d90f71b4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-29T18:33:34Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33268358911",
       "run_id": 33268358911,
