@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-30T14:45:59.821Z",
-  "lastRunId": 33317689471,
+  "updatedAt": "2026-08-30T14:47:47.178Z",
+  "lastRunId": 33317745117,
   "items": [
+    {
+      "id": "run_33317745117",
+      "run_id": 33317745117,
+      "artifact_id": 9733987517,
+      "filename": "krea2022020slave.Fs7S.safetensors",
+      "normalized_name": "krea2022020slave.fs7s.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/110024ac5522",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-30T14:47:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33317689471",
       "run_id": 33317689471,
@@ -126184,7 +126197,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
