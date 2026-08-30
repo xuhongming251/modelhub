@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-30T14:51:54.546Z",
-  "lastRunId": 33317928132,
+  "updatedAt": "2026-08-30T14:53:33.820Z",
+  "lastRunId": 33318027002,
   "items": [
+    {
+      "id": "run_33318027002",
+      "run_id": 33318027002,
+      "artifact_id": 9734066191,
+      "filename": "slingshotBikini21023.7Hma.safetensors",
+      "normalized_name": "slingshotbikini21023.7hma.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c9a05e2f7f2f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-30T14:53:16Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_33318006483",
+      "run_id": 33318006483,
+      "artifact_id": 9734062233,
+      "filename": "squarePatchBikini4095.eFjz.safetensors",
+      "normalized_name": "squarepatchbikini4095.efjz.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5135f6c54c01",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-30T14:52:59Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_33317941721",
+      "run_id": 33317941721,
+      "artifact_id": 9734048305,
+      "filename": "nsfwBikinis1Epoch8.obv8.safetensors",
+      "normalized_name": "nsfwbikinis1epoch8.obv8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/413f69df15c4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-30T14:51:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33317928132",
       "run_id": 33317928132,
@@ -126249,7 +126288,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
