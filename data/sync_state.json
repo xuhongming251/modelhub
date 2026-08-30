@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-30T14:43:10.166Z",
-  "lastRunId": 33317553048,
+  "updatedAt": "2026-08-30T14:43:53.576Z",
+  "lastRunId": 33317569155,
   "items": [
+    {
+      "id": "run_33317569155",
+      "run_id": 33317569155,
+      "artifact_id": 9733937132,
+      "filename": "minoan20dress.A1xN.safetensors",
+      "normalized_name": "minoan20dress.a1xn.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2f88c108170a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-30T14:43:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33317543379",
       "run_id": 33317543379,
@@ -126119,7 +126132,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
