@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-30T14:53:33.820Z",
-  "lastRunId": 33318027002,
+  "updatedAt": "2026-08-30T14:55:29.242Z",
+  "lastRunId": 33318101778,
   "items": [
+    {
+      "id": "run_33318101778",
+      "run_id": 33318101778,
+      "artifact_id": 9734087581,
+      "filename": "crochetBikiniTags.HNYz.safetensors",
+      "normalized_name": "crochetbikinitags.hnyz.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/645905bca663",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-30T14:54:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33318027002",
       "run_id": 33318027002,
@@ -126288,7 +126301,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
