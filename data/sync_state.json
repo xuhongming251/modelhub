@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-30T16:04:30.756Z",
-  "lastRunId": 33321301454,
+  "updatedAt": "2026-08-30T16:23:44.619Z",
+  "lastRunId": 33322284844,
   "items": [
+    {
+      "id": "run_33322284844",
+      "run_id": 33322284844,
+      "artifact_id": 9735226360,
+      "filename": "breastSizeV2Krea2.QcCe.safetensors",
+      "normalized_name": "breastsizev2krea2.qcce.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/44ff5280a24d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-30T16:23:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33321301454",
       "run_id": 33321301454,
@@ -127198,7 +127211,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 3,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
