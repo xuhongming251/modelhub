@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-30T14:39:47.419Z",
-  "lastRunId": 33317432280,
+  "updatedAt": "2026-08-30T14:41:48.515Z",
+  "lastRunId": 33317481966,
   "items": [
+    {
+      "id": "run_33317481966",
+      "run_id": 33317481966,
+      "artifact_id": 9733909872,
+      "filename": "racingBodysuitKrea2.Yb5k.safetensors",
+      "normalized_name": "racingbodysuitkrea2.yb5k.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/05ebf436b78e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-30T14:41:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33317432280",
       "run_id": 33317432280,
@@ -126080,7 +126093,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
