@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-30T15:38:39.073Z",
-  "lastRunId": 33320138744,
+  "updatedAt": "2026-08-30T15:40:50.492Z",
+  "lastRunId": 33320276001,
   "items": [
+    {
+      "id": "run_33320276001",
+      "run_id": 33320276001,
+      "artifact_id": 9734680657,
+      "filename": "amputeeKrea2Epoch10.WiHe.safetensors",
+      "normalized_name": "amputeekrea2epoch10.wihe.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f6448026ac5b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-30T15:40:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33320138744",
       "run_id": 33320138744,
@@ -126756,7 +126769,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
