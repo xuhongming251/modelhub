@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-30T15:34:24.668Z",
-  "lastRunId": 33319919013,
+  "updatedAt": "2026-08-30T15:35:50.964Z",
+  "lastRunId": 33320011257,
   "items": [
+    {
+      "id": "run_33320011257",
+      "run_id": 33320011257,
+      "artifact_id": 9734615885,
+      "filename": "bruises.ALNQ.safetensors",
+      "normalized_name": "bruises.alnq.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/862073f0fc0f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-30T15:35:20Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_33319981792",
+      "run_id": 33319981792,
+      "artifact_id": 9734613675,
+      "filename": "naturalbeautykrea2V1.XnBx.safetensors",
+      "normalized_name": "naturalbeautykrea2v1.xnbx.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4ba0f55f148a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-30T15:35:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33319919013",
       "run_id": 33319919013,
