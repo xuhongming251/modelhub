@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-30T14:43:53.576Z",
-  "lastRunId": 33317569155,
+  "updatedAt": "2026-08-30T14:45:21.205Z",
+  "lastRunId": 33317636498,
   "items": [
+    {
+      "id": "run_33317636498",
+      "run_id": 33317636498,
+      "artifact_id": 9733954942,
+      "filename": "krea20sitting.n1am.safetensors",
+      "normalized_name": "krea20sitting.n1am.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1b5f7dd8a6f2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-30T14:44:45Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_33317619982",
+      "run_id": 33317619982,
+      "artifact_id": 9733942182,
+      "filename": "lowlegKrea2.L9zr.safetensors",
+      "normalized_name": "lowlegkrea2.l9zr.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a35e009ea49d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-30T14:43:47Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33317569155",
       "run_id": 33317569155,
@@ -126132,7 +126158,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
