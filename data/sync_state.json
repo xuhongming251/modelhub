@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-30T15:53:33.265Z",
-  "lastRunId": 33320817048,
+  "updatedAt": "2026-08-30T15:55:48.565Z",
+  "lastRunId": 33320954501,
   "items": [
+    {
+      "id": "run_33320954501",
+      "run_id": 33320954501,
+      "artifact_id": 9734866967,
+      "filename": "barbellBF16.OB2k.safetensors",
+      "normalized_name": "barbellbf16.ob2k.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/145a898d9ade",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-30T15:55:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33320817048",
       "run_id": 33320817048,
