@@ -1,8 +1,60 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-31T02:53:39.763Z",
-  "lastRunId": 33349889122,
+  "updatedAt": "2026-08-31T04:43:57.653Z",
+  "lastRunId": 33358064763,
   "items": [
+    {
+      "id": "run_33358064763",
+      "run_id": 33358064763,
+      "artifact_id": 9745769646,
+      "filename": "2dNsfw5s.IZF6.safetensors",
+      "normalized_name": "2dnsfw5s.izf6.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3b7b0ac1c1ad",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-31T04:43:35Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_33358056539",
+      "run_id": 33358056539,
+      "artifact_id": 9745766661,
+      "filename": "emiliaAnimaV108.e175.safetensors",
+      "normalized_name": "emiliaanimav108.e175.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cd42af8ab3a9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-31T04:43:25Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_33358048048",
+      "run_id": 33358048048,
+      "artifact_id": 9745763573,
+      "filename": "shaulaAnimaV108.r8gJ.safetensors",
+      "normalized_name": "shaulaanimav108.r8gj.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1333cf81113f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-31T04:43:17Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_33351556627",
+      "run_id": 33351556627,
+      "artifact_id": 9743939323,
+      "filename": "DaSiWa-WanBoundBiteV10-Low.gguf",
+      "normalized_name": "dasiwa-wanboundbitev10-low.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/53d517eb18c6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-31T02:53:07Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33349889122",
       "run_id": 33349889122,
@@ -91706,19 +91758,6 @@
       "workflow": "upload.yml"
     },
     {
-      "id": "run_26404480090",
-      "run_id": 26404480090,
-      "artifact_id": 7199709645,
-      "filename": "DaSiWa-WanBoundBiteV10-Low.gguf",
-      "normalized_name": "dasiwa-wanboundbitev10-low.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/518a39d8e6cd",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-25T14:07:38Z",
-      "workflow": "upload.yml"
-    },
-    {
       "id": "run_26404419599",
       "run_id": 26404419599,
       "artifact_id": 7199693656,
@@ -127900,7 +127939,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
