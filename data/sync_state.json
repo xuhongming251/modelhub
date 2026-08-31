@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-31T07:27:40.012Z",
-  "lastRunId": 33362327979,
+  "updatedAt": "2026-08-31T07:33:17.612Z",
+  "lastRunId": 33368257123,
   "items": [
+    {
+      "id": "run_33368257123",
+      "run_id": 33368257123,
+      "artifact_id": 9749111774,
+      "filename": "redcraftHybridH3A2A_h3A2AREDBeta1.safetensors",
+      "normalized_name": "redcrafthybridh3a2a_h3a2aredbeta1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/48c393ddf7c6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-31T07:27:02Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33362327979",
       "run_id": 33362327979,
@@ -127978,7 +127991,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
