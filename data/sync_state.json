@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-31T08:54:51.196Z",
-  "lastRunId": 33374838426,
+  "updatedAt": "2026-08-31T09:52:31.855Z",
+  "lastRunId": 33379473825,
   "items": [
+    {
+      "id": "run_33379473825",
+      "run_id": 33379473825,
+      "artifact_id": 9753250314,
+      "filename": "Flux_Klein_9b_Turbo_lora_rank_256_bf16_standard.safetensors",
+      "normalized_name": "flux_klein_9b_turbo_lora_rank_256_bf16_standard.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0144593db468",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-31T09:51:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33374838426",
       "run_id": 33374838426,
