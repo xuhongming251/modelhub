@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-31T09:52:31.855Z",
+  "updatedAt": "2026-08-31T10:03:19.144Z",
   "lastRunId": 33379473825,
   "items": [
+    {
+      "id": "run_33379457643",
+      "run_id": 33379457643,
+      "artifact_id": 9753571169,
+      "filename": "Qwen3-4b-Uncensored-Z-Image-Engineer-V4-Q8_0.gguf",
+      "normalized_name": "qwen3-4b-uncensored-z-image-engineer-v4-q8_0.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7ce22326e97b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-08-31T10:02:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33379473825",
       "run_id": 33379473825,
