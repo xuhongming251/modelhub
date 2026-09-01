@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T00:29:45.182Z",
+  "updatedAt": "2026-09-01T00:39:25.646Z",
   "lastRunId": 33453587469,
   "items": [
+    {
+      "id": "run_33452198002",
+      "run_id": 33452198002,
+      "artifact_id": 9781300141,
+      "filename": "diffusion_models.zip",
+      "normalized_name": "diffusion_models.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/929a3bcc019b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-01T00:38:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33453300146",
       "run_id": 33453300146,
@@ -115123,12 +115136,6 @@
       "normalized_name": "llama_cpp_python-0.3.35+cu130.basic-cp312-cp312-win_amd64.whl",
       "share_url": "https://pan.quark.cn/s/b9ad5af3fea1",
       "completed_at": "2026-04-16T14:34:53Z"
-    },
-    {
-      "filename": "diffusion_models.zip",
-      "normalized_name": "diffusion_models.zip",
-      "share_url": "https://pan.quark.cn/s/bc709d769d13",
-      "completed_at": "2026-04-16T14:22:06Z"
     },
     {
       "filename": "moodyPornMix_v30.safetensors",
