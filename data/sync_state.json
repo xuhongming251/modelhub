@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T01:48:58.159Z",
-  "lastRunId": 33460053447,
+  "updatedAt": "2026-09-01T02:23:30.940Z",
+  "lastRunId": 33461641388,
   "items": [
+    {
+      "id": "run_33461641388",
+      "run_id": 33461641388,
+      "artifact_id": 9783589145,
+      "filename": "10Eros_Max_h3_fl2va_beta2_pruned_nvfp4.safetensors",
+      "normalized_name": "10eros_max_h3_fl2va_beta2_pruned_nvfp4.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6fd5bc6d4230",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-01T02:22:52Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33460053447",
       "run_id": 33460053447,
@@ -128609,7 +128622,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
