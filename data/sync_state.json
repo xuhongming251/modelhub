@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T14:29:39.719Z",
-  "lastRunId": 33512056980,
+  "updatedAt": "2026-09-01T16:14:53.439Z",
+  "lastRunId": 33519624292,
   "items": [
+    {
+      "id": "run_33519624292",
+      "run_id": 33519624292,
+      "artifact_id": 9805134812,
+      "filename": "ideogram4Int8Convrot.umwS.safetensors",
+      "normalized_name": "ideogram4int8convrot.umws.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/096910b6cf73",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-01T14:29:05Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33512056980",
       "run_id": 33512056980,
@@ -57162,19 +57175,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-02T07:38:14Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28572606153",
-      "run_id": 28572606153,
-      "artifact_id": 8031940556,
-      "filename": "ideogram4Int8Convrot.umwS.safetensors",
-      "normalized_name": "ideogram4int8convrot.umws.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/3e190ebad9e9",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-02T07:36:44Z",
       "workflow": "upload.yml"
     },
     {
@@ -129194,7 +129194,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
