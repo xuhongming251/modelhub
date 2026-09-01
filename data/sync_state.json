@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T02:23:30.940Z",
-  "lastRunId": 33461641388,
+  "updatedAt": "2026-09-01T02:24:46.589Z",
+  "lastRunId": 33462133449,
   "items": [
+    {
+      "id": "run_33462133449",
+      "run_id": 33462133449,
+      "artifact_id": 9783616828,
+      "filename": "hunyuan3d-dit-v2-mv_fp16.safetensors",
+      "normalized_name": "hunyuan3d-dit-v2-mv_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a013b1ed3ea2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-01T02:24:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33461641388",
       "run_id": 33461641388,
