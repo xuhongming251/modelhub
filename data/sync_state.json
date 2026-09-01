@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T07:54:18.104Z",
-  "lastRunId": 33484285180,
+  "updatedAt": "2026-09-01T08:00:10.428Z",
+  "lastRunId": 33484732570,
   "items": [
+    {
+      "id": "run_33484732570",
+      "run_id": 33484732570,
+      "artifact_id": 9791314810,
+      "filename": "sd.webui-1.10.1-blackwell.7z",
+      "normalized_name": "sd.webui-1.10.1-blackwell.7z",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4b64be3c7422",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-01T07:59:34Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33484285180",
       "run_id": 33484285180,
