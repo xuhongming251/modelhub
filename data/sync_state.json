@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T07:19:18.709Z",
-  "lastRunId": 33481458578,
+  "updatedAt": "2026-09-01T07:27:44.231Z",
+  "lastRunId": 33482151800,
   "items": [
+    {
+      "id": "run_33482151800",
+      "run_id": 33482151800,
+      "artifact_id": 9790340862,
+      "filename": "krea2022020crotchless.QAbo.safetensors",
+      "normalized_name": "krea2022020crotchless.qabo.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/26af8f9c6462",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-01T07:27:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33481458578",
       "run_id": 33481458578,
@@ -3264,19 +3277,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-30T14:42:41Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_33317553048",
-      "run_id": 33317553048,
-      "artifact_id": 9733917072,
-      "filename": "krea2022020crotchless.QAbo.safetensors",
-      "normalized_name": "krea2022020crotchless.qabo.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/2fe393bce569",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-30T14:41:51Z",
       "workflow": "upload.yml"
     },
     {
