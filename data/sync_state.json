@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-02T15:19:41.029Z",
-  "lastRunId": 33647555967,
+  "updatedAt": "2026-09-02T15:34:22.243Z",
+  "lastRunId": 33649077349,
   "items": [
+    {
+      "id": "run_33649077349",
+      "run_id": 33649077349,
+      "artifact_id": 9854063825,
+      "filename": "I2V_doggyslider_low.safetensors",
+      "normalized_name": "i2v_doggyslider_low.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/470384a4fc55",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-02T15:33:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33647555967",
       "run_id": 33647555967,
