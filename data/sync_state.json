@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-02T09:05:16.129Z",
-  "lastRunId": 33611908006,
+  "updatedAt": "2026-09-02T09:41:34.967Z",
+  "lastRunId": 33615348468,
   "items": [
+    {
+      "id": "run_33615348468",
+      "run_id": 33615348468,
+      "artifact_id": 9840700220,
+      "filename": "Qwen-Image-Lightning-4steps-V1.0.safetensors",
+      "normalized_name": "qwen-image-lightning-4steps-v1.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9821bfe7c001",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-02T09:40:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33611908006",
       "run_id": 33611908006,
@@ -112980,12 +112993,6 @@
       "normalized_name": "janusazurlaneforil.osod.safetensors",
       "share_url": "https://pan.quark.cn/s/1e4a6ccf865b",
       "completed_at": "2026-04-25T16:37:30Z"
-    },
-    {
-      "filename": "Qwen-Image-Lightning-4steps-V1.0.safetensors",
-      "normalized_name": "qwen-image-lightning-4steps-v1.0.safetensors",
-      "share_url": "https://pan.quark.cn/s/ab71bb66ce3e",
-      "completed_at": "2026-04-25T16:34:02Z"
     },
     {
       "filename": "Qwen-Image-2512-Fun-Controlnet-Union-2602.safetensors",
