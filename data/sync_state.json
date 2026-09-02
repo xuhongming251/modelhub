@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-02T09:41:34.967Z",
+  "updatedAt": "2026-09-02T09:49:03.623Z",
   "lastRunId": 33615348468,
   "items": [
+    {
+      "id": "run_33615303745",
+      "run_id": 33615303745,
+      "artifact_id": 9840967096,
+      "filename": "qwen_image_2512_fp8_e4m3fn.safetensors",
+      "normalized_name": "qwen_image_2512_fp8_e4m3fn.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dacf2ebc50d6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-02T09:48:19Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33615348468",
       "run_id": 33615348468,
@@ -109495,12 +109508,6 @@
       "normalized_name": "hentaistudioquality.hjjr.safetensors",
       "share_url": "https://pan.quark.cn/s/76bdffee7c31",
       "completed_at": "2026-05-02T07:54:53Z"
-    },
-    {
-      "filename": "qwen_image_2512_fp8_e4m3fn.safetensors",
-      "normalized_name": "qwen_image_2512_fp8_e4m3fn.safetensors",
-      "share_url": "https://pan.quark.cn/s/8dcc5f1b7d5d",
-      "completed_at": "2026-05-02T07:22:38Z"
     },
     {
       "filename": "dasiwaWan22I2V14B.Io2V.safetensors",
