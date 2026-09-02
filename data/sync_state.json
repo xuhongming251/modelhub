@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-02T16:05:10.463Z",
-  "lastRunId": 33652151956,
+  "updatedAt": "2026-09-02T16:06:02.953Z",
+  "lastRunId": 33652498483,
   "items": [
+    {
+      "id": "run_33652498483",
+      "run_id": 33652498483,
+      "artifact_id": 9855417129,
+      "filename": "I2V_doggyslider_low.safetensors",
+      "normalized_name": "i2v_doggyslider_low.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fd564e561567",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-02T16:05:31Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_33652466236",
+      "run_id": 33652466236,
+      "artifact_id": 9855409074,
+      "filename": "DoggyStyleSlider_LOW.safetensors",
+      "normalized_name": "doggystyleslider_low.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/35fb81c4100c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-02T16:05:19Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_33648193809",
+      "run_id": 33648193809,
+      "artifact_id": 9855380626,
+      "filename": "wan2.1_i2v_720p_scaled_fp8_e4m3_lightx2v_comfyui.safetensors",
+      "normalized_name": "wan2.1_i2v_720p_scaled_fp8_e4m3_lightx2v_comfyui.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0a4bd6f564e6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-02T16:04:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33652151956",
       "run_id": 33652151956,
@@ -14,19 +53,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-02T16:01:01Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_33649077349",
-      "run_id": 33649077349,
-      "artifact_id": 9854063825,
-      "filename": "I2V_doggyslider_low.safetensors",
-      "normalized_name": "i2v_doggyslider_low.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/470384a4fc55",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-02T15:33:33Z",
       "workflow": "upload.yml"
     },
     {
@@ -129377,7 +129403,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
