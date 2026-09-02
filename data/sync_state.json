@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-02T07:37:22.557Z",
-  "lastRunId": 33604260561,
+  "updatedAt": "2026-09-02T07:40:55.735Z",
+  "lastRunId": 33604676449,
   "items": [
+    {
+      "id": "run_33604676449",
+      "run_id": 33604676449,
+      "artifact_id": 9836517733,
+      "filename": "CloudFileRelayAndroid.apk",
+      "normalized_name": "cloudfilerelayandroid.apk",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/68f9fe6d530d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-02T07:40:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33604260561",
       "run_id": 33604260561,
@@ -37545,19 +37558,6 @@
       "channel": "baidu",
       "channel_name": "Baidu",
       "completed_at": "2026-07-20T11:41:28Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29736450440",
-      "run_id": 29736450440,
-      "artifact_id": 8458500897,
-      "filename": "CloudFileRelayAndroid.apk",
-      "normalized_name": "cloudfilerelayandroid.apk",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/d4630b54c097",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-20T10:51:10Z",
       "workflow": "upload.yml"
     },
     {
