@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-02T14:11:33.449Z",
-  "lastRunId": 33640147730,
+  "updatedAt": "2026-09-02T15:00:41.239Z",
+  "lastRunId": 33645620110,
   "items": [
+    {
+      "id": "run_33645545249",
+      "run_id": 33645545249,
+      "artifact_id": 9852660054,
+      "filename": "WAN-2.2-I2V-BreastPlay-HIGH-v2.safetensors",
+      "normalized_name": "wan-2.2-i2v-breastplay-high-v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/215e6d065d98",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-02T15:00:11Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_33645620110",
+      "run_id": 33645620110,
+      "artifact_id": 9852650606,
+      "filename": "WAN-2.2-I2V-BreastPlay-LOW-v2.safetensors",
+      "normalized_name": "wan-2.2-i2v-breastplay-low-v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/19080e137031",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-02T14:59:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33640147730",
       "run_id": 33640147730,
@@ -101375,32 +101401,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-14T14:19:38Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25864611790",
-      "run_id": 25864611790,
-      "artifact_id": 6996212419,
-      "filename": "WAN-2.2-I2V-BreastPlay-LOW-v2.safetensors",
-      "normalized_name": "wan-2.2-i2v-breastplay-low-v2.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/731adb111f2f",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-14T14:06:46Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25864587392",
-      "run_id": 25864587392,
-      "artifact_id": 6996202964,
-      "filename": "WAN-2.2-I2V-BreastPlay-HIGH-v2.safetensors",
-      "normalized_name": "wan-2.2-i2v-breastplay-high-v2.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/39eb0d045bfc",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-14T14:06:20Z",
       "workflow": "upload.yml"
     },
     {
