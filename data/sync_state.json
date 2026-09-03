@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-03T13:34:46.492Z",
+  "updatedAt": "2026-09-03T13:36:46.335Z",
   "lastRunId": 33761828215,
   "items": [
+    {
+      "id": "run_33761349902",
+      "run_id": 33761349902,
+      "artifact_id": 9895863441,
+      "filename": "lycoris_v1.4.safetensors",
+      "normalized_name": "lycoris_v1.4.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ce8068046431",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-03T13:35:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33761828215",
       "run_id": 33761828215,
