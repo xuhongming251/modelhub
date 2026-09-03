@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-03T05:07:34.532Z",
-  "lastRunId": 33717474362,
+  "updatedAt": "2026-09-03T05:09:52.702Z",
+  "lastRunId": 33717608618,
   "items": [
+    {
+      "id": "run_33717608618",
+      "run_id": 33717608618,
+      "artifact_id": 9879084713,
+      "filename": "miaomiao20dollie2010.OYFX.safetensors",
+      "normalized_name": "miaomiao20dollie2010.oyfx.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b9512ae3f2bb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-03T05:09:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33717474362",
       "run_id": 33717474362,
@@ -122663,12 +122676,6 @@
       "normalized_name": "a98ce28ab9a2183ad230825bb727680cbb048996bb518baafbb466e8d48d",
       "share_url": "https://pan.quark.cn/s/ef46fa361a93",
       "completed_at": "2026-03-23T07:00:49Z"
-    },
-    {
-      "filename": "miaomiao20dollie2010.OYFX.safetensors",
-      "normalized_name": "miaomiao20dollie2010.oyfx.safetensors",
-      "share_url": "https://pan.quark.cn/s/df8682eea9c3",
-      "completed_at": "2026-03-23T06:58:31Z"
     },
     {
       "filename": "yesmix-xl-illustrious",
