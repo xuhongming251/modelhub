@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-03T09:02:55.741Z",
-  "lastRunId": 33735059857,
+  "updatedAt": "2026-09-03T09:04:25.675Z",
+  "lastRunId": 33736032046,
   "items": [
+    {
+      "id": "run_33733054748",
+      "run_id": 33733054748,
+      "artifact_id": 9886023908,
+      "filename": "krea2动漫爱好Bf16.safetensors",
+      "normalized_name": "krea2动漫爱好bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/71db838c5f28",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-03T09:03:49Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_33736032046",
+      "run_id": 33736032046,
+      "artifact_id": 9885987751,
+      "filename": "minimax_h3_fastvideo_vsa_datafree_1300step_4step_int8_convrot.safetensors",
+      "normalized_name": "minimax_h3_fastvideo_vsa_datafree_1300step_4step_int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/482b332c11b4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-03T09:02:49Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_33732520802",
+      "run_id": 33732520802,
+      "artifact_id": 9885966510,
+      "filename": "Krea 2 动画Bf16.safetensors",
+      "normalized_name": "krea 2 动画bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ac058cec5488",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-03T09:02:13Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33732430594",
       "run_id": 33732430594,
@@ -14,19 +53,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-03T08:57:50Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_33735059857",
-      "run_id": 33735059857,
-      "artifact_id": 9885624355,
-      "filename": "minimax_h3_fastvideo_vsa_datafree_1300step_4step_int8_convrot.safetensors",
-      "normalized_name": "minimax_h3_fastvideo_vsa_datafree_1300step_4step_int8_convrot.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/561f657eeabe",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-03T08:52:27Z",
       "workflow": "upload.yml"
     },
     {
@@ -129709,7 +129735,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
