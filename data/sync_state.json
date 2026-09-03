@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-03T06:27:39.652Z",
-  "lastRunId": 33722639768,
+  "updatedAt": "2026-09-03T07:19:06.368Z",
+  "lastRunId": 33727246371,
   "items": [
     {
-      "id": "run_33722639768",
-      "run_id": 33722639768,
-      "artifact_id": 9880904617,
+      "id": "run_33727246371",
+      "run_id": 33727246371,
+      "artifact_id": 9882488991,
+      "filename": "krea2TurboFp8.6CYG.safetensors",
+      "normalized_name": "krea2turbofp8.6cyg.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c72ded86211d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-03T07:18:28Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_33722582571",
+      "run_id": 33722582571,
+      "artifact_id": 9880994469,
       "filename": "redgraftLTX25Fast2K_ltx25RedgraftNSFW.safetensors",
       "normalized_name": "redgraftltx25fast2k_ltx25redgraftnsfw.safetensors",
       "original_url": "",
-      "share_url": "https://pan.quark.cn/s/c7e8926f5eeb",
+      "share_url": "https://pan.quark.cn/s/9d7a62e11842",
       "channel": "quark",
       "channel_name": "Quark",
-      "completed_at": "2026-09-03T06:23:52Z",
+      "completed_at": "2026-09-03T06:27:10Z",
       "workflow": "upload.yml"
     },
     {
@@ -63597,19 +63610,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-28T08:35:42Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28315273873",
-      "run_id": 28315273873,
-      "artifact_id": 7932333673,
-      "filename": "krea2TurboFp8.6CYG.safetensors",
-      "normalized_name": "krea2turbofp8.6cyg.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/ca0997b159b8",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-28T07:35:45Z",
       "workflow": "upload.yml"
     },
     {
@@ -129631,7 +129631,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
