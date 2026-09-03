@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-03T14:16:11.541Z",
-  "lastRunId": 33765700340,
+  "updatedAt": "2026-09-03T14:17:04.322Z",
+  "lastRunId": 33765808004,
   "items": [
+    {
+      "id": "run_33765808004",
+      "run_id": 33765808004,
+      "artifact_id": 9897446669,
+      "filename": "w22_i2v_pretzel_pose_L.safetensors",
+      "normalized_name": "w22_i2v_pretzel_pose_l.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3ce5cd789362",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-03T14:16:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33765700340",
       "run_id": 33765700340,
