@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-03T10:52:39.676Z",
+  "updatedAt": "2026-09-03T10:56:13.486Z",
   "lastRunId": 33746378103,
   "items": [
+    {
+      "id": "run_33745709475",
+      "run_id": 33745709475,
+      "artifact_id": 9889963281,
+      "filename": "cyberrealisticponyV18.tcSw.safetensors",
+      "normalized_name": "cyberrealisticponyv18.tcsw.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1FYuFUaRoEl0na6F2eEiplg?pwd=f1aa",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-09-03T10:55:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33746378103",
       "run_id": 33746378103,
@@ -27,19 +40,6 @@
       "channel": "baidu",
       "channel_name": "Baidu",
       "completed_at": "2026-09-03T10:52:03Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_33746234076",
-      "run_id": 33746234076,
-      "artifact_id": 9889765587,
-      "filename": "cyberrealisticponyV18.tcSw.safetensors",
-      "normalized_name": "cyberrealisticponyv18.tcsw.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/3115cd4637bd",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-03T10:49:34Z",
       "workflow": "upload.yml"
     },
     {
