@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-04T07:24:29.330Z",
-  "lastRunId": 33846892923,
+  "updatedAt": "2026-09-04T07:30:34.156Z",
+  "lastRunId": 33847918191,
   "items": [
     {
-      "id": "run_33846892923",
-      "run_id": 33846892923,
-      "artifact_id": 9926856393,
+      "id": "run_33847684131",
+      "run_id": 33847684131,
+      "artifact_id": 9927476496,
       "filename": "minimax_h3_t1_image_vae_step1597.safetensors",
       "normalized_name": "minimax_h3_t1_image_vae_step1597.safetensors",
       "original_url": "",
-      "share_url": "https://pan.quark.cn/s/8b76cea8e4f5",
+      "share_url": "https://pan.quark.cn/s/2cfe2c8d3b5e",
       "channel": "quark",
       "channel_name": "Quark",
-      "completed_at": "2026-09-04T07:02:38Z",
+      "completed_at": "2026-09-04T07:25:39Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_33847918191",
+      "run_id": 33847918191,
+      "artifact_id": 9927313344,
+      "filename": "Qwen3.5-9B-The-Defiant-Fable-Uncnr-Heretic-NEO-MAX-MTP-Q8_0.gguf",
+      "normalized_name": "qwen3.5-9b-the-defiant-fable-uncnr-heretic-neo-max-mtp-q8_0.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bbc0a781d93f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-04T07:19:39Z",
       "workflow": "upload.yml"
     },
     {
