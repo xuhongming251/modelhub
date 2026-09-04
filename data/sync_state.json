@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-04T07:56:02.714Z",
-  "lastRunId": 33850903813,
+  "updatedAt": "2026-09-04T08:00:19.955Z",
+  "lastRunId": 33851155006,
   "items": [
+    {
+      "id": "run_33851155006",
+      "run_id": 33851155006,
+      "artifact_id": 9928389111,
+      "filename": "Breast_Nipple.safetensors",
+      "normalized_name": "breast_nipple.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bd6ba5c735c1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-04T07:58:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33850903813",
       "run_id": 33850903813,
