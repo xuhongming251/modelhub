@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-04T07:48:01.701Z",
-  "lastRunId": 33850152676,
+  "updatedAt": "2026-09-04T07:52:47.742Z",
+  "lastRunId": 33850447494,
   "items": [
+    {
+      "id": "run_33850447494",
+      "run_id": 33850447494,
+      "artifact_id": 9928152314,
+      "filename": "NPU.safetensors",
+      "normalized_name": "npu.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b919e2596af8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-04T07:50:13Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33850152676",
       "run_id": 33850152676,
