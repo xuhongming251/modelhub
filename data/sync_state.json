@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-05T14:35:43.279Z",
-  "lastRunId": 33971065531,
+  "updatedAt": "2026-09-05T15:37:39.042Z",
+  "lastRunId": 33974948003,
   "items": [
+    {
+      "id": "run_33974948003",
+      "run_id": 33974948003,
+      "artifact_id": 9972137990,
+      "filename": "wan2.2_i2v_low_noise.gguf",
+      "normalized_name": "wan2.2_i2v_low_noise.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d85924c967cc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-05T15:37:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33971065531",
       "run_id": 33971065531,
