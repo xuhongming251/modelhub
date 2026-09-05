@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-05T16:36:53.523Z",
+  "updatedAt": "2026-09-05T18:01:14.249Z",
   "lastRunId": 33977423373,
   "items": [
+    {
+      "id": "run_33974503333",
+      "run_id": 33974503333,
+      "artifact_id": 9974210144,
+      "filename": "DasiwaWAN22I2V14BLightspeed_snatchkissHighV11.gguf",
+      "normalized_name": "dasiwawan22i2v14blightspeed_snatchkisshighv11.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3b11483a14e6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-05T18:00:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33974403578",
       "run_id": 33974403578,
@@ -130894,7 +130907,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
