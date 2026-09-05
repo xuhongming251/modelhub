@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-05T08:36:01.071Z",
+  "updatedAt": "2026-09-05T08:52:01.028Z",
   "lastRunId": 33955652275,
   "items": [
+    {
+      "id": "run_33952622484",
+      "run_id": 33952622484,
+      "artifact_id": 9966499633,
+      "filename": "DasiwaWAN22I2V14BLightspeed_snatchkissHighV11.safetensors",
+      "normalized_name": "dasiwawan22i2v14blightspeed_snatchkisshighv11.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/eb2cc6394d35",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-05T08:51:25Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33955652275",
       "run_id": 33955652275,
@@ -41289,19 +41302,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-18T07:40:17Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29634756158",
-      "run_id": 29634756158,
-      "artifact_id": 8426730962,
-      "filename": "DasiwaWAN22I2V14BLightspeed_snatchkissHighV11.safetensors",
-      "normalized_name": "dasiwawan22i2v14blightspeed_snatchkisshighv11.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/14c5570395b1",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-18T06:54:52Z",
       "workflow": "upload.yml"
     },
     {
