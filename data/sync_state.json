@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-05T01:17:22.299Z",
-  "lastRunId": 33931324018,
+  "updatedAt": "2026-09-05T01:59:14.808Z",
+  "lastRunId": 33937433722,
   "items": [
+    {
+      "id": "run_33937433722",
+      "run_id": 33937433722,
+      "artifact_id": 9960722686,
+      "filename": "wan22RemixT2VI2V_i2vHighV30-Q4_K_M.gguf",
+      "normalized_name": "wan22remixt2vi2v_i2vhighv30-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/23361cfddce2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-05T01:58:07Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33931324018",
       "run_id": 33931324018,
@@ -124652,12 +124665,6 @@
       "normalized_name": "illustrious-xl-20",
       "share_url": "https://pan.quark.cn/s/67a45b9c5c6a",
       "completed_at": "2026-03-20T12:58:46Z"
-    },
-    {
-      "filename": "wan22RemixT2VI2V_i2vHighV30-Q4_K_M.gguf",
-      "normalized_name": "wan22remixt2vi2v_i2vhighv30-q4_k_m.gguf",
-      "share_url": "https://pan.quark.cn/s/7ddeb0d4160a",
-      "completed_at": "2026-03-20T12:55:13Z"
     },
     {
       "filename": "wan22RemixT2VI2V_i2vLowV30-Q4_K_M.gguf",
