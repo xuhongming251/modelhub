@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-05T14:01:20.471Z",
-  "lastRunId": 33970398278,
+  "updatedAt": "2026-09-05T14:06:00.550Z",
+  "lastRunId": 33970491313,
   "items": [
+    {
+      "id": "run_33970491313",
+      "run_id": 33970491313,
+      "artifact_id": 9970841899,
+      "filename": "LLaDA-Image-Turbo-text_encoder-Q4_K_M.gguf",
+      "normalized_name": "llada-image-turbo-text_encoder-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b972090b5c8d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-05T14:05:29Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33970398278",
       "run_id": 33970398278,
