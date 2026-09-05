@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-05T18:24:17.815Z",
+  "updatedAt": "2026-09-05T18:51:23.294Z",
   "lastRunId": 33983201402,
   "items": [
+    {
+      "id": "run_33983142666",
+      "run_id": 33983142666,
+      "artifact_id": 9974558685,
+      "filename": "Qwen3.5-9B-The-Defiant-Fable-Uncnr-Heretic-NEO-MAX-MTP-IQ2_M.gguf",
+      "normalized_name": "qwen3.5-9b-the-defiant-fable-uncnr-heretic-neo-max-mtp-iq2_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a01bfbcdf64e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-05T18:23:45Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33983201402",
       "run_id": 33983201402,
@@ -130907,7 +130920,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 3,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
