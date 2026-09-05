@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-05T13:43:47.470Z",
-  "lastRunId": 33969192993,
+  "updatedAt": "2026-09-05T14:01:20.471Z",
+  "lastRunId": 33970398278,
   "items": [
+    {
+      "id": "run_33970398278",
+      "run_id": 33970398278,
+      "artifact_id": 9970777020,
+      "filename": "LLaDA-Image-Turbo-INT8.safetensors",
+      "normalized_name": "llada-image-turbo-int8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2de861aca5fd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-05T14:00:44Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33969192993",
       "run_id": 33969192993,
@@ -130803,7 +130816,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
