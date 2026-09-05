@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-05T12:18:53.822Z",
-  "lastRunId": 33965596052,
+  "updatedAt": "2026-09-05T13:35:44.151Z",
+  "lastRunId": 33969192993,
   "items": [
+    {
+      "id": "run_33969192993",
+      "run_id": 33969192993,
+      "artifact_id": 9970429160,
+      "filename": "sd_xl_refiner_1.0.safetensors",
+      "normalized_name": "sd_xl_refiner_1.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/004b82485e4a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-05T13:35:13Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_33965596052",
       "run_id": 33965596052,
@@ -121030,12 +121043,6 @@
       "normalized_name": "qwen3.5-9b.mmproj-bf16.gguf",
       "share_url": "https://pan.quark.cn/s/01868363e020",
       "completed_at": "2026-03-31T14:42:17Z"
-    },
-    {
-      "filename": "sd_xl_refiner_1.0.safetensors",
-      "normalized_name": "sd_xl_refiner_1.0.safetensors",
-      "share_url": "https://pan.quark.cn/s/02f624cdef92",
-      "completed_at": "2026-03-31T14:37:41Z"
     },
     {
       "filename": "Qwen3.5-9B.mmproj-F16.gguf",
