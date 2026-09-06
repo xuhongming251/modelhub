@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T03:22:51.020Z",
-  "lastRunId": 34008801666,
+  "updatedAt": "2026-09-06T04:16:30.596Z",
+  "lastRunId": 34011045470,
   "items": [
+    {
+      "id": "run_34011045470",
+      "run_id": 34011045470,
+      "artifact_id": 9982458466,
+      "filename": "sunwoo",
+      "normalized_name": "sunwoo",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/936d8863799b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-06T04:16:00Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_34008818719",
+      "run_id": 34008818719,
+      "artifact_id": 9981809725,
+      "filename": "deepseekWhaleGirlMaid.pgqO.safetensors",
+      "normalized_name": "deepseekwhalegirlmaid.pgqo.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/048b27f8ade9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-06T03:22:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34008801666",
       "run_id": 34008801666,
