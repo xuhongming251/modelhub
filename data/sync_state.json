@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T15:32:35.029Z",
-  "lastRunId": 34042166799,
+  "updatedAt": "2026-09-06T16:24:08.438Z",
+  "lastRunId": 34045251224,
   "items": [
+    {
+      "id": "run_34045251224",
+      "run_id": 34045251224,
+      "artifact_id": 9992894739,
+      "filename": "dw-ll_ucoco_384.onnx",
+      "normalized_name": "dw-ll_ucoco_384.onnx",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5c53a07d2c4a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-06T16:23:25Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34042166799",
       "run_id": 34042166799,
