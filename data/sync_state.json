@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T08:06:31.047Z",
-  "lastRunId": 34020558498,
+  "updatedAt": "2026-09-06T08:14:38.387Z",
+  "lastRunId": 34020563755,
   "items": [
+    {
+      "id": "run_34020563755",
+      "run_id": 34020563755,
+      "artifact_id": 9985564193,
+      "filename": "Minimax-h3_Singularity_ref2va_v1.3_int8.safetensors",
+      "normalized_name": "minimax-h3_singularity_ref2va_v1.3_int8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2d4defa83fd7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-06T08:14:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34020558498",
       "run_id": 34020558498,
