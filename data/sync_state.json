@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T13:08:17.358Z",
-  "lastRunId": 34035119591,
+  "updatedAt": "2026-09-06T13:11:45.369Z",
+  "lastRunId": 34035296153,
   "items": [
+    {
+      "id": "run_34035296153",
+      "run_id": 34035296153,
+      "artifact_id": 9989962172,
+      "filename": "OpenJDK17U-jdk_x64_windows_hotspot_17.0.20.1_1.msi",
+      "normalized_name": "openjdk17u-jdk_x64_windows_hotspot_17.0.20.1_1.msi",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2110ddefbe3b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-06T13:11:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34035119591",
       "run_id": 34035119591,
