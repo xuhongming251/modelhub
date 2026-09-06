@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T13:25:45.431Z",
-  "lastRunId": 34036013184,
+  "updatedAt": "2026-09-06T13:29:04.642Z",
+  "lastRunId": 34036183366,
   "items": [
+    {
+      "id": "run_34036183366",
+      "run_id": 34036183366,
+      "artifact_id": 9990237349,
+      "filename": "checkurl",
+      "normalized_name": "checkurl",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/794f6474863a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-06T13:28:34Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34036013184",
       "run_id": 34036013184,
@@ -115385,12 +115398,6 @@
       "normalized_name": "am1ujuw719ht",
       "share_url": "https://pan.quark.cn/s/2e05a93ed5f4",
       "completed_at": "2026-04-25T10:22:47Z"
-    },
-    {
-      "filename": "checkurl",
-      "normalized_name": "checkurl",
-      "share_url": "https://pan.quark.cn/s/9e929d847713",
-      "completed_at": "2026-04-25T09:55:52Z"
     },
     {
       "filename": "nsfwProjectAnimeZIT.zgn2.safetensors",
