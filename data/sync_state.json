@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T07:51:16.757Z",
-  "lastRunId": 34020192147,
+  "updatedAt": "2026-09-06T07:55:29.522Z",
+  "lastRunId": 34020309253,
   "items": [
+    {
+      "id": "run_34020309253",
+      "run_id": 34020309253,
+      "artifact_id": 9985288220,
+      "filename": "ashima_v4.safetensors",
+      "normalized_name": "ashima_v4.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/01f989540707",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-06T07:54:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34020192147",
       "run_id": 34020192147,
