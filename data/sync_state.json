@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T06:50:39.620Z",
-  "lastRunId": 34017389369,
+  "updatedAt": "2026-09-06T07:37:41.166Z",
+  "lastRunId": 34019611688,
   "items": [
+    {
+      "id": "run_34019611688",
+      "run_id": 34019611688,
+      "artifact_id": 9985038388,
+      "filename": "bailan-legantlight",
+      "normalized_name": "bailan-legantlight",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dfea395f1bcf",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-06T07:37:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34017389369",
       "run_id": 34017389369,
@@ -131388,7 +131401,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
