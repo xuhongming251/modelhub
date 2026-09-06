@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T21:08:43.703Z",
-  "lastRunId": 34057018189,
+  "updatedAt": "2026-09-06T22:24:08.400Z",
+  "lastRunId": 34063823496,
   "items": [
+    {
+      "id": "run_34063823496",
+      "run_id": 34063823496,
+      "artifact_id": 9998316814,
+      "filename": "finepornV4Nvfp4Nvfp4.DF1W.safetensors",
+      "normalized_name": "finepornv4nvfp4nvfp4.df1w.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fbcfb6268dcb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-06T22:23:34Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34057018189",
       "run_id": 34057018189,
@@ -131636,7 +131649,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
