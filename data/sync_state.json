@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T16:24:08.438Z",
-  "lastRunId": 34045251224,
+  "updatedAt": "2026-09-06T16:27:46.993Z",
+  "lastRunId": 34045456853,
   "items": [
+    {
+      "id": "run_34045456853",
+      "run_id": 34045456853,
+      "artifact_id": 9992955201,
+      "filename": "yolox_l.onnx",
+      "normalized_name": "yolox_l.onnx",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f015ca7879c9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-06T16:27:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34045251224",
       "run_id": 34045251224,
@@ -125000,12 +125013,6 @@
       "normalized_name": "ltx-2. 3-guofeng",
       "share_url": "https://pan.quark.cn/s/57e9836d0e44",
       "completed_at": "2026-03-22T12:58:25Z"
-    },
-    {
-      "filename": "yolox_l.onnx",
-      "normalized_name": "yolox_l.onnx",
-      "share_url": "https://pan.quark.cn/s/5be2da25e02e",
-      "completed_at": "2026-03-22T12:58:11Z"
     },
     {
       "filename": "memaaniP2V1.gD9m.safetensors",
