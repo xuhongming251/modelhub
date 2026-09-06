@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T13:00:44.347Z",
-  "lastRunId": 34034732079,
+  "updatedAt": "2026-09-06T13:05:10.981Z",
+  "lastRunId": 34034959270,
   "items": [
+    {
+      "id": "run_34034959270",
+      "run_id": 34034959270,
+      "artifact_id": 9989859701,
+      "filename": "OpenJDK25U-jdk_x64_windows_hotspot_25.0.4.1_1.msi",
+      "normalized_name": "openjdk25u-jdk_x64_windows_hotspot_25.0.4.1_1.msi",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6a5c28cfeece",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-06T13:04:31Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34034732079",
       "run_id": 34034732079,
