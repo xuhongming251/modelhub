@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T09:09:10.715Z",
-  "lastRunId": 34023736215,
+  "updatedAt": "2026-09-06T09:10:37.896Z",
+  "lastRunId": 34023798474,
   "items": [
+    {
+      "id": "run_34023798474",
+      "run_id": 34023798474,
+      "artifact_id": 9986401570,
+      "filename": "AI短剧人物角色.safetensors",
+      "normalized_name": "ai短剧人物角色.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f7ae132123de",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-06T09:09:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34023736215",
       "run_id": 34023736215,
@@ -131466,7 +131479,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
