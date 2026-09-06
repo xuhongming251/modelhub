@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T05:00:34.797Z",
-  "lastRunId": 34012466071,
+  "updatedAt": "2026-09-06T05:03:35.054Z",
+  "lastRunId": 34012982584,
   "items": [
+    {
+      "id": "run_34012982584",
+      "run_id": 34012982584,
+      "artifact_id": 9983038620,
+      "filename": "Git-2.55.0.5-64-bit.exe",
+      "normalized_name": "git-2.55.0.5-64-bit.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cd702c63b742",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-06T05:02:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34012466071",
       "run_id": 34012466071,
