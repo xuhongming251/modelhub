@@ -2,83 +2,108 @@
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="default">
-  <meta name="apple-mobile-web-app-title" content="文件查询">
-  <meta name="theme-color" content="#f1f5f9">
-  <meta name="description" content="ModelHub 文件查询">
-  <title>ModelHub 文件查询</title>
-  <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#f5f7fb">
+  <meta name="description" content="ModelHub 模型资源检索与网盘转存">
+  <title>ModelHub 模型资源库</title>
+  <link rel="stylesheet" href="style.css?v=20260906-pagesize">
 </head>
 <body>
-  <div id="app">
-    <!-- Header -->
+  <div class="page-glow page-glow-left" aria-hidden="true"></div>
+  <div class="page-glow page-glow-right" aria-hidden="true"></div>
+
+  <div id="app" class="app-shell">
     <header class="header">
-      <h1 class="header-title">文件查询</h1>
-      <span class="header-sync" id="syncStatus">同步中...</span>
+      <div class="brand">
+        <div class="brand-mark" aria-hidden="true">
+          <span></span><span></span><span></span>
+        </div>
+        <div>
+          <p class="brand-kicker">MODEL RESOURCE CENTER</p>
+          <h1 class="header-title">ModelHub 模型资源库</h1>
+        </div>
+      </div>
+      <div class="header-sync" id="syncStatus" aria-live="polite">同步中...</div>
     </header>
 
-    <!-- Search Bar -->
-    <div class="search-bar">
-      <div class="search-input-wrapper">
-        <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <circle cx="11" cy="11" r="8"></circle>
-          <path d="m21 21-4.35-4.35"></path>
-        </svg>
-        <input
-          type="search"
-          id="searchInput"
-          class="search-input"
-          placeholder="搜索文件名..."
-          autocomplete="off"
-          enterkeyhint="search"
-        >
-        <button id="clearBtn" class="search-clear" style="display:none" aria-label="清除搜索">
-          <svg viewBox="0 0 24 24" fill="currentColor">
-            <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/>
-          </svg>
-        </button>
-      </div>
-    </div>
+    <main>
+      <section class="search-panel" aria-label="搜索模型资源">
+        <div class="search-copy">
+          <span class="search-label">查找模型</span>
+          <span class="search-description">多个关键词用空格分隔，结果会按匹配度排列</span>
+        </div>
 
-    <!-- Stats Bar -->
-    <div class="stats-bar" id="statsBar">加载中...</div>
+        <div class="search-bar">
+          <div class="search-input-wrapper">
+            <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+              <circle cx="11" cy="11" r="7.5"></circle>
+              <path d="m20 20-3.7-3.7"></path>
+            </svg>
+            <input
+              type="search"
+              id="searchInput"
+              class="search-input"
+              placeholder="输入多个关键词，空格分隔，例如 wan lora fp16"
+              autocomplete="off"
+              enterkeyhint="search"
+              aria-label="搜索模型文件"
+            >
+            <span class="search-shortcut" aria-hidden="true">/</span>
+            <button id="clearBtn" class="search-clear" type="button" hidden aria-label="清除搜索">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <path d="m8 8 8 8M16 8l-8 8"></path>
+              </svg>
+            </button>
+          </div>
+        </div>
 
-    <!-- Loading State -->
-    <div class="loading" id="loading">
-      <div class="spinner"></div>
-      <p>加载中...</p>
-    </div>
+        <div class="results-summary">
+          <div class="stats-bar" id="statsBar" aria-live="polite">加载中...</div>
+        </div>
+      </section>
 
-    <!-- Error State -->
-    <div class="error-state" id="errorState" style="display:none">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-        <circle cx="12" cy="12" r="10"/>
-        <path d="M12 8v4M12 16h.01"/>
-      </svg>
-      <p id="errorMsg">加载失败</p>
-      <button class="btn-primary" id="retryBtn">重试</button>
-    </div>
+      <section class="content-section" aria-label="模型资源列表">
+        <div class="loading state-panel" id="loading">
+          <div class="spinner"></div>
+          <p>正在加载模型资源...</p>
+        </div>
 
-    <!-- Empty State -->
-    <div class="empty-state" id="emptyState" style="display:none">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"/>
-        <polyline points="14 2 14 8 20 8"/>
-        <line x1="16" y1="13" x2="8" y2="13"/>
-        <line x1="16" y1="17" x2="8" y2="17"/>
-      </svg>
-      <p id="emptyMsg">暂无文件记录</p>
-    </div>
+        <div class="error-state state-panel" id="errorState" hidden>
+          <div class="state-icon state-icon-error">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true">
+              <circle cx="12" cy="12" r="9"/>
+              <path d="M12 7.5v5M12 16.5h.01"/>
+            </svg>
+          </div>
+          <h2>资源加载失败</h2>
+          <p id="errorMsg">加载失败</p>
+          <button class="btn-primary" id="retryBtn" type="button">重新加载</button>
+        </div>
 
-    <!-- File List -->
-    <div class="file-list" id="fileList" style="display:none"></div>
+        <div class="empty-state state-panel" id="emptyState" hidden>
+          <div class="state-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true">
+              <path d="M4 7.5h16M7 4h10a2 2 0 0 1 2 2v14H5V6a2 2 0 0 1 2-2Z"/>
+              <path d="M9 12h6M10 16h4"/>
+            </svg>
+          </div>
+          <h2>没有匹配的模型</h2>
+          <p id="emptyMsg">暂无文件记录</p>
+        </div>
+
+        <div class="file-list" id="fileList" hidden></div>
+        <div id="pagination" class="pagination-wrap" aria-label="分页"></div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <span>ModelHub</span>
+      <span>模型资源聚合与快速检索</span>
+    </footer>
   </div>
 
-  <!-- Toast -->
-  <div class="toast" id="toast"></div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
 
-  <script src="app.js"></script>
+  <script src="app.js?v=20260906-pagesize"></script>
 </body>
 </html>
