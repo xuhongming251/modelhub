@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T01:46:23.533Z",
-  "lastRunId": 34004617810,
+  "updatedAt": "2026-09-06T02:08:43.342Z",
+  "lastRunId": 34004707975,
   "items": [
+    {
+      "id": "run_34004699931",
+      "run_id": 34004699931,
+      "artifact_id": 9980839891,
+      "filename": "sophoskreaV10Int8.8T5j.safetensors",
+      "normalized_name": "sophoskreav10int8.8t5j.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/71baa3d8bf73",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-06T02:08:11Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_34004707975",
+      "run_id": 34004707975,
+      "artifact_id": 9980575207,
+      "filename": "divingAnimaV7.kOhv.safetensors",
+      "normalized_name": "divinganimav7.kohv.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3efc78816181",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-06T01:46:13Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34004617810",
       "run_id": 34004617810,
