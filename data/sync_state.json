@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T14:21:06.241Z",
-  "lastRunId": 34132348791,
+  "updatedAt": "2026-09-07T14:52:59.298Z",
+  "lastRunId": 34134471794,
   "items": [
+    {
+      "id": "run_34134471794",
+      "run_id": 34134471794,
+      "artifact_id": 10023710969,
+      "filename": "Ornith-1.5-9B-Q4_K_M.gguf",
+      "normalized_name": "ornith-1.5-9b-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1_RUBZCxOx3L3XmzPn9JyOA?pwd=8c36",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-09-07T14:52:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34132348791",
       "run_id": 34132348791,
