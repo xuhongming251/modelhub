@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T11:51:11.941Z",
-  "lastRunId": 34114210892,
+  "updatedAt": "2026-09-07T11:52:46.009Z",
+  "lastRunId": 34118634512,
   "items": [
+    {
+      "id": "run_34118634512",
+      "run_id": 34118634512,
+      "artifact_id": 10017290133,
+      "filename": "yvonneV1.tkPn.safetensors",
+      "normalized_name": "yvonnev1.tkpn.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0dd981fb0dda",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-07T11:50:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34114165054",
       "run_id": 34114165054,
@@ -131968,7 +131981,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
