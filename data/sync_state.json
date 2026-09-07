@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T12:18:39.860Z",
-  "lastRunId": 34121086581,
+  "updatedAt": "2026-09-07T12:34:56.455Z",
+  "lastRunId": 34122234760,
   "items": [
+    {
+      "id": "run_34122234760",
+      "run_id": 34122234760,
+      "artifact_id": 10018767817,
+      "filename": "minimax_h3_fused_refdelta_r1024_turbo8_mystic07_int8_convrot.safetensors",
+      "normalized_name": "minimax_h3_fused_refdelta_r1024_turbo8_mystic07_int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7a3ca81b9f96",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-07T12:34:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34121086581",
       "run_id": 34121086581,
