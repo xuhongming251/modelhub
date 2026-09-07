@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T22:06:48.739Z",
-  "lastRunId": 34165418482,
+  "updatedAt": "2026-09-07T22:07:49.075Z",
+  "lastRunId": 34165479180,
   "items": [
+    {
+      "id": "run_34165479180",
+      "run_id": 34165479180,
+      "artifact_id": 10034010260,
+      "filename": "xxmix_9realisticsdxl_V1.71.safetensors",
+      "normalized_name": "xxmix_9realisticsdxl_v1.71.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/568d4ada1a73",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-07T22:07:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34165418482",
       "run_id": 34165418482,
@@ -132300,7 +132313,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
