@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T20:45:54.628Z",
-  "lastRunId": 34141264300,
+  "updatedAt": "2026-09-07T22:01:54.080Z",
+  "lastRunId": 34165126489,
   "items": [
+    {
+      "id": "run_34165126489",
+      "run_id": 34165126489,
+      "artifact_id": 10033906431,
+      "filename": "lofi V5FinalFp16.safetensors",
+      "normalized_name": "lofi v5finalfp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6ad9c1ba85e2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-07T22:01:19Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34141264300",
       "run_id": 34141264300,
@@ -132235,7 +132248,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
