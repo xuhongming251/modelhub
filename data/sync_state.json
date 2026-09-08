@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T16:43:16.879Z",
+  "updatedAt": "2026-09-08T17:47:03.391Z",
   "lastRunId": 34252616666,
   "items": [
+    {
+      "id": "run_34234703289",
+      "run_id": 34234703289,
+      "artifact_id": 10069093656,
+      "filename": "Huihui-Qwen3-VL-8B-Thinking-abliterated.zip",
+      "normalized_name": "huihui-qwen3-vl-8b-thinking-abliterated.zip",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1ofT6xXhYrHfGdAxJ-cI6ww?pwd=d717",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-09-08T17:46:27Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34252616666",
       "run_id": 34252616666,
@@ -183,19 +196,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-08T14:37:50Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_34234850607",
-      "run_id": 34234850607,
-      "artifact_id": 10061092271,
-      "filename": "Huihui-Qwen3-VL-8B-Thinking-abliterated.zip",
-      "normalized_name": "huihui-qwen3-vl-8b-thinking-abliterated.zip",
-      "original_url": "",
-      "share_url": "https://pan.baidu.com/s/1cGaJxMLYM5k0W3aVUZhExg?pwd=bbef",
-      "channel": "baidu",
-      "channel_name": "Baidu",
-      "completed_at": "2026-09-08T14:33:10Z",
       "workflow": "upload.yml"
     },
     {
