@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T02:17:14.785Z",
+  "updatedAt": "2026-09-08T02:35:17.112Z",
   "lastRunId": 34179466523,
   "items": [
+    {
+      "id": "run_34178170033",
+      "run_id": 34178170033,
+      "artifact_id": 10038730300,
+      "filename": "Hermes3.6-35B-A3B-Uncensored-Genesis-V13-APEX-Compact.gguf",
+      "normalized_name": "hermes3.6-35b-a3b-uncensored-genesis-v13-apex-compact.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/52c0210de9fd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-08T02:34:39Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34179466523",
       "run_id": 34179466523,
