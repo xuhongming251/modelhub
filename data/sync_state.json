@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T10:08:20.080Z",
-  "lastRunId": 34212722121,
+  "updatedAt": "2026-09-08T10:11:59.438Z",
+  "lastRunId": 34214057275,
   "items": [
+    {
+      "id": "run_34214057275",
+      "run_id": 34214057275,
+      "artifact_id": 10051005631,
+      "filename": "bartstyleKREA2V21024.btiH.safetensors",
+      "normalized_name": "bartstylekrea2v21024.btih.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1b04bb947d5f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-08T10:11:27Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_34212738824",
+      "run_id": 34212738824,
+      "artifact_id": 10050870562,
+      "filename": "ravenmixfinal.NRod.safetensors",
+      "normalized_name": "ravenmixfinal.nrod.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7fc40430ee21",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-08T10:07:47Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34212651831",
       "run_id": 34212651831,
@@ -132788,7 +132814,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
