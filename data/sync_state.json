@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T16:13:39.834Z",
-  "lastRunId": 34246981167,
+  "updatedAt": "2026-09-08T16:31:22.520Z",
+  "lastRunId": 34251409986,
   "items": [
+    {
+      "id": "run_34251409986",
+      "run_id": 34251409986,
+      "artifact_id": 10066157024,
+      "filename": "photanima_v24Turbo.safetensors",
+      "normalized_name": "photanima_v24turbo.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/74316f59c20c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-08T16:30:47Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34246981167",
       "run_id": 34246981167,
