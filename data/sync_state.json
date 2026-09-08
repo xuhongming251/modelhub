@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T14:39:29.455Z",
+  "updatedAt": "2026-09-08T14:42:23.148Z",
   "lastRunId": 34239550006,
   "items": [
+    {
+      "id": "run_34225263979",
+      "run_id": 34225263979,
+      "artifact_id": 10061478696,
+      "filename": "10Eros_Max_h3_TURBO-hybrid_beta5_int8.safetensors",
+      "normalized_name": "10eros_max_h3_turbo-hybrid_beta5_int8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5495910b19fc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-08T14:41:51Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_34238785636",
+      "run_id": 34238785636,
+      "artifact_id": 10061469043,
+      "filename": "Wan22_CumV3_High.safetensors",
+      "normalized_name": "wan22_cumv3_high.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bd10f9396121",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-08T14:41:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34239550006",
       "run_id": 34239550006,
