@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T11:59:57.467Z",
+  "updatedAt": "2026-09-09T12:02:57.188Z",
   "lastRunId": 34348357103,
   "items": [
+    {
+      "id": "run_34346684111",
+      "run_id": 34346684111,
+      "artifact_id": 10102757770,
+      "filename": "poibazzoKREA2_v40.safetensors",
+      "normalized_name": "poibazzokrea2_v40.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e9720ec8128f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-09T12:02:12Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34348357103",
       "run_id": 34348357103,
@@ -133419,7 +133432,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
