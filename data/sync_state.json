@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T11:59:06.698Z",
-  "lastRunId": 34347183458,
+  "updatedAt": "2026-09-09T11:59:57.467Z",
+  "lastRunId": 34348357103,
   "items": [
+    {
+      "id": "run_34348357103",
+      "run_id": 34348357103,
+      "artifact_id": 10102651395,
+      "filename": "laugh_nailong,-step00003250.safetensors",
+      "normalized_name": "laugh_nailong,-step00003250.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/10509bfc6d9a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-09T11:59:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34346442824",
       "run_id": 34346442824,
@@ -133406,7 +133419,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
