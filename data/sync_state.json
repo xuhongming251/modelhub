@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T11:39:25.065Z",
-  "lastRunId": 34346524178,
+  "updatedAt": "2026-09-09T11:43:23.585Z",
+  "lastRunId": 34346854148,
   "items": [
+    {
+      "id": "run_34346854148",
+      "run_id": 34346854148,
+      "artifact_id": 10102092133,
+      "filename": "velvetmuseKrea2Turbo_v10.safetensors",
+      "normalized_name": "velvetmusekrea2turbo_v10.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/25d5f7c3f2e6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-09T11:42:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34346524178",
       "run_id": 34346524178,
@@ -133367,7 +133380,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
