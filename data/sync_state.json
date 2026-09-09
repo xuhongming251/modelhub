@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T14:44:55.078Z",
-  "lastRunId": 34357018091,
+  "updatedAt": "2026-09-09T15:42:15.843Z",
+  "lastRunId": 34371835159,
   "items": [
+    {
+      "id": "run_34371835159",
+      "run_id": 34371835159,
+      "artifact_id": 10112236271,
+      "filename": "4x-UltraSharp.safetensors",
+      "normalized_name": "4x-ultrasharp.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/688d34358d0e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-09T15:41:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34357018091",
       "run_id": 34357018091,
@@ -124705,12 +124718,6 @@
       "normalized_name": "moodywild情绪狂野.6jsa.safetensors",
       "share_url": "https://pan.quark.cn/s/059969012597",
       "completed_at": "2026-03-28T18:55:20Z"
-    },
-    {
-      "filename": "4x-UltraSharp.safetensors",
-      "normalized_name": "4x-ultrasharp.safetensors",
-      "share_url": "https://pan.quark.cn/s/05c9036b1544",
-      "completed_at": "2026-03-28T17:52:19Z"
     },
     {
       "filename": "Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-Q8_0.gguf",
