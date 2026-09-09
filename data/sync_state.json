@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T00:28:14.769Z",
-  "lastRunId": 34276063486,
+  "updatedAt": "2026-09-09T02:24:14.454Z",
+  "lastRunId": 34302960754,
   "items": [
+    {
+      "id": "run_34302960754",
+      "run_id": 34302960754,
+      "artifact_id": 10085590165,
+      "filename": "ComfyUI-MiniMaxH3-TimelineDirector.zip",
+      "normalized_name": "comfyui-minimaxh3-timelinedirector.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bb8d13b943bd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-09T02:23:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34276063486",
       "run_id": 34276063486,
@@ -898,19 +911,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-08T04:13:04Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_34183593515",
-      "run_id": 34183593515,
-      "artifact_id": 10039742878,
-      "filename": "ComfyUI-MiniMaxH3-TimelineDirector.zip",
-      "normalized_name": "comfyui-minimaxh3-timelinedirector.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/093b5b2caf9f",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-08T03:28:21Z",
       "workflow": "upload.yml"
     },
     {
