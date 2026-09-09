@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T23:40:26.312Z",
+  "updatedAt": "2026-09-09T23:43:52.443Z",
   "lastRunId": 34417287381,
   "items": [
+    {
+      "id": "run_34417181110",
+      "run_id": 34417181110,
+      "artifact_id": 10129868927,
+      "filename": "gemma-4-E4B-it-heretic-QAT-GGUF.zip",
+      "normalized_name": "gemma-4-e4b-it-heretic-qat-gguf.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c36293ee013f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-09T23:43:16Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34417287381",
       "run_id": 34417287381,
