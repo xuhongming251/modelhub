@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T09:45:25.092Z",
-  "lastRunId": 34332245110,
+  "updatedAt": "2026-09-09T09:57:08.870Z",
+  "lastRunId": 34337353782,
   "items": [
+    {
+      "id": "run_34337353782",
+      "run_id": 34337353782,
+      "artifact_id": 10098300983,
+      "filename": "Chikotam_Style.safetensors",
+      "normalized_name": "chikotam_style.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4fa8c5edf1ea",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-09T09:56:25Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_34336339959",
+      "run_id": 34336339959,
+      "artifact_id": 10097881345,
+      "filename": "jnMisuzuKusakabe.rvqS.safetensors",
+      "normalized_name": "jnmisuzukusakabe.rvqs.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/546a10bf85c2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-09T09:44:48Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_34332329150",
+      "run_id": 34332329150,
+      "artifact_id": 10096268584,
+      "filename": "frierenFrierenAnima.4IIg.safetensors",
+      "normalized_name": "frierenfrierenanima.4iig.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6d19ec162529",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-09T09:01:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34332245110",
       "run_id": 34332245110,
@@ -133302,7 +133341,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
