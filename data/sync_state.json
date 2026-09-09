@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T11:37:20.679Z",
-  "lastRunId": 34340775465,
+  "updatedAt": "2026-09-09T11:39:25.065Z",
+  "lastRunId": 34346524178,
   "items": [
+    {
+      "id": "run_34346524178",
+      "run_id": 34346524178,
+      "artifact_id": 10101957471,
+      "filename": "donutsdeliveryKrea2_v10.safetensors",
+      "normalized_name": "donutsdeliverykrea2_v10.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a4b6a520079b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-09T11:38:43Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_34346295039",
+      "run_id": 34346295039,
+      "artifact_id": 10101885428,
+      "filename": "reakrea2Turbo_v10FP8.safetensors",
+      "normalized_name": "reakrea2turbo_v10fp8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/88b4edfa883c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-09T11:36:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34340716196",
       "run_id": 34340716196,
@@ -133341,7 +133367,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
