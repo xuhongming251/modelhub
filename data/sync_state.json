@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T07:00:47.477Z",
-  "lastRunId": 34447748746,
+  "updatedAt": "2026-09-10T07:36:06.526Z",
+  "lastRunId": 34450674785,
   "items": [
+    {
+      "id": "run_34450674785",
+      "run_id": 34450674785,
+      "artifact_id": 10141409249,
+      "filename": "舌吻 0.5 cxy_kiss_lora_h3_v01_step1500.safetensors",
+      "normalized_name": "舌吻 0.5 cxy_kiss_lora_h3_v01_step1500.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6d3a1d4facf7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-10T07:35:31Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_34447795907",
+      "run_id": 34447795907,
+      "artifact_id": 10140319838,
+      "filename": "krea2fantasyrealism",
+      "normalized_name": "krea2fantasyrealism",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/59fa123aaae5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-10T07:00:43Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34447748746",
       "run_id": 34447748746,
@@ -133621,7 +133647,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
