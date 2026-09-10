@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T16:00:29.415Z",
-  "lastRunId": 34492656114,
+  "updatedAt": "2026-09-10T17:16:01.157Z",
+  "lastRunId": 34507011047,
   "items": [
+    {
+      "id": "run_34507011047",
+      "run_id": 34507011047,
+      "artifact_id": 10164236473,
+      "filename": "azurlane_anima_v1.1.safetensors",
+      "normalized_name": "azurlane_anima_v1.1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/817bfd2d2dc7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-10T17:15:23Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34492656114",
       "run_id": 34492656114,
@@ -133829,7 +133842,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
