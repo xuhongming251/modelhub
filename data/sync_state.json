@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T10:55:56.588Z",
-  "lastRunId": 34468445997,
+  "updatedAt": "2026-09-10T11:10:26.743Z",
+  "lastRunId": 34469785479,
   "items": [
+    {
+      "id": "run_34469785479",
+      "run_id": 34469785479,
+      "artifact_id": 10149030260,
+      "filename": "Tomie.safetensors",
+      "normalized_name": "tomie.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7d088f77b8b9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-10T11:09:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34468445997",
       "run_id": 34468445997,
