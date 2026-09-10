@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T06:26:40.546Z",
-  "lastRunId": 34436510838,
+  "updatedAt": "2026-09-10T07:00:47.477Z",
+  "lastRunId": 34447748746,
   "items": [
+    {
+      "id": "run_34447748746",
+      "run_id": 34447748746,
+      "artifact_id": 10140299520,
+      "filename": "krea2Fantasyrealism.Ohib.safetensors",
+      "normalized_name": "krea2fantasyrealism.ohib.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ea1f2a491785",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-10T07:00:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34434275230",
       "run_id": 34434275230,
@@ -133608,7 +133621,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
