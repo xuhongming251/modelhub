@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T09:28:32.207Z",
-  "lastRunId": 34458506992,
+  "updatedAt": "2026-09-10T10:04:19.229Z",
+  "lastRunId": 34463973690,
   "items": [
+    {
+      "id": "run_34463973690",
+      "run_id": 34463973690,
+      "artifact_id": 10146726612,
+      "filename": "waiANIMAInt8Mxfp8_waiANIMAV10Int8.safetensors",
+      "normalized_name": "waianimaint8mxfp8_waianimav10int8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/704205addef1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-10T10:03:43Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_34460726703",
+      "run_id": 34460726703,
+      "artifact_id": 10145414891,
+      "filename": "asteroid_ill_7200_v1.safetensors",
+      "normalized_name": "asteroid_ill_7200_v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0552461e0983",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-10T09:27:54Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_34458467180",
+      "run_id": 34458467180,
+      "artifact_id": 10144991164,
+      "filename": "Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-Q3_K_P.gguf",
+      "normalized_name": "qwen3.8-27b-uncensored-hauhaucs-aggressive-q3_k_p.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d0c4f48cb286",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-10T09:16:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34458301115",
       "run_id": 34458301115,
@@ -14704,19 +14743,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-24T16:31:42Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_32750383515",
-      "run_id": 32750383515,
-      "artifact_id": 9528958883,
-      "filename": "Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-Q3_K_P.gguf",
-      "normalized_name": "qwen3.8-27b-uncensored-hauhaucs-aggressive-q3_k_p.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/0d96f9347cf7",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-24T16:27:38Z",
       "workflow": "upload.yml"
     },
     {
@@ -133673,7 +133699,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
