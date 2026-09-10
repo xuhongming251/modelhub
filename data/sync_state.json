@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T07:54:30.682Z",
+  "updatedAt": "2026-09-10T07:56:20.736Z",
   "lastRunId": 34452234152,
   "items": [
+    {
+      "id": "run_34450436542",
+      "run_id": 34450436542,
+      "artifact_id": 10142069804,
+      "filename": "Krea2 亚洲乌托邦3.3.safetensors",
+      "normalized_name": "krea2 亚洲乌托邦3.3.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0f794908c974",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-10T07:55:43Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34452234152",
       "run_id": 34452234152,
@@ -133647,7 +133660,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
