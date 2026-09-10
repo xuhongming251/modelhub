@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T14:50:13.064Z",
-  "lastRunId": 34490283124,
+  "updatedAt": "2026-09-10T15:07:21.833Z",
+  "lastRunId": 34492656114,
   "items": [
     {
-      "id": "run_34490283124",
-      "run_id": 34490283124,
-      "artifact_id": 10157811618,
+      "id": "run_34492656114",
+      "run_id": 34492656114,
+      "artifact_id": 10158733875,
+      "filename": "Wan22_CumV3_Low.safetensors",
+      "normalized_name": "wan22_cumv3_low.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/98c7ace87a7e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-10T15:06:47Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_34490336718",
+      "run_id": 34490336718,
+      "artifact_id": 10157921529,
       "filename": "Wan22_CumV3_High.safetensors",
       "normalized_name": "wan22_cumv3_high.safetensors",
       "original_url": "",
-      "share_url": "https://pan.quark.cn/s/2d1fe7fc0651",
+      "share_url": "https://pan.quark.cn/s/f7281c2a0509",
       "channel": "quark",
       "channel_name": "Quark",
-      "completed_at": "2026-09-10T14:46:28Z",
+      "completed_at": "2026-09-10T14:48:49Z",
       "workflow": "upload.yml"
     },
     {
@@ -1210,19 +1223,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-08T14:39:00Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_34238949882",
-      "run_id": 34238949882,
-      "artifact_id": 10061338815,
-      "filename": "Wan22_CumV3_Low.safetensors",
-      "normalized_name": "wan22_cumv3_low.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/b78c86cd5ee0",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-08T14:38:44Z",
       "workflow": "upload.yml"
     },
     {
@@ -133829,7 +133829,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
