@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T13:54:43.720Z",
-  "lastRunId": 34485073814,
+  "updatedAt": "2026-09-10T13:55:59.606Z",
+  "lastRunId": 34485628685,
   "items": [
+    {
+      "id": "run_34485628685",
+      "run_id": 34485628685,
+      "artifact_id": 10155479332,
+      "filename": "Blockbench_x64_5.1.6.exe",
+      "normalized_name": "blockbench_x64_5.1.6.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e497a2d9a049",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-10T13:55:18Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34485073814",
       "run_id": 34485073814,
