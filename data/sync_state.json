@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T01:21:47.588Z",
+  "updatedAt": "2026-09-10T01:23:26.117Z",
   "lastRunId": 34422746877,
   "items": [
+    {
+      "id": "run_34422034632",
+      "run_id": 34422034632,
+      "artifact_id": 10132370577,
+      "filename": "KREA2 微调V6.0.safetensors",
+      "normalized_name": "krea2 微调v6.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cb82360dc567",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-10T01:22:51Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_34421892747",
+      "run_id": 34421892747,
+      "artifact_id": 10132368951,
+      "filename": "krea2AnimeBf16.V1.5.safetensors",
+      "normalized_name": "krea2animebf16.v1.5.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/350066eae539",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-10T01:22:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34422746877",
       "run_id": 34422746877,
