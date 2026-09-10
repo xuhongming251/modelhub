@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T03:16:20.537Z",
-  "lastRunId": 34431570010,
+  "updatedAt": "2026-09-10T03:17:59.775Z",
+  "lastRunId": 34431808408,
   "items": [
+    {
+      "id": "run_34431808408",
+      "run_id": 34431808408,
+      "artifact_id": 10135064289,
+      "filename": "Huihui-gemma-4-E4B-it-qat-q4_0-unquantized-abliterated-LiteRT-LM.zip",
+      "normalized_name": "huihui-gemma-4-e4b-it-qat-q4_0-unquantized-abliterated-litert-lm.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/aca8a8335901",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-10T03:17:18Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34431570010",
       "run_id": 34431570010,
