@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T11:42:48.603Z",
-  "lastRunId": 34470934487,
+  "updatedAt": "2026-09-10T13:04:19.567Z",
+  "lastRunId": 34479994523,
   "items": [
+    {
+      "id": "run_34479994523",
+      "run_id": 34479994523,
+      "artifact_id": 10153262716,
+      "filename": "mmproj-gemma-4-26B-A4B-it-qat-heretic-F16.gguf",
+      "normalized_name": "mmproj-gemma-4-26b-a4b-it-qat-heretic-f16.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/eaf6f00b0a8e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-10T13:03:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34470934487",
       "run_id": 34470934487,
