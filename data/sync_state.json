@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T11:39:55.026Z",
-  "lastRunId": 34593892314,
+  "updatedAt": "2026-09-11T11:53:37.171Z",
+  "lastRunId": 34596083243,
   "items": [
+    {
+      "id": "run_34596083243",
+      "run_id": 34596083243,
+      "artifact_id": 10261973002,
+      "filename": "minimaxH3VideoVae.zFfG.safetensors",
+      "normalized_name": "minimaxh3videovae.zffg.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e1d801cc3681",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-11T11:52:56Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_34594944191",
+      "run_id": 34594944191,
+      "artifact_id": 10262640853,
+      "filename": "qwen3vl32bMinimaxH3.ZDQS.safetensors",
+      "normalized_name": "qwen3vl32bminimaxh3.zdqs.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/481be6e771e3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-11T11:39:26Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34593892314",
       "run_id": 34593892314,
@@ -144,19 +170,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-11T08:22:20Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_34562374649",
-      "run_id": 34562374649,
-      "artifact_id": 10184837846,
-      "filename": "qwen3vl32bMinimaxH3.ZDQS.safetensors",
-      "normalized_name": "qwen3vl32bminimaxh3.zdqs.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/d445387e21ea",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-11T04:32:34Z",
       "workflow": "upload.yml"
     },
     {
@@ -19553,19 +19566,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-19T12:40:21Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_32252393556",
-      "run_id": 32252393556,
-      "artifact_id": 9364945886,
-      "filename": "minimaxH3VideoVae.zFfG.safetensors",
-      "normalized_name": "minimaxh3videovae.zffg.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/86bee2c8ce21",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-19T12:24:16Z",
       "workflow": "upload.yml"
     },
     {
@@ -134141,7 +134141,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
