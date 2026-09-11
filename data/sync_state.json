@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T13:21:22.444Z",
+  "updatedAt": "2026-09-11T13:36:48.522Z",
   "lastRunId": 34603169348,
   "items": [
+    {
+      "id": "run_34602945980",
+      "run_id": 34602945980,
+      "artifact_id": 10265199680,
+      "filename": "dasiwaMinimaxH3Ref2vaV2.Fiq9.safetensors",
+      "normalized_name": "dasiwaminimaxh3ref2vav2.fiq9.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6f6ce5ecb4db",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-11T13:36:13Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34603169348",
       "run_id": 34603169348,
@@ -134206,7 +134219,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
