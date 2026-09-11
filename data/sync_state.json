@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T04:33:13.081Z",
-  "lastRunId": 34562374649,
+  "updatedAt": "2026-09-11T08:23:01.347Z",
+  "lastRunId": 34578805879,
   "items": [
+    {
+      "id": "run_34578805879",
+      "run_id": 34578805879,
+      "artifact_id": 10190733549,
+      "filename": "L0LSAS_c1-st3000.safetensors",
+      "normalized_name": "l0lsas_c1-st3000.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/03443f20d70b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-11T08:22:20Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34562374649",
       "run_id": 34562374649,
