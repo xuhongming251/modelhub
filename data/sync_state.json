@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T12:31:56.619Z",
-  "lastRunId": 34599125197,
+  "updatedAt": "2026-09-11T12:35:05.079Z",
+  "lastRunId": 34599563444,
   "items": [
+    {
+      "id": "run_34599563444",
+      "run_id": 34599563444,
+      "artifact_id": 10263667603,
+      "filename": "Anima-2.9B Turbo-BF16.safetensors",
+      "normalized_name": "anima-2.9b turbo-bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a6131ca94f51",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-11T12:34:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34599125197",
       "run_id": 34599125197,
