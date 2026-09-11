@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T10:27:18.164Z",
-  "lastRunId": 34589083052,
+  "updatedAt": "2026-09-11T10:51:59.798Z",
+  "lastRunId": 34591069278,
   "items": [
+    {
+      "id": "run_34591069278",
+      "run_id": 34591069278,
+      "artifact_id": 10195690711,
+      "filename": "BreastGrab-H3_minimaxh3_3267477_epoch_6.safetensors",
+      "normalized_name": "breastgrab-h3_minimaxh3_3267477_epoch_6.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/797743532270",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-11T10:51:18Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34589083052",
       "run_id": 34589083052,
