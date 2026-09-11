@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T09:11:44.630Z",
-  "lastRunId": 34582801872,
+  "updatedAt": "2026-09-11T09:33:27.983Z",
+  "lastRunId": 34584297035,
   "items": [
+    {
+      "id": "run_34584297035",
+      "run_id": 34584297035,
+      "artifact_id": 10193081742,
+      "filename": "realDreamV5AnimaBf16.safetensors",
+      "normalized_name": "realdreamv5animabf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2f4fe76fc439",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-11T09:32:51Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34582801872",
       "run_id": 34582801872,
