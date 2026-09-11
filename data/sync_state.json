@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T17:12:08.210Z",
-  "lastRunId": 34621669573,
+  "updatedAt": "2026-09-11T17:38:41.091Z",
+  "lastRunId": 34628653705,
   "items": [
+    {
+      "id": "run_34628653705",
+      "run_id": 34628653705,
+      "artifact_id": 10275476805,
+      "filename": "dildomachine_krea_000001250.safetensors",
+      "normalized_name": "dildomachine_krea_000001250.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ba9392f6fe78",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-11T17:38:03Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34621669573",
       "run_id": 34621669573,
