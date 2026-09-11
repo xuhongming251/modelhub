@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T16:01:41.204Z",
-  "lastRunId": 34619446984,
+  "updatedAt": "2026-09-11T16:02:45.069Z",
+  "lastRunId": 34619550197,
   "items": [
+    {
+      "id": "run_34619550197",
+      "run_id": 34619550197,
+      "artifact_id": 10271981790,
+      "filename": "slight-side-angle-doggy-wan22-LN-e34-az420.safetensors",
+      "normalized_name": "slight-side-angle-doggy-wan22-ln-e34-az420.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/635477b839c5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-11T16:02:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34619446984",
       "run_id": 34619446984,
@@ -74543,19 +74556,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-21T06:45:05Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27896159103",
-      "run_id": 27896159103,
-      "artifact_id": 7772631475,
-      "filename": "slight-side-angle-doggy-wan22-LN-e34-az420.safetensors",
-      "normalized_name": "slight-side-angle-doggy-wan22-ln-e34-az420.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/7ae148c3bbb4",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-21T06:39:32Z",
       "workflow": "upload.yml"
     },
     {
