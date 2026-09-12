@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T08:23:21.720Z",
-  "lastRunId": 34683077385,
+  "updatedAt": "2026-09-12T08:28:45.639Z",
+  "lastRunId": 34683267668,
   "items": [
+    {
+      "id": "run_34683267668",
+      "run_id": 34683267668,
+      "artifact_id": 10294627308,
+      "filename": "Seed-X-PPO-7B.Q6_K.gguf",
+      "normalized_name": "seed-x-ppo-7b.q6_k.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1c647f12ca21",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-12T08:28:07Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34683077385",
       "run_id": 34683077385,
