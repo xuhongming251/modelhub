@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T08:04:19.906Z",
-  "lastRunId": 34682267092,
+  "updatedAt": "2026-09-12T08:23:21.720Z",
+  "lastRunId": 34683077385,
   "items": [
+    {
+      "id": "run_34683077385",
+      "run_id": 34683077385,
+      "artifact_id": 10295300268,
+      "filename": "mtp-gemma-4-E4B-it.gguf",
+      "normalized_name": "mtp-gemma-4-e4b-it.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/66e5f9a2d160",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-12T08:22:52Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34682267092",
       "run_id": 34682267092,
