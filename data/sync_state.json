@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T02:02:11.803Z",
-  "lastRunId": 34666487403,
+  "updatedAt": "2026-09-12T03:10:02.735Z",
+  "lastRunId": 34669575412,
   "items": [
+    {
+      "id": "run_34669575412",
+      "run_id": 34669575412,
+      "artifact_id": 10290087500,
+      "filename": "canary-win-x64-OmniStudio-Setup-canary.zip",
+      "normalized_name": "canary-win-x64-omnistudio-setup-canary.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/100da49f6af1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-12T03:09:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34666487403",
       "run_id": 34666487403,
