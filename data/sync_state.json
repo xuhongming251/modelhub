@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T15:25:22.487Z",
-  "lastRunId": 34702085152,
+  "updatedAt": "2026-09-12T15:35:44.015Z",
+  "lastRunId": 34702572238,
   "items": [
+    {
+      "id": "run_34702572238",
+      "run_id": 34702572238,
+      "artifact_id": 10300680996,
+      "filename": "Humbler_CBT.safetensors",
+      "normalized_name": "humbler_cbt.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/66f04cbe7e7b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-12T15:35:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34702085152",
       "run_id": 34702085152,
