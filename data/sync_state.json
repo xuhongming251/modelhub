@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T08:33:44.279Z",
-  "lastRunId": 34683509553,
+  "updatedAt": "2026-09-12T08:36:56.989Z",
+  "lastRunId": 34683572457,
   "items": [
+    {
+      "id": "run_34683572457",
+      "run_id": 34683572457,
+      "artifact_id": 10295171192,
+      "filename": "HY-MT2-7B-Q6_K.gguf",
+      "normalized_name": "hy-mt2-7b-q6_k.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c68746baa003",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-12T08:36:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34683509553",
       "run_id": 34683509553,
