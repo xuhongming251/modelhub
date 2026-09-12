@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T09:08:17.114Z",
-  "lastRunId": 34684825538,
+  "updatedAt": "2026-09-12T09:55:35.342Z",
+  "lastRunId": 34687011624,
   "items": [
+    {
+      "id": "run_34687011624",
+      "run_id": 34687011624,
+      "artifact_id": 10295528377,
+      "filename": "qwen3.8-9b-distill-uncensored-heretic-q4_k_m.gguf",
+      "normalized_name": "qwen3.8-9b-distill-uncensored-heretic-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/26e474178484",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-12T09:55:02Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34684825538",
       "run_id": 34684825538,
