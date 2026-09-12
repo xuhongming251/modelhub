@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T08:47:21.035Z",
+  "updatedAt": "2026-09-12T08:50:44.969Z",
   "lastRunId": 34684120027,
   "items": [
+    {
+      "id": "run_34683622600",
+      "run_id": 34683622600,
+      "artifact_id": 10294678769,
+      "filename": "translategemma-12b-it-q4_k_m.gguf",
+      "normalized_name": "translategemma-12b-it-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1de26a242fc4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-12T08:50:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34684120027",
       "run_id": 34684120027,
