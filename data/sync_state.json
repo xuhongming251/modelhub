@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T06:38:44.303Z",
-  "lastRunId": 34678619954,
+  "updatedAt": "2026-09-12T06:53:54.593Z",
+  "lastRunId": 34679218767,
   "items": [
+    {
+      "id": "run_34679218767",
+      "run_id": 34679218767,
+      "artifact_id": 10293671532,
+      "filename": "Qwen3.8-9B-distill-heretic_nvfp4_q4_k_m.gguf",
+      "normalized_name": "qwen3.8-9b-distill-heretic_nvfp4_q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1a97aeb4dbe8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-12T06:53:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34678619954",
       "run_id": 34678619954,
