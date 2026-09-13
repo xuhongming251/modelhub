@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T13:51:37.174Z",
-  "lastRunId": 34760956036,
+  "updatedAt": "2026-09-13T14:05:25.800Z",
+  "lastRunId": 34761583580,
   "items": [
+    {
+      "id": "run_34761583580",
+      "run_id": 34761583580,
+      "artifact_id": 10319101863,
+      "filename": "obAnimav4.g4vf.safetensors",
+      "normalized_name": "obanimav4.g4vf.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9ac9324bf8d0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-13T14:04:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34760956036",
       "run_id": 34760956036,
@@ -135259,7 +135272,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
