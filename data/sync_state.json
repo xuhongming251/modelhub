@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T11:46:40.561Z",
-  "lastRunId": 34755242113,
+  "updatedAt": "2026-09-13T11:47:53.749Z",
+  "lastRunId": 34755297698,
   "items": [
+    {
+      "id": "run_34755297698",
+      "run_id": 34755297698,
+      "artifact_id": 10317440970,
+      "filename": "junjiitoartbookanima.N0XR.safetensors",
+      "normalized_name": "junjiitoartbookanima.n0xr.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2dde61b23919",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-13T11:47:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34755242113",
       "run_id": 34755242113,
@@ -135181,7 +135194,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
