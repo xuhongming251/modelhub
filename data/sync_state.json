@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T12:36:04.183Z",
-  "lastRunId": 34757079576,
+  "updatedAt": "2026-09-13T12:41:50.553Z",
+  "lastRunId": 34757725040,
   "items": [
+    {
+      "id": "run_34757725040",
+      "run_id": 34757725040,
+      "artifact_id": 10317259630,
+      "filename": "animayume_v15Base.safetensors",
+      "normalized_name": "animayume_v15base.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ef8769f895c6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-13T12:41:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34757079576",
       "run_id": 34757079576,
