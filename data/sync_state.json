@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T06:37:09.622Z",
-  "lastRunId": 34743095626,
+  "updatedAt": "2026-09-13T06:46:58.170Z",
+  "lastRunId": 34743555080,
   "items": [
+    {
+      "id": "run_34743555080",
+      "run_id": 34743555080,
+      "artifact_id": 10312513203,
+      "filename": "bdsqlszControllliteXl.ATP7.safetensors",
+      "normalized_name": "bdsqlszcontrolllitexl.atp7.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0f8af1c7e45e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-13T06:46:25Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34743095626",
       "run_id": 34743095626,
@@ -135051,7 +135064,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
