@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T13:04:50.038Z",
-  "lastRunId": 34758751964,
+  "updatedAt": "2026-09-13T13:51:37.174Z",
+  "lastRunId": 34760956036,
   "items": [
+    {
+      "id": "run_34760956036",
+      "run_id": 34760956036,
+      "artifact_id": 10318961431,
+      "filename": "reverse_suspended_congress_I2V_low.safetensors",
+      "normalized_name": "reverse_suspended_congress_i2v_low.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ba072e5438a2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-13T13:51:06Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_34760871058",
+      "run_id": 34760871058,
+      "artifact_id": 10318309640,
+      "filename": "reverse_suspended_congress_I2V_high.safetensors",
+      "normalized_name": "reverse_suspended_congress_i2v_high.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/df2e0610a77a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-13T13:50:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34758751964",
       "run_id": 34758751964,
@@ -135233,7 +135259,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
