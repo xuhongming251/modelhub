@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T15:18:00.347Z",
-  "lastRunId": 34764736213,
+  "updatedAt": "2026-09-13T15:51:47.558Z",
+  "lastRunId": 34766438513,
   "items": [
+    {
+      "id": "run_34766438513",
+      "run_id": 34766438513,
+      "artifact_id": 10320962319,
+      "filename": "Ani29B.safetensors",
+      "normalized_name": "ani29b.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/106og-GffzQG4qIrzybayQQ?pwd=d59a",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-09-13T15:51:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34764736213",
       "run_id": 34764736213,
