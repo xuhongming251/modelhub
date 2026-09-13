@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T04:46:40.761Z",
-  "lastRunId": 34738639674,
+  "updatedAt": "2026-09-13T05:11:56.658Z",
+  "lastRunId": 34739594014,
   "items": [
+    {
+      "id": "run_34739594014",
+      "run_id": 34739594014,
+      "artifact_id": 10311688250,
+      "filename": "qwen3vl_32b_h3_instruct_generation_tail_50_63_nvfp4_awq.safetensors",
+      "normalized_name": "qwen3vl_32b_h3_instruct_generation_tail_50_63_nvfp4_awq.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/538946655a64",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-13T05:11:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34738639674",
       "run_id": 34738639674,
