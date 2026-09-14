@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-14T14:29:06.531Z",
-  "lastRunId": 34855728366,
+  "updatedAt": "2026-09-14T14:35:56.394Z",
+  "lastRunId": 34856531354,
   "items": [
+    {
+      "id": "run_34856531354",
+      "run_id": 34856531354,
+      "artifact_id": 10353021743,
+      "filename": "faces-wan-high.safetensors",
+      "normalized_name": "faces-wan-high.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ffdf1c4486b4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-14T14:35:31Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_34856500923",
+      "run_id": 34856500923,
+      "artifact_id": 10351614374,
+      "filename": "facesitng_high_noise.safetensors",
+      "normalized_name": "facesitng_high_noise.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f0210eec4f1c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-14T14:35:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34855728366",
       "run_id": 34855728366,
@@ -125261,12 +125287,6 @@
       "normalized_name": "facesitng_low_noise.safetensors",
       "share_url": "https://pan.quark.cn/s/fc9258c58a93",
       "completed_at": "2026-04-02T11:03:36Z"
-    },
-    {
-      "filename": "facesitng_high_noise.safetensors",
-      "normalized_name": "facesitng_high_noise.safetensors",
-      "share_url": "https://pan.quark.cn/s/11985a7b4b34",
-      "completed_at": "2026-04-02T11:03:30Z"
     },
     {
       "filename": "llama-b8628-bin-win-hip-radeon-x64.zip",
