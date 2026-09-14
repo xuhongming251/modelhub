@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-14T02:17:08.208Z",
-  "lastRunId": 34798568207,
+  "updatedAt": "2026-09-14T02:32:06.741Z",
+  "lastRunId": 34799482232,
   "items": [
+    {
+      "id": "run_34799482232",
+      "run_id": 34799482232,
+      "artifact_id": 10330851507,
+      "filename": "SHA256SUMS",
+      "normalized_name": "sha256sums",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a52538acb68f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-14T02:31:40Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_34799473486",
+      "run_id": 34799473486,
+      "artifact_id": 10330344731,
+      "filename": "README.md",
+      "normalized_name": "readme.md",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4db082d2b10a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-14T02:31:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34798568207",
       "run_id": 34798568207,
@@ -33164,19 +33190,6 @@
       "channel": "baidu",
       "channel_name": "Baidu",
       "completed_at": "2026-08-02T02:59:24Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30729702194",
-      "run_id": 30729702194,
-      "artifact_id": 8827531466,
-      "filename": "README.md",
-      "normalized_name": "readme.md",
-      "original_url": "",
-      "share_url": "https://pan.baidu.com/s/1SHeAqojePZMU2vSFzcGp0w?pwd=9bfb",
-      "channel": "baidu",
-      "channel_name": "Baidu",
-      "completed_at": "2026-08-02T02:56:04Z",
       "workflow": "upload.yml"
     },
     {
@@ -135357,7 +135370,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
