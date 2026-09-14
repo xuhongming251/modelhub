@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-14T03:32:02.219Z",
+  "updatedAt": "2026-09-14T03:39:40.041Z",
   "lastRunId": 34802861850,
   "items": [
+    {
+      "id": "run_34801051539",
+      "run_id": 34801051539,
+      "artifact_id": 10332076836,
+      "filename": "Qwen3.8-27B-Heretic-ActiveFPX.gguf",
+      "normalized_name": "qwen3.8-27b-heretic-activefpx.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/109b6fa64f94",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-14T03:38:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34802861850",
       "run_id": 34802861850,
