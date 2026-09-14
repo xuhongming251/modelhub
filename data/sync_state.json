@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-14T02:57:57.558Z",
+  "updatedAt": "2026-09-14T02:59:46.955Z",
   "lastRunId": 34800829449,
   "items": [
+    {
+      "id": "run_34799443945",
+      "run_id": 34799443945,
+      "artifact_id": 10331117610,
+      "filename": "Qwen3.8-27B-Uncensored-Q4_0_ROCMFP4_STRIX.gguf",
+      "normalized_name": "qwen3.8-27b-uncensored-q4_0_rocmfp4_strix.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/65abc5b1e6ec",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-14T02:59:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34800829449",
       "run_id": 34800829449,
