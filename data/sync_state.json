@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-14T03:19:00.435Z",
+  "updatedAt": "2026-09-14T03:21:44.060Z",
   "lastRunId": 34802125798,
   "items": [
+    {
+      "id": "run_34801900737",
+      "run_id": 34801900737,
+      "artifact_id": 10331539130,
+      "filename": "Qwen3.8-27B-heretic-ara-Q4_K_M-MTP.gguf",
+      "normalized_name": "qwen3.8-27b-heretic-ara-q4_k_m-mtp.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2500e42310a7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-14T03:21:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34802125798",
       "run_id": 34802125798,
