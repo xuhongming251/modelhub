@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-14T02:36:06.788Z",
-  "lastRunId": 34799489702,
+  "updatedAt": "2026-09-14T02:57:57.558Z",
+  "lastRunId": 34800829449,
   "items": [
+    {
+      "id": "run_34800829449",
+      "run_id": 34800829449,
+      "artifact_id": 10331452259,
+      "filename": "museByStableYogi_v35Fp8Extended.safetensors",
+      "normalized_name": "musebystableyogi_v35fp8extended.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b36516358db8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-14T02:57:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34799461966",
       "run_id": 34799461966,
@@ -15835,19 +15848,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-25T15:38:21Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_32866777186",
-      "run_id": 32866777186,
-      "artifact_id": 9570456309,
-      "filename": "museByStableYogi_v35Fp8Extended.safetensors",
-      "normalized_name": "musebystableyogi_v35fp8extended.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/bbb45ea68523",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-25T15:37:29Z",
       "workflow": "upload.yml"
     },
     {
@@ -135390,7 +135390,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
