@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-14T05:37:36.964Z",
+  "updatedAt": "2026-09-14T05:44:34.687Z",
   "lastRunId": 34808519665,
   "items": [
+    {
+      "id": "run_34808096034",
+      "run_id": 34808096034,
+      "artifact_id": 10334423083,
+      "filename": "K-瓦鲁安v08.fp16.safetensors",
+      "normalized_name": "k-瓦鲁安v08.fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f5c030a5f80e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-14T05:43:53Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_34808356326",
+      "run_id": 34808356326,
+      "artifact_id": 10334402823,
+      "filename": "创世纪动漫插画v2.bf16.safetensors",
+      "normalized_name": "创世纪动漫插画v2.bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0c2551b6f9fb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-14T05:37:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34808020677",
       "run_id": 34808020677,
