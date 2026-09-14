@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-14T14:35:56.394Z",
-  "lastRunId": 34856531354,
+  "updatedAt": "2026-09-14T14:37:23.272Z",
+  "lastRunId": 34856644253,
   "items": [
+    {
+      "id": "run_34856644253",
+      "run_id": 34856644253,
+      "artifact_id": 10352866449,
+      "filename": "faces-wan-low.safetensors",
+      "normalized_name": "faces-wan-low.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cf60472cd8d1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-14T14:36:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34856531354",
       "run_id": 34856531354,
@@ -135683,7 +135696,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
