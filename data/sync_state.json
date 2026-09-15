@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-15T02:57:17.086Z",
+  "updatedAt": "2026-09-15T03:02:53.156Z",
   "lastRunId": 34923033085,
   "items": [
+    {
+      "id": "run_34922205802",
+      "run_id": 34922205802,
+      "artifact_id": 10379032805,
+      "filename": "realDreamV5AnimaBf16.10AL.safetensors",
+      "normalized_name": "realdreamv5animabf16.10al.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/76db1b6409fc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-15T03:02:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34923033085",
       "run_id": 34923033085,
@@ -1873,19 +1886,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-11T15:44:10Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_34611816958",
-      "run_id": 34611816958,
-      "artifact_id": 10268872370,
-      "filename": "realDreamV5AnimaBf16.10AL.safetensors",
-      "normalized_name": "realdreamv5animabf16.10al.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/88be69b85d2b",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-11T14:44:17Z",
       "workflow": "upload.yml"
     },
     {
