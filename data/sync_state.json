@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-15T11:15:52.642Z",
-  "lastRunId": 34962213221,
+  "updatedAt": "2026-09-15T12:27:15.460Z",
+  "lastRunId": 34968772439,
   "items": [
+    {
+      "id": "run_34968772439",
+      "run_id": 34968772439,
+      "artifact_id": 10396605882,
+      "filename": "animaikaV47.58lq.safetensors",
+      "normalized_name": "animaikav47.58lq.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5bf5ec1b5960",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-15T12:26:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34962213221",
       "run_id": 34962213221,
@@ -135969,7 +135982,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
