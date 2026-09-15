@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-15T10:00:46.117Z",
-  "lastRunId": 34948975215,
+  "updatedAt": "2026-09-15T10:01:50.118Z",
+  "lastRunId": 34955409041,
   "items": [
+    {
+      "id": "run_34955409041",
+      "run_id": 34955409041,
+      "artifact_id": 10391256057,
+      "filename": "minimaxH3HybridInt8.safetensors",
+      "normalized_name": "minimaxh3hybridint8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0148b4c28ecc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-15T10:01:09Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_34955156815",
+      "run_id": 34955156815,
+      "artifact_id": 10391048354,
+      "filename": "minimaxH3Sparseref15_prunedPartialINT8V10.safetensors",
+      "normalized_name": "minimaxh3sparseref15_prunedpartialint8v10.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5c504060e4f3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-15T10:00:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34948975215",
       "run_id": 34948975215,
@@ -2224,19 +2250,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-11T10:21:19Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_34588602904",
-      "run_id": 34588602904,
-      "artifact_id": 10194712397,
-      "filename": "minimaxH3Sparseref15_prunedPartialINT8V10.safetensors",
-      "normalized_name": "minimaxh3sparseref15_prunedpartialint8v10.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/976329425658",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-11T10:21:11Z",
       "workflow": "upload.yml"
     },
     {
@@ -135852,7 +135865,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
