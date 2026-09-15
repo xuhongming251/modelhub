@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-15T07:22:53.874Z",
-  "lastRunId": 34936824044,
+  "updatedAt": "2026-09-15T08:49:59.230Z",
+  "lastRunId": 34948975215,
   "items": [
+    {
+      "id": "run_34948975215",
+      "run_id": 34948975215,
+      "artifact_id": 10388196902,
+      "filename": "basBetterAnimeStyleV1.Y62y.safetensors",
+      "normalized_name": "basbetteranimestylev1.y62y.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/643ae29e5ef9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-15T08:49:12Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34936824044",
       "run_id": 34936824044,
@@ -135839,7 +135852,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
