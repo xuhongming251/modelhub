@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-15T02:14:56.158Z",
-  "lastRunId": 34914063289,
+  "updatedAt": "2026-09-15T02:48:12.750Z",
+  "lastRunId": 34922386832,
   "items": [
+    {
+      "id": "run_34922386832",
+      "run_id": 34922386832,
+      "artifact_id": 10378856963,
+      "filename": "krea2Anime_v15_fp8.safetensors",
+      "normalized_name": "krea2anime_v15_fp8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c837f71bc459",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-15T02:47:27Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_34920336559",
+      "run_id": 34920336559,
+      "artifact_id": 10378220310,
+      "filename": "kea2 tifa webcam.safetensors",
+      "normalized_name": "kea2 tifa webcam.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c0d8f990e11c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-15T02:14:25Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34912310273",
       "run_id": 34912310273,
@@ -5916,19 +5942,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-05T19:48:27Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_33987963350",
-      "run_id": 33987963350,
-      "artifact_id": 9975747483,
-      "filename": "kea2 tifa webcam.safetensors",
-      "normalized_name": "kea2 tifa webcam.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/6493b958387a",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-05T19:44:20Z",
       "workflow": "upload.yml"
     },
     {
@@ -135774,7 +135787,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
