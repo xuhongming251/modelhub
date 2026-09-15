@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-15T03:02:53.156Z",
+  "updatedAt": "2026-09-15T03:16:22.393Z",
   "lastRunId": 34923033085,
   "items": [
+    {
+      "id": "run_34922913212",
+      "run_id": 34922913212,
+      "artifact_id": 10379091660,
+      "filename": "solstice_v2_fp8.safetensors",
+      "normalized_name": "solstice_v2_fp8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9066bf6905ec",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-15T03:15:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34922205802",
       "run_id": 34922205802,
