@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-15T12:49:16.701Z",
-  "lastRunId": 34968772439,
+  "updatedAt": "2026-09-15T14:14:18.974Z",
+  "lastRunId": 34979726210,
   "items": [
+    {
+      "id": "run_34979726210",
+      "run_id": 34979726210,
+      "artifact_id": 10400479652,
+      "filename": "minimax-h3_ref2va_8Step_motion_enhancer.safetensors",
+      "normalized_name": "minimax-h3_ref2va_8step_motion_enhancer.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/26a4ca85a195",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-15T14:13:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_34968772439",
       "run_id": 34968772439,
@@ -135982,7 +135995,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
