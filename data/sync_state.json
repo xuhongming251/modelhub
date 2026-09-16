@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-16T01:35:55.960Z",
-  "lastRunId": 35042607178,
+  "updatedAt": "2026-09-16T01:53:43.945Z",
+  "lastRunId": 35045069456,
   "items": [
+    {
+      "id": "run_35045069456",
+      "run_id": 35045069456,
+      "artifact_id": 10426706968,
+      "filename": "Qwen-Rapid-AIO-NSFW-v19.safetensors",
+      "normalized_name": "qwen-rapid-aio-nsfw-v19.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/90b0d3250b61",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-16T01:53:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35042607178",
       "run_id": 35042607178,
@@ -131605,12 +131618,6 @@
       "normalized_name": "hikarixxxv20.cpxw.safetensors",
       "share_url": "https://pan.quark.cn/s/0605a98c4b7e",
       "completed_at": "2026-03-17T14:26:06Z"
-    },
-    {
-      "filename": "Qwen-Rapid-AIO-NSFW-v19.safetensors",
-      "normalized_name": "qwen-rapid-aio-nsfw-v19.safetensors",
-      "share_url": "https://pan.quark.cn/s/ba3c59065287",
-      "completed_at": "2026-03-17T13:21:28Z"
     },
     {
       "filename": "insightface-0.7.3-cp313-cp313-win_amd64.whl",
