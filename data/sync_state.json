@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-16T08:33:35.011Z",
-  "lastRunId": 35073222928,
+  "updatedAt": "2026-09-16T08:53:48.348Z",
+  "lastRunId": 35076134892,
   "items": [
+    {
+      "id": "run_35076134892",
+      "run_id": 35076134892,
+      "artifact_id": 10438043746,
+      "filename": "aiillustojisanA29B.MabR.safetensors",
+      "normalized_name": "aiillustojisana29b.mabr.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7d775450795b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-16T08:53:10Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35074333119",
+      "run_id": 35074333119,
+      "artifact_id": 10437174043,
+      "filename": "zodaplusV2Anima.7Kgy.safetensors",
+      "normalized_name": "zodaplusv2anima.7kgy.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/513f8b214ca7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-16T08:32:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35073222928",
       "run_id": 35073222928,
@@ -136353,7 +136379,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
