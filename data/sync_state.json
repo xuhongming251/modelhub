@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-16T16:45:55.314Z",
-  "lastRunId": 35120077749,
+  "updatedAt": "2026-09-16T17:32:11.306Z",
+  "lastRunId": 35123460987,
   "items": [
+    {
+      "id": "run_35123460987",
+      "run_id": 35123460987,
+      "artifact_id": 10458223548,
+      "filename": "Flux2-Klein-9B-True-V3-int8mixedrow.safetensors",
+      "normalized_name": "flux2-klein-9b-true-v3-int8mixedrow.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/693d276b76ca",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-16T16:45:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35120077749",
       "run_id": 35120077749,
@@ -136808,7 +136821,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
