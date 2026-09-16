@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-16T03:47:31.257Z",
-  "lastRunId": 35053039756,
+  "updatedAt": "2026-09-16T03:51:04.689Z",
+  "lastRunId": 35053213793,
   "items": [
+    {
+      "id": "run_35053213793",
+      "run_id": 35053213793,
+      "artifact_id": 10429238067,
+      "filename": "fakeBREASTSEpoch10.7sh8.safetensors",
+      "normalized_name": "fakebreastsepoch10.7sh8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5b5a7e9d8982",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-16T03:50:22Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35053039756",
       "run_id": 35053039756,
@@ -136145,7 +136158,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
