@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-16T02:40:26.947Z",
-  "lastRunId": 35045069456,
+  "updatedAt": "2026-09-16T02:54:14.325Z",
+  "lastRunId": 35049694053,
   "items": [
+    {
+      "id": "run_35049694053",
+      "run_id": 35049694053,
+      "artifact_id": 10428287959,
+      "filename": "transparent_clothes_klein_v2.safetensors",
+      "normalized_name": "transparent_clothes_klein_v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8585dd4a4fe1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-16T02:53:40Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35048800290",
+      "run_id": 35048800290,
+      "artifact_id": 10428405410,
+      "filename": "rpgcharaAnimaBase1V1.xhBy.safetensors",
+      "normalized_name": "rpgcharaanimabase1v1.xhby.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/08e867e4c5b7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-16T02:39:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35045069456",
       "run_id": 35045069456,
@@ -99012,19 +99038,6 @@
       "workflow": "upload.yml"
     },
     {
-      "id": "run_26510150035",
-      "run_id": 26510150035,
-      "artifact_id": 7239826877,
-      "filename": "transparent_clothes_klein_v2.safetensors",
-      "normalized_name": "transparent_clothes_klein_v2.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/d452d392e0a3",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-27T12:08:47Z",
-      "workflow": "upload.yml"
-    },
-    {
       "id": "run_26509765173",
       "run_id": 26509765173,
       "artifact_id": 7239711309,
@@ -136080,7 +136093,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 3,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
