@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-16T14:58:46.387Z",
-  "lastRunId": 35112068918,
+  "updatedAt": "2026-09-16T15:08:48.829Z",
+  "lastRunId": 35113014225,
   "items": [
+    {
+      "id": "run_35113014225",
+      "run_id": 35113014225,
+      "artifact_id": 10452734503,
+      "filename": "gemma4_e2b_it_int8_convrot.safetensors",
+      "normalized_name": "gemma4_e2b_it_int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d82c41dde6ea",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-16T15:08:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35112068918",
       "run_id": 35112068918,
@@ -136782,7 +136795,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
