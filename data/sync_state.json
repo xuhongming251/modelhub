@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-16T08:53:48.348Z",
-  "lastRunId": 35076134892,
+  "updatedAt": "2026-09-16T08:54:49.037Z",
+  "lastRunId": 35076307678,
   "items": [
+    {
+      "id": "run_35076307678",
+      "run_id": 35076307678,
+      "artifact_id": 10438192156,
+      "filename": "Qwen3.8-Flash-Next-UD-IQ1_M-00001-of-00003.gguf",
+      "normalized_name": "qwen3.8-flash-next-ud-iq1_m-00001-of-00003.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6a2eccde7672",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-16T08:54:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35076134892",
       "run_id": 35076134892,
