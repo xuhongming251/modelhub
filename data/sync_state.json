@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-16T15:08:48.829Z",
-  "lastRunId": 35113014225,
+  "updatedAt": "2026-09-16T16:10:46.460Z",
+  "lastRunId": 35120077749,
   "items": [
+    {
+      "id": "run_35120077749",
+      "run_id": 35120077749,
+      "artifact_id": 10456023407,
+      "filename": "ltx-2.5-22b-dev-transformer-bf16.safetensors",
+      "normalized_name": "ltx-2.5-22b-dev-transformer-bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5fba26bda775",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-16T16:10:03Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35113014225",
       "run_id": 35113014225,
@@ -136795,7 +136808,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
