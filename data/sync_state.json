@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-16T07:46:37.661Z",
-  "lastRunId": 35066279038,
+  "updatedAt": "2026-09-16T07:52:59.868Z",
+  "lastRunId": 35070639694,
   "items": [
+    {
+      "id": "run_35070639694",
+      "run_id": 35070639694,
+      "artifact_id": 10436082480,
+      "filename": "miui_DAVINCIGlobal_V12.1.4.0.RFJMIXM_e0ac13ed89_11.0.zip",
+      "normalized_name": "miui_davinciglobal_v12.1.4.0.rfjmixm_e0ac13ed89_11.0.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f81fd70909c8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-16T07:52:24Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35070173366",
+      "run_id": 35070173366,
+      "artifact_id": 10435499063,
+      "filename": "animaColorfixV1By.evx7.safetensors",
+      "normalized_name": "animacolorfixv1by.evx7.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a3a4478cd133",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-16T07:46:08Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35067456474",
+      "run_id": 35067456474,
+      "artifact_id": 10434986045,
+      "filename": "FeetEpoch10.n1HU.safetensors",
+      "normalized_name": "feetepoch10.n1hu.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ae66d65bda63",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-16T07:14:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35066279038",
       "run_id": 35066279038,
@@ -136288,7 +136327,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
