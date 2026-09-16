@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-16T12:23:04.552Z",
-  "lastRunId": 35090386021,
+  "updatedAt": "2026-09-16T12:41:29.320Z",
+  "lastRunId": 35097073815,
   "items": [
+    {
+      "id": "run_35097073815",
+      "run_id": 35097073815,
+      "artifact_id": 10446881803,
+      "filename": "moodyAmateurMixV400001.AXOg.safetensors",
+      "normalized_name": "moodyamateurmixv400001.axog.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4112b3c067ef",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-16T12:40:48Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35095385115",
+      "run_id": 35095385115,
+      "artifact_id": 10445458183,
+      "filename": "buanimeNSFWStyleV6.6mjb.safetensors",
+      "normalized_name": "buanimensfwstylev6.6mjb.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/175271202eb0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-16T12:22:26Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35090623916",
+      "run_id": 35090623916,
+      "artifact_id": 10444237762,
+      "filename": "kromaV03Turbo10gb.d4wC.safetensors",
+      "normalized_name": "kromav03turbo10gb.d4wc.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/45de4b50a307",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-16T11:45:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35090334573",
       "run_id": 35090334573,
@@ -136652,7 +136691,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
