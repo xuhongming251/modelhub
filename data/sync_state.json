@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-17T05:50:26.359Z",
-  "lastRunId": 35186953009,
+  "updatedAt": "2026-09-17T05:56:35.127Z",
+  "lastRunId": 35187576486,
   "items": [
+    {
+      "id": "run_35187576486",
+      "run_id": 35187576486,
+      "artifact_id": 10482857613,
+      "filename": "v35Anima3310579Epoch.6jY5.safetensors",
+      "normalized_name": "v35anima3310579epoch.6jy5.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a20c3f629f6d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-17T05:55:56Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35187251796",
+      "run_id": 35187251796,
+      "artifact_id": 10482508451,
+      "filename": "auth",
+      "normalized_name": "auth",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/102dbf7a5c19",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-17T05:49:57Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35187000259",
+      "run_id": 35187000259,
+      "artifact_id": 10482258958,
+      "filename": "xi410v2.7E9F.safetensors",
+      "normalized_name": "xi410v2.7e9f.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b74972c75dc2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-17T05:46:02Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35186953009",
       "run_id": 35186953009,
@@ -32410,19 +32449,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-04T05:19:52Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30880115360",
-      "run_id": 30880115360,
-      "artifact_id": 8880955955,
-      "filename": "auth",
-      "normalized_name": "auth",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/7f82b88a46f5",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-04T05:15:36Z",
       "workflow": "upload.yml"
     },
     {
@@ -90952,19 +90978,6 @@
       "workflow": "upload.yml"
     },
     {
-      "id": "run_27356795026",
-      "run_id": 27356795026,
-      "artifact_id": 7568434876,
-      "filename": "xi410v2.7E9F.safetensors",
-      "normalized_name": "xi410v2.7e9f.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/dfb7e7e70c6a",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-11T15:09:47Z",
-      "workflow": "upload.yml"
-    },
-    {
       "id": "run_27356762065",
       "run_id": 27356762065,
       "artifact_id": 7568428256,
@@ -137198,7 +137211,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
