@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-17T00:45:58.729Z",
-  "lastRunId": 35167203029,
+  "updatedAt": "2026-09-17T01:00:47.042Z",
+  "lastRunId": 35168777745,
   "items": [
+    {
+      "id": "run_35168777745",
+      "run_id": 35168777745,
+      "artifact_id": 10476441157,
+      "filename": "midninghtLighting.yRu2.safetensors",
+      "normalized_name": "midninghtlighting.yru2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e87a7defe7e9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-17T01:00:11Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35167806759",
+      "run_id": 35167806759,
+      "artifact_id": 10475357110,
+      "filename": "realSkinStep00000200.joli.safetensors",
+      "normalized_name": "realskinstep00000200.joli.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/64eb2a772ac5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-17T00:45:23Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35167203029",
       "run_id": 35167203029,
@@ -136873,7 +136899,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
