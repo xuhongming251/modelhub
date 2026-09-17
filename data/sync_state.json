@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-17T04:20:28.715Z",
-  "lastRunId": 35181489444,
+  "updatedAt": "2026-09-17T04:22:43.540Z",
+  "lastRunId": 35181510780,
   "items": [
+    {
+      "id": "run_35181510780",
+      "run_id": 35181510780,
+      "artifact_id": 10480362060,
+      "filename": "dasiwaMinimaxH3Ref2vaV2.u7zX.safetensors",
+      "normalized_name": "dasiwaminimaxh3ref2vav2.u7zx.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c6eb63d0a5ff",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-17T04:21:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35181489444",
       "run_id": 35181489444,
@@ -1028,19 +1041,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-16T04:27:02Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_35054902000",
-      "run_id": 35054902000,
-      "artifact_id": 10430073429,
-      "filename": "dasiwaMinimaxH3Ref2vaV2.u7zX.safetensors",
-      "normalized_name": "dasiwaminimaxh3ref2vav2.u7zx.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/3dfaf20bf6f3",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-16T04:17:40Z",
       "workflow": "upload.yml"
     },
     {
@@ -137068,7 +137068,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
