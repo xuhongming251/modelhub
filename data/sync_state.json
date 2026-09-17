@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-17T15:47:44.492Z",
-  "lastRunId": 35242437653,
+  "updatedAt": "2026-09-17T15:49:47.656Z",
+  "lastRunId": 35242474534,
   "items": [
+    {
+      "id": "run_35242391139",
+      "run_id": 35242391139,
+      "artifact_id": 10505762899,
+      "filename": "data-source.zip",
+      "normalized_name": "data-source.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/604d7bf806ed",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-17T15:49:00Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35242474534",
+      "run_id": 35242474534,
+      "artifact_id": 10505807645,
+      "filename": "main.zip",
+      "normalized_name": "main.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/adaa980772fc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-17T15:47:42Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35242405072",
+      "run_id": 35242405072,
+      "artifact_id": 10505449369,
+      "filename": "data.zip",
+      "normalized_name": "data.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b465cde559c6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-17T15:47:25Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35242437653",
       "run_id": 35242437653,
@@ -4356,19 +4395,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-11T12:21:41Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_34597278446",
-      "run_id": 34597278446,
-      "artifact_id": 10262114998,
-      "filename": "main.zip",
-      "normalized_name": "main.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/d5f9e5ddf342",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-11T12:07:27Z",
       "workflow": "upload.yml"
     },
     {
@@ -119759,12 +119785,6 @@
       "normalized_name": "mistral_3_small_flux2_bf16.safetensor",
       "share_url": "https://pan.quark.cn/s/f20b7bb65be3",
       "completed_at": "2026-04-29T15:31:21Z"
-    },
-    {
-      "filename": "Data.zip",
-      "normalized_name": "data.zip",
-      "share_url": "https://pan.quark.cn/s/3ed3ebb0ff6f",
-      "completed_at": "2026-04-29T15:15:03Z"
     },
     {
       "filename": "randomMIX2D_alt5.safetensors",
