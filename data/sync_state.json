@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-17T06:16:11.197Z",
-  "lastRunId": 35188996565,
+  "updatedAt": "2026-09-17T06:23:27.242Z",
+  "lastRunId": 35189516996,
   "items": [
+    {
+      "id": "run_35189516996",
+      "run_id": 35189516996,
+      "artifact_id": 10483196738,
+      "filename": "animaBoldlineV13.xGyg.safetensors",
+      "normalized_name": "animaboldlinev13.xgyg.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a377a2064db2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-17T06:22:39Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35188996565",
       "run_id": 35188996565,
@@ -91183,19 +91196,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-11T14:44:23Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27355009387",
-      "run_id": 27355009387,
-      "artifact_id": 7567705118,
-      "filename": "animaBoldlineV13.xGyg.safetensors",
-      "normalized_name": "animaboldlinev13.xgyg.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/def8df4a2458",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-11T14:43:15Z",
       "workflow": "upload.yml"
     },
     {
