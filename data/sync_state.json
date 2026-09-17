@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-17T09:39:12.643Z",
-  "lastRunId": 35204556656,
+  "updatedAt": "2026-09-17T09:50:08.796Z",
+  "lastRunId": 35206188422,
   "items": [
+    {
+      "id": "run_35205145732",
+      "run_id": 35205145732,
+      "artifact_id": 10490373007,
+      "filename": "aiangelh3_v1Eros40Red60.safetensors",
+      "normalized_name": "aiangelh3_v1eros40red60.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d85ed0e061ae",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-17T09:49:35Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35206188422",
+      "run_id": 35206188422,
+      "artifact_id": 10490381150,
+      "filename": "pastel20anima.sFyo.safetensors",
+      "normalized_name": "pastel20anima.sfyo.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/424d92286d09",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-17T09:38:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35204556656",
       "run_id": 35204556656,
@@ -137505,7 +137531,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 2,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
