@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-17T15:49:47.656Z",
-  "lastRunId": 35242474534,
+  "updatedAt": "2026-09-17T15:54:55.795Z",
+  "lastRunId": 35243107903,
   "items": [
+    {
+      "id": "run_35243107903",
+      "run_id": 35243107903,
+      "artifact_id": 10506491285,
+      "filename": "silvermoonmix01.ZWWW.safetensors",
+      "normalized_name": "silvermoonmix01.zwww.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7958dfa6f4f2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-17T15:54:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35242391139",
       "run_id": 35242391139,
@@ -129493,12 +129506,6 @@
       "normalized_name": "flux1-schnell-fp8-e4m3fn.safetensors",
       "share_url": "https://pan.quark.cn/s/7cbd52bbef97",
       "completed_at": "2026-03-27T14:39:40Z"
-    },
-    {
-      "filename": "silvermoonmix01.ZWWW.safetensors",
-      "normalized_name": "silvermoonmix01.zwww.safetensors",
-      "share_url": "https://pan.quark.cn/s/fea1642d777b",
-      "completed_at": "2026-03-27T13:51:49Z"
     },
     {
       "filename": "majicMIX-realistic.safetensors",
