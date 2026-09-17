@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-17T08:21:33.249Z",
-  "lastRunId": 35198432701,
+  "updatedAt": "2026-09-17T08:27:47.279Z",
+  "lastRunId": 35199684797,
   "items": [
+    {
+      "id": "run_35199684797",
+      "run_id": 35199684797,
+      "artifact_id": 10487590602,
+      "filename": "delolifierAnimaV3.oQiB.safetensors",
+      "normalized_name": "delolifieranimav3.oqib.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/240ca08b05ba",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-17T08:27:08Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35199140337",
+      "run_id": 35199140337,
+      "artifact_id": 10486984099,
+      "filename": "sweatRemoverV1.l542.safetensors",
+      "normalized_name": "sweatremoverv1.l542.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/412d7efffc81",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-17T08:21:02Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35198432701",
       "run_id": 35198432701,
@@ -137453,7 +137479,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
