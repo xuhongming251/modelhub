@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-17T03:37:48.666Z",
-  "lastRunId": 35177416625,
+  "updatedAt": "2026-09-17T03:42:23.918Z",
+  "lastRunId": 35179008449,
   "items": [
+    {
+      "id": "run_35179008449",
+      "run_id": 35179008449,
+      "artifact_id": 10480020021,
+      "filename": "styleErofigurineAnima.JVJp.safetensors",
+      "normalized_name": "styleerofigurineanima.jvjp.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3d24a5b3ca9c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-17T03:41:48Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35177416625",
       "run_id": 35177416625,
@@ -137003,7 +137016,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
