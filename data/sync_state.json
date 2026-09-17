@@ -1,8 +1,86 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-17T13:52:57.057Z",
-  "lastRunId": 35211882484,
+  "updatedAt": "2026-09-17T13:53:58.378Z",
+  "lastRunId": 35229882534,
   "items": [
+    {
+      "id": "run_35229882534",
+      "run_id": 35229882534,
+      "artifact_id": 10499799754,
+      "filename": "FireRed_OmniRealism（动漫转真人）",
+      "normalized_name": "firered_omnirealism（动漫转真人）",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5dfe008461d8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-17T13:53:21Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35229778881",
+      "run_id": 35229778881,
+      "artifact_id": 10500412834,
+      "filename": "Chuxin_Convert to 3D style（转3D）",
+      "normalized_name": "chuxin_convert to 3d style（转3d）",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cfba80126421",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-17T13:52:16Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35229316163",
+      "run_id": 35229316163,
+      "artifact_id": 10500926111,
+      "filename": "[Z-image]连裤袜和腿型优化大长腿细腿pantyhose白丝黑丝灰丝肉丝",
+      "normalized_name": "[z-image]连裤袜和腿型优化大长腿细腿pantyhose白丝黑丝灰丝肉丝",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fe4b7cf1408f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-17T13:48:00Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35228113255",
+      "run_id": 35228113255,
+      "artifact_id": 10499409366,
+      "filename": "Z-image-cosplay-NSFW",
+      "normalized_name": "z-image-cosplay-nsfw",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8c0416ad9891",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-17T13:37:08Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35223210262",
+      "run_id": 35223210262,
+      "artifact_id": 10497759620,
+      "filename": "qwenvaeDegridNafnet.oTiM.safetensors",
+      "normalized_name": "qwenvaedegridnafnet.otim.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9d6d847e88bb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-17T12:49:19Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35213847392",
+      "run_id": 35213847392,
+      "artifact_id": 10493984572,
+      "filename": "10Eros_Max_h3_TURBO-hybrid_beta5_int8.safetensors",
+      "normalized_name": "10eros_max_h3_turbo-hybrid_beta5_int8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f34f41e772a9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-17T11:17:28Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35211882484",
       "run_id": 35211882484,
@@ -5825,19 +5903,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-08T15:04:52Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_34225263979",
-      "run_id": 34225263979,
-      "artifact_id": 10061478696,
-      "filename": "10Eros_Max_h3_TURBO-hybrid_beta5_int8.safetensors",
-      "normalized_name": "10eros_max_h3_turbo-hybrid_beta5_int8.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/5495910b19fc",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-08T14:41:51Z",
       "workflow": "upload.yml"
     },
     {
@@ -137622,7 +137687,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
