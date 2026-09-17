@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-17T01:00:47.042Z",
-  "lastRunId": 35168777745,
+  "updatedAt": "2026-09-17T01:03:11.016Z",
+  "lastRunId": 35168951751,
   "items": [
+    {
+      "id": "run_35168951751",
+      "run_id": 35168951751,
+      "artifact_id": 10475651762,
+      "filename": "duskLightingstep.cUqH.safetensors",
+      "normalized_name": "dusklightingstep.cuqh.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f27547506692",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-17T01:02:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35168777745",
       "run_id": 35168777745,
@@ -136899,7 +136912,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
