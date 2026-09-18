@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-18T06:25:06.982Z",
-  "lastRunId": 35313825822,
+  "updatedAt": "2026-09-18T06:32:39.229Z",
+  "lastRunId": 35315195712,
   "items": [
+    {
+      "id": "run_35315195712",
+      "run_id": 35315195712,
+      "artifact_id": 10535190257,
+      "filename": "Civitai 模型文件",
+      "normalized_name": "civitai 模型文件",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3e3486843656",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-18T06:32:06Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35314190685",
+      "run_id": 35314190685,
+      "artifact_id": 10534513882,
+      "filename": "silvermoonmixAnima29b.lfHP.safetensors",
+      "normalized_name": "silvermoonmixanima29b.lfhp.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6bfb11ddf22a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-18T06:24:28Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35313825822",
       "run_id": 35313825822,
@@ -6189,19 +6215,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-08T16:30:47Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_34246981167",
-      "run_id": 34246981167,
-      "artifact_id": 10064413296,
-      "filename": "Civitai 模型文件",
-      "normalized_name": "civitai 模型文件",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/9b840256d929",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-08T15:48:02Z",
       "workflow": "upload.yml"
     },
     {
