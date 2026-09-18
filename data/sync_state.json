@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-18T11:12:18.254Z",
-  "lastRunId": 35338362646,
+  "updatedAt": "2026-09-18T11:17:57.340Z",
+  "lastRunId": 35338820630,
   "items": [
+    {
+      "id": "run_35338820630",
+      "run_id": 35338820630,
+      "artifact_id": 10543838196,
+      "filename": "minimax_h3_turbo_4step_ema_pruned_comfyui.safetensors",
+      "normalized_name": "minimax_h3_turbo_4step_ema_pruned_comfyui.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f86b09d3f37a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-18T11:17:20Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35338784308",
+      "run_id": 35338784308,
+      "artifact_id": 10543912965,
+      "filename": "llama-b11035-bin-win-cuda-13.4-x64.zip",
+      "normalized_name": "llama-b11035-bin-win-cuda-13.4-x64.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/438faa556c99",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-18T11:17:18Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35338362646",
       "run_id": 35338362646,
