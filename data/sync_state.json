@@ -1,8 +1,60 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-18T15:12:56.652Z",
-  "lastRunId": 35351079122,
+  "updatedAt": "2026-09-18T15:24:38.661Z",
+  "lastRunId": 35362129535,
   "items": [
+    {
+      "id": "run_35362129535",
+      "run_id": 35362129535,
+      "artifact_id": 10554850986,
+      "filename": "LoveDeepSpace_Zayne_Edge_of_Continuum-000029.safetensors",
+      "normalized_name": "lovedeepspace_zayne_edge_of_continuum-000029.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cd463c4d3437",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-18T15:24:04Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35360866733",
+      "run_id": 35360866733,
+      "artifact_id": 10554029506,
+      "filename": "DaVinci_Resolve_21.1_Windows.zip",
+      "normalized_name": "davinci_resolve_21.1_windows.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/09668f7be7f9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-18T15:12:06Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35357402885",
+      "run_id": 35357402885,
+      "artifact_id": 10553651002,
+      "filename": "MatureRitual丨熟メス儀式 Illustrious V2.0.1",
+      "normalized_name": "matureritual丨熟メス儀式 illustrious v2.0.1",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1GeVEJufiDUGHe5DTgCKRZQ?pwd=4789",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-09-18T14:48:18Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35351811844",
+      "run_id": 35351811844,
+      "artifact_id": 10550275001,
+      "filename": "minimaxh3_art_is_explosion.safetensors",
+      "normalized_name": "minimaxh3_art_is_explosion.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a455bd09c66d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-18T13:43:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35351079122",
       "run_id": 35351079122,
@@ -138319,7 +138371,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 8,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
