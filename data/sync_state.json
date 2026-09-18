@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-18T01:48:11.510Z",
+  "updatedAt": "2026-09-18T01:49:00.799Z",
   "lastRunId": 35296645026,
   "items": [
+    {
+      "id": "run_35296513849",
+      "run_id": 35296513849,
+      "artifact_id": 10527384942,
+      "filename": "真实亚洲女性摄影_v1.0.bf16.safetensors",
+      "normalized_name": "真实亚洲女性摄影_v1.0.bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fb3b11fa32a8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-18T01:48:29Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35296556030",
+      "run_id": 35296556030,
+      "artifact_id": 10528064081,
+      "filename": "reakrea2TurboV1Bf16.safetensors",
+      "normalized_name": "reakrea2turbov1bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a9a0b15a8319",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-18T01:48:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35296645026",
       "run_id": 35296645026,
@@ -137831,7 +137857,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
