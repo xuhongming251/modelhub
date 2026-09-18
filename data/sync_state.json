@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-18T16:58:01.270Z",
-  "lastRunId": 35371435862,
+  "updatedAt": "2026-09-18T16:59:13.732Z",
+  "lastRunId": 35371525489,
   "items": [
+    {
+      "id": "run_35371525489",
+      "run_id": 35371525489,
+      "artifact_id": 10558718191,
+      "filename": "wan22-squirt-i2v-162epoc-low-k3nk.safetensors",
+      "normalized_name": "wan22-squirt-i2v-162epoc-low-k3nk.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8fca265ff313",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-18T16:58:28Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35371435862",
       "run_id": 35371435862,
