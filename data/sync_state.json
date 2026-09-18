@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-18T15:58:34.241Z",
-  "lastRunId": 35365441105,
+  "updatedAt": "2026-09-18T16:45:06.126Z",
+  "lastRunId": 35370191429,
   "items": [
+    {
+      "id": "run_35370191429",
+      "run_id": 35370191429,
+      "artifact_id": 10557956385,
+      "filename": "Pornmaster_wan 2.2_14b_I2V_ Squirt_Queen_v1.1_low_noise.safetensors",
+      "normalized_name": "pornmaster_wan 2.2_14b_i2v_ squirt_queen_v1.1_low_noise.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d393b464d6b8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-18T16:44:25Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35365441105",
       "run_id": 35365441105,
@@ -138410,7 +138423,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
