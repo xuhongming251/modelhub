@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-18T01:49:00.799Z",
-  "lastRunId": 35296645026,
+  "updatedAt": "2026-09-18T02:01:35.927Z",
+  "lastRunId": 35296769472,
   "items": [
+    {
+      "id": "run_35296769472",
+      "run_id": 35296769472,
+      "artifact_id": 10528008719,
+      "filename": "红潮 混合量化版本.safetensors",
+      "normalized_name": "红潮 混合量化版本.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/59e26675b53d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-18T02:01:00Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35296513849",
       "run_id": 35296513849,
@@ -137857,7 +137870,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
