@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-18T15:34:49.147Z",
-  "lastRunId": 35362350961,
+  "updatedAt": "2026-09-18T15:58:34.241Z",
+  "lastRunId": 35365441105,
   "items": [
+    {
+      "id": "run_35365441105",
+      "run_id": 35365441105,
+      "artifact_id": 10556167752,
+      "filename": "baiqi.safetensors",
+      "normalized_name": "baiqi.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/733a6507299c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-18T15:58:00Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35362437554",
+      "run_id": 35362437554,
+      "artifact_id": 10555048608,
+      "filename": "silvermoonmixAnima1.uEJ5.safetensors",
+      "normalized_name": "silvermoonmixanima1.uej5.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3e8e11f4629b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-18T15:34:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35362350961",
       "run_id": 35362350961,
@@ -138384,7 +138410,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 2,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
