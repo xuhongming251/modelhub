@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-18T06:32:39.229Z",
-  "lastRunId": 35315195712,
+  "updatedAt": "2026-09-18T06:43:34.471Z",
+  "lastRunId": 35316062642,
   "items": [
     {
-      "id": "run_35315195712",
-      "run_id": 35315195712,
-      "artifact_id": 10535190257,
+      "id": "run_35316062642",
+      "run_id": 35316062642,
+      "artifact_id": 10535900950,
       "filename": "Civitai 模型文件",
       "normalized_name": "civitai 模型文件",
       "original_url": "",
-      "share_url": "https://pan.quark.cn/s/3e3486843656",
+      "share_url": "https://pan.quark.cn/s/2fdb772c4f89",
       "channel": "quark",
       "channel_name": "Quark",
-      "completed_at": "2026-09-18T06:32:06Z",
+      "completed_at": "2026-09-18T06:43:11Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35315747912",
+      "run_id": 35315747912,
+      "artifact_id": 10535036637,
+      "filename": "Krea2_Turbo_convrot_int8mixed.safetensors",
+      "normalized_name": "krea2_turbo_convrot_int8mixed.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e0443d3ab6ef",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-18T06:42:24Z",
       "workflow": "upload.yml"
     },
     {
