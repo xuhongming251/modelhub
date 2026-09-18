@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-18T03:30:20.509Z",
-  "lastRunId": 35303340738,
+  "updatedAt": "2026-09-18T03:36:19.381Z",
+  "lastRunId": 35303521068,
   "items": [
+    {
+      "id": "run_35303521068",
+      "run_id": 35303521068,
+      "artifact_id": 10531001633,
+      "filename": "novaanimeamV40Int8.1P90.safetensors",
+      "normalized_name": "novaanimeamv40int8.1p90.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9d5dd1e68182",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-18T03:35:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35303340738",
       "run_id": 35303340738,
@@ -137883,7 +137896,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
