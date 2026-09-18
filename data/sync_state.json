@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-18T04:28:59.988Z",
-  "lastRunId": 35305008768,
+  "updatedAt": "2026-09-18T05:20:57.357Z",
+  "lastRunId": 35310296515,
   "items": [
+    {
+      "id": "run_35310296515",
+      "run_id": 35310296515,
+      "artifact_id": 10533052417,
+      "filename": "beyond20amateur.ZS5i.safetensors",
+      "normalized_name": "beyond20amateur.zs5i.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d481294aa5fd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-18T05:20:13Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35305008768",
       "run_id": 35305008768,
@@ -137948,7 +137961,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
