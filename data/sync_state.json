@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-18T08:24:50.954Z",
-  "lastRunId": 35320425219,
+  "updatedAt": "2026-09-18T08:27:04.847Z",
+  "lastRunId": 35324197181,
   "items": [
+    {
+      "id": "run_35324197181",
+      "run_id": 35324197181,
+      "artifact_id": 10539090670,
+      "filename": "Illustrious_barafresh_Rank64.safetensors",
+      "normalized_name": "illustrious_barafresh_rank64.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e0d4a564bada",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-18T08:26:22Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35324020585",
+      "run_id": 35324020585,
+      "artifact_id": 10539095092,
+      "filename": "Civitai 模型文件",
+      "normalized_name": "civitai 模型文件",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ed80a56d92a1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-18T08:22:43Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35320932110",
+      "run_id": 35320932110,
+      "artifact_id": 10537870047,
+      "filename": "10Eros_Max_h3_hybrid_beta5_int8.safetensors",
+      "normalized_name": "10eros_max_h3_hybrid_beta5_int8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4a23769eba18",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-18T07:49:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35320425219",
       "run_id": 35320425219,
@@ -14,19 +53,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-18T07:40:04Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_35316062642",
-      "run_id": 35316062642,
-      "artifact_id": 10535900950,
-      "filename": "Civitai 模型文件",
-      "normalized_name": "civitai 模型文件",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/2fdb772c4f89",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-18T06:43:11Z",
       "workflow": "upload.yml"
     },
     {
@@ -138013,7 +138039,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 8,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
