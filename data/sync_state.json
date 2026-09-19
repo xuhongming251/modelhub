@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T22:24:53.853Z",
-  "lastRunId": 35470314976,
+  "updatedAt": "2026-09-19T23:03:36.521Z",
+  "lastRunId": 35474945355,
   "items": [
+    {
+      "id": "run_35474945355",
+      "run_id": 35474945355,
+      "artifact_id": 10594123696,
+      "filename": "eopAnimaAnima3253810.s2nr.safetensors",
+      "normalized_name": "eopanimaanima3253810.s2nr.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c81d1549cf1f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-19T23:03:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35470314976",
       "run_id": 35470314976,
@@ -138976,7 +138989,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 3,
       "createdBefore": null,
       "exhausted": false
     }
