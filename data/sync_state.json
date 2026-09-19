@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T09:53:21.188Z",
+  "updatedAt": "2026-09-19T11:22:18.791Z",
   "lastRunId": 35435630747,
   "items": [
+    {
+      "id": "run_35435582243",
+      "run_id": 35435582243,
+      "artifact_id": 10582019764,
+      "filename": "catponyAniV10Fp16.yYwq.safetensors",
+      "normalized_name": "catponyaniv10fp16.yywq.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2f2acbf9d732",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-19T09:52:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35435630747",
       "run_id": 35435630747,
@@ -138768,7 +138781,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
