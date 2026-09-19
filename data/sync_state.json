@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T17:42:49.098Z",
+  "updatedAt": "2026-09-19T17:45:59.130Z",
   "lastRunId": 35458840713,
   "items": [
+    {
+      "id": "run_35458563590",
+      "run_id": 35458563590,
+      "artifact_id": 10589046730,
+      "filename": "Qwen3.8-27B-TurboFCFusion-735-882-Here-Uncen-NEO-CODER-MAX-MTP-Q4_K_M.gguf",
+      "normalized_name": "qwen3.8-27b-turbofcfusion-735-882-here-uncen-neo-coder-max-mtp-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1bb9d21b1be2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-19T17:45:26Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35458840713",
       "run_id": 35458840713,
