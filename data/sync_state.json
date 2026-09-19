@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T21:17:54.437Z",
-  "lastRunId": 35469927387,
+  "updatedAt": "2026-09-19T22:07:43.982Z",
+  "lastRunId": 35470314976,
   "items": [
+    {
+      "id": "run_35470314976",
+      "run_id": 35470314976,
+      "artifact_id": 10592839985,
+      "filename": "kWaluanv09.SRaW.safetensors",
+      "normalized_name": "kwaluanv09.sraw.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c3ca7193257b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-19T22:07:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35469927387",
       "run_id": 35469927387,
@@ -138963,7 +138976,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 3,
       "createdBefore": null,
       "exhausted": false
     }
