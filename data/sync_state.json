@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T04:27:06.242Z",
-  "lastRunId": 35421269035,
+  "updatedAt": "2026-09-19T04:53:18.817Z",
+  "lastRunId": 35422443035,
   "items": [
+    {
+      "id": "run_35422443035",
+      "run_id": 35422443035,
+      "artifact_id": 10577064571,
+      "filename": "ntd11AnimeNsfwSegmV5.wuIG.zip",
+      "normalized_name": "ntd11animensfwsegmv5.wuig.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0e6d24587ebb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-19T04:52:45Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35421269035",
       "run_id": 35421269035,
@@ -131823,12 +131836,6 @@
       "completed_at": "2026-03-23T06:11:23Z"
     },
     {
-      "filename": "ntd11AnimeNsfwSegmV5.wuIG.zip",
-      "normalized_name": "ntd11animensfwsegmv5.wuig.zip",
-      "share_url": "https://pan.quark.cn/s/01ff86242f60",
-      "completed_at": "2026-03-23T05:53:36Z"
-    },
-    {
       "filename": "faceloader.go",
       "normalized_name": "faceloader.go",
       "share_url": "https://pan.quark.cn/s/63d4fbfaacd5",
@@ -138683,7 +138690,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
