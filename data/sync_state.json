@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T09:34:00.751Z",
-  "lastRunId": 35434980968,
+  "updatedAt": "2026-09-19T09:50:19.050Z",
+  "lastRunId": 35435630747,
   "items": [
+    {
+      "id": "run_35435630747",
+      "run_id": 35435630747,
+      "artifact_id": 10582044341,
+      "filename": "miaomiao20harem20Anima.hcZp.safetensors",
+      "normalized_name": "miaomiao20harem20anima.hczp.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c791855732fc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-19T09:49:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35434980968",
       "run_id": 35434980968,
@@ -1067,19 +1080,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-18T01:47:34Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_35259714532",
-      "run_id": 35259714532,
-      "artifact_id": 10514750508,
-      "filename": "miaomiao20harem20Anima.hcZp.safetensors",
-      "normalized_name": "miaomiao20harem20anima.hczp.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/53cb56c00a59",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-17T18:36:09Z",
       "workflow": "upload.yml"
     },
     {
