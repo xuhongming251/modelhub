@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T15:45:04.026Z",
-  "lastRunId": 35452727625,
+  "updatedAt": "2026-09-19T16:33:14.213Z",
+  "lastRunId": 35455229133,
   "items": [
+    {
+      "id": "run_35455229133",
+      "run_id": 35455229133,
+      "artifact_id": 10588221446,
+      "filename": "plantMilkModelSuite_walnut.safetensors",
+      "normalized_name": "plantmilkmodelsuite_walnut.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f7bde1c46bdf",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-19T16:32:44Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35452727625",
       "run_id": 35452727625,
