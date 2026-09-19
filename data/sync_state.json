@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T06:46:00.210Z",
-  "lastRunId": 35427343339,
+  "updatedAt": "2026-09-19T07:40:36.218Z",
+  "lastRunId": 35429646259,
   "items": [
+    {
+      "id": "run_35429646259",
+      "run_id": 35429646259,
+      "artifact_id": 10581030444,
+      "filename": "animaikaV48.vaU5.safetensors",
+      "normalized_name": "animaikav48.vau5.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/63cdd0541e94",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-19T07:39:28Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35427331983",
       "run_id": 35427331983,
@@ -138742,7 +138755,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
