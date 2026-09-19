@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T17:49:49.038Z",
+  "updatedAt": "2026-09-19T17:55:54.322Z",
   "lastRunId": 35458840713,
   "items": [
+    {
+      "id": "run_35454899311",
+      "run_id": 35454899311,
+      "artifact_id": 10589527167,
+      "filename": "plantMilkModelSuite_walnut.safetensors",
+      "normalized_name": "plantmilkmodelsuite_walnut.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/16pH0-DTReQob1Sm81EGnzw?pwd=0484",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-09-19T17:55:25Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35458563590",
       "run_id": 35458563590,
@@ -66,19 +79,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-19T17:00:45Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_35455229133",
-      "run_id": 35455229133,
-      "artifact_id": 10588221446,
-      "filename": "plantMilkModelSuite_walnut.safetensors",
-      "normalized_name": "plantmilkmodelsuite_walnut.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/f7bde1c46bdf",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-19T16:32:44Z",
       "workflow": "upload.yml"
     },
     {
