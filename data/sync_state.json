@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T23:03:36.521Z",
-  "lastRunId": 35474945355,
+  "updatedAt": "2026-09-19T23:18:55.217Z",
+  "lastRunId": 35475725178,
   "items": [
+    {
+      "id": "run_35475725178",
+      "run_id": 35475725178,
+      "artifact_id": 10594189372,
+      "filename": "nijiOilPaintingAnima.Lp0d.safetensors",
+      "normalized_name": "nijioilpaintinganima.lp0d.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2d42eb4c49c0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-19T23:18:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35474945355",
       "run_id": 35474945355,
@@ -37675,19 +37688,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-01T14:22:50Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30703607588",
-      "run_id": 30703607588,
-      "artifact_id": 8819603112,
-      "filename": "nijiOilPaintingAnima.Lp0d.safetensors",
-      "normalized_name": "nijioilpaintinganima.lp0d.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/eb22b0e121d2",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-01T14:22:05Z",
       "workflow": "upload.yml"
     },
     {
