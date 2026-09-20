@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T08:15:19.910Z",
-  "lastRunId": 35499012747,
+  "updatedAt": "2026-09-20T08:19:01.188Z",
+  "lastRunId": 35499180384,
   "items": [
+    {
+      "id": "run_35499180384",
+      "run_id": 35499180384,
+      "artifact_id": 10601344596,
+      "filename": "barapaintingv1.safetensors",
+      "normalized_name": "barapaintingv1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4757629b8166",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-20T08:18:34Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35499012747",
       "run_id": 35499012747,
