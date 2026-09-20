@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T11:42:18.957Z",
-  "lastRunId": 35508452841,
+  "updatedAt": "2026-09-20T12:31:46.197Z",
+  "lastRunId": 35510830760,
   "items": [
+    {
+      "id": "run_35510830760",
+      "run_id": 35510830760,
+      "artifact_id": 10605111723,
+      "filename": "llama-prism-b10709-9a9394a-bin-win-cuda-13.3-x64.zip",
+      "normalized_name": "llama-prism-b10709-9a9394a-bin-win-cuda-13.3-x64.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9a68211bb1cf",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-20T12:31:19Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35508452841",
       "run_id": 35508452841,
