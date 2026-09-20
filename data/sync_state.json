@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T00:29:17.014Z",
-  "lastRunId": 35478853632,
+  "updatedAt": "2026-09-20T00:56:42.838Z",
+  "lastRunId": 35480045344,
   "items": [
+    {
+      "id": "run_35480045344",
+      "run_id": 35480045344,
+      "artifact_id": 10596070610,
+      "filename": "animaFootrepairV2.PloJ.safetensors",
+      "normalized_name": "animafootrepairv2.ploj.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/088301419b1d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-20T00:56:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35478853632",
       "run_id": 35478853632,
@@ -2510,19 +2523,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-17T02:44:30Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_35175072139",
-      "run_id": 35175072139,
-      "artifact_id": 10478028345,
-      "filename": "animaFootrepairV2.PloJ.safetensors",
-      "normalized_name": "animafootrepairv2.ploj.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/799a888ab1f7",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-17T02:37:17Z",
       "workflow": "upload.yml"
     },
     {
