@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T03:41:40.147Z",
-  "lastRunId": 35487188136,
+  "updatedAt": "2026-09-20T03:44:08.418Z",
+  "lastRunId": 35487300350,
   "items": [
+    {
+      "id": "run_35487300350",
+      "run_id": 35487300350,
+      "artifact_id": 10598260916,
+      "filename": "Z-Fat-Slider.safetensors",
+      "normalized_name": "z-fat-slider.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6614ed22cf90",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-20T03:43:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35487188136",
       "run_id": 35487188136,
@@ -68303,19 +68316,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-01T10:12:32Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28509912424",
-      "run_id": 28509912424,
-      "artifact_id": 8006709619,
-      "filename": "Z-Fat-Slider.safetensors",
-      "normalized_name": "z-fat-slider.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/b367df422774",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-01T10:09:08Z",
       "workflow": "upload.yml"
     },
     {
