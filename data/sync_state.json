@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T07:03:42.474Z",
-  "lastRunId": 35495791523,
+  "updatedAt": "2026-09-20T07:04:40.002Z",
+  "lastRunId": 35495862105,
   "items": [
+    {
+      "id": "run_35495862105",
+      "run_id": 35495862105,
+      "artifact_id": 10600389385,
+      "filename": "absSliderAnimaDat8.3RAl.safetensors",
+      "normalized_name": "absslideranimadat8.3ral.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1554cc5f14e0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-20T07:04:12Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35495791523",
       "run_id": 35495791523,
@@ -139282,7 +139295,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 3,
       "createdBefore": null,
       "exhausted": false
     }
