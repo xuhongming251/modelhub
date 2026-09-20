@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T07:04:40.002Z",
-  "lastRunId": 35495862105,
+  "updatedAt": "2026-09-20T07:05:53.722Z",
+  "lastRunId": 35495882566,
   "items": [
+    {
+      "id": "run_35495882566",
+      "run_id": 35495882566,
+      "artifact_id": 10599834297,
+      "filename": "rekemono_v90B.safetensors",
+      "normalized_name": "rekemono_v90b.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dc8e5be84ad8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-20T07:05:20Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35495862105",
       "run_id": 35495862105,
