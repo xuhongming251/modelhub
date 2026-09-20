@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T15:13:14.885Z",
+  "updatedAt": "2026-09-20T15:17:42.265Z",
   "lastRunId": 35518655404,
   "items": [
+    {
+      "id": "run_35518644306",
+      "run_id": 35518644306,
+      "artifact_id": 10607692663,
+      "filename": "qwen3vl_8b_bf16.safetensors",
+      "normalized_name": "qwen3vl_8b_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a3fcbf7b34fd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-20T15:17:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35518616218",
       "run_id": 35518616218,
