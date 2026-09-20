@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T15:28:26.832Z",
-  "lastRunId": 35519575279,
+  "updatedAt": "2026-09-20T15:29:26.736Z",
+  "lastRunId": 35519621971,
   "items": [
+    {
+      "id": "run_35519621971",
+      "run_id": 35519621971,
+      "artifact_id": 10607683494,
+      "filename": "yunli.safetensors",
+      "normalized_name": "yunli.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b47eee94096d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-20T15:28:50Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35519575279",
       "run_id": 35519575279,
