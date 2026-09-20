@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T08:26:02.027Z",
-  "lastRunId": 35499489160,
+  "updatedAt": "2026-09-20T08:28:10.182Z",
+  "lastRunId": 35499595670,
   "items": [
+    {
+      "id": "run_35499595670",
+      "run_id": 35499595670,
+      "artifact_id": 10601764432,
+      "filename": "Shiny bara.safetensors",
+      "normalized_name": "shiny bara.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f076049a6624",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-20T08:27:41Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35499522502",
+      "run_id": 35499522502,
+      "artifact_id": 10600749176,
+      "filename": "3d bara anthroMerge.safetensors",
+      "normalized_name": "3d bara anthromerge.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f123e0911f5a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-20T08:26:05Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35499489160",
       "run_id": 35499489160,
