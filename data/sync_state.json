@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T08:09:30.006Z",
-  "lastRunId": 35498735608,
+  "updatedAt": "2026-09-20T08:10:41.559Z",
+  "lastRunId": 35498800465,
   "items": [
+    {
+      "id": "run_35498800465",
+      "run_id": 35498800465,
+      "artifact_id": 10601738314,
+      "filename": "0e36c89f-3a16-4ab0-a1c3-43d59d92f5aa.TA_trained.safetensors",
+      "normalized_name": "0e36c89f-3a16-4ab0-a1c3-43d59d92f5aa.ta_trained.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8f2bc42d6629",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-20T08:10:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35498735608",
       "run_id": 35498735608,
