@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T03:30:14.691Z",
-  "lastRunId": 35486690200,
+  "updatedAt": "2026-09-20T03:31:52.107Z",
+  "lastRunId": 35486770067,
   "items": [
+    {
+      "id": "run_35486770067",
+      "run_id": 35486770067,
+      "artifact_id": 10598195464,
+      "filename": "Z-Breast-Slider.safetensors",
+      "normalized_name": "z-breast-slider.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a095abca22e3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-20T03:31:18Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35486690200",
       "run_id": 35486690200,
@@ -55836,19 +55849,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-12T17:52:22Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29202727444",
-      "run_id": 29202727444,
-      "artifact_id": 8262851944,
-      "filename": "Z-Breast-Slider.safetensors",
-      "normalized_name": "z-breast-slider.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/4d56246006af",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-12T17:50:08Z",
       "workflow": "upload.yml"
     },
     {
