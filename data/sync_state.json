@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T11:27:07.105Z",
-  "lastRunId": 35507829111,
+  "updatedAt": "2026-09-20T11:37:23.396Z",
+  "lastRunId": 35508263148,
   "items": [
+    {
+      "id": "run_35508263148",
+      "run_id": 35508263148,
+      "artifact_id": 10603988252,
+      "filename": "PortableGit-2.55.0.5-64-bit.7z.exe",
+      "normalized_name": "portablegit-2.55.0.5-64-bit.7z.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/aa1f0b2be322",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-20T11:36:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35507829111",
       "run_id": 35507829111,
