@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T03:31:52.107Z",
-  "lastRunId": 35486770067,
+  "updatedAt": "2026-09-20T03:41:40.147Z",
+  "lastRunId": 35487188136,
   "items": [
+    {
+      "id": "run_35487188136",
+      "run_id": 35487188136,
+      "artifact_id": 10598341442,
+      "filename": "Z-Real-v1.0.safetensors",
+      "normalized_name": "z-real-v1.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a3d55a134eab",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-20T03:41:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35486770067",
       "run_id": 35486770067,
@@ -131565,12 +131578,6 @@
       "normalized_name": "head_swap_v3_rank_adaptive_fro_098.safetensors",
       "share_url": "https://pan.quark.cn/s/25e8c26cf273",
       "completed_at": "2026-03-26T01:05:33Z"
-    },
-    {
-      "filename": "Z-Real-v1.0.safetensors",
-      "normalized_name": "z-real-v1.0.safetensors",
-      "share_url": "https://pan.quark.cn/s/c88cdd7d9d12",
-      "completed_at": "2026-03-26T01:03:29Z"
     },
     {
       "filename": "ComfyUI-bleh.zip",
