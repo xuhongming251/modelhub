@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T14:11:27.887Z",
-  "lastRunId": 35515673982,
+  "updatedAt": "2026-09-20T14:16:38.007Z",
+  "lastRunId": 35515937693,
   "items": [
+    {
+      "id": "run_35515937693",
+      "run_id": 35515937693,
+      "artifact_id": 10607235604,
+      "filename": "perky.7yLH.safetensors",
+      "normalized_name": "perky.7ylh.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/65253eca8a32",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-20T14:16:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35515673982",
       "run_id": 35515673982,
