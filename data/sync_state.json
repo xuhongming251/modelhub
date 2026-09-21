@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-21T06:53:59.609Z",
-  "lastRunId": 35570286992,
+  "updatedAt": "2026-09-21T06:55:17.684Z",
+  "lastRunId": 35570412513,
   "items": [
+    {
+      "id": "run_35570412513",
+      "run_id": 35570412513,
+      "artifact_id": 10624944048,
+      "filename": "Maha-IllustXL.safetensors",
+      "normalized_name": "maha-illustxl.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/24193f4afbd4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-21T06:54:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35570286992",
       "run_id": 35570286992,
