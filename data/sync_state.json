@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-21T23:15:00.479Z",
-  "lastRunId": 35666562158,
+  "updatedAt": "2026-09-21T23:18:29.715Z",
+  "lastRunId": 35666816410,
   "items": [
+    {
+      "id": "run_35666813549",
+      "run_id": 35666813549,
+      "artifact_id": 10668574558,
+      "filename": "Espeon.safetensors",
+      "normalized_name": "espeon.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1gDpObc4Wt-6i1yjbRjJTqA?pwd=d168",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-09-21T23:17:56Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35666816410",
+      "run_id": 35666816410,
+      "artifact_id": 10669488047,
+      "filename": "K2-动态模糊ethereal motion blur style.safetensors",
+      "normalized_name": "k2-动态模糊ethereal motion blur style.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/370e72822c97",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-21T23:17:34Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35666562158",
       "run_id": 35666562158,
