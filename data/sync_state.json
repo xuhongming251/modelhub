@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-21T20:06:45.686Z",
-  "lastRunId": 35648898853,
+  "updatedAt": "2026-09-21T20:08:08.892Z",
+  "lastRunId": 35649056445,
   "items": [
+    {
+      "id": "run_35649056445",
+      "run_id": 35649056445,
+      "artifact_id": 10661795433,
+      "filename": "krea2-Cc-丰盈-人像.safetensors",
+      "normalized_name": "krea2-cc-丰盈-人像.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4f6205561ba0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-21T20:07:55Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35648898853",
       "run_id": 35648898853,
@@ -53,19 +66,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-21T20:02:07Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_35648443233",
-      "run_id": 35648443233,
-      "artifact_id": 10661171466,
-      "filename": "krea2-Cc-丰盈-人像.safetensors",
-      "normalized_name": "krea2-cc-丰盈-人像.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/a0dba4d1e282",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-21T20:01:48Z",
       "workflow": "upload.yml"
     },
     {
