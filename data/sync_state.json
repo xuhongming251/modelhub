@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-21T06:00:56.082Z",
-  "lastRunId": 35566563011,
+  "updatedAt": "2026-09-21T06:02:39.070Z",
+  "lastRunId": 35566638299,
   "items": [
+    {
+      "id": "run_35566638299",
+      "run_id": 35566638299,
+      "artifact_id": 10624139083,
+      "filename": "illu_Howard_Stella-63.safetensors",
+      "normalized_name": "illu_howard_stella-63.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/710fd4559037",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-21T06:02:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35566563011",
       "run_id": 35566563011,
