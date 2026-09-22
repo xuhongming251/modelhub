@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-22T02:24:31.669Z",
-  "lastRunId": 35679256811,
+  "updatedAt": "2026-09-22T03:39:07.466Z",
+  "lastRunId": 35683863549,
   "items": [
+    {
+      "id": "run_35683863549",
+      "run_id": 35683863549,
+      "artifact_id": 10676510743,
+      "filename": "MajoNoTabiTabi_Elaina_IlluXL.safetensors",
+      "normalized_name": "majonotabitabi_elaina_illuxl.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ce59e9020881",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-22T03:38:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35679256811",
       "run_id": 35679256811,
@@ -141128,7 +141141,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
