@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-22T18:04:38.734Z",
+  "updatedAt": "2026-09-22T18:16:36.648Z",
   "lastRunId": 35743021692,
   "items": [
+    {
+      "id": "run_35732353472",
+      "run_id": 35732353472,
+      "artifact_id": 10711892789,
+      "filename": "kera2WinpicInt814.bbWB.safetensors",
+      "normalized_name": "kera2winpicint814.bbwb.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1cLCbnefuc8tbfcpUONfnYw?pwd=ebc1",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-09-22T18:15:57Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35730883427",
+      "run_id": 35730883427,
+      "artifact_id": 10712170189,
+      "filename": "kera2WinpicInt414.w11r.safetensors",
+      "normalized_name": "kera2winpicint414.w11r.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1LZhdYlWecWOK_yaiHvj5Vw?pwd=157c",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-09-22T18:03:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35739970361",
       "run_id": 35739970361,
@@ -141219,7 +141245,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
