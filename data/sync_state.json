@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-23T16:09:12.560Z",
-  "lastRunId": 35883967635,
+  "updatedAt": "2026-09-23T16:28:45.361Z",
+  "lastRunId": 35887502397,
   "items": [
+    {
+      "id": "run_35887502397",
+      "run_id": 35887502397,
+      "artifact_id": 10764545015,
+      "filename": "noctqV1Int8Convrot.PQRl.safetensors",
+      "normalized_name": "noctqv1int8convrot.pqrl.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6b657ed886e5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-23T16:28:00Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35886530366",
+      "run_id": 35886530366,
+      "artifact_id": 10762384799,
+      "filename": "novaanimeilv190.qaxy.safetensors",
+      "normalized_name": "novaanimeilv190.qaxy.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0e8c8a1ef38a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-23T16:08:29Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35885380155",
+      "run_id": 35885380155,
+      "artifact_id": 10762722487,
+      "filename": "meiko-honma-s1-illustriousxl-lora-nochekaiser.safetensors",
+      "normalized_name": "meiko-honma-s1-illustriousxl-lora-nochekaiser.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9f3a7f0db49c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-23T15:59:28Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35883967635",
       "run_id": 35883967635,
@@ -80484,19 +80523,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-24T02:51:23Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28068754401",
-      "run_id": 28068754401,
-      "artifact_id": 7837870669,
-      "filename": "novaanimeilv190.qaxy.safetensors",
-      "normalized_name": "novaanimeilv190.qaxy.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/d191fbf89947",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-24T01:27:29Z",
       "workflow": "upload.yml"
     },
     {
