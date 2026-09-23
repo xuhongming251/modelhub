@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-23T14:32:21.626Z",
-  "lastRunId": 35872199694,
+  "updatedAt": "2026-09-23T14:35:51.619Z",
+  "lastRunId": 35874764450,
   "items": [
+    {
+      "id": "run_35874764450",
+      "run_id": 35874764450,
+      "artifact_id": 10756581856,
+      "filename": "frieren-s1-illustriousxl-lora-nochekaiser.safetensors",
+      "normalized_name": "frieren-s1-illustriousxl-lora-nochekaiser.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/20a625ad4f86",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-23T14:31:51Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35874042366",
+      "run_id": 35874042366,
+      "artifact_id": 10757196352,
+      "filename": "fern-s1-illustriousxl-lora-nochekaiser.safetensors",
+      "normalized_name": "fern-s1-illustriousxl-lora-nochekaiser.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/538fb94cb8f3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-23T14:27:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35872049993",
       "run_id": 35872049993,
@@ -716,19 +742,6 @@
       "channel": "baidu",
       "channel_name": "Baidu",
       "completed_at": "2026-09-22T17:35:35Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_35743021692",
-      "run_id": 35743021692,
-      "artifact_id": 10710271230,
-      "filename": "fern-s1-illustriousxl-lora-nochekaiser.safetensors",
-      "normalized_name": "fern-s1-illustriousxl-lora-nochekaiser.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.baidu.com/s/1Ldf68Q0yRbP0y8T4-p5JXw?pwd=f935",
-      "channel": "baidu",
-      "channel_name": "Baidu",
-      "completed_at": "2026-09-22T17:18:35Z",
       "workflow": "upload.yml"
     },
     {
@@ -141759,7 +141772,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
