@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-23T03:05:03.123Z",
-  "lastRunId": 35807514823,
+  "updatedAt": "2026-09-23T03:30:20.592Z",
+  "lastRunId": 35814441108,
   "items": [
+    {
+      "id": "run_35814441108",
+      "run_id": 35814441108,
+      "artifact_id": 10729999920,
+      "filename": "sdxl_vae.safetensors",
+      "normalized_name": "sdxl_vae.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1iHOv-7BBja2UOf86sK6WFA?pwd=1630",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-09-23T03:29:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35806848620",
       "run_id": 35806848620,
@@ -261,19 +274,6 @@
       "channel": "baidu",
       "channel_name": "Baidu",
       "completed_at": "2026-09-22T14:34:26Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_35739973984",
-      "run_id": 35739973984,
-      "artifact_id": 10698454100,
-      "filename": "sdxl_vae.safetensors",
-      "normalized_name": "sdxl_vae.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.baidu.com/s/1LSqbD6OJcEdV2kqW2CesKQ?pwd=5f1c",
-      "channel": "baidu",
-      "channel_name": "Baidu",
-      "completed_at": "2026-09-22T14:26:36Z",
       "workflow": "upload.yml"
     },
     {
