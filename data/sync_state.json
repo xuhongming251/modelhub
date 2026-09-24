@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-24T18:16:13.815Z",
-  "lastRunId": 36039904288,
+  "updatedAt": "2026-09-24T18:20:16.913Z",
+  "lastRunId": 36040266280,
   "items": [
+    {
+      "id": "run_36040266280",
+      "run_id": 36040266280,
+      "artifact_id": 10825618929,
+      "filename": "xiaoxunerZhongzhouV2.oBYu.safetensors",
+      "normalized_name": "xiaoxunerzhongzhouv2.obyu.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/594894719e91",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-24T18:19:29Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36039904288",
       "run_id": 36039904288,
@@ -142123,7 +142136,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
