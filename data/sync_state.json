@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-24T04:57:23.627Z",
-  "lastRunId": 35957624538,
+  "updatedAt": "2026-09-24T05:08:11.554Z",
+  "lastRunId": 35958535379,
   "items": [
+    {
+      "id": "run_35958535379",
+      "run_id": 35958535379,
+      "artifact_id": 10791661564,
+      "filename": "abby.xUR0.safetensors",
+      "normalized_name": "abby.xur0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f873e21e0b43",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-24T05:07:39Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_35957790511",
+      "run_id": 35957790511,
+      "artifact_id": 10790872030,
+      "filename": "azur-promilia-abby",
+      "normalized_name": "azur-promilia-abby",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/af8e062ef345",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-24T04:57:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_35957624538",
       "run_id": 35957624538,
@@ -14,19 +40,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-24T04:56:50Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_35957209790",
-      "run_id": 35957209790,
-      "artifact_id": 10791176153,
-      "filename": "azur-promilia-abby",
-      "normalized_name": "azur-promilia-abby",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/2adc43b4377c",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-24T04:49:02Z",
       "workflow": "upload.yml"
     },
     {
