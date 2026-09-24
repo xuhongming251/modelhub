@@ -1,8 +1,60 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-24T18:35:13.086Z",
-  "lastRunId": 36040762977,
+  "updatedAt": "2026-09-24T19:25:15.446Z",
+  "lastRunId": 36047884855,
   "items": [
+    {
+      "id": "run_36047884855",
+      "run_id": 36047884855,
+      "artifact_id": 10828943181,
+      "filename": "character2020E799BEE782BCE68890E7.oC81.safetensors",
+      "normalized_name": "character2020e799bee782bce68890e7.oc81.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bf63c0560f3f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-24T19:24:38Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36047866109",
+      "run_id": 36047866109,
+      "artifact_id": 10828578821,
+      "filename": "liumei20IL.oaSQ.safetensors",
+      "normalized_name": "liumei20il.oasq.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9895824e9b49",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-24T19:24:26Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36041005333",
+      "run_id": 36041005333,
+      "artifact_id": 10826777905,
+      "filename": "genshin-xianyun-ingame-illustriousxl-lora-nochekaiser.safetensors",
+      "normalized_name": "genshin-xianyun-ingame-illustriousxl-lora-nochekaiser.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/42a3f1109cdf",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-24T18:24:57Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36040864336",
+      "run_id": 36040864336,
+      "artifact_id": 10826262956,
+      "filename": "Makoto_Kanou_and_Kanako_Shiraishi_Tsuma_Netori_Rei_Boku_no_Ayamachi_Kanojo_no_Sentaku.safetensors",
+      "normalized_name": "makoto_kanou_and_kanako_shiraishi_tsuma_netori_rei_boku_no_ayamachi_kanojo_no_sentaku.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0da25bbce7f1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-24T18:23:45Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36040762977",
       "run_id": 36040762977,
@@ -142162,7 +142214,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
