@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T02:42:40.887Z",
-  "lastRunId": 36086655864,
+  "updatedAt": "2026-09-25T03:05:10.860Z",
+  "lastRunId": 36088758222,
   "items": [
+    {
+      "id": "run_36088758222",
+      "run_id": 36088758222,
+      "artifact_id": 10844996682,
+      "filename": "Next-Trainer-v3.1.0-lite.7z",
+      "normalized_name": "next-trainer-v3.1.0-lite.7z",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d87c6fc1e20c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-25T03:04:31Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36085376647",
+      "run_id": 36085376647,
+      "artifact_id": 10843873983,
+      "filename": "Qwen3.8-Flash-Next-Uncensored-Q4_K_M-MTP-00003-of-00004.gguf",
+      "normalized_name": "qwen3.8-flash-next-uncensored-q4_k_m-mtp-00003-of-00004.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4a5a7eafa999",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-25T02:42:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36086655864",
       "run_id": 36086655864,
