@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T03:05:10.860Z",
+  "updatedAt": "2026-09-25T03:25:01.100Z",
   "lastRunId": 36088758222,
   "items": [
+    {
+      "id": "run_36085365171",
+      "run_id": 36085365171,
+      "artifact_id": 10845158214,
+      "filename": "Qwen3.8-Flash-Next-Uncensored-Q4_K_M-MTP-00001-of-00004.gguf",
+      "normalized_name": "qwen3.8-flash-next-uncensored-q4_k_m-mtp-00001-of-00004.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bfdf2aa2ab0c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-25T03:24:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36088758222",
       "run_id": 36088758222,
