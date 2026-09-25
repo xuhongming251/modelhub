@@ -1,8 +1,60 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T15:24:06.699Z",
-  "lastRunId": 36149005925,
+  "updatedAt": "2026-09-25T16:41:45.424Z",
+  "lastRunId": 36162016690,
   "items": [
+    {
+      "id": "run_36162016690",
+      "run_id": 36162016690,
+      "artifact_id": 10876376736,
+      "filename": "dasiwaMinimaxH3Ref2vaV2.u7zX.safetensors",
+      "normalized_name": "dasiwaminimaxh3ref2vav2.u7zx.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/03c2bd8f8241",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-25T16:41:03Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36153654337",
+      "run_id": 36153654337,
+      "artifact_id": 10873082046,
+      "filename": "67ZDBPEYAPRPE1ARX5X358DY10.safetensors",
+      "normalized_name": "67zdbpeyaprpe1arx5x358dy10.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/799f0572ee14",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-25T15:23:23Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36151317002",
+      "run_id": 36151317002,
+      "artifact_id": 10872125703,
+      "filename": "9a2189a6b4cc31f81e093d3856ad293a5583114439f41ae1ed7af4093262",
+      "normalized_name": "9a2189a6b4cc31f81e093d3856ad293a5583114439f41ae1ed7af4093262",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b9ecfedcf9d8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-25T15:06:51Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36150710535",
+      "run_id": 36150710535,
+      "artifact_id": 10871776820,
+      "filename": "Qwen3.5-9B-Uncensored-HauhauCS-Aggressive-Q8_0.gguf",
+      "normalized_name": "qwen3.5-9b-uncensored-hauhaucs-aggressive-q8_0.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b5370a2d6810",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-25T14:57:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36149005925",
       "run_id": 36149005925,
@@ -235,19 +287,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-25T12:34:00Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_36132038307",
-      "run_id": 36132038307,
-      "artifact_id": 10861971620,
-      "filename": "Qwen3.5-9B-Uncensored-HauhauCS-Aggressive-Q8_0.gguf",
-      "normalized_name": "qwen3.5-9b-uncensored-hauhaucs-aggressive-q8_0.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/07391d61d569",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-25T12:00:28Z",
       "workflow": "upload.yml"
     },
     {
@@ -6527,19 +6566,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-17T04:29:40Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_35181510780",
-      "run_id": 35181510780,
-      "artifact_id": 10480362060,
-      "filename": "dasiwaMinimaxH3Ref2vaV2.u7zX.safetensors",
-      "normalized_name": "dasiwaminimaxh3ref2vav2.u7zx.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/c6eb63d0a5ff",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-17T04:21:58Z",
       "workflow": "upload.yml"
     },
     {
@@ -142721,7 +142747,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
