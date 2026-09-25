@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T09:42:36.352Z",
-  "lastRunId": 36118340969,
+  "updatedAt": "2026-09-25T10:00:06.052Z",
+  "lastRunId": 36121181826,
   "items": [
+    {
+      "id": "run_36121181826",
+      "run_id": 36121181826,
+      "artifact_id": 10858290977,
+      "filename": "wooper.8ijs.safetensors",
+      "normalized_name": "wooper.8ijs.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/13JMxmwPtnYsFZ2ObPiQKBA?pwd=05d5",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-09-25T09:57:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36118340969",
       "run_id": 36118340969,
@@ -142461,7 +142474,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
