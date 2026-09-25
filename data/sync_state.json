@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T17:00:04.233Z",
-  "lastRunId": 36162016690,
+  "updatedAt": "2026-09-25T17:03:11.844Z",
+  "lastRunId": 36163951732,
   "items": [
+    {
+      "id": "run_36163951732",
+      "run_id": 36163951732,
+      "artifact_id": 10876359741,
+      "filename": "minimaxH3HyperflowEMA600.Rzai.safetensors",
+      "normalized_name": "minimaxh3hyperflowema600.rzai.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/581f2a3841d1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-25T16:59:25Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36163882674",
+      "run_id": 36163882674,
+      "artifact_id": 10875764271,
+      "filename": "minimax_h3_fl2v_turbo_8step_v1.0_768p_comfyui_bf16.safetensors",
+      "normalized_name": "minimax_h3_fl2v_turbo_8step_v1.0_768p_comfyui_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1a145a002495",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-25T16:56:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36162016690",
       "run_id": 36162016690,
@@ -15627,19 +15653,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-02T16:05:19Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_33652151956",
-      "run_id": 33652151956,
-      "artifact_id": 9855232060,
-      "filename": "minimax_h3_fl2v_turbo_8step_v1.0_768p_comfyui_bf16.safetensors",
-      "normalized_name": "minimax_h3_fl2v_turbo_8step_v1.0_768p_comfyui_bf16.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/c8d7702462b5",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-02T16:01:01Z",
       "workflow": "upload.yml"
     },
     {
@@ -142747,7 +142760,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
