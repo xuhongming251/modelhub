@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T10:00:06.052Z",
-  "lastRunId": 36121181826,
+  "updatedAt": "2026-09-25T10:12:39.059Z",
+  "lastRunId": 36121591478,
   "items": [
+    {
+      "id": "run_36121591478",
+      "run_id": 36121591478,
+      "artifact_id": 10857703515,
+      "filename": "Espurr.safetensors",
+      "normalized_name": "espurr.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1W_jR84cOoQFxEyS8wzkK4w?pwd=7ea4",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-09-25T10:11:52Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36121181826",
       "run_id": 36121181826,
@@ -142474,7 +142487,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
