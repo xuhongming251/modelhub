@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T21:35:47.377Z",
-  "lastRunId": 36192215506,
+  "updatedAt": "2026-09-25T21:41:48.803Z",
+  "lastRunId": 36192829697,
   "items": [
+    {
+      "id": "run_36192829697",
+      "run_id": 36192829697,
+      "artifact_id": 10888353432,
+      "filename": "HMBreastsV2.safetensors",
+      "normalized_name": "hmbreastsv2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/512b055a6f0e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-25T21:41:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36192215506",
       "run_id": 36192215506,
@@ -21932,19 +21945,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-28T15:08:43Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_33181726511",
-      "run_id": 33181726511,
-      "artifact_id": 9689986730,
-      "filename": "HMBreastsV2.safetensors",
-      "normalized_name": "hmbreastsv2.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/c803b5ae5e45",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-28T14:45:59Z",
       "workflow": "upload.yml"
     },
     {
