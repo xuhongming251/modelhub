@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T06:25:56.800Z",
-  "lastRunId": 36096919789,
+  "updatedAt": "2026-09-25T06:27:00.178Z",
+  "lastRunId": 36102744172,
   "items": [
+    {
+      "id": "run_36102744172",
+      "run_id": 36102744172,
+      "artifact_id": 10850575202,
+      "filename": "flash_attn-2.8.3+cu132torch2.12-cp313-cp313-win_amd64.whl",
+      "normalized_name": "flash_attn-2.8.3+cu132torch2.12-cp313-cp313-win_amd64.whl",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3c167480d8e4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-25T06:26:16Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36102726468",
+      "run_id": 36102726468,
+      "artifact_id": 10849896108,
+      "filename": "torch-2.12.0+cu132-cp313-cp313-win_amd64.whl",
+      "normalized_name": "torch-2.12.0+cu132-cp313-cp313-win_amd64.whl",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c93efca97c40",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-25T06:25:19Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36096632812",
       "run_id": 36096632812,
@@ -142383,7 +142409,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
