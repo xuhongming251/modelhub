@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T20:18:50.621Z",
-  "lastRunId": 36180657504,
+  "updatedAt": "2026-09-25T20:52:38.055Z",
+  "lastRunId": 36188236129,
   "items": [
+    {
+      "id": "run_36188236129",
+      "run_id": 36188236129,
+      "artifact_id": 10886537381,
+      "filename": "SynthPu_MinimaxH3_v1.safetensors",
+      "normalized_name": "synthpu_minimaxh3_v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3ccb7e426e36",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-25T20:51:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36180657504",
       "run_id": 36180657504,
