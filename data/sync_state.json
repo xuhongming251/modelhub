@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T14:18:53.664Z",
-  "lastRunId": 36248020301,
+  "updatedAt": "2026-09-26T15:24:36.051Z",
+  "lastRunId": 36251766159,
   "items": [
+    {
+      "id": "run_36251766159",
+      "run_id": 36251766159,
+      "artifact_id": 10909955571,
+      "filename": "Cherry-Studio-2.1.3-win-x64-setup.exe",
+      "normalized_name": "cherry-studio-2.1.3-win-x64-setup.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/33bb0b7f7aa4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-26T15:24:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36248020301",
       "run_id": 36248020301,
