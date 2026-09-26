@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T08:41:54.554Z",
-  "lastRunId": 36230453476,
+  "updatedAt": "2026-09-26T08:45:57.509Z",
+  "lastRunId": 36230692469,
   "items": [
+    {
+      "id": "run_36230692469",
+      "run_id": 36230692469,
+      "artifact_id": 10902173945,
+      "filename": "skanadeIL560007.nEBq.safetensors",
+      "normalized_name": "skanadeil560007.nebq.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/93e1d4ae673d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-26T08:45:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36230453476",
       "run_id": 36230453476,
@@ -142981,7 +142994,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
