@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T16:49:39.099Z",
-  "lastRunId": 36256730580,
+  "updatedAt": "2026-09-26T17:02:25.333Z",
+  "lastRunId": 36257450961,
   "items": [
+    {
+      "id": "run_36257450961",
+      "run_id": 36257450961,
+      "artifact_id": 10911132335,
+      "filename": "mvmt_h3_lora_v1_500.safetensors",
+      "normalized_name": "mvmt_h3_lora_v1_500.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/586389280d7b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-26T17:01:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36256730580",
       "run_id": 36256730580,
