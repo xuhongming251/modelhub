@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T14:16:23.568Z",
-  "lastRunId": 36247835088,
+  "updatedAt": "2026-09-26T14:18:53.664Z",
+  "lastRunId": 36248020301,
   "items": [
+    {
+      "id": "run_36248020301",
+      "run_id": 36248020301,
+      "artifact_id": 10908615382,
+      "filename": "llama-b11200-bin-win-cuda-13.4-x64.zip",
+      "normalized_name": "llama-b11200-bin-win-cuda-13.4-x64.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/761da1a4b38a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-26T14:18:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36247835088",
       "run_id": 36247835088,
