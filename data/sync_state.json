@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T10:30:56.477Z",
-  "lastRunId": 36235953543,
+  "updatedAt": "2026-09-26T10:36:19.454Z",
+  "lastRunId": 36236209123,
   "items": [
+    {
+      "id": "run_36236209123",
+      "run_id": 36236209123,
+      "artifact_id": 10903874193,
+      "filename": "YuzusoftStyle_Anima_v2.safetensors",
+      "normalized_name": "yuzusoftstyle_anima_v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4ef5277cb3b0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-26T10:35:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36235953543",
       "run_id": 36235953543,
@@ -143215,7 +143228,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 8,
       "createdBefore": null,
       "exhausted": false
     }
