@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T03:35:49.471Z",
-  "lastRunId": 36215236817,
+  "updatedAt": "2026-09-26T03:48:45.695Z",
+  "lastRunId": 36215742216,
   "items": [
+    {
+      "id": "run_36215742216",
+      "run_id": 36215742216,
+      "artifact_id": 10897437417,
+      "filename": "Qwen3.8-27B-GSQ-RCO-IQ2_XS.gguf",
+      "normalized_name": "qwen3.8-27b-gsq-rco-iq2_xs.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/502c2db0bc4d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-26T03:48:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36215236817",
       "run_id": 36215236817,
