@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T09:30:15.848Z",
-  "lastRunId": 36232912353,
+  "updatedAt": "2026-09-26T09:31:53.503Z",
+  "lastRunId": 36232930391,
   "items": [
+    {
+      "id": "run_36232930391",
+      "run_id": 36232930391,
+      "artifact_id": 10903560702,
+      "filename": "worldly20anima20V1.b6Um.safetensors",
+      "normalized_name": "worldly20anima20v1.b6um.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5edf50ea5269",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-26T09:31:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36232912353",
       "run_id": 36232912353,
@@ -143098,7 +143111,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 8,
       "createdBefore": null,
       "exhausted": false
     }
