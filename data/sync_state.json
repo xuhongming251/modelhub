@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T11:07:16.585Z",
-  "lastRunId": 36237746315,
+  "updatedAt": "2026-09-26T11:08:25.585Z",
+  "lastRunId": 36237807847,
   "items": [
+    {
+      "id": "run_36237807847",
+      "run_id": 36237807847,
+      "artifact_id": 10904299692,
+      "filename": "Yuzusoft-new&old v2.safetensors",
+      "normalized_name": "yuzusoft-new&old v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5e07068e5eff",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-26T11:07:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36237746315",
       "run_id": 36237746315,
@@ -143293,7 +143306,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 8,
       "createdBefore": null,
       "exhausted": false
     }
