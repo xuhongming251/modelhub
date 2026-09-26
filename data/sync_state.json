@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T12:09:34.981Z",
-  "lastRunId": 36240987699,
+  "updatedAt": "2026-09-26T12:13:42.863Z",
+  "lastRunId": 36241189243,
   "items": [
+    {
+      "id": "run_36241189243",
+      "run_id": 36241189243,
+      "artifact_id": 10906145399,
+      "filename": "Ternary-Bonsai-2-27B-mmproj-BF16.gguf",
+      "normalized_name": "ternary-bonsai-2-27b-mmproj-bf16.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/013146169fcc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-26T12:13:05Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36240987699",
       "run_id": 36240987699,
@@ -143345,7 +143358,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 8,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
