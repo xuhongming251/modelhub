@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T17:26:26.845Z",
-  "lastRunId": 36258878391,
+  "updatedAt": "2026-09-26T17:30:56.778Z",
+  "lastRunId": 36259198828,
   "items": [
+    {
+      "id": "run_36259198828",
+      "run_id": 36259198828,
+      "artifact_id": 10910789755,
+      "filename": "missionary-mh3-e64-az420.safetensors",
+      "normalized_name": "missionary-mh3-e64-az420.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0bb99d46344a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-26T17:30:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36258878391",
       "run_id": 36258878391,
@@ -143527,7 +143540,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 8,
       "createdBefore": null,
       "exhausted": false
     }
