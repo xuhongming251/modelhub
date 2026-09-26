@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T18:00:57.732Z",
-  "lastRunId": 36260959987,
+  "updatedAt": "2026-09-26T18:06:32.657Z",
+  "lastRunId": 36261303526,
   "items": [
+    {
+      "id": "run_36261303526",
+      "run_id": 36261303526,
+      "artifact_id": 10912356619,
+      "filename": "Motion_Repair.safetensors",
+      "normalized_name": "motion_repair.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/031741acc3e4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-26T18:05:47Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36260959987",
       "run_id": 36260959987,
