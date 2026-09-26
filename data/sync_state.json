@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T10:36:19.454Z",
-  "lastRunId": 36236209123,
+  "updatedAt": "2026-09-26T11:02:12.580Z",
+  "lastRunId": 36237438951,
   "items": [
+    {
+      "id": "run_36237438951",
+      "run_id": 36237438951,
+      "artifact_id": 10904453574,
+      "filename": "Hitachi_Mako_3_nai-000032.safetensors",
+      "normalized_name": "hitachi_mako_3_nai-000032.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/aa881f06103d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-26T11:01:26Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36236209123",
       "run_id": 36236209123,
