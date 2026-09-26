@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T12:16:16.086Z",
-  "lastRunId": 36241323569,
+  "updatedAt": "2026-09-26T12:20:47.408Z",
+  "lastRunId": 36241560905,
   "items": [
+    {
+      "id": "run_36241560905",
+      "run_id": 36241560905,
+      "artifact_id": 10905991391,
+      "filename": "toyV2B115.4WE3.safetensors",
+      "normalized_name": "toyv2b115.4we3.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8a2402e4ecfc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-26T12:20:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36241323569",
       "run_id": 36241323569,
