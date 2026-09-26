@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T01:50:22.357Z",
-  "lastRunId": 36202026222,
+  "updatedAt": "2026-09-26T02:51:44.841Z",
+  "lastRunId": 36212841655,
   "items": [
+    {
+      "id": "run_36212841655",
+      "run_id": 36212841655,
+      "artifact_id": 10895718403,
+      "filename": "Qwen3.8-27B-GSQ-RCO-IQ2_S-mtp.gguf",
+      "normalized_name": "qwen3.8-27b-gsq-rco-iq2_s-mtp.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/51523b1330ba",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-26T02:50:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36200374165",
       "run_id": 36200374165,
@@ -6098,19 +6111,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-17T10:40:24Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_35211300877",
-      "run_id": 35211300877,
-      "artifact_id": 10491982683,
-      "filename": "Qwen3.8-27B-GSQ-RCO-IQ2_S-mtp.gguf",
-      "normalized_name": "qwen3.8-27b-gsq-rco-iq2_s-mtp.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/408833a5ad45",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-17T10:38:18Z",
       "workflow": "upload.yml"
     },
     {
