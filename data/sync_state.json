@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T12:13:42.863Z",
+  "updatedAt": "2026-09-26T12:14:56.639Z",
   "lastRunId": 36241189243,
   "items": [
+    {
+      "id": "run_36241183830",
+      "run_id": 36241183830,
+      "artifact_id": 10904894756,
+      "filename": "Ternary-Bonsai-2-27B-PTQ1_0.gguf",
+      "normalized_name": "ternary-bonsai-2-27b-ptq1_0.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9837a107c9ac",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-26T12:14:17Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36241179251",
+      "run_id": 36241179251,
+      "artifact_id": 10906335255,
+      "filename": "Ternary-Bonsai-2-27B-PQ2_0.gguf",
+      "normalized_name": "ternary-bonsai-2-27b-pq2_0.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6113c8310c54",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-26T12:13:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36241189243",
       "run_id": 36241189243,
