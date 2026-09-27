@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27T00:49:28.857Z",
-  "lastRunId": 36279108501,
+  "updatedAt": "2026-09-27T03:10:45.972Z",
+  "lastRunId": 36290595504,
   "items": [
+    {
+      "id": "run_36290595504",
+      "run_id": 36290595504,
+      "artifact_id": 10922201367,
+      "filename": "3dcgstyleDAAAA.ofti.safetensors",
+      "normalized_name": "3dcgstyledaaaa.ofti.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/99ce58c3b509",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-27T03:10:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36279108501",
       "run_id": 36279108501,
@@ -143878,7 +143891,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 8,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
