@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27T15:17:47.934Z",
-  "lastRunId": 36325776282,
+  "updatedAt": "2026-09-27T15:35:37.938Z",
+  "lastRunId": 36330046903,
   "items": [
+    {
+      "id": "run_36330046903",
+      "run_id": 36330046903,
+      "artifact_id": 10935362561,
+      "filename": "radiancechromevoluptuous.WtLK.safetensors",
+      "normalized_name": "radiancechromevoluptuous.wtlk.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/40f6cd6f6847",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-27T15:34:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36325776282",
       "run_id": 36325776282,
@@ -144346,7 +144359,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 8,
       "createdBefore": null,
       "exhausted": false
     }
