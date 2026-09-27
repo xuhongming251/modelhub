@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27T05:01:25.090Z",
-  "lastRunId": 36295933297,
+  "updatedAt": "2026-09-27T05:06:55.765Z",
+  "lastRunId": 36296129830,
   "items": [
+    {
+      "id": "run_36296129830",
+      "run_id": 36296129830,
+      "artifact_id": 10924001627,
+      "filename": "FontForge-2025-10-09-Windows-x64.exe",
+      "normalized_name": "fontforge-2025-10-09-windows-x64.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/704686f5191a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-27T05:06:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36295933297",
       "run_id": 36295933297,
