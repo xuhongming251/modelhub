@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27T18:31:35.908Z",
-  "lastRunId": 36340903497,
+  "updatedAt": "2026-09-27T18:39:57.395Z",
+  "lastRunId": 36341395267,
   "items": [
+    {
+      "id": "run_36341395267",
+      "run_id": 36341395267,
+      "artifact_id": 10938927766,
+      "filename": "BondageKrea_2_epoch_10.safetensors",
+      "normalized_name": "bondagekrea_2_epoch_10.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/eb143c946ed7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-27T18:39:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36340903497",
       "run_id": 36340903497,
@@ -28406,19 +28419,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-22T12:25:10Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_32572745082",
-      "run_id": 32572745082,
-      "artifact_id": 9475778368,
-      "filename": "BondageKrea_2_epoch_10.safetensors",
-      "normalized_name": "bondagekrea_2_epoch_10.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/90c8a5a1dec9",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-22T12:23:59Z",
       "workflow": "upload.yml"
     },
     {
