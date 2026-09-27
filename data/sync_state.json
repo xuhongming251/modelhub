@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27T04:55:42.585Z",
-  "lastRunId": 36295667920,
+  "updatedAt": "2026-09-27T05:01:25.090Z",
+  "lastRunId": 36295933297,
   "items": [
+    {
+      "id": "run_36295933297",
+      "run_id": 36295933297,
+      "artifact_id": 10924380025,
+      "filename": "IFInst.exe",
+      "normalized_name": "ifinst.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3e5417959d0e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-27T05:00:54Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36295878746",
+      "run_id": 36295878746,
+      "artifact_id": 10923990639,
+      "filename": "151-Furry-enhancer.safetensors",
+      "normalized_name": "151-furry-enhancer.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b43346c21b40",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-27T05:00:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36295667920",
       "run_id": 36295667920,
