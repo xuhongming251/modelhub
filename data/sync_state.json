@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27T04:46:34.089Z",
-  "lastRunId": 36295042064,
+  "updatedAt": "2026-09-27T04:55:42.585Z",
+  "lastRunId": 36295667920,
   "items": [
+    {
+      "id": "run_36295667920",
+      "run_id": 36295667920,
+      "artifact_id": 10923932036,
+      "filename": "tenacity-win-1.3.5-x86_64.exe",
+      "normalized_name": "tenacity-win-1.3.5-x86_64.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/507642d31e36",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-27T04:55:07Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36295042064",
       "run_id": 36295042064,
