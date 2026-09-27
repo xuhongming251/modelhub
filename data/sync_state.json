@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27T05:09:27.902Z",
-  "lastRunId": 36296229623,
+  "updatedAt": "2026-09-27T05:24:19.368Z",
+  "lastRunId": 36296989012,
   "items": [
+    {
+      "id": "run_36296989012",
+      "run_id": 36296989012,
+      "artifact_id": 10924071475,
+      "filename": "redqw21UNLOCKEDV1BF16.safetensors",
+      "normalized_name": "redqw21unlockedv1bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6f3dab12b1c3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-27T05:23:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36296229623",
       "run_id": 36296229623,
@@ -144060,7 +144073,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 8,
       "createdBefore": null,
       "exhausted": false
     }
