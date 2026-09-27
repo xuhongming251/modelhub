@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27T15:00:55.456Z",
-  "lastRunId": 36325766261,
+  "updatedAt": "2026-09-27T15:17:47.934Z",
+  "lastRunId": 36325776282,
   "items": [
+    {
+      "id": "run_36325776282",
+      "run_id": 36325776282,
+      "artifact_id": 10934797045,
+      "filename": "dasiwaKrea2TurboUC.7fGb.safetensors",
+      "normalized_name": "dasiwakrea2turbouc.7fgb.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7c24abe29860",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-27T15:17:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36324954309",
       "run_id": 36324954309,
@@ -144333,7 +144346,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 8,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
