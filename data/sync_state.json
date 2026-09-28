@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-28T15:47:32.588Z",
-  "lastRunId": 36446132119,
+  "updatedAt": "2026-09-28T15:48:47.418Z",
+  "lastRunId": 36446155019,
   "items": [
+    {
+      "id": "run_36446155019",
+      "run_id": 36446155019,
+      "artifact_id": 10980642958,
+      "filename": "xiaoxuner20IL.3Kzf.safetensors",
+      "normalized_name": "xiaoxuner20il.3kzf.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/895ca2796d34",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-28T15:47:55Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36446132119",
       "run_id": 36446132119,
@@ -144983,7 +144996,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 8,
       "createdBefore": null,
       "exhausted": false
     }
