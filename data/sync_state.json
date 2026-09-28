@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-28T16:55:46.685Z",
-  "lastRunId": 36446155019,
+  "updatedAt": "2026-09-28T17:55:59.585Z",
+  "lastRunId": 36461117662,
   "items": [
+    {
+      "id": "run_36461117662",
+      "run_id": 36461117662,
+      "artifact_id": 10988201763,
+      "filename": "qwen3vl_32b_minimax_h3_int8_convrot.safetensors",
+      "normalized_name": "qwen3vl_32b_minimax_h3_int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1ba796f387b3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-28T17:55:14Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36449232101",
+      "run_id": 36449232101,
+      "artifact_id": 10982751259,
+      "filename": "Snivy_Pokemon_Illustrious.safetensors",
+      "normalized_name": "snivy_pokemon_illustrious.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1E9h2_XOOqNFhr_vSRlzVHg?pwd=2366",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-09-28T16:14:08Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36446304296",
+      "run_id": 36446304296,
+      "artifact_id": 10980913164,
+      "filename": "MiniMax_H3_FL2VA_pruned_mixed_int4_int8_convrot.safetensors",
+      "normalized_name": "minimax_h3_fl2va_pruned_mixed_int4_int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/40706efd09ab",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-28T15:53:12Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36446059722",
       "run_id": 36446059722,
@@ -36716,19 +36755,6 @@
       "workflow": "upload.yml"
     },
     {
-      "id": "run_31307163076",
-      "run_id": 31307163076,
-      "artifact_id": 9036350835,
-      "filename": "qwen3vl_32b_minimax_h3_int8_convrot.safetensors",
-      "normalized_name": "qwen3vl_32b_minimax_h3_int8_convrot.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/85ad26aeafc4",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-09T10:02:43Z",
-      "workflow": "upload.yml"
-    },
-    {
       "id": "run_31306211114",
       "run_id": 31306211114,
       "artifact_id": 9036282778,
@@ -40730,19 +40756,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-04T05:30:16Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30877748762",
-      "run_id": 30877748762,
-      "artifact_id": 8881065837,
-      "filename": "MiniMax_H3_FL2VA_pruned_mixed_int4_int8_convrot.safetensors",
-      "normalized_name": "minimax_h3_fl2va_pruned_mixed_int4_int8_convrot.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/0af2fecfbbc2",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-04T05:21:14Z",
       "workflow": "upload.yml"
     },
     {
@@ -145009,7 +145022,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
