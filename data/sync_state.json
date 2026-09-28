@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-28T15:48:47.418Z",
+  "updatedAt": "2026-09-28T15:51:38.085Z",
   "lastRunId": 36446155019,
   "items": [
+    {
+      "id": "run_36446059722",
+      "run_id": 36446059722,
+      "artifact_id": 10980054153,
+      "filename": "minimax_h3_qwen3vl_32b_convrot_int4.safetensors",
+      "normalized_name": "minimax_h3_qwen3vl_32b_convrot_int4.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/017ebdd1d4d8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-28T15:50:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36446155019",
       "run_id": 36446155019,
