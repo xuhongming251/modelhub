@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-29T19:40:35.305Z",
-  "lastRunId": 36620641459,
+  "updatedAt": "2026-09-29T19:41:54.582Z",
+  "lastRunId": 36620930452,
   "items": [
+    {
+      "id": "run_36620930452",
+      "run_id": 36620930452,
+      "artifact_id": 11057614020,
+      "filename": "moody-feet-stuff-krea2-lora",
+      "normalized_name": "moody-feet-stuff-krea2-lora",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a564efb65e8a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-29T19:41:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36620641459",
       "run_id": 36620641459,
@@ -145751,7 +145764,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
