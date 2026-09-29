@@ -1,8 +1,86 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-29T17:31:28.773Z",
-  "lastRunId": 36601153630,
+  "updatedAt": "2026-09-29T18:06:04.479Z",
+  "lastRunId": 36605443000,
   "items": [
+    {
+      "id": "run_36603194254",
+      "run_id": 36603194254,
+      "artifact_id": 11052104495,
+      "filename": "Cobijada_H3_Hybrid_Uncensored_pruned_hybrid_int8_convrot_pruned.safetensors",
+      "normalized_name": "cobijada_h3_hybrid_uncensored_pruned_hybrid_int8_convrot_pruned.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1D1mCU4kHKmGbV8HiOscmNg?pwd=77c3",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-09-29T18:05:23Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36605443000",
+      "run_id": 36605443000,
+      "artifact_id": 11050936250,
+      "filename": "E58E9FE79AAEE8B282E8.zhlM.safetensors",
+      "normalized_name": "e58e9fe79aaee8b282e8.zhlm.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/302a0b1f3fb2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-29T17:31:12Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36605424889",
+      "run_id": 36605424889,
+      "artifact_id": 11051355708,
+      "filename": "杨玉环寅虎心曲.safetensors",
+      "normalized_name": "杨玉环寅虎心曲.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1227c0973aff",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-29T17:31:07Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36605403313",
+      "run_id": 36605403313,
+      "artifact_id": 11050699180,
+      "filename": "西施原皮.safetensors",
+      "normalized_name": "西施原皮.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/187ea93c0252",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-29T17:30:53Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36605380145",
+      "run_id": 36605380145,
+      "artifact_id": 11051660289,
+      "filename": "E69DA8E78E89E78EAfyyh.GkwS.safetensors",
+      "normalized_name": "e69da8e78e89e78eafyyh.gkws.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a278b8f6ddc8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-29T17:30:47Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36601181626",
+      "run_id": 36601181626,
+      "artifact_id": 11049345695,
+      "filename": "oneobsession20bold.WoHU.safetensors",
+      "normalized_name": "oneobsession20bold.wohu.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f4351a84a85f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-29T16:56:22Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36601153630",
       "run_id": 36601153630,
@@ -521,19 +599,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-29T05:10:37Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_36521481002",
-      "run_id": 36521481002,
-      "artifact_id": 11013681836,
-      "filename": "Cobijada_H3_Hybrid_Uncensored_pruned_hybrid_int8_convrot_pruned.safetensors",
-      "normalized_name": "cobijada_h3_hybrid_uncensored_pruned_hybrid_int8_convrot_pruned.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/cfa8a3d328d4",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-29T04:56:38Z",
       "workflow": "upload.yml"
     },
     {
@@ -133840,12 +133905,6 @@
       "completed_at": "2026-04-07T17:53:02Z"
     },
     {
-      "filename": "oneobsession20bold.WoHU.safetensors",
-      "normalized_name": "oneobsession20bold.wohu.safetensors",
-      "share_url": "https://pan.quark.cn/s/b4bf2a32093e",
-      "completed_at": "2026-04-07T17:42:33Z"
-    },
-    {
       "filename": "ComfyUI-AlignLayout.zip",
       "normalized_name": "comfyui-alignlayout.zip",
       "share_url": "https://pan.quark.cn/s/20a7c4c807f8",
@@ -145692,7 +145751,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
