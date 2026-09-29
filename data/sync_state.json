@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-29T06:38:39.873Z",
-  "lastRunId": 36530515317,
+  "updatedAt": "2026-09-29T06:41:01.818Z",
+  "lastRunId": 36532221909,
   "items": [
+    {
+      "id": "run_36532221909",
+      "run_id": 36532221909,
+      "artifact_id": 11017251196,
+      "filename": "交错战线风格/油亮丝袜.safetensors",
+      "normalized_name": "交错战线风格/油亮丝袜.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8f314f5f5191",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-29T06:40:17Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36531985706",
+      "run_id": 36531985706,
+      "artifact_id": 11017070532,
+      "filename": "amateurRemix.safetensors",
+      "normalized_name": "amateurremix.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/44410505e912",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-29T06:37:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36530515317",
       "run_id": 36530515317,
@@ -145399,7 +145425,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 9,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
