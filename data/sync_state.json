@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-29T06:41:01.818Z",
+  "updatedAt": "2026-09-29T06:46:07.573Z",
   "lastRunId": 36532221909,
   "items": [
+    {
+      "id": "run_36531660935",
+      "run_id": 36531660935,
+      "artifact_id": 11017381734,
+      "filename": "fiamixAnima.safetensors",
+      "normalized_name": "fiamixanima.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/10ab9e6841e2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-29T06:45:22Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36532221909",
       "run_id": 36532221909,
