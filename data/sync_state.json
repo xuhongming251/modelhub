@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-29T02:30:34.424Z",
-  "lastRunId": 36512754901,
+  "updatedAt": "2026-09-29T02:40:07.600Z",
+  "lastRunId": 36513496225,
   "items": [
+    {
+      "id": "run_36513496225",
+      "run_id": 36513496225,
+      "artifact_id": 11009282901,
+      "filename": "krea2ZuxueLora.vL31.safetensors",
+      "normalized_name": "krea2zuxuelora.vl31.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/80402f45c7fd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-29T02:39:29Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36512754901",
       "run_id": 36512754901,
@@ -145152,7 +145165,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 8,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
