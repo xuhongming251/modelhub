@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-29T02:40:07.600Z",
-  "lastRunId": 36513496225,
+  "updatedAt": "2026-09-29T02:43:39.523Z",
+  "lastRunId": 36513849289,
   "items": [
+    {
+      "id": "run_36513849289",
+      "run_id": 36513849289,
+      "artifact_id": 11010447420,
+      "filename": "krea2DoubaoLora.pJEV.safetensors",
+      "normalized_name": "krea2doubaolora.pjev.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dcda8c621c02",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-29T02:42:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36513496225",
       "run_id": 36513496225,
@@ -145165,7 +145178,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 8,
       "createdBefore": null,
       "exhausted": false
     }
