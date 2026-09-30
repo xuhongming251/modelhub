@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-30T17:41:31.974Z",
-  "lastRunId": 36753060610,
+  "updatedAt": "2026-09-30T17:44:55.846Z",
+  "lastRunId": 36753450444,
   "items": [
+    {
+      "id": "run_36753450444",
+      "run_id": 36753450444,
+      "artifact_id": 11115941532,
+      "filename": "minimax-h3-digicam.safetensors",
+      "normalized_name": "minimax-h3-digicam.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/977a70743c96",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-30T17:44:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36753060610",
       "run_id": 36753060610,
@@ -26079,19 +26092,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-28T15:25:44Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_33184279184",
-      "run_id": 33184279184,
-      "artifact_id": 9691033019,
-      "filename": "minimax-h3-digicam.safetensors",
-      "normalized_name": "minimax-h3-digicam.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/6f11c4db4279",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-28T15:16:50Z",
       "workflow": "upload.yml"
     },
     {
