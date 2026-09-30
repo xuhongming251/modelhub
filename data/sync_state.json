@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-30T08:43:56.348Z",
-  "lastRunId": 36690831511,
+  "updatedAt": "2026-09-30T10:06:44.993Z",
+  "lastRunId": 36700201226,
   "items": [
+    {
+      "id": "run_36700201226",
+      "run_id": 36700201226,
+      "artifact_id": 11088754047,
+      "filename": "REDQW21 UNLOCKED 解锁 V2 TI2IFP8.safetensors",
+      "normalized_name": "redqw21 unlocked 解锁 v2 ti2ifp8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6fa7bbfaa5b6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-30T10:06:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36690831511",
       "run_id": 36690831511,
@@ -146024,7 +146037,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
