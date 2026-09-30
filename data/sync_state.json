@@ -1,8 +1,99 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-30T15:18:49.079Z",
-  "lastRunId": 36716888863,
+  "updatedAt": "2026-09-30T15:22:56.627Z",
+  "lastRunId": 36736165265,
   "items": [
+    {
+      "id": "run_36736165265",
+      "run_id": 36736165265,
+      "artifact_id": 11106384717,
+      "filename": "E7A997E7A997.uGWr.safetensors",
+      "normalized_name": "e7a997e7a997.ugwr.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c66a2ac458c3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-30T15:22:32Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36736140867",
+      "run_id": 36736140867,
+      "artifact_id": 11107207406,
+      "filename": "E8AF9BE4BB99E99986E99B.A2Bk.safetensors",
+      "normalized_name": "e8af9be4bb99e99986e99b.a2bk.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3eff1eecad64",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-30T15:22:19Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36735601819",
+      "run_id": 36735601819,
+      "artifact_id": 11107321768,
+      "filename": "hsinV1.kcwS.safetensors",
+      "normalized_name": "hsinv1.kcws.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bbdda80caf08",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-30T15:18:12Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36735508069",
+      "run_id": 36735508069,
+      "artifact_id": 11106298375,
+      "filename": "hsinV1.62Qp.safetensors",
+      "normalized_name": "hsinv1.62qp.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d2eff2af1164",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-30T15:18:00Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36733683775",
+      "run_id": 36733683775,
+      "artifact_id": 11105734319,
+      "filename": "kvmem-v0.16.0-rc3-windows-x86_64-cuda13.2.86.zip",
+      "normalized_name": "kvmem-v0.16.0-rc3-windows-x86_64-cuda13.2.86.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/442bc19fe38b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-30T15:03:09Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36719596053",
+      "run_id": 36719596053,
+      "artifact_id": 11096994666,
+      "filename": "ComfyUI_windows_portable_amd.7z",
+      "normalized_name": "comfyui_windows_portable_amd.7z",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8a953dfecc4f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-30T13:09:55Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36719578518",
+      "run_id": 36719578518,
+      "artifact_id": 11097722145,
+      "filename": "DesktopEditors_x86.exe",
+      "normalized_name": "desktopeditors_x86.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/52d8987dc657",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-30T13:09:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36716888863",
       "run_id": 36716888863,
@@ -38533,19 +38624,6 @@
       "channel": "baidu",
       "channel_name": "Baidu",
       "completed_at": "2026-08-07T19:11:02Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_31201484348",
-      "run_id": 31201484348,
-      "artifact_id": 9005152624,
-      "filename": "ComfyUI_windows_portable_amd.7z",
-      "normalized_name": "comfyui_windows_portable_amd.7z",
-      "original_url": "",
-      "share_url": "https://pan.baidu.com/s/1uFKDs5lSfdLAvr4kzbSdRQ?pwd=13c2",
-      "channel": "baidu",
-      "channel_name": "Baidu",
-      "completed_at": "2026-08-07T18:28:14Z",
       "workflow": "upload.yml"
     },
     {
@@ -146089,7 +146167,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 3,
       "createdBefore": null,
       "exhausted": false
     }
