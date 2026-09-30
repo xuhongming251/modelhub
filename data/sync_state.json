@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-30T10:42:06.728Z",
-  "lastRunId": 36703816785,
+  "updatedAt": "2026-09-30T10:55:05.413Z",
+  "lastRunId": 36705127462,
   "items": [
+    {
+      "id": "run_36705127462",
+      "run_id": 36705127462,
+      "artifact_id": 11091775975,
+      "filename": "miaomiao20harem20Anima202.Odcx.safetensors",
+      "normalized_name": "miaomiao20harem20anima202.odcx.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/eed5903bcffd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-30T10:54:25Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36703816785",
       "run_id": 36703816785,
@@ -794,19 +807,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-29T07:45:29Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_36528352547",
-      "run_id": 36528352547,
-      "artifact_id": 11018290428,
-      "filename": "miaomiao20harem20Anima202.Odcx.safetensors",
-      "normalized_name": "miaomiao20harem20anima202.odcx.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.baidu.com/s/1X10YXvaZmJQHnYFbJpFNKA?pwd=9170",
-      "channel": "baidu",
-      "channel_name": "Baidu",
-      "completed_at": "2026-09-29T07:09:41Z",
       "workflow": "upload.yml"
     },
     {
@@ -146063,7 +146063,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
