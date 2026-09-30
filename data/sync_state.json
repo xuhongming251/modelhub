@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-30T10:14:40.292Z",
-  "lastRunId": 36700979273,
+  "updatedAt": "2026-09-30T10:31:12.619Z",
+  "lastRunId": 36702800571,
   "items": [
+    {
+      "id": "run_36702800571",
+      "run_id": 36702800571,
+      "artifact_id": 11091105848,
+      "filename": "animaHighresAesthetic.NU5f.safetensors",
+      "normalized_name": "animahighresaesthetic.nu5f.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/34c1df86804a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-30T10:30:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36700979273",
       "run_id": 36700979273,
@@ -45150,19 +45163,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-01T14:21:43Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30703586312",
-      "run_id": 30703586312,
-      "artifact_id": 8819595386,
-      "filename": "animaHighresAesthetic.NU5f.safetensors",
-      "normalized_name": "animahighresaesthetic.nu5f.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/59dcbbd49282",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-01T14:21:20Z",
       "workflow": "upload.yml"
     },
     {
@@ -146063,7 +146063,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
