@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-30T12:26:10.364Z",
-  "lastRunId": 36714382814,
+  "updatedAt": "2026-09-30T12:39:59.930Z",
+  "lastRunId": 36716075153,
   "items": [
+    {
+      "id": "run_36716075153",
+      "run_id": 36716075153,
+      "artifact_id": 11096112078,
+      "filename": "qwen306bBase.DzIH.safetensors",
+      "normalized_name": "qwen306bbase.dzih.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5da6ef747882",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-30T12:39:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36714382814",
       "run_id": 36714382814,
@@ -146076,7 +146089,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
