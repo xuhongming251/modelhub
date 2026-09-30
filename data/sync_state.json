@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-30T10:09:45.793Z",
-  "lastRunId": 36700201226,
+  "updatedAt": "2026-09-30T10:14:40.292Z",
+  "lastRunId": 36700979273,
   "items": [
+    {
+      "id": "run_36700979273",
+      "run_id": 36700979273,
+      "artifact_id": 11090330570,
+      "filename": "sinoxQW2.1-2D动漫转换为逼真的照片.safetensors",
+      "normalized_name": "sinoxqw2.1-2d动漫转换为逼真的照片.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e45a2ab54929",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-30T10:14:00Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36700481472",
+      "run_id": 36700481472,
+      "artifact_id": 11088694363,
+      "filename": "Ray Qwen2.1 编辑强化V1-int8.safetensors",
+      "normalized_name": "ray qwen2.1 编辑强化v1-int8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/54ad4151966c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-30T10:09:02Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36700201226",
       "run_id": 36700201226,
@@ -146037,7 +146063,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
