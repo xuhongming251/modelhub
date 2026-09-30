@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-30T17:21:35.822Z",
-  "lastRunId": 36750049352,
+  "updatedAt": "2026-09-30T17:27:06.212Z",
+  "lastRunId": 36751336589,
   "items": [
+    {
+      "id": "run_36751336589",
+      "run_id": 36751336589,
+      "artifact_id": 11114887264,
+      "filename": "2498203",
+      "normalized_name": "2498203",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b834511cef56",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-30T17:26:36Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36750677465",
+      "run_id": 36750677465,
+      "artifact_id": 11115050361,
+      "filename": "维琳娜 velina zenless zone zero.safetensors",
+      "normalized_name": "维琳娜 velina zenless zone zero.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/72933c410c6d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-30T17:20:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36750049352",
       "run_id": 36750049352,
@@ -146558,7 +146584,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 3,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
