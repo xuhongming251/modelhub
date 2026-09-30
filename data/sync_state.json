@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-30T05:05:13.411Z",
-  "lastRunId": 36671685847,
+  "updatedAt": "2026-09-30T07:04:04.910Z",
+  "lastRunId": 36681410273,
   "items": [
+    {
+      "id": "run_36681410273",
+      "run_id": 36681410273,
+      "artifact_id": 11081898331,
+      "filename": "axx.XDBK.safetensors",
+      "normalized_name": "axx.xdbk.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/520805fd2fe2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-09-30T07:03:25Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36671685847",
       "run_id": 36671685847,
@@ -145985,7 +145998,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
