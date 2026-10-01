@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T17:48:49.276Z",
-  "lastRunId": 36891565648,
+  "updatedAt": "2026-10-01T18:01:07.371Z",
+  "lastRunId": 36903496840,
   "items": [
+    {
+      "id": "run_36903496840",
+      "run_id": 36903496840,
+      "artifact_id": 11182323201,
+      "filename": "model.safetensors",
+      "normalized_name": "model.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e10350918bc5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-01T18:00:29Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36900247528",
+      "run_id": 36900247528,
+      "artifact_id": 11182166219,
+      "filename": "Qwen3-TTS-12Hz-1.7B-CustomVoice.zip",
+      "normalized_name": "qwen3-tts-12hz-1.7b-customvoice.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cb84bda8bbb8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-01T17:48:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36888449695",
       "run_id": 36888449695,
@@ -15536,19 +15562,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-10T07:53:47Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_34450716587",
-      "run_id": 34450716587,
-      "artifact_id": 10141423424,
-      "filename": "model.safetensors",
-      "normalized_name": "model.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/85aeeb3052fb",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-10T07:35:57Z",
       "workflow": "upload.yml"
     },
     {
@@ -70526,19 +70539,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-07T07:08:44Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28846976791",
-      "run_id": 28846976791,
-      "artifact_id": 8130171528,
-      "filename": "Qwen3-TTS-12Hz-1.7B-CustomVoice.zip",
-      "normalized_name": "qwen3-tts-12hz-1.7b-customvoice.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/0454b04596e5",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-07T06:54:57Z",
       "workflow": "upload.yml"
     },
     {
@@ -147039,7 +147039,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 3,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
