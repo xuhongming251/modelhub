@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T08:43:47.058Z",
-  "lastRunId": 36837332351,
+  "updatedAt": "2026-10-01T11:44:30.009Z",
+  "lastRunId": 36857142525,
   "items": [
+    {
+      "id": "run_36857142525",
+      "run_id": 36857142525,
+      "artifact_id": 11158059616,
+      "filename": "flaredEquinePenisIL.TFeK.safetensors",
+      "normalized_name": "flaredequinepenisil.tfek.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e686f97c2d56",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-01T11:43:53Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36832649813",
+      "run_id": 36832649813,
+      "artifact_id": 11149937799,
+      "filename": "穆迪可爱混合V6.safetensors",
+      "normalized_name": "穆迪可爱混合v6.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5f113a10143b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-01T08:43:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36837332351",
       "run_id": 36837332351,
@@ -146818,7 +146844,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
