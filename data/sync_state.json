@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T19:43:27.791Z",
-  "lastRunId": 36913119655,
+  "updatedAt": "2026-10-01T19:58:28.466Z",
+  "lastRunId": 36917736309,
   "items": [
+    {
+      "id": "run_36917695298",
+      "run_id": 36917695298,
+      "artifact_id": 11191505265,
+      "filename": "minimaxH3INT4Convrot_fl2vaPrunedInt4.safetensors",
+      "normalized_name": "minimaxh3int4convrot_fl2vaprunedint4.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c495ccd2ac8a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-01T19:57:53Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36917736309",
+      "run_id": 36917736309,
+      "artifact_id": 11190801107,
+      "filename": "minimaxH3INT4Convrot_ref2vPrunedInt4.safetensors",
+      "normalized_name": "minimaxh3int4convrot_ref2vprunedint4.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6a81a9ac6e30",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-01T19:57:50Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36913119655",
       "run_id": 36913119655,
@@ -44321,19 +44347,6 @@
       "workflow": "upload.yml"
     },
     {
-      "id": "run_30804958381",
-      "run_id": 30804958381,
-      "artifact_id": 8852487561,
-      "filename": "minimaxH3INT4Convrot_ref2vPrunedInt4.safetensors",
-      "normalized_name": "minimaxh3int4convrot_ref2vprunedint4.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/b034016bfa86",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-03T10:22:33Z",
-      "workflow": "upload.yml"
-    },
-    {
       "id": "run_30804892744",
       "run_id": 30804892744,
       "artifact_id": 8852334002,
@@ -44370,19 +44383,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-03T10:06:20Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30802579288",
-      "run_id": 30802579288,
-      "artifact_id": 8851495758,
-      "filename": "minimaxH3INT4Convrot_fl2vaPrunedInt4.safetensors",
-      "normalized_name": "minimaxh3int4convrot_fl2vaprunedint4.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/abed27fea555",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-03T09:46:13Z",
       "workflow": "upload.yml"
     },
     {
