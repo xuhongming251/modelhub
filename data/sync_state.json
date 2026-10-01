@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T16:27:49.267Z",
+  "updatedAt": "2026-10-01T16:48:30.312Z",
   "lastRunId": 36891565648,
   "items": [
+    {
+      "id": "run_36888449695",
+      "run_id": 36888449695,
+      "artifact_id": 11179201413,
+      "filename": "chatterbox.zip",
+      "normalized_name": "chatterbox.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ec7aed048c6e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-01T16:47:50Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36891565648",
       "run_id": 36891565648,
@@ -147026,7 +147039,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
