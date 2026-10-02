@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T06:27:10.608Z",
-  "lastRunId": 36959489200,
+  "updatedAt": "2026-10-02T07:09:11.308Z",
+  "lastRunId": 36976983552,
   "items": [
+    {
+      "id": "run_36976983552",
+      "run_id": 36976983552,
+      "artifact_id": 11213673136,
+      "filename": "dinihu.safetensors",
+      "normalized_name": "dinihu.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/689647d940dc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-02T07:08:40Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36973434876",
+      "run_id": 36973434876,
+      "artifact_id": 11212363154,
+      "filename": "Ame3d-K2_2_c1-st6000.safetensors",
+      "normalized_name": "ame3d-k2_2_c1-st6000.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8fd888564d02",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-02T06:26:43Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36959489200",
       "run_id": 36959489200,
@@ -147117,7 +147143,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 3,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
