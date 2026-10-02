@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T13:52:55.998Z",
-  "lastRunId": 37013697273,
+  "updatedAt": "2026-10-02T16:33:01.357Z",
+  "lastRunId": 37015708019,
   "items": [
+    {
+      "id": "run_37015708019",
+      "run_id": 37015708019,
+      "artifact_id": 11229088513,
+      "filename": "Noct Q - 无删减真实主义p16.V4.safetensors",
+      "normalized_name": "noct q - 无删减真实主义p16.v4.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f9a3b999c74b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-02T13:52:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_37013697273",
       "run_id": 37013697273,
@@ -147494,7 +147507,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
