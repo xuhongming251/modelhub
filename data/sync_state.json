@@ -1,19 +1,45 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T11:09:18.176Z",
-  "lastRunId": 36999316391,
+  "updatedAt": "2026-10-02T11:11:17.434Z",
+  "lastRunId": 36999495446,
   "items": [
     {
-      "id": "run_36999316391",
-      "run_id": 36999316391,
-      "artifact_id": 11222942459,
+      "id": "run_36999495446",
+      "run_id": 36999495446,
+      "artifact_id": 11223305344,
       "filename": "FateStayNightUBW_Illiyasviel_IlluXL.safetensors",
       "normalized_name": "fatestaynightubw_illiyasviel_illuxl.safetensors",
       "original_url": "",
-      "share_url": "https://pan.quark.cn/s/af8ad44fcbc2",
+      "share_url": "https://pan.quark.cn/s/f5f822f63d43",
       "channel": "quark",
       "channel_name": "Quark",
-      "completed_at": "2026-10-02T11:08:31Z",
+      "completed_at": "2026-10-02T11:10:55Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36999446884",
+      "run_id": 36999446884,
+      "artifact_id": 11222967800,
+      "filename": "illya_sdxl_4.safetensors",
+      "normalized_name": "illya_sdxl_4.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2046968a01bd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-02T11:10:45Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36999374542",
+      "run_id": 36999374542,
+      "artifact_id": 11223121252,
+      "filename": "Illyasviel-Fate-Kaleid-AnimaBaseV1-StrangestArt.safetensors",
+      "normalized_name": "illyasviel-fate-kaleid-animabasev1-strangestart.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/38fd0e4fd8f0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-02T11:09:13Z",
       "workflow": "upload.yml"
     },
     {
@@ -147364,7 +147390,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
