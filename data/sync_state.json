@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T07:10:32.519Z",
-  "lastRunId": 36976983552,
+  "updatedAt": "2026-10-02T07:14:33.406Z",
+  "lastRunId": 36977298443,
   "items": [
+    {
+      "id": "run_36977228345",
+      "run_id": 36977228345,
+      "artifact_id": 11214540422,
+      "filename": "ouka_长相思.safetensors",
+      "normalized_name": "ouka_长相思.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ba6b2d08fd9b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-02T07:14:13Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36977298443",
+      "run_id": 36977298443,
+      "artifact_id": 11214275355,
+      "filename": "Chinese style.safetensors",
+      "normalized_name": "chinese style.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e6f6d2fe31f7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-02T07:14:01Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36977086640",
+      "run_id": 36977086640,
+      "artifact_id": 11213946831,
+      "filename": "mochidukikei.safetensors",
+      "normalized_name": "mochidukikei.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b2b5bb0ebded",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-02T07:09:48Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36976983552",
       "run_id": 36976983552,
@@ -147143,7 +147182,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
