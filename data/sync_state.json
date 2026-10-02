@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T11:20:29.211Z",
-  "lastRunId": 37000161611,
+  "updatedAt": "2026-10-02T11:21:56.894Z",
+  "lastRunId": 37000501138,
   "items": [
+    {
+      "id": "run_37000501138",
+      "run_id": 37000501138,
+      "artifact_id": 11224085226,
+      "filename": "Civitai.fuxuan",
+      "normalized_name": "civitai.fuxuan",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f1d15dadae1e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-02T11:21:22Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_37000360453",
+      "run_id": 37000360453,
+      "artifact_id": 11224005514,
+      "filename": "Illyasviel_von_Einzbern_Illtustrious_V1.safetensors",
+      "normalized_name": "illyasviel_von_einzbern_illtustrious_v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/75fac34922ee",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-02T11:19:51Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_37000161611",
       "run_id": 37000161611,
@@ -40,19 +66,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-10-02T11:15:17Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_36999870829",
-      "run_id": 36999870829,
-      "artifact_id": 11223032909,
-      "filename": "Illyasviel_von_Einzbern_Illtustrious_V1.safetensors",
-      "normalized_name": "illyasviel_von_einzbern_illtustrious_v1.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/e4eb0904aed0",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-10-02T11:14:34Z",
       "workflow": "upload.yml"
     },
     {
@@ -147468,7 +147481,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
