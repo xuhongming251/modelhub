@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T10:39:34.644Z",
-  "lastRunId": 36996578638,
+  "updatedAt": "2026-10-02T10:41:46.756Z",
+  "lastRunId": 36996789903,
   "items": [
+    {
+      "id": "run_36996789903",
+      "run_id": 36996789903,
+      "artifact_id": 11222376337,
+      "filename": "动漫-王者荣耀孙尚香ssx_IL-000016.safetensors",
+      "normalized_name": "动漫-王者荣耀孙尚香ssx_il-000016.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/89a4289d2415",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-02T10:41:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36996578638",
       "run_id": 36996578638,
@@ -147260,7 +147273,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
