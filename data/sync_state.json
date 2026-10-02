@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T11:17:33.522Z",
-  "lastRunId": 37000008875,
+  "updatedAt": "2026-10-02T11:18:46.711Z",
+  "lastRunId": 37000161611,
   "items": [
+    {
+      "id": "run_37000161611",
+      "run_id": 37000161611,
+      "artifact_id": 11224010056,
+      "filename": "Illya_Anima.safetensors",
+      "normalized_name": "illya_anima.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e408728fa851",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-02T11:18:05Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_37000008875",
       "run_id": 37000008875,
@@ -147455,7 +147468,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
