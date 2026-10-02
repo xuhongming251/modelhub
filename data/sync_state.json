@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T10:38:15.495Z",
-  "lastRunId": 36995646615,
+  "updatedAt": "2026-10-02T10:39:34.644Z",
+  "lastRunId": 36996578638,
   "items": [
+    {
+      "id": "run_36996578638",
+      "run_id": 36996578638,
+      "artifact_id": 11221786486,
+      "filename": "origami-tobiichi-s4s5-illustriousxl-lora-nochekaiser.safetensors",
+      "normalized_name": "origami-tobiichi-s4s5-illustriousxl-lora-nochekaiser.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4f714884b3b6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-02T10:38:57Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36996313954",
+      "run_id": 36996313954,
+      "artifact_id": 11221627764,
+      "filename": "公孙离_离恨烟_王者荣耀-000010.safetensors",
+      "normalized_name": "公孙离_离恨烟_王者荣耀-000010.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6e170d59b4c7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-02T10:37:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36995646615",
       "run_id": 36995646615,
@@ -147234,7 +147260,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 3,
+      "page": 4,
       "createdBefore": null,
       "exhausted": false
     }
