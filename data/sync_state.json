@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T10:57:36.542Z",
-  "lastRunId": 36998181319,
+  "updatedAt": "2026-10-02T10:58:25.207Z",
+  "lastRunId": 36998236654,
   "items": [
+    {
+      "id": "run_36998236654",
+      "run_id": 36998236654,
+      "artifact_id": 11221958610,
+      "filename": "sgb-il-hsr-bronya-v1.safetensors",
+      "normalized_name": "sgb-il-hsr-bronya-v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fbbc1e98ba43",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-02T10:57:45Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36998181319",
       "run_id": 36998181319,
@@ -147325,7 +147338,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
