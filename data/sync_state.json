@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T11:24:33.186Z",
-  "lastRunId": 37000739358,
+  "updatedAt": "2026-10-02T13:34:42.094Z",
+  "lastRunId": 37013697273,
   "items": [
+    {
+      "id": "run_37013697273",
+      "run_id": 37013697273,
+      "artifact_id": 11228758562,
+      "filename": "uncannyvalley20noob.I5tr.safetensors",
+      "normalized_name": "uncannyvalley20noob.i5tr.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6681e87d7dd9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-02T13:33:55Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_37013695733",
+      "run_id": 37013695733,
+      "artifact_id": 11228753589,
+      "filename": "obAnimav4.g4vf.safetensors",
+      "normalized_name": "obanimav4.g4vf.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/12a01b5c6fcf",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-02T13:33:48Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_37000739358",
       "run_id": 37000739358,
@@ -14145,19 +14171,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-13T14:08:42Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_34761583580",
-      "run_id": 34761583580,
-      "artifact_id": 10319101863,
-      "filename": "obAnimav4.g4vf.safetensors",
-      "normalized_name": "obanimav4.g4vf.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/9ac9324bf8d0",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-13T14:04:53Z",
       "workflow": "upload.yml"
     },
     {
@@ -64260,19 +64273,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-13T06:28:53Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29228192675",
-      "run_id": 29228192675,
-      "artifact_id": 8270537749,
-      "filename": "uncannyvalley20noob.I5tr.safetensors",
-      "normalized_name": "uncannyvalley20noob.i5tr.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/7a76469873c6",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-13T06:11:20Z",
       "workflow": "upload.yml"
     },
     {
@@ -147494,7 +147494,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
