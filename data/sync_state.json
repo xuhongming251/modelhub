@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T11:12:05.230Z",
-  "lastRunId": 36999598160,
+  "updatedAt": "2026-10-02T11:12:54.722Z",
+  "lastRunId": 36999657819,
   "items": [
+    {
+      "id": "run_36999657819",
+      "run_id": 36999657819,
+      "artifact_id": 11222749346,
+      "filename": "illya_sdxl_4.safetensors",
+      "normalized_name": "illya_sdxl_4.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a62f25fdb38b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-02T11:12:22Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_36999634592",
+      "run_id": 36999634592,
+      "artifact_id": 11222948169,
+      "filename": "mai-sakurajima-s2-illustriousxl-lora-nochekaiser.safetensors",
+      "normalized_name": "mai-sakurajima-s2-illustriousxl-lora-nochekaiser.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d3ccdcd58ad2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-02T11:11:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_36999598160",
       "run_id": 36999598160,
@@ -27,19 +53,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-10-02T11:10:55Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_36999446884",
-      "run_id": 36999446884,
-      "artifact_id": 11222967800,
-      "filename": "illya_sdxl_4.safetensors",
-      "normalized_name": "illya_sdxl_4.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/2046968a01bd",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-10-02T11:10:45Z",
       "workflow": "upload.yml"
     },
     {
