@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-03T00:58:55.090Z",
-  "lastRunId": 37084196710,
+  "updatedAt": "2026-10-03T01:17:08.405Z",
+  "lastRunId": 37085284701,
   "items": [
     {
-      "id": "run_37084196710",
-      "run_id": 37084196710,
-      "artifact_id": 11259561281,
+      "id": "run_37085284701",
+      "run_id": 37085284701,
+      "artifact_id": 11260312146,
+      "filename": "puroChanged.R244.safetensors",
+      "normalized_name": "purochanged.r244.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3cca5c6c63e2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-03T01:16:36Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_37084187418",
+      "run_id": 37084187418,
+      "artifact_id": 11259676971,
       "filename": "Civitai 模型文件",
       "normalized_name": "civitai 模型文件",
       "original_url": "",
-      "share_url": "https://pan.baidu.com/s/1QiRDkaaBrp717tmKuZSZAQ?pwd=f36d",
-      "channel": "baidu",
-      "channel_name": "Baidu",
-      "completed_at": "2026-10-03T00:58:22Z",
+      "share_url": "https://pan.quark.cn/s/378681567975",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-03T00:58:57Z",
       "workflow": "upload.yml"
     },
     {
