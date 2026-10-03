@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-03T09:36:37.733Z",
-  "lastRunId": 37113577229,
+  "updatedAt": "2026-10-03T09:38:02.695Z",
+  "lastRunId": 37113651983,
   "items": [
+    {
+      "id": "run_37113651983",
+      "run_id": 37113651983,
+      "artifact_id": 11270831891,
+      "filename": "firedotincOldDataset.28nM.safetensors",
+      "normalized_name": "firedotincolddataset.28nm.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/529fd973fa8c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-03T09:37:31Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_37113577229",
       "run_id": 37113577229,
@@ -100608,19 +100621,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-13T04:25:49Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27456434747",
-      "run_id": 27456434747,
-      "artifact_id": 7607281452,
-      "filename": "firedotincOldDataset.28nM.safetensors",
-      "normalized_name": "firedotincolddataset.28nm.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/1e55d9114576",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-13T04:23:55Z",
       "workflow": "upload.yml"
     },
     {
