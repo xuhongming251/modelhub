@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-03T03:14:24.204Z",
-  "lastRunId": 37092268676,
+  "updatedAt": "2026-10-03T03:21:01.622Z",
+  "lastRunId": 37092288344,
   "items": [
+    {
+      "id": "run_37092284366",
+      "run_id": 37092284366,
+      "artifact_id": 11263106418,
+      "filename": "Qwen3.8-Flash-Next-GSQ-RCO-IQ2_XS-00001-of-00002.gguf",
+      "normalized_name": "qwen3.8-flash-next-gsq-rco-iq2_xs-00001-of-00002.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7a1c9ad00629",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-03T03:20:25Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_37092288344",
+      "run_id": 37092288344,
+      "artifact_id": 11263015913,
+      "filename": "Qwen3.8-Flash-Next-GSQ-RCO-IQ2_XS-00002-of-00002.gguf",
+      "normalized_name": "qwen3.8-flash-next-gsq-rco-iq2_xs-00002-of-00002.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d6fe56a1641c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-03T03:14:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_37092268676",
       "run_id": 37092268676,
