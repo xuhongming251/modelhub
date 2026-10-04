@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04T02:13:52.488Z",
-  "lastRunId": 37167633573,
+  "updatedAt": "2026-10-04T02:21:29.195Z",
+  "lastRunId": 37170743196,
   "items": [
+    {
+      "id": "run_37170743196",
+      "run_id": 37170743196,
+      "artifact_id": 11291122225,
+      "filename": "hand20drawAnimaV1.Didg.safetensors",
+      "normalized_name": "hand20drawanimav1.didg.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0f2ef49787cf",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-04T02:20:59Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_37170334139",
+      "run_id": 37170334139,
+      "artifact_id": 11291236279,
+      "filename": "AnimaHyouuuma.R36H.safetensors",
+      "normalized_name": "animahyouuuma.r36h.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/48d9b53639e7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-04T02:13:16Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_37167633573",
       "run_id": 37167633573,
@@ -148222,7 +148248,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
