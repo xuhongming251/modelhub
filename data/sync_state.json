@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T00:42:13.759Z",
-  "lastRunId": 37248324571,
+  "updatedAt": "2026-10-05T00:43:02.337Z",
+  "lastRunId": 37248468995,
   "items": [
+    {
+      "id": "run_37248447683",
+      "run_id": 37248447683,
+      "artifact_id": 11319818403,
+      "filename": "bennett-genshin-impact-commission-pony-ill",
+      "normalized_name": "bennett-genshin-impact-commission-pony-ill",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/553d9ac1bcfa",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-05T00:42:25Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_37248324571",
       "run_id": 37248324571,
@@ -148664,7 +148677,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
