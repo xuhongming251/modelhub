@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T12:42:15.318Z",
-  "lastRunId": 37463586563,
+  "updatedAt": "2026-10-06T12:44:17.601Z",
+  "lastRunId": 37465012019,
   "items": [
+    {
+      "id": "run_37465012019",
+      "run_id": 37465012019,
+      "artifact_id": 11414323681,
+      "filename": "rex3OutfitsXenoblade2.6MxQ.safetensors",
+      "normalized_name": "rex3outfitsxenoblade2.6mxq.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/978194dc2966",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-06T12:43:39Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_37464969747",
+      "run_id": 37464969747,
+      "artifact_id": 11414503243,
+      "filename": "setanta000018.V90e.safetensors",
+      "normalized_name": "setanta000018.v90e.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b9312305380b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-06T12:41:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_37463586563",
       "run_id": 37463586563,
@@ -149262,7 +149288,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 4,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
