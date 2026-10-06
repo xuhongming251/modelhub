@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T16:03:36.215Z",
-  "lastRunId": 37488597534,
+  "updatedAt": "2026-10-06T16:05:58.691Z",
+  "lastRunId": 37492397279,
   "items": [
+    {
+      "id": "run_37492397279",
+      "run_id": 37492397279,
+      "artifact_id": 11426580304,
+      "filename": "waijfuPublic..safetensors",
+      "normalized_name": "waijfupublic..safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f27f31331f0c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-06T16:05:15Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_37491957946",
+      "run_id": 37491957946,
+      "artifact_id": 11425234797,
+      "filename": "waijfuPublicV100001.zZOb.safetensors",
+      "normalized_name": "waijfupublicv100001.zzob.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f7f6693eb561",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-06T16:02:53Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_37489842899",
+      "run_id": 37489842899,
+      "artifact_id": 11424493524,
+      "filename": "xiaowuSDXLILV1.CCHI.safetensors",
+      "normalized_name": "xiaowusdxlilv1.cchi.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a6bc69c8b868",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-06T15:44:07Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_37488566663",
       "run_id": 37488566663,
@@ -147090,12 +147129,6 @@
       "normalized_name": "xiaowu5ysdxlilv2.izto.safetensors",
       "share_url": "https://pan.quark.cn/s/4defd4214e84",
       "completed_at": "2026-03-12T11:14:49Z"
-    },
-    {
-      "filename": "xiaowuSDXLILV1.CCHI.safetensors",
-      "normalized_name": "xiaowusdxlilv1.cchi.safetensors",
-      "share_url": "https://pan.quark.cn/s/b25d5ee8802c",
-      "completed_at": "2026-03-12T11:13:38Z"
     },
     {
       "filename": "oneObsessionBranch_v7Matureeps.safetensors",
