@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T23:47:05.034Z",
+  "updatedAt": "2026-10-06T00:12:44.470Z",
   "lastRunId": 37390176632,
   "items": [
+    {
+      "id": "run_37385692429",
+      "run_id": 37385692429,
+      "artifact_id": 11381652511,
+      "filename": "feihouMinimaxH3Remix.2z54.safetensors",
+      "normalized_name": "feihouminimaxh3remix.2z54.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1cQAPw_zF1ga-7tnHD9hUGQ?pwd=f89a",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-10-06T00:12:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_37390176632",
       "run_id": 37390176632,
@@ -28146,19 +28159,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-29T03:13:45Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_33230522376",
-      "run_id": 33230522376,
-      "artifact_id": 9708395870,
-      "filename": "feihouMinimaxH3Remix.2z54.safetensors",
-      "normalized_name": "feihouminimaxh3remix.2z54.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/22370dac5788",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-29T03:11:15Z",
       "workflow": "upload.yml"
     },
     {
