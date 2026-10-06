@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T14:30:19.384Z",
-  "lastRunId": 37479347801,
+  "updatedAt": "2026-10-06T14:31:08.426Z",
+  "lastRunId": 37479397499,
   "items": [
+    {
+      "id": "run_37479397499",
+      "run_id": 37479397499,
+      "artifact_id": 11420931632,
+      "filename": "nicole.7Lrt.safetensors",
+      "normalized_name": "nicole.7lrt.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bd51b2db8565",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-06T14:30:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_37479347801",
       "run_id": 37479347801,
@@ -149379,7 +149392,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
