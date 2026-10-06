@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T08:50:14.495Z",
-  "lastRunId": 37438594451,
+  "updatedAt": "2026-10-06T09:04:40.856Z",
+  "lastRunId": 37440316974,
   "items": [
+    {
+      "id": "run_37440316974",
+      "run_id": 37440316974,
+      "artifact_id": 11401455095,
+      "filename": "checkpointE18S828.1jsi.safetensors",
+      "normalized_name": "checkpointe18s828.1jsi.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3fe11cc9d64e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-06T09:04:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_37438594451",
       "run_id": 37438594451,
@@ -149106,7 +149119,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
