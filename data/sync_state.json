@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T03:01:07.122Z",
-  "lastRunId": 37564658782,
+  "updatedAt": "2026-10-07T03:03:52.494Z",
+  "lastRunId": 37564861160,
   "items": [
+    {
+      "id": "run_37564861160",
+      "run_id": 37564861160,
+      "artifact_id": 11458482782,
+      "filename": "condomLeftInsideAnima.BYIH.safetensors",
+      "normalized_name": "condomleftinsideanima.byih.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/446875d41f81",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-07T03:03:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_37564658782",
       "run_id": 37564658782,
@@ -149744,7 +149757,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
