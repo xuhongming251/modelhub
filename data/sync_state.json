@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T07:00:26.882Z",
-  "lastRunId": 37564861160,
+  "updatedAt": "2026-10-07T07:56:15.610Z",
+  "lastRunId": 37587589194,
   "items": [
+    {
+      "id": "run_37587589194",
+      "run_id": 37587589194,
+      "artifact_id": 11468735298,
+      "filename": "现实主义 Krea 2V1.safetensors",
+      "normalized_name": "现实主义 krea 2v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/909d819e306f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-07T07:55:36Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_37564754311",
       "run_id": 37564754311,
@@ -149770,7 +149783,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
