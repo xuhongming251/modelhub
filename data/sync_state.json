@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T21:41:12.948Z",
-  "lastRunId": 37690941624,
+  "updatedAt": "2026-10-07T21:49:45.673Z",
+  "lastRunId": 37691365019,
   "items": [
+    {
+      "id": "run_37691365019",
+      "run_id": 37691365019,
+      "artifact_id": 11513617528,
+      "filename": "Swift-Qwen3.8-Flash-Next-GSQ-RCO-IQ2_XS-00001-of-00002.gguf",
+      "normalized_name": "swift-qwen3.8-flash-next-gsq-rco-iq2_xs-00001-of-00002.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2cf1968f2981",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-07T21:49:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_37690941624",
       "run_id": 37690941624,
@@ -2523,19 +2536,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-10-03T07:21:14Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_37105478967",
-      "run_id": 37105478967,
-      "artifact_id": 11267963318,
-      "filename": "Swift-Qwen3.8-Flash-Next-GSQ-RCO-IQ2_XS-00001-of-00002.gguf",
-      "normalized_name": "swift-qwen3.8-flash-next-gsq-rco-iq2_xs-00001-of-00002.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/c664eac701e9",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-10-03T07:17:51Z",
       "workflow": "upload.yml"
     },
     {
