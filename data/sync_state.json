@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T14:08:04.905Z",
+  "updatedAt": "2026-10-07T14:26:12.301Z",
   "lastRunId": 37633520670,
   "items": [
+    {
+      "id": "run_37633512217",
+      "run_id": 37633512217,
+      "artifact_id": 11487498359,
+      "filename": "illyasviel-von-einzbern-s2s3-illustriousxl-lora-nochekaiser.safetensors",
+      "normalized_name": "illyasviel-von-einzbern-s2s3-illustriousxl-lora-nochekaiser.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2c0d4c5ebea9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-07T14:07:23Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_37633520670",
       "run_id": 37633520670,
@@ -149861,7 +149874,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
