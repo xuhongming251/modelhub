@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T21:40:21.948Z",
-  "lastRunId": 37690866390,
+  "updatedAt": "2026-10-07T21:41:12.948Z",
+  "lastRunId": 37690941624,
   "items": [
+    {
+      "id": "run_37690941624",
+      "run_id": 37690941624,
+      "artifact_id": 11513341829,
+      "filename": "mmproj-Swift-Qwen3.8-Flash-Next-BF16.gguf",
+      "normalized_name": "mmproj-swift-qwen3.8-flash-next-bf16.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a9c5ee1d7a54",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-07T21:40:31Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_37690866390",
       "run_id": 37690866390,
@@ -149900,7 +149913,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
