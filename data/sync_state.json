@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T03:36:34.809Z",
-  "lastRunId": 37723435774,
+  "updatedAt": "2026-10-08T03:41:11.572Z",
+  "lastRunId": 37723796387,
   "items": [
+    {
+      "id": "run_37723796387",
+      "run_id": 37723796387,
+      "artifact_id": 11525854882,
+      "filename": "xiaoyeziV1-000012.safetensors",
+      "normalized_name": "xiaoyeziv1-000012.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/60518e5300d5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-08T03:40:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_37723435774",
       "run_id": 37723435774,
