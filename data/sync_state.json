@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-09T02:45:54.245Z",
+  "updatedAt": "2026-10-09T02:46:46.353Z",
   "lastRunId": 37875853587,
   "items": [
+    {
+      "id": "run_37875821913",
+      "run_id": 37875821913,
+      "artifact_id": 11592636144,
+      "filename": "Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-IQ3_XS.gguf",
+      "normalized_name": "qwen3.8-27b-uncensored-hauhaucs-aggressive-iq3_xs.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/15b8cfccb1b2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-09T02:46:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_37875821907",
       "run_id": 37875821907,
@@ -33450,19 +33463,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-24T17:26:05Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_32752096864",
-      "run_id": 32752096864,
-      "artifact_id": 9529969077,
-      "filename": "Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-IQ3_XS.gguf",
-      "normalized_name": "qwen3.8-27b-uncensored-hauhaucs-aggressive-iq3_xs.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/5adf21ca1c3f",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-24T16:55:32Z",
       "workflow": "upload.yml"
     },
     {
