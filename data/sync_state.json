@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T04:02:00.425Z",
+  "updatedAt": "2026-10-10T04:03:15.551Z",
   "lastRunId": 38022556989,
   "items": [
+    {
+      "id": "run_38022496360",
+      "run_id": 38022496360,
+      "artifact_id": 11658778953,
+      "filename": "feet pony v1.safetensors",
+      "normalized_name": "feet pony v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d83b769f27d2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-10T04:02:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38022433115",
       "run_id": 38022433115,
@@ -150849,7 +150862,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 8,
       "createdBefore": null,
       "exhausted": false
     }
