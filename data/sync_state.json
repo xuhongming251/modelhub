@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T08:13:31.294Z",
-  "lastRunId": 38037060781,
+  "updatedAt": "2026-10-10T08:33:32.606Z",
+  "lastRunId": 38037207856,
   "items": [
+    {
+      "id": "run_38037207856",
+      "run_id": 38037207856,
+      "artifact_id": 11663834174,
+      "filename": "cocoStyleNoobaiXL_v55.safetensors",
+      "normalized_name": "cocostylenoobaixl_v55.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7391349fdf2d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-10T08:32:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38037060781",
       "run_id": 38037060781,
@@ -107355,19 +107368,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-07T19:01:52Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27100955326",
-      "run_id": 27100955326,
-      "artifact_id": 7466772140,
-      "filename": "cocoStyleNoobaiXL_v55.safetensors",
-      "normalized_name": "cocostylenoobaixl_v55.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/c4daf6d718a2",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-07T18:26:27Z",
       "workflow": "upload.yml"
     },
     {
