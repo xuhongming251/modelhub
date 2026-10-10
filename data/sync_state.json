@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T03:35:39.290Z",
-  "lastRunId": 38019454396,
+  "updatedAt": "2026-10-10T03:51:52.381Z",
+  "lastRunId": 38021936606,
   "items": [
+    {
+      "id": "run_38021936606",
+      "run_id": 38021936606,
+      "artifact_id": 11658922688,
+      "filename": "lenovo_qwen21.safetensors",
+      "normalized_name": "lenovo_qwen21.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4a537a06612a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-10T03:51:00Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38018142456",
       "run_id": 38018142456,
