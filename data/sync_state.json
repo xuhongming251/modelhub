@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T04:54:14.226Z",
-  "lastRunId": 38022569084,
+  "updatedAt": "2026-10-10T05:45:32.914Z",
+  "lastRunId": 38028475733,
   "items": [
+    {
+      "id": "run_38028475733",
+      "run_id": 38028475733,
+      "artifact_id": 11660699206,
+      "filename": "qwen2_1-femaledVaginus-nsfw-v1_3-fine_L22-31.safetensors",
+      "normalized_name": "qwen2_1-femaledvaginus-nsfw-v1_3-fine_l22-31.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/58e972d477a6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-10T05:44:47Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38022569084",
       "run_id": 38022569084,
