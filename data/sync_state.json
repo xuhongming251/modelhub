@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T12:00:17.237Z",
+  "updatedAt": "2026-10-10T12:02:06.567Z",
   "lastRunId": 38049432294,
   "items": [
+    {
+      "id": "run_38047877528",
+      "run_id": 38047877528,
+      "artifact_id": 11668509335,
+      "filename": "Krea2BETA3 — 混合动漫 半写实bf16.safetensors",
+      "normalized_name": "krea2beta3 — 混合动漫 半写实bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/28d8b3de4530",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-10T12:01:29Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38049383522",
       "run_id": 38049383522,
@@ -150953,7 +150966,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 8,
+      "page": 9,
       "createdBefore": null,
       "exhausted": false
     }
