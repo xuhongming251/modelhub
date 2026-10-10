@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T03:51:52.381Z",
-  "lastRunId": 38021936606,
+  "updatedAt": "2026-10-10T03:52:50.081Z",
+  "lastRunId": 38022038909,
   "items": [
+    {
+      "id": "run_38022038909",
+      "run_id": 38022038909,
+      "artifact_id": 11658917839,
+      "filename": "NSFW Qwen by TheseAlpacas V2.safetensors",
+      "normalized_name": "nsfw qwen by thesealpacas v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/28e7e022bb3c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-10T03:52:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38021936606",
       "run_id": 38021936606,
@@ -9205,19 +9218,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-26T09:05:15Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_36231438161",
-      "run_id": 36231438161,
-      "artifact_id": 10902469228,
-      "filename": "NSFW Qwen by TheseAlpacas V2.safetensors",
-      "normalized_name": "nsfw qwen by thesealpacas v2.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/afcd119a427e",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-26T09:00:40Z",
       "workflow": "upload.yml"
     },
     {
