@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T14:06:11.674Z",
-  "lastRunId": 38058169366,
+  "updatedAt": "2026-10-10T14:17:19.948Z",
+  "lastRunId": 38058949585,
   "items": [
+    {
+      "id": "run_38058949585",
+      "run_id": 38058949585,
+      "artifact_id": 11671064504,
+      "filename": "xPenisGlanx_wan22_050626_low_noise_15k.safetensors",
+      "normalized_name": "xpenisglanx_wan22_050626_low_noise_15k.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f042e8495d79",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-10T14:16:51Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38058169366",
       "run_id": 38058169366,
@@ -150992,7 +151005,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 9,
+      "page": 8,
       "createdBefore": null,
       "exhausted": false
     }
