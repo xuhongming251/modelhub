@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T04:03:15.551Z",
-  "lastRunId": 38022556989,
+  "updatedAt": "2026-10-10T04:54:14.226Z",
+  "lastRunId": 38022569084,
   "items": [
+    {
+      "id": "run_38022569084",
+      "run_id": 38022569084,
+      "artifact_id": 11658863857,
+      "filename": "zy_AmateurStyle_v2.safetensors",
+      "normalized_name": "zy_amateurstyle_v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/70883512b95b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-10T04:03:02Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38022496360",
       "run_id": 38022496360,
@@ -150862,7 +150875,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 8,
+      "page": 9,
       "createdBefore": null,
       "exhausted": false
     }
