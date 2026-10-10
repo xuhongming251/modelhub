@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T23:44:20.171Z",
-  "lastRunId": 38073128629,
+  "updatedAt": "2026-10-10T23:50:20.487Z",
+  "lastRunId": 38096113892,
   "items": [
+    {
+      "id": "run_38096113892",
+      "run_id": 38096113892,
+      "artifact_id": 11685609583,
+      "filename": "pinkcherryMinimaxH3_v18Hybrid_bf16.safetensors",
+      "normalized_name": "pinkcherryminimaxh3_v18hybrid_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8e0f8c257acb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-10T23:49:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38073128629",
       "run_id": 38073128629,
