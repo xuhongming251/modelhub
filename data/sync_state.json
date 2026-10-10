@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T14:52:25.518Z",
-  "lastRunId": 38061143981,
+  "updatedAt": "2026-10-10T15:38:35.060Z",
+  "lastRunId": 38064260635,
   "items": [
+    {
+      "id": "run_38064260635",
+      "run_id": 38064260635,
+      "artifact_id": 11675050351,
+      "filename": "rayQwen21_turboV13Int8convrot.safetensors",
+      "normalized_name": "rayqwen21_turbov13int8convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f0bcb60200e2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-10T15:37:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38061143981",
       "run_id": 38061143981,
