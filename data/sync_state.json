@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T19:33:17.983Z",
-  "lastRunId": 38168214956,
+  "updatedAt": "2026-10-11T19:47:35.954Z",
+  "lastRunId": 38169221386,
   "items": [
+    {
+      "id": "run_38169221386",
+      "run_id": 38169221386,
+      "artifact_id": 11713151410,
+      "filename": "Qwen3.8-27B-Coder390-EfficientThink-Q3LynnStyle-MTP.gguf",
+      "normalized_name": "qwen3.8-27b-coder390-efficientthink-q3lynnstyle-mtp.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bf1a332e13be",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-11T19:46:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38168214956",
       "run_id": 38168214956,
