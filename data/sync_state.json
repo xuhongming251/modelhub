@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T15:42:13.623Z",
-  "lastRunId": 38152237016,
+  "updatedAt": "2026-10-11T16:08:37.424Z",
+  "lastRunId": 38154115320,
   "items": [
+    {
+      "id": "run_38154115320",
+      "run_id": 38154115320,
+      "artifact_id": 11707692344,
+      "filename": "depth_anything_v2_vitl.pth",
+      "normalized_name": "depth_anything_v2_vitl.pth",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5c80a8bfb33a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-11T16:07:51Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38152237016",
       "run_id": 38152237016,
@@ -144205,12 +144218,6 @@
       "normalized_name": "qwen3.5-27b-webnovel-writer-zh.q8_0.gguf",
       "share_url": "https://pan.quark.cn/s/e2777006c786",
       "completed_at": "2026-03-25T02:33:31Z"
-    },
-    {
-      "filename": "depth_anything_v2_vitl.pth",
-      "normalized_name": "depth_anything_v2_vitl.pth",
-      "share_url": "https://pan.quark.cn/s/1df4c02ab81b",
-      "completed_at": "2026-03-25T02:25:14Z"
     },
     {
       "filename": "redcraftMar0826LatestZib_zibDistilled-0308-agirl.safetensors",
