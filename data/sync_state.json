@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T08:36:35.658Z",
-  "lastRunId": 38125337246,
+  "updatedAt": "2026-10-11T08:59:05.680Z",
+  "lastRunId": 38126665036,
   "items": [
+    {
+      "id": "run_38126665036",
+      "run_id": 38126665036,
+      "artifact_id": 11697602397,
+      "filename": "战双帕弥什 丽芙-极昼 - 天使皮",
+      "normalized_name": "战双帕弥什 丽芙-极昼 - 天使皮",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/44791f32c094",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-11T08:58:27Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_38125373727",
+      "run_id": 38125373727,
+      "artifact_id": 11696806837,
+      "filename": "model.safetensors",
+      "normalized_name": "model.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/37b5e32e9060",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-11T08:36:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38125337246",
       "run_id": 38125337246,
@@ -5344,19 +5370,6 @@
       "channel": "baidu",
       "channel_name": "Baidu",
       "completed_at": "2026-10-01T18:49:37Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_36903496840",
-      "run_id": 36903496840,
-      "artifact_id": 11182323201,
-      "filename": "model.safetensors",
-      "normalized_name": "model.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/e10350918bc5",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-10-01T18:00:29Z",
       "workflow": "upload.yml"
     },
     {
