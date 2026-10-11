@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T14:07:55.861Z",
-  "lastRunId": 38145241705,
+  "updatedAt": "2026-10-11T14:41:20.210Z",
+  "lastRunId": 38148104195,
   "items": [
+    {
+      "id": "run_38148104195",
+      "run_id": 38148104195,
+      "artifact_id": 11705119700,
+      "filename": "nijiSemiRealismFNR.tnCM.safetensors",
+      "normalized_name": "nijisemirealismfnr.tncm.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b26c0b9602bd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-11T14:40:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38145241705",
       "run_id": 38145241705,
@@ -127843,19 +127856,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-08T13:13:55Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_25557394869",
-      "run_id": 25557394869,
-      "artifact_id": 6879850865,
-      "filename": "nijiSemiRealismFNR.tnCM.safetensors",
-      "normalized_name": "nijisemirealismfnr.tncm.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/bbc9457918eb",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-08T13:10:39Z",
       "workflow": "upload.yml"
     },
     {
