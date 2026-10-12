@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-12T05:17:50.115Z",
-  "lastRunId": 38207173595,
+  "updatedAt": "2026-10-12T05:51:20.263Z",
+  "lastRunId": 38209510243,
   "items": [
+    {
+      "id": "run_38209510243",
+      "run_id": 38209510243,
+      "artifact_id": 11728872337,
+      "filename": "qwen-image-2.1-UC-BF16.gguf",
+      "normalized_name": "qwen-image-2.1-uc-bf16.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d725c1b8b907",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-12T05:50:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38207173595",
       "run_id": 38207173595,
