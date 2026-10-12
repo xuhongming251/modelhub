@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-12T06:21:11.899Z",
-  "lastRunId": 38210953472,
+  "updatedAt": "2026-10-12T06:51:14.619Z",
+  "lastRunId": 38214477896,
   "items": [
+    {
+      "id": "run_38214477896",
+      "run_id": 38214477896,
+      "artifact_id": 11731850067,
+      "filename": "minimax_h3_audio_vae_fp32.safetensors",
+      "normalized_name": "minimax_h3_audio_vae_fp32.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5367fe99b33a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-12T06:50:28Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38210953472",
       "run_id": 38210953472,
@@ -1262,19 +1275,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-10-09T18:59:53Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_37975978404",
-      "run_id": 37975978404,
-      "artifact_id": 11639615580,
-      "filename": "minimax_h3_audio_vae_fp32.safetensors",
-      "normalized_name": "minimax_h3_audio_vae_fp32.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.baidu.com/s/1GnFV6xlTNgRmkR1-u-jMFQ?pwd=638c",
-      "channel": "baidu",
-      "channel_name": "Baidu",
-      "completed_at": "2026-10-09T18:51:26Z",
       "workflow": "upload.yml"
     },
     {
