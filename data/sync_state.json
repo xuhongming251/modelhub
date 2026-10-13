@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T16:19:35.220Z",
-  "lastRunId": 38429394877,
+  "updatedAt": "2026-10-13T16:25:42.024Z",
+  "lastRunId": 38430234708,
   "items": [
+    {
+      "id": "run_38430234708",
+      "run_id": 38430234708,
+      "artifact_id": 11829719498,
+      "filename": "Betabeet-000060.safetensors",
+      "normalized_name": "betabeet-000060.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/46b09093bee4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-13T16:24:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38429394877",
       "run_id": 38429394877,
