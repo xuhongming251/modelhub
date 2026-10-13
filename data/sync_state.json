@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T06:36:50.205Z",
-  "lastRunId": 38357518174,
+  "updatedAt": "2026-10-13T06:44:25.155Z",
+  "lastRunId": 38358229275,
   "items": [
+    {
+      "id": "run_38358229275",
+      "run_id": 38358229275,
+      "artifact_id": 11794221622,
+      "filename": "QWEN21_Ponygirl.safetensors",
+      "normalized_name": "qwen21_ponygirl.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/579c66a98819",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-13T06:43:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38357518174",
       "run_id": 38357518174,
