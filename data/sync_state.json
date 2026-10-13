@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T05:11:42.406Z",
-  "lastRunId": 38349991839,
+  "updatedAt": "2026-10-13T06:32:00.826Z",
+  "lastRunId": 38357092754,
   "items": [
+    {
+      "id": "run_38357092754",
+      "run_id": 38357092754,
+      "artifact_id": 11793211226,
+      "filename": "QWEN21_NudeEdit.safetensors",
+      "normalized_name": "qwen21_nudeedit.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/56353749650b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-13T06:31:05Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38349991839",
       "run_id": 38349991839,
