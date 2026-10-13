@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T01:21:44.936Z",
-  "lastRunId": 38331425736,
+  "updatedAt": "2026-10-13T02:17:16.146Z",
+  "lastRunId": 38335715871,
   "items": [
+    {
+      "id": "run_38335715871",
+      "run_id": 38335715871,
+      "artifact_id": 11784901911,
+      "filename": "Krea2 复古杂志难以置信的真实感bf16.safetensors",
+      "normalized_name": "krea2 复古杂志难以置信的真实感bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4e206193856d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-13T02:16:29Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_38331405739",
+      "run_id": 38331405739,
+      "artifact_id": 11783516064,
+      "filename": "qwen3vl_32b_minimax_h3_int4_convrot.safetensors",
+      "normalized_name": "qwen3vl_32b_minimax_h3_int4_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/492384862218",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-13T01:21:31Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38331425736",
       "run_id": 38331425736,
@@ -47932,19 +47958,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-04T08:08:08Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30888829771",
-      "run_id": 30888829771,
-      "artifact_id": 8884753970,
-      "filename": "qwen3vl_32b_minimax_h3_int4_convrot.safetensors",
-      "normalized_name": "qwen3vl_32b_minimax_h3_int4_convrot.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/0411d5aa105a",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-04T08:03:37Z",
       "workflow": "upload.yml"
     },
     {
