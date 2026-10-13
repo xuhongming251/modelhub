@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T12:40:42.106Z",
-  "lastRunId": 38398816028,
+  "updatedAt": "2026-10-13T12:43:36.136Z",
+  "lastRunId": 38399057784,
   "items": [
+    {
+      "id": "run_38399057784",
+      "run_id": 38399057784,
+      "artifact_id": 11814232249,
+      "filename": "kvmem-v0.18.0-ninfer-windows-rtx50-sm120a.zip",
+      "normalized_name": "kvmem-v0.18.0-ninfer-windows-rtx50-sm120a.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/41e8664bbdae",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-13T12:42:51Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38398816028",
       "run_id": 38398816028,
@@ -152137,7 +152150,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 9,
+      "page": 8,
       "createdBefore": null,
       "exhausted": false
     }
