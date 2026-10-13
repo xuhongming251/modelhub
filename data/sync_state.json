@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T15:33:28.611Z",
-  "lastRunId": 38422580603,
+  "updatedAt": "2026-10-13T16:03:47.046Z",
+  "lastRunId": 38426844686,
   "items": [
+    {
+      "id": "run_38426844686",
+      "run_id": 38426844686,
+      "artifact_id": 11829386214,
+      "filename": "nijika-ijichi-s1-illustriousxl-lora-nochekaiser.safetensors",
+      "normalized_name": "nijika-ijichi-s1-illustriousxl-lora-nochekaiser.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/af38c5638003",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-13T16:03:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38422580603",
       "run_id": 38422580603,
@@ -152254,7 +152267,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 8,
+      "page": 9,
       "createdBefore": null,
       "exhausted": false
     }
