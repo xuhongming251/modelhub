@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T06:45:51.420Z",
-  "lastRunId": 38358361381,
+  "updatedAt": "2026-10-13T06:54:13.751Z",
+  "lastRunId": 38359261363,
   "items": [
+    {
+      "id": "run_38359261363",
+      "run_id": 38359261363,
+      "artifact_id": 11794380147,
+      "filename": "QWEN21_BondageAIO.safetensors",
+      "normalized_name": "qwen21_bondageaio.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/96bfc86a4f2b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-13T06:53:28Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38358361381",
       "run_id": 38358361381,
