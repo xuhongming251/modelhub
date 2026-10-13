@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T12:43:36.136Z",
-  "lastRunId": 38399057784,
+  "updatedAt": "2026-10-13T12:55:45.056Z",
+  "lastRunId": 38400171367,
   "items": [
+    {
+      "id": "run_38400171367",
+      "run_id": 38400171367,
+      "artifact_id": 11815250741,
+      "filename": "Cobijada_H3_Hybrid_Uncensored_pruned_hybrid_int8_convrot_pruned.safetensors",
+      "normalized_name": "cobijada_h3_hybrid_uncensored_pruned_hybrid_int8_convrot_pruned.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0df3a1e21c28",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-13T12:54:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38399057784",
       "run_id": 38399057784,
@@ -7879,19 +7892,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-29T19:41:17Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_36603194254",
-      "run_id": 36603194254,
-      "artifact_id": 11052104495,
-      "filename": "Cobijada_H3_Hybrid_Uncensored_pruned_hybrid_int8_convrot_pruned.safetensors",
-      "normalized_name": "cobijada_h3_hybrid_uncensored_pruned_hybrid_int8_convrot_pruned.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.baidu.com/s/1D1mCU4kHKmGbV8HiOscmNg?pwd=77c3",
-      "channel": "baidu",
-      "channel_name": "Baidu",
-      "completed_at": "2026-09-29T18:05:23Z",
       "workflow": "upload.yml"
     },
     {
