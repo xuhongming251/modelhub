@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14T02:04:56.380Z",
-  "lastRunId": 38436809778,
+  "updatedAt": "2026-10-14T02:11:44.546Z",
+  "lastRunId": 38499628317,
   "items": [
+    {
+      "id": "run_38499628317",
+      "run_id": 38499628317,
+      "artifact_id": 11864544628,
+      "filename": "femboy_krea2.safetensors",
+      "normalized_name": "femboy_krea2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/43e368873b07",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-14T02:10:52Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_38498996133",
+      "run_id": 38498996133,
+      "artifact_id": 11864952472,
+      "filename": "ErenARIK_v1.safetensors",
+      "normalized_name": "erenarik_v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/951bdf07b269",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-14T02:04:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38436809778",
       "run_id": 38436809778,
