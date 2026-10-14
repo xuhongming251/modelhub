@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14T16:21:01.782Z",
-  "lastRunId": 38597066581,
+  "updatedAt": "2026-10-14T16:25:52.422Z",
+  "lastRunId": 38597558628,
   "items": [
+    {
+      "id": "run_38597558628",
+      "run_id": 38597558628,
+      "artifact_id": 11911670031,
+      "filename": "lora000017TATrained.5EXQ.safetensors",
+      "normalized_name": "lora000017tatrained.5exq.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/96d2f84ee84f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-14T16:23:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38597066581",
       "run_id": 38597066581,
