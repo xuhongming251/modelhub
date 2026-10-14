@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14T02:29:59.809Z",
-  "lastRunId": 38501227857,
+  "updatedAt": "2026-10-14T02:31:35.754Z",
+  "lastRunId": 38501315306,
   "items": [
+    {
+      "id": "run_38501315306",
+      "run_id": 38501315306,
+      "artifact_id": 11866131836,
+      "filename": "snofs_krea_v1_5.safetensors",
+      "normalized_name": "snofs_krea_v1_5.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e12e7f436ef8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-14T02:30:50Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38501227857",
       "run_id": 38501227857,
