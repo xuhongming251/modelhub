@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T07:07:45.267Z",
-  "lastRunId": 38864595143,
+  "updatedAt": "2026-10-16T07:10:17.914Z",
+  "lastRunId": 38865316846,
   "items": [
+    {
+      "id": "run_38865316846",
+      "run_id": 38865316846,
+      "artifact_id": 12030757844,
+      "filename": "Bnn3d-qwen2.1_c1-st3000.safetensors",
+      "normalized_name": "bnn3d-qwen2.1_c1-st3000.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/81eeb44278de",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-16T07:09:34Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38864595143",
       "run_id": 38864595143,
