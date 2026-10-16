@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T16:55:00.697Z",
-  "lastRunId": 38934166925,
+  "updatedAt": "2026-10-16T17:32:18.173Z",
+  "lastRunId": 38940286561,
   "items": [
+    {
+      "id": "run_38940286561",
+      "run_id": 38940286561,
+      "artifact_id": 12062339020,
+      "filename": "bodyWritingAnimaV1.KklA.safetensors",
+      "normalized_name": "bodywritinganimav1.kkla.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c955292b7698",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-16T17:31:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38934166925",
       "run_id": 38934166925,
@@ -11636,19 +11649,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-27T03:57:10Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_36292221692",
-      "run_id": 36292221692,
-      "artifact_id": 10922253913,
-      "filename": "bodyWritingAnimaV1.KklA.safetensors",
-      "normalized_name": "bodywritinganimav1.kkla.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/6aab35508a08",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-27T03:46:04Z",
       "workflow": "upload.yml"
     },
     {
