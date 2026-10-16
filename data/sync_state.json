@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T16:16:26.840Z",
-  "lastRunId": 38930248477,
+  "updatedAt": "2026-10-16T16:55:00.697Z",
+  "lastRunId": 38934166925,
   "items": [
+    {
+      "id": "run_38934166925",
+      "run_id": 38934166925,
+      "artifact_id": 12061350617,
+      "filename": "fnMomentAnima29BV5.SDwg.safetensors",
+      "normalized_name": "fnmomentanima29bv5.sdwg.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cd39ed78315e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-16T16:54:20Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38930248477",
       "run_id": 38930248477,
@@ -153639,7 +153652,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
