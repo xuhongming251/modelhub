@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T01:02:15.908Z",
-  "lastRunId": 38825340571,
+  "updatedAt": "2026-10-16T04:05:35.302Z",
+  "lastRunId": 38848660070,
   "items": [
+    {
+      "id": "run_38848660070",
+      "run_id": 38848660070,
+      "artifact_id": 12024795491,
+      "filename": "glossyPantyhoseKera2.Zp2I.safetensors",
+      "normalized_name": "glossypantyhosekera2.zp2i.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bdf6d7e6e49d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-16T04:04:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38825340571",
       "run_id": 38825340571,
@@ -30863,19 +30876,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-30T15:02:36Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_33318384118",
-      "run_id": 33318384118,
-      "artifact_id": 9734157378,
-      "filename": "glossyPantyhoseKera2.Zp2I.safetensors",
-      "normalized_name": "glossypantyhosekera2.zp2i.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/6d80b1c33c76",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-30T15:00:34Z",
       "workflow": "upload.yml"
     },
     {
@@ -153314,7 +153314,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
