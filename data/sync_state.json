@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T07:10:17.914Z",
-  "lastRunId": 38865316846,
+  "updatedAt": "2026-10-16T07:14:50.887Z",
+  "lastRunId": 38865742279,
   "items": [
+    {
+      "id": "run_38865742279",
+      "run_id": 38865742279,
+      "artifact_id": 12031022380,
+      "filename": "Pixel-k2_c1-st6000.safetensors",
+      "normalized_name": "pixel-k2_c1-st6000.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/53adb6eeb21a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-16T07:14:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38865316846",
       "run_id": 38865316846,
