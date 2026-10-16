@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T15:26:17.697Z",
-  "lastRunId": 38923620198,
+  "updatedAt": "2026-10-16T15:47:20.440Z",
+  "lastRunId": 38926619698,
   "items": [
+    {
+      "id": "run_38926619698",
+      "run_id": 38926619698,
+      "artifact_id": 12056697576,
+      "filename": "blueLockFeetFetish.qnPx.safetensors",
+      "normalized_name": "bluelockfeetfetish.qnpx.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/09e0837781e3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-16T15:46:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38923620198",
       "run_id": 38923620198,
@@ -153626,7 +153639,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
