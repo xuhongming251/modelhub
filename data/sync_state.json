@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T14:52:38.881Z",
-  "lastRunId": 39041899836,
+  "updatedAt": "2026-10-17T15:33:58.160Z",
+  "lastRunId": 39045502581,
   "items": [
+    {
+      "id": "run_39045502581",
+      "run_id": 39045502581,
+      "artifact_id": 12105418337,
+      "filename": "babegeneratorInk.uvSQ.safetensors",
+      "normalized_name": "babegeneratorink.uvsq.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/95b9f7f3460c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-17T15:33:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39041313872",
       "run_id": 39041313872,
@@ -11675,19 +11688,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-27T08:44:45Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_36304935915",
-      "run_id": 36304935915,
-      "artifact_id": 10926119722,
-      "filename": "babegeneratorInk.uvSQ.safetensors",
-      "normalized_name": "babegeneratorink.uvsq.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/9f17dc81d3b2",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-27T08:04:56Z",
       "workflow": "upload.yml"
     },
     {
@@ -153860,7 +153860,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
