@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T01:09:38.243Z",
-  "lastRunId": 38956464626,
+  "updatedAt": "2026-10-17T01:56:14.253Z",
+  "lastRunId": 38992809395,
   "items": [
+    {
+      "id": "run_38992809395",
+      "run_id": 38992809395,
+      "artifact_id": 12085802340,
+      "filename": "krea2 Old Asian style color.safetensors",
+      "normalized_name": "krea2 old asian style color.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dc82998828c1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-17T01:55:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_38956464626",
       "run_id": 38956464626,
@@ -153665,7 +153678,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
