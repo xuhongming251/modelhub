@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T13:53:09.970Z",
-  "lastRunId": 39038264483,
+  "updatedAt": "2026-10-17T14:25:06.473Z",
+  "lastRunId": 39040579861,
   "items": [
+    {
+      "id": "run_39040579861",
+      "run_id": 39040579861,
+      "artifact_id": 12104016521,
+      "filename": "Face_Enhancer_Illustrious.safetensors",
+      "normalized_name": "face_enhancer_illustrious.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b6e59134b78c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-17T14:24:31Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39038264483",
       "run_id": 39038264483,
@@ -55342,19 +55355,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-30T11:21:28Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30538175070",
-      "run_id": 30538175070,
-      "artifact_id": 8757539722,
-      "filename": "Face_Enhancer_Illustrious.safetensors",
-      "normalized_name": "face_enhancer_illustrious.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/8df40f386613",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-30T11:20:55Z",
       "workflow": "upload.yml"
     },
     {
