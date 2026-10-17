@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T14:38:41.537Z",
-  "lastRunId": 39041473666,
+  "updatedAt": "2026-10-17T14:43:38.495Z",
+  "lastRunId": 39041899836,
   "items": [
+    {
+      "id": "run_39041899836",
+      "run_id": 39041899836,
+      "artifact_id": 12104556375,
+      "filename": "muse-by-stable-yogi-krea2",
+      "normalized_name": "muse-by-stable-yogi-krea2",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a38049933493",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-17T14:43:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39041473666",
       "run_id": 39041473666,
@@ -46879,19 +46892,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-08T06:36:02Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_31235484979",
-      "run_id": 31235484979,
-      "artifact_id": 9015226538,
-      "filename": "muse-by-stable-yogi-krea2",
-      "normalized_name": "muse-by-stable-yogi-krea2",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/de216741daaa",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-08T02:40:58Z",
       "workflow": "upload.yml"
     },
     {
