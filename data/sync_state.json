@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T02:27:43.988Z",
-  "lastRunId": 39090024193,
+  "updatedAt": "2026-10-18T02:36:36.105Z",
+  "lastRunId": 39090606037,
   "items": [
+    {
+      "id": "run_39090606037",
+      "run_id": 39090606037,
+      "artifact_id": 12122656277,
+      "filename": "flux2-vae_small.safetensors",
+      "normalized_name": "flux2-vae_small.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4ab60a3a4276",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-18T02:36:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39090024193",
       "run_id": 39090024193,
