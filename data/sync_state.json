@@ -1,8 +1,60 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T02:37:58.598Z",
-  "lastRunId": 39090626958,
+  "updatedAt": "2026-10-18T02:45:26.823Z",
+  "lastRunId": 39091127377,
   "items": [
+    {
+      "id": "run_39091109826",
+      "run_id": 39091109826,
+      "artifact_id": 12122583284,
+      "filename": "moss_image_sft_bf16.safetensors",
+      "normalized_name": "moss_image_sft_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6150e6b22484",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-18T02:45:04Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_39091127377",
+      "run_id": 39091127377,
+      "artifact_id": 12123136018,
+      "filename": "qwen3.5_9b_w4a8_gptq.safetensors",
+      "normalized_name": "qwen3.5_9b_w4a8_gptq.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d15e42545d3d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-18T02:44:59Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_39091105777",
+      "run_id": 39091105777,
+      "artifact_id": 12122912142,
+      "filename": "moss_image_base_int8_convrot.safetensors",
+      "normalized_name": "moss_image_base_int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d2b07790dfef",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-18T02:44:45Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_39090590304",
+      "run_id": 39090590304,
+      "artifact_id": 12122911469,
+      "filename": "flux2-vae.safetensors",
+      "normalized_name": "flux2-vae.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ff936eff7177",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-18T02:37:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39090626958",
       "run_id": 39090626958,
@@ -66483,19 +66535,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-16T14:38:40Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_29507280569",
-      "run_id": 29507280569,
-      "artifact_id": 8379026185,
-      "filename": "flux2-vae.safetensors",
-      "normalized_name": "flux2-vae.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/d2101e70e889",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-16T14:35:53Z",
       "workflow": "upload.yml"
     },
     {
