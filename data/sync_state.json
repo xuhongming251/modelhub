@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T14:24:01.242Z",
-  "lastRunId": 39135119262,
+  "updatedAt": "2026-10-18T14:36:41.411Z",
+  "lastRunId": 39136690544,
   "items": [
+    {
+      "id": "run_39136690544",
+      "run_id": 39136690544,
+      "artifact_id": 12139458748,
+      "filename": "rezeroRamS4.BF1b.safetensors",
+      "normalized_name": "rezerorams4.bf1b.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f5b661b74e45",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-18T14:36:12Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_39136678047",
+      "run_id": 39136678047,
+      "artifact_id": 12139644650,
+      "filename": "rezero-rem-s1-illustriousxl-lora-nochekaiser.safetensors",
+      "normalized_name": "rezero-rem-s1-illustriousxl-lora-nochekaiser.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/22908f4d158b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-18T14:36:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39135021734",
       "run_id": 39135021734,
