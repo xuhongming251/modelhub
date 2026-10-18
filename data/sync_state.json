@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T02:46:24.413Z",
+  "updatedAt": "2026-10-18T02:47:31.164Z",
   "lastRunId": 39091127377,
   "items": [
+    {
+      "id": "run_39091114400",
+      "run_id": 39091114400,
+      "artifact_id": 12122603418,
+      "filename": "moss_image_sft_int8_convrot.safetensors",
+      "normalized_name": "moss_image_sft_int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c357c60ff446",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-18T02:46:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39091122846",
       "run_id": 39091122846,
