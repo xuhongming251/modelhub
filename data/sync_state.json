@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T12:13:53.391Z",
-  "lastRunId": 39250129595,
+  "updatedAt": "2026-10-19T12:17:42.287Z",
+  "lastRunId": 39250779958,
   "items": [
+    {
+      "id": "run_39250779958",
+      "run_id": 39250779958,
+      "artifact_id": 12185417000,
+      "filename": "stt-deps-1-torch-cuda.zip.002",
+      "normalized_name": "stt-deps-1-torch-cuda.zip.002",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4d4dba42b8b3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-19T12:17:07Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39250129595",
       "run_id": 39250129595,
