@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T12:17:42.287Z",
-  "lastRunId": 39250779958,
+  "updatedAt": "2026-10-19T12:47:02.892Z",
+  "lastRunId": 39254548577,
   "items": [
+    {
+      "id": "run_39254548577",
+      "run_id": 39254548577,
+      "artifact_id": 12186532338,
+      "filename": "zinkwashaima.B3jd.safetensors",
+      "normalized_name": "zinkwashaima.b3jd.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8fd6e52b4a4d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-19T12:46:24Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_39250838035",
+      "run_id": 39250838035,
+      "artifact_id": 12184878101,
+      "filename": "stt-deps-1-torch-cuda.zip.001",
+      "normalized_name": "stt-deps-1-torch-cuda.zip.001",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/06a9d939ee32",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-19T12:17:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39250779958",
       "run_id": 39250779958,
