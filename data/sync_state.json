@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T12:47:02.892Z",
-  "lastRunId": 39254548577,
+  "updatedAt": "2026-10-19T12:58:32.741Z",
+  "lastRunId": 39256084577,
   "items": [
+    {
+      "id": "run_39256084577",
+      "run_id": 39256084577,
+      "artifact_id": 12187258768,
+      "filename": "Qwen2.5-VL-7B-Instruct-mmproj-f16.gguf",
+      "normalized_name": "qwen2.5-vl-7b-instruct-mmproj-f16.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/454371e157ee",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-19T12:57:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39254548577",
       "run_id": 39254548577,
@@ -36193,19 +36206,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-27T13:01:29Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_33072167191",
-      "run_id": 33072167191,
-      "artifact_id": 9646384078,
-      "filename": "Qwen2.5-VL-7B-Instruct-mmproj-f16.gguf",
-      "normalized_name": "qwen2.5-vl-7b-instruct-mmproj-f16.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/150f14dbfb60",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-27T12:34:37Z",
       "workflow": "upload.yml"
     },
     {
