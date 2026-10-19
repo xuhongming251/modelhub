@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T16:12:02.550Z",
-  "lastRunId": 39274866464,
+  "updatedAt": "2026-10-19T16:27:38.049Z",
+  "lastRunId": 39282272357,
   "items": [
+    {
+      "id": "run_39282272357",
+      "run_id": 39282272357,
+      "artifact_id": 12202510276,
+      "filename": "deltamix2038B20V6.u9w9.safetensors",
+      "normalized_name": "deltamix2038b20v6.u9w9.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/087922d5c252",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-19T16:25:45Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_39280168015",
+      "run_id": 39280168015,
+      "artifact_id": 12200345938,
+      "filename": "mmproj-Dongfangshuo-Qwen3.8-27B-NSFW-Novel-f16.gguf",
+      "normalized_name": "mmproj-dongfangshuo-qwen3.8-27b-nsfw-novel-f16.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/48acac93647f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-19T16:12:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39274866464",
       "run_id": 39274866464,
@@ -154926,7 +154952,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
