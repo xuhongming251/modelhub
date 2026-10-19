@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T14:08:54.205Z",
-  "lastRunId": 39265596808,
+  "updatedAt": "2026-10-19T14:32:46.966Z",
+  "lastRunId": 39269643463,
   "items": [
+    {
+      "id": "run_39269643463",
+      "run_id": 39269643463,
+      "artifact_id": 12194511907,
+      "filename": "rcAIO20BRealAnime3d_v10.safetensors",
+      "normalized_name": "rcaio20brealanime3d_v10.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9c70ffedcc38",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-19T14:31:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39265596808",
       "run_id": 39265596808,
@@ -154900,7 +154913,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
