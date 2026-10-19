@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T03:58:43.056Z",
-  "lastRunId": 39197113922,
+  "updatedAt": "2026-10-19T04:09:19.693Z",
+  "lastRunId": 39197955773,
   "items": [
+    {
+      "id": "run_39197955773",
+      "run_id": 39197955773,
+      "artifact_id": 12162019063,
+      "filename": "BunnySlop_MOSS.safetensors",
+      "normalized_name": "bunnyslop_moss.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5cbab62aacb9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-19T04:08:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39197113922",
       "run_id": 39197113922,
