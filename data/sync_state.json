@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T03:39:22.702Z",
-  "lastRunId": 39195613561,
+  "updatedAt": "2026-10-19T03:40:27.886Z",
+  "lastRunId": 39195649541,
   "items": [
+    {
+      "id": "run_39195649541",
+      "run_id": 39195649541,
+      "artifact_id": 12161553503,
+      "filename": "moss_image_sft_4_steps_lora_v2_600_avg_rank_72_bf16.safetensors",
+      "normalized_name": "moss_image_sft_4_steps_lora_v2_600_avg_rank_72_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/732aa668b3ab",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-19T03:39:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39195613561",
       "run_id": 39195613561,
