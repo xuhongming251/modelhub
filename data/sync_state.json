@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T10:13:57.286Z",
-  "lastRunId": 39235102799,
+  "updatedAt": "2026-10-19T10:19:25.232Z",
+  "lastRunId": 39236385632,
   "items": [
+    {
+      "id": "run_39236385632",
+      "run_id": 39236385632,
+      "artifact_id": 12178992838,
+      "filename": "krea2 大银月V1.safetensors",
+      "normalized_name": "krea2 大银月v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2fe428fc8408",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-19T10:18:56Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_39236347245",
+      "run_id": 39236347245,
+      "artifact_id": 12179811706,
+      "filename": "krea2 大银月V2.safetensors",
+      "normalized_name": "krea2 大银月v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c0ff94ef3b9a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-19T10:18:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39235102799",
       "run_id": 39235102799,
