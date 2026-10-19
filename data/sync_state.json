@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T17:05:28.856Z",
-  "lastRunId": 39284283579,
+  "updatedAt": "2026-10-19T19:03:26.028Z",
+  "lastRunId": 39305189677,
   "items": [
+    {
+      "id": "run_39305189677",
+      "run_id": 39305189677,
+      "artifact_id": 12214706129,
+      "filename": "Dongfangshuo-Qwen3.8-27B-NSFW-Novel-Q3_K_M.gguf",
+      "normalized_name": "dongfangshuo-qwen3.8-27b-nsfw-novel-q3_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/891ffc25e776",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-19T19:02:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39284283579",
       "run_id": 39284283579,
