@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T07:38:24.380Z",
-  "lastRunId": 39386773136,
+  "updatedAt": "2026-10-20T08:29:00.048Z",
+  "lastRunId": 39393552741,
   "items": [
+    {
+      "id": "run_39393552741",
+      "run_id": 39393552741,
+      "artifact_id": 12250975738,
+      "filename": "redgpt-k2t-2-w6a8-or-redqw21-unlocked",
+      "normalized_name": "redgpt-k2t-2-w6a8-or-redqw21-unlocked",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f38aee17d5f5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-20T08:28:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39386773136",
       "run_id": 39386773136,
@@ -155238,7 +155251,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
