@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T05:46:34.585Z",
-  "lastRunId": 39373546578,
+  "updatedAt": "2026-10-20T06:19:36.052Z",
+  "lastRunId": 39379575504,
   "items": [
+    {
+      "id": "run_39379575504",
+      "run_id": 39379575504,
+      "artifact_id": 12244622412,
+      "filename": "MMH3-LOCKSTAB-MORE.safetensors",
+      "normalized_name": "mmh3-lockstab-more.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3b1a804e4c3e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-20T06:18:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39373546578",
       "run_id": 39373546578,
@@ -155212,7 +155225,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
