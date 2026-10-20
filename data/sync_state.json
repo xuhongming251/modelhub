@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T03:57:12.262Z",
-  "lastRunId": 39366879617,
+  "updatedAt": "2026-10-20T05:03:57.716Z",
+  "lastRunId": 39372738689,
   "items": [
+    {
+      "id": "run_39372738689",
+      "run_id": 39372738689,
+      "artifact_id": 12242008019,
+      "filename": "hiddenviewconcept.safetensors",
+      "normalized_name": "hiddenviewconcept.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7c5ab1779121",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-20T05:03:31Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_39372701356",
+      "run_id": 39372701356,
+      "artifact_id": 12241569758,
+      "filename": "impasto_style_seems_cyberpunk_aesthetic.DlUf.safetensors",
+      "normalized_name": "impasto_style_seems_cyberpunk_aesthetic.dluf.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bef5245043f2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-20T05:03:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39366879617",
       "run_id": 39366879617,
@@ -155121,7 +155147,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
