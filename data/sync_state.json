@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T08:29:00.048Z",
-  "lastRunId": 39393552741,
+  "updatedAt": "2026-10-20T09:06:59.495Z",
+  "lastRunId": 39397999779,
   "items": [
+    {
+      "id": "run_39397999779",
+      "run_id": 39397999779,
+      "artifact_id": 12253580569,
+      "filename": "Qwen3.8-27B-Uncensored-IQ2_M.gguf",
+      "normalized_name": "qwen3.8-27b-uncensored-iq2_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b353c4862a96",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-20T09:06:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39393552741",
       "run_id": 39393552741,
