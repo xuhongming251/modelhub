@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T11:33:41.582Z",
-  "lastRunId": 39415516293,
+  "updatedAt": "2026-10-20T11:38:20.020Z",
+  "lastRunId": 39416199928,
   "items": [
+    {
+      "id": "run_39416199928",
+      "run_id": 39416199928,
+      "artifact_id": 12260868273,
+      "filename": "sheele2020akame20ga.o5Cs.safetensors",
+      "normalized_name": "sheele2020akame20ga.o5cs.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a64d339d7705",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-20T11:37:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39415516293",
       "run_id": 39415516293,
@@ -155394,7 +155407,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
