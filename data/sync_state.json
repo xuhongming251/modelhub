@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T03:41:15.233Z",
-  "lastRunId": 39539816379,
+  "updatedAt": "2026-10-21T03:47:32.377Z",
+  "lastRunId": 39540402598,
   "items": [
+    {
+      "id": "run_39540402598",
+      "run_id": 39540402598,
+      "artifact_id": 12319021773,
+      "filename": "moss_image_sft_4_steps_lora_v2_600_avg_rank_72_bf16.safetensors",
+      "normalized_name": "moss_image_sft_4_steps_lora_v2_600_avg_rank_72_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/25ef5c6cda3a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-21T03:46:52Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39539816379",
       "run_id": 39539816379,
@@ -1080,19 +1093,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-10-19T03:40:42Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_39195649541",
-      "run_id": 39195649541,
-      "artifact_id": 12161553503,
-      "filename": "moss_image_sft_4_steps_lora_v2_600_avg_rank_72_bf16.safetensors",
-      "normalized_name": "moss_image_sft_4_steps_lora_v2_600_avg_rank_72_bf16.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/732aa668b3ab",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-10-19T03:39:53Z",
       "workflow": "upload.yml"
     },
     {
