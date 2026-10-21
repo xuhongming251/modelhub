@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T12:15:03.983Z",
-  "lastRunId": 39581498561,
+  "updatedAt": "2026-10-21T12:16:29.489Z",
+  "lastRunId": 39598138827,
   "items": [
+    {
+      "id": "run_39598138827",
+      "run_id": 39598138827,
+      "artifact_id": 12344299815,
+      "filename": "AstrBot_4.29.1_windows_amd64_setup.exe",
+      "normalized_name": "astrbot_4.29.1_windows_amd64_setup.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a24cf7b73b6b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-21T12:15:47Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39581498561",
       "run_id": 39581498561,
