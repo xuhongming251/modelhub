@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T01:41:24.408Z",
-  "lastRunId": 39528591892,
+  "updatedAt": "2026-10-21T01:42:15.177Z",
+  "lastRunId": 39528685474,
   "items": [
+    {
+      "id": "run_39528685474",
+      "run_id": 39528685474,
+      "artifact_id": 12314900480,
+      "filename": "moodyMossMixV125STEPS.safetensors",
+      "normalized_name": "moodymossmixv125steps.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/89719e2f1813",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-21T01:41:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39528591892",
       "run_id": 39528591892,
