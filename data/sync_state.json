@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T10:28:06.687Z",
-  "lastRunId": 39743038421,
+  "updatedAt": "2026-10-22T11:10:59.483Z",
+  "lastRunId": 39765675753,
   "items": [
+    {
+      "id": "run_39765675753",
+      "run_id": 39765675753,
+      "artifact_id": 12420784227,
+      "filename": "Pornmaster_Krea2_V2_Turbo_bf16.safetensors",
+      "normalized_name": "pornmaster_krea2_v2_turbo_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/10GhSUSt2jaiJwBacwFRxww?pwd=a40d",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-10-22T11:10:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39743038421",
       "run_id": 39743038421,
@@ -1158,19 +1171,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-10-19T14:31:58Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_39265596808",
-      "run_id": 39265596808,
-      "artifact_id": 12193351818,
-      "filename": "Pornmaster_Krea2_V2_Turbo_bf16.safetensors",
-      "normalized_name": "pornmaster_krea2_v2_turbo_bf16.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/ee18cacab990",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-10-19T14:08:07Z",
       "workflow": "upload.yml"
     },
     {
