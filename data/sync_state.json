@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T02:14:38.195Z",
-  "lastRunId": 39710172662,
+  "updatedAt": "2026-10-22T02:26:38.916Z",
+  "lastRunId": 39710993369,
   "items": [
+    {
+      "id": "run_39710993369",
+      "run_id": 39710993369,
+      "artifact_id": 12396898031,
+      "filename": "krea2 春来之仪.safetensors",
+      "normalized_name": "krea2 春来之仪.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/687b4ff2e160",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-22T02:23:46Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_39710809750",
+      "run_id": 39710809750,
+      "artifact_id": 12397126283,
+      "filename": "krea2 潮汐之渊.safetensors",
+      "normalized_name": "krea2 潮汐之渊.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2563b18dc63e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-22T02:21:58Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_39710716883",
+      "run_id": 39710716883,
+      "artifact_id": 12397705285,
+      "filename": "krea2 瓷器草莓.safetensors",
+      "normalized_name": "krea2 瓷器草莓.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/514dd24dfcfc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-22T02:20:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39710172662",
       "run_id": 39710172662,
@@ -155849,7 +155888,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
