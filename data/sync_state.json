@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T02:01:19.419Z",
-  "lastRunId": 39887043756,
+  "updatedAt": "2026-10-23T03:17:46.087Z",
+  "lastRunId": 39894148726,
   "items": [
+    {
+      "id": "run_39894148726",
+      "run_id": 39894148726,
+      "artifact_id": 12475504728,
+      "filename": "minimax_h3_ref_lora_layer20-49adaln_proj_rank_256_bf16.safetensors",
+      "normalized_name": "minimax_h3_ref_lora_layer20-49adaln_proj_rank_256_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fc8d9cb4a841",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-23T03:17:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39887043756",
       "run_id": 39887043756,
