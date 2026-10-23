@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T12:46:02.470Z",
-  "lastRunId": 39954600526,
+  "updatedAt": "2026-10-23T13:02:30.784Z",
+  "lastRunId": 39957608191,
   "items": [
+    {
+      "id": "run_39957608191",
+      "run_id": 39957608191,
+      "artifact_id": 12502448891,
+      "filename": "miaomiao20harem20MOSS1.pF60.safetensors",
+      "normalized_name": "miaomiao20harem20moss1.pf60.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/10e331566e23",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-23T13:01:46Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_39954600526",
       "run_id": 39954600526,
@@ -156330,7 +156343,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
