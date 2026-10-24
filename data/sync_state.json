@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T16:49:40.578Z",
-  "lastRunId": 40113134639,
+  "updatedAt": "2026-10-24T16:56:34.960Z",
+  "lastRunId": 40113705269,
   "items": [
+    {
+      "id": "run_40113705269",
+      "run_id": 40113705269,
+      "artifact_id": 12568005209,
+      "filename": "ltx-restore-alpha1-distill4-nvfp4.safetensors.enc",
+      "normalized_name": "ltx-restore-alpha1-distill4-nvfp4.safetensors.enc",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6147272d4c65",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-24T16:55:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40113124649",
       "run_id": 40113124649,
