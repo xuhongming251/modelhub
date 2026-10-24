@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T17:23:35.804Z",
-  "lastRunId": 40115821360,
+  "updatedAt": "2026-10-24T17:24:52.019Z",
+  "lastRunId": 40115916446,
   "items": [
+    {
+      "id": "run_40115916446",
+      "run_id": 40115916446,
+      "artifact_id": 12568601515,
+      "filename": "MysticXXX_MMH3-V5.safetensors",
+      "normalized_name": "mysticxxx_mmh3-v5.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f190455b3e5f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-24T17:24:13Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40115821360",
       "run_id": 40115821360,
@@ -156941,7 +156954,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
