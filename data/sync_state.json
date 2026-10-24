@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T15:53:24.244Z",
-  "lastRunId": 40108425590,
+  "updatedAt": "2026-10-24T16:35:44.587Z",
+  "lastRunId": 40112098426,
   "items": [
+    {
+      "id": "run_40112098426",
+      "run_id": 40112098426,
+      "artifact_id": 12566972878,
+      "filename": "ltx-restore-alpha1-distill2-int8.safetensors.enc",
+      "normalized_name": "ltx-restore-alpha1-distill2-int8.safetensors.enc",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fde721dc96e9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-24T16:35:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40107883670",
       "run_id": 40107883670,
