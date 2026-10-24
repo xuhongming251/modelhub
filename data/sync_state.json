@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T08:22:57.421Z",
-  "lastRunId": 40077632219,
+  "updatedAt": "2026-10-24T08:33:56.787Z",
+  "lastRunId": 40078395661,
   "items": [
+    {
+      "id": "run_40078395661",
+      "run_id": 40078395661,
+      "artifact_id": 12554446355,
+      "filename": "redcraftHighnoiseMASO.ZRNP.safetensors",
+      "normalized_name": "redcrafthighnoisemaso.zrnp.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bed9c238e4f4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-24T08:33:23Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40077632219",
       "run_id": 40077632219,
@@ -25910,19 +25923,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-10T11:09:46Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_34468445997",
-      "run_id": 34468445997,
-      "artifact_id": 10148548499,
-      "filename": "redcraftHighnoiseMASO.ZRNP.safetensors",
-      "normalized_name": "redcrafthighnoisemaso.zrnp.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/7d60b0705949",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-10T10:55:33Z",
       "workflow": "upload.yml"
     },
     {
