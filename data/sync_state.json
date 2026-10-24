@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T13:09:49.608Z",
-  "lastRunId": 40092541142,
+  "updatedAt": "2026-10-24T13:15:35.553Z",
+  "lastRunId": 40097026336,
   "items": [
+    {
+      "id": "run_40097026336",
+      "run_id": 40097026336,
+      "artifact_id": 12560683647,
+      "filename": "DeepSeek-V4.1-Flash-1017-GSQ-RCO-IQ1_M-00004-of-00004.gguf",
+      "normalized_name": "deepseek-v4.1-flash-1017-gsq-rco-iq1_m-00004-of-00004.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/01960cd1c2cc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-24T13:14:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40092531243",
       "run_id": 40092531243,
