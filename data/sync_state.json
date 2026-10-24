@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T10:20:29.779Z",
-  "lastRunId": 40084510590,
+  "updatedAt": "2026-10-24T10:50:26.639Z",
+  "lastRunId": 40087431102,
   "items": [
+    {
+      "id": "run_40087431102",
+      "run_id": 40087431102,
+      "artifact_id": 12557109985,
+      "filename": "python-3.12.10-amd64.exe",
+      "normalized_name": "python-3.12.10-amd64.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7831266e0555",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-24T10:49:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40084510590",
       "run_id": 40084510590,
