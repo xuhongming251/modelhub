@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T13:42:35.164Z",
+  "updatedAt": "2026-10-24T13:43:29.355Z",
   "lastRunId": 40097026336,
   "items": [
+    {
+      "id": "run_40097021700",
+      "run_id": 40097021700,
+      "artifact_id": 12562420754,
+      "filename": "DeepSeek-V4.1-Flash-1017-GSQ-RCO-IQ1_M-00003-of-00004.gguf",
+      "normalized_name": "deepseek-v4.1-flash-1017-gsq-rco-iq1_m-00003-of-00004.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/40a9eca9c0e6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-24T13:43:01Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_40096991934",
+      "run_id": 40096991934,
+      "artifact_id": 12561793899,
+      "filename": "DeepSeek-V4.1-Flash-1017-GSQ-RCO-IQ2_XS-00002-of-00004.gguf",
+      "normalized_name": "deepseek-v4.1-flash-1017-gsq-rco-iq2_xs-00002-of-00004.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ca644e2bedf6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-24T13:42:55Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40097015822",
       "run_id": 40097015822,
