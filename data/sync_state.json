@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T09:18:44.386Z",
-  "lastRunId": 40180047410,
+  "updatedAt": "2026-10-25T09:19:46.224Z",
+  "lastRunId": 40180049075,
   "items": [
+    {
+      "id": "run_40180049075",
+      "run_id": 40180049075,
+      "artifact_id": 12594426551,
+      "filename": "pornmasterKrea2_v25Turbo_fp8.safetensors",
+      "normalized_name": "pornmasterkrea2_v25turbo_fp8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d162b43b9738",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-25T09:19:21Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_40180032982",
+      "run_id": 40180032982,
+      "artifact_id": 12594381645,
+      "filename": "YOTTEA-MOSS-V1.safetensors",
+      "normalized_name": "yottea-moss-v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/56203bc7f347",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-25T09:19:12Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_40180045746",
+      "run_id": 40180045746,
+      "artifact_id": 12594281638,
+      "filename": "artist-kurachi_mizuki-moss_image.safetensors",
+      "normalized_name": "artist-kurachi_mizuki-moss_image.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b50902d1be24",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-25T09:18:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40180047410",
       "run_id": 40180047410,
@@ -157851,7 +157890,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
