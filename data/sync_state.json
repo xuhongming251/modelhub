@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T05:42:00.514Z",
-  "lastRunId": 40166410690,
+  "updatedAt": "2026-10-25T09:18:44.386Z",
+  "lastRunId": 40180047410,
   "items": [
+    {
+      "id": "run_40180047410",
+      "run_id": 40180047410,
+      "artifact_id": 12593676443,
+      "filename": "ningen_mame_moss_base_v2.safetensors",
+      "normalized_name": "ningen_mame_moss_base_v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a370ae350a30",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-25T09:18:15Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_40180043929",
+      "run_id": 40180043929,
+      "artifact_id": 12593822217,
+      "filename": "betanonbeet_Moss_v1_step2600.safetensors",
+      "normalized_name": "betanonbeet_moss_v1_step2600.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8158eb2ac005",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-25T09:18:13Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_40180034863",
+      "run_id": 40180034863,
+      "artifact_id": 12593941959,
+      "filename": "Shirabe_E10.safetensors",
+      "normalized_name": "shirabe_e10.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6675293d9941",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-25T09:18:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40166410690",
       "run_id": 40166410690,
@@ -157812,7 +157851,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
