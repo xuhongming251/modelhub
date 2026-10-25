@@ -1,8 +1,60 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T02:22:44.705Z",
-  "lastRunId": 40154151397,
+  "updatedAt": "2026-10-25T02:23:40.318Z",
+  "lastRunId": 40154209491,
   "items": [
+    {
+      "id": "run_40154209491",
+      "run_id": 40154209491,
+      "artifact_id": 12584111080,
+      "filename": "nangong_anima_v2_1.safetensors",
+      "normalized_name": "nangong_anima_v2_1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b70beca989a3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-25T02:23:13Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_40154195971",
+      "run_id": 40154195971,
+      "artifact_id": 12583657708,
+      "filename": "odette_anima_v1.safetensors",
+      "normalized_name": "odette_anima_v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b9ddade84809",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-25T02:23:00Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_40154180901",
+      "run_id": 40154180901,
+      "artifact_id": 12584465354,
+      "filename": "sunna_anima_v1_1.safetensors",
+      "normalized_name": "sunna_anima_v1_1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6c42136ad46e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-25T02:22:44Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_40154166003",
+      "run_id": 40154166003,
+      "artifact_id": 12583582881,
+      "filename": "velina_anima_v2_1.safetensors",
+      "normalized_name": "velina_anima_v2_1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/33f9633dfb3b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-25T02:22:29Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40154151397",
       "run_id": 40154151397,
@@ -157136,7 +157188,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
