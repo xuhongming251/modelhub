@@ -1,8 +1,60 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T03:19:46.455Z",
-  "lastRunId": 40157729487,
+  "updatedAt": "2026-10-25T03:20:25.590Z",
+  "lastRunId": 40157774170,
   "items": [
+    {
+      "id": "run_40157751655",
+      "run_id": 40157751655,
+      "artifact_id": 12584543050,
+      "filename": "hyacine_anima_v2.safetensors",
+      "normalized_name": "hyacine_anima_v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bcf373088f92",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-25T03:20:01Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_40157774170",
+      "run_id": 40157774170,
+      "artifact_id": 12585187593,
+      "filename": "zani_anima_v1.safetensors",
+      "normalized_name": "zani_anima_v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/007cdf67d050",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-25T03:19:54Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_40157763432",
+      "run_id": 40157763432,
+      "artifact_id": 12585312538,
+      "filename": "aemeath_anima_v1.safetensors",
+      "normalized_name": "aemeath_anima_v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8fae0c91a252",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-25T03:19:43Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_40157740887",
+      "run_id": 40157740887,
+      "artifact_id": 12585611909,
+      "filename": "eldreda_anima_v1.safetensors",
+      "normalized_name": "eldreda_anima_v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1e744431f737",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-25T03:19:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40157717635",
       "run_id": 40157717635,
