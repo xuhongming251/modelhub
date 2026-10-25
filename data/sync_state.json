@@ -1,8 +1,60 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T03:17:54.198Z",
-  "lastRunId": 40157622525,
+  "updatedAt": "2026-10-25T03:18:48.538Z",
+  "lastRunId": 40157682679,
   "items": [
+    {
+      "id": "run_40157682679",
+      "run_id": 40157682679,
+      "artifact_id": 12585626780,
+      "filename": "liino_anima_v1.safetensors",
+      "normalized_name": "liino_anima_v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5f1d9e83f6f1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-25T03:18:19Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_40157670861",
+      "run_id": 40157670861,
+      "artifact_id": 12584822259,
+      "filename": "suoming_anima_v2.safetensors",
+      "normalized_name": "suoming_anima_v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ef7a89288ac8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-25T03:18:11Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_40157647749",
+      "run_id": 40157647749,
+      "artifact_id": 12585432009,
+      "filename": "lindverne_anima_v2.safetensors",
+      "normalized_name": "lindverne_anima_v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b38f4f74c7c8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-25T03:17:53Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_40157634624",
+      "run_id": 40157634624,
+      "artifact_id": 12585511920,
+      "filename": "robinsummer_anima_v1.safetensors",
+      "normalized_name": "robinsummer_anima_v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9b9d8ed3b3a4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-25T03:17:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40157622525",
       "run_id": 40157622525,
