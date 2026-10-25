@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T02:18:47.960Z",
-  "lastRunId": 40153892187,
+  "updatedAt": "2026-10-25T02:21:47.563Z",
+  "lastRunId": 40154081153,
   "items": [
+    {
+      "id": "run_40154081153",
+      "run_id": 40154081153,
+      "artifact_id": 12583602673,
+      "filename": "qingxiao_anima_v1.safetensors",
+      "normalized_name": "qingxiao_anima_v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f7e8badc77c2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-25T02:21:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40153892187",
       "run_id": 40153892187,
