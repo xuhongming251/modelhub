@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T00:16:35.587Z",
-  "lastRunId": 40145926011,
+  "updatedAt": "2026-10-25T00:29:30.312Z",
+  "lastRunId": 40146770271,
   "items": [
+    {
+      "id": "run_40146770271",
+      "run_id": 40146770271,
+      "artifact_id": 12580773002,
+      "filename": "mossImageSftBf16.safetensors",
+      "normalized_name": "mossimagesftbf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/29844c99b296",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-25T00:28:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40145926011",
       "run_id": 40145926011,
