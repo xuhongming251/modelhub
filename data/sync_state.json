@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T19:55:25.703Z",
-  "lastRunId": 40228225292,
+  "updatedAt": "2026-10-25T19:57:42.277Z",
+  "lastRunId": 40228325361,
   "items": [
+    {
+      "id": "run_40228325361",
+      "run_id": 40228325361,
+      "artifact_id": 12612506589,
+      "filename": "vrc_v2.1.safetensors",
+      "normalized_name": "vrc_v2.1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/059e41b05926",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-25T19:57:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40228225292",
       "run_id": 40228225292,
