@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T14:05:54.233Z",
-  "lastRunId": 40336268217,
+  "updatedAt": "2026-10-26T14:06:55.410Z",
+  "lastRunId": 40336423420,
   "items": [
     {
-      "id": "run_40336268217",
-      "run_id": 40336268217,
-      "artifact_id": 12655989558,
+      "id": "run_40336423420",
+      "run_id": 40336423420,
+      "artifact_id": 12656493791,
+      "filename": "flux2-vae.safetensors",
+      "normalized_name": "flux2-vae.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2f80445e4bdd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-26T14:06:15Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_40336341788",
+      "run_id": 40336341788,
+      "artifact_id": 12657296608,
       "filename": "moss-image-25d-anime",
       "normalized_name": "moss-image-25d-anime",
       "original_url": "",
-      "share_url": "https://pan.quark.cn/s/58a61723dafe",
+      "share_url": "https://pan.quark.cn/s/45b0c536ad09",
       "channel": "quark",
       "channel_name": "Quark",
-      "completed_at": "2026-10-26T14:05:12Z",
+      "completed_at": "2026-10-26T14:06:11Z",
       "workflow": "upload.yml"
     },
     {
@@ -4980,19 +4993,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-10-18T02:44:45Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_39090590304",
-      "run_id": 39090590304,
-      "artifact_id": 12122911469,
-      "filename": "flux2-vae.safetensors",
-      "normalized_name": "flux2-vae.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/ff936eff7177",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-10-18T02:37:56Z",
       "workflow": "upload.yml"
     },
     {
