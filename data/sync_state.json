@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T16:13:43.872Z",
-  "lastRunId": 40356702677,
+  "updatedAt": "2026-10-26T19:02:55.940Z",
+  "lastRunId": 40383007929,
   "items": [
+    {
+      "id": "run_40383007929",
+      "run_id": 40383007929,
+      "artifact_id": 12678119176,
+      "filename": "Qwen-Image-Lightning-8steps-V2.0-bf16.safetensors",
+      "normalized_name": "qwen-image-lightning-8steps-v2.0-bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9ba7ca05901c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-26T19:02:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40356702677",
       "run_id": 40356702677,
@@ -83877,19 +83890,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-05T12:03:43Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28739932290",
-      "run_id": 28739932290,
-      "artifact_id": 8091520490,
-      "filename": "Qwen-Image-Lightning-8steps-V2.0-bf16.safetensors",
-      "normalized_name": "qwen-image-lightning-8steps-v2.0-bf16.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/56cea7e6d98c",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-05T11:56:18Z",
       "workflow": "upload.yml"
     },
     {
