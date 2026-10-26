@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T15:10:26.200Z",
-  "lastRunId": 40346472815,
+  "updatedAt": "2026-10-26T16:01:59.439Z",
+  "lastRunId": 40354636593,
   "items": [
+    {
+      "id": "run_40354636593",
+      "run_id": 40354636593,
+      "artifact_id": 12664788715,
+      "filename": "h3ErosMax_beta6_int8.safetensors",
+      "normalized_name": "h3erosmax_beta6_int8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9e0b5eaa656a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-26T16:01:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40346472815",
       "run_id": 40346472815,
