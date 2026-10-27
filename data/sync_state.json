@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T11:14:42.523Z",
-  "lastRunId": 40493454122,
+  "updatedAt": "2026-10-27T11:16:48.305Z",
+  "lastRunId": 40493504504,
   "items": [
+    {
+      "id": "run_40493504504",
+      "run_id": 40493504504,
+      "artifact_id": 12729308202,
+      "filename": "sogno_v20.safetensors",
+      "normalized_name": "sogno_v20.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ae9d70187ce1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-27T11:16:13Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40493420896",
       "run_id": 40493420896,
