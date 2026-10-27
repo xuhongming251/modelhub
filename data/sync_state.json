@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T16:06:53.039Z",
-  "lastRunId": 40537503211,
+  "updatedAt": "2026-10-27T16:25:53.598Z",
+  "lastRunId": 40540627434,
   "items": [
+    {
+      "id": "run_40540489392",
+      "run_id": 40540489392,
+      "artifact_id": 12749354090,
+      "filename": "shaosiyuan.safetensors",
+      "normalized_name": "shaosiyuan.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/63e6387ecb81",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-27T16:25:27Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_40540627434",
+      "run_id": 40540627434,
+      "artifact_id": 12749579191,
+      "filename": "Krea2_Shaosiyuan_YP_000002250.safetensors",
+      "normalized_name": "krea2_shaosiyuan_yp_000002250.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/af8c04854dc6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-27T16:25:14Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_40540461738",
+      "run_id": 40540461738,
+      "artifact_id": 12750632125,
+      "filename": "yuanyaov1.safetensors",
+      "normalized_name": "yuanyaov1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4d40d8cf7f1e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-27T16:25:12Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40537503211",
       "run_id": 40537503211,
