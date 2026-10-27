@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T16:00:00.189Z",
-  "lastRunId": 40536149940,
+  "updatedAt": "2026-10-27T16:01:07.579Z",
+  "lastRunId": 40536338583,
   "items": [
+    {
+      "id": "run_40536338583",
+      "run_id": 40536338583,
+      "artifact_id": 12747403197,
+      "filename": "xiaoxiaoda-raw_c1-st4000.safetensors",
+      "normalized_name": "xiaoxiaoda-raw_c1-st4000.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b7ca15ea3160",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-27T16:00:26Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40536149940",
       "run_id": 40536149940,
