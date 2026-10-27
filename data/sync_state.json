@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T16:55:25.703Z",
-  "lastRunId": 40545306754,
+  "updatedAt": "2026-10-27T16:57:42.612Z",
+  "lastRunId": 40545349718,
   "items": [
+    {
+      "id": "run_40545349718",
+      "run_id": 40545349718,
+      "artifact_id": 12752268859,
+      "filename": "huangnv-raw_c1-st4000.safetensors",
+      "normalized_name": "huangnv-raw_c1-st4000.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/91ed7048604d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-27T16:56:59Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_40545327974",
+      "run_id": 40545327974,
+      "artifact_id": 12751513506,
+      "filename": "nalanA-raw_c1-st4000.safetensors",
+      "normalized_name": "nalana-raw_c1-st4000.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c7efef662b18",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-27T16:55:09Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_40545226626",
+      "run_id": 40545226626,
+      "artifact_id": 12751569109,
+      "filename": "xiaowutong-raw_c1-st4000.safetensors",
+      "normalized_name": "xiaowutong-raw_c1-st4000.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6bcd4ed21538",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-27T16:55:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40545280560",
       "run_id": 40545280560,
