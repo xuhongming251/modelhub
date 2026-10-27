@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T10:06:32.228Z",
-  "lastRunId": 40485759393,
+  "updatedAt": "2026-10-27T10:07:53.293Z",
+  "lastRunId": 40485931540,
   "items": [
+    {
+      "id": "run_40485931540",
+      "run_id": 40485931540,
+      "artifact_id": 12725565666,
+      "filename": "林德薇恩.safetensors",
+      "normalized_name": "林德薇恩.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4779bbe1db3e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-27T10:07:07Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_40485840827",
+      "run_id": 40485840827,
+      "artifact_id": 12724034648,
+      "filename": "德蕾琪娜.safetensors",
+      "normalized_name": "德蕾琪娜.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d632892ed0f3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-27T10:06:27Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40485759393",
       "run_id": 40485759393,
