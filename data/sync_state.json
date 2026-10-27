@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T14:36:23.967Z",
-  "lastRunId": 40522483482,
+  "updatedAt": "2026-10-27T15:31:05.460Z",
+  "lastRunId": 40531518817,
   "items": [
+    {
+      "id": "run_40531518817",
+      "run_id": 40531518817,
+      "artifact_id": 12745509132,
+      "filename": "qinger-raw_c1-st4000.safetensors",
+      "normalized_name": "qinger-raw_c1-st4000.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9998691d8cfd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-27T15:30:16Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40522483482",
       "run_id": 40522483482,
