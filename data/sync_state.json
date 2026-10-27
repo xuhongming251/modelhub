@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T15:32:30.372Z",
-  "lastRunId": 40531565926,
+  "updatedAt": "2026-10-27T15:49:55.075Z",
+  "lastRunId": 40531624898,
   "items": [
+    {
+      "id": "run_40531624898",
+      "run_id": 40531624898,
+      "artifact_id": 12747350445,
+      "filename": "tianqiong3-raw_c1-st4000.safetensors",
+      "normalized_name": "tianqiong3-raw_c1-st4000.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/98bc116a999c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-27T15:32:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40531565926",
       "run_id": 40531565926,
