@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T16:49:49.476Z",
-  "lastRunId": 40544516730,
+  "updatedAt": "2026-10-27T16:55:25.703Z",
+  "lastRunId": 40545306754,
   "items": [
+    {
+      "id": "run_40545280560",
+      "run_id": 40545280560,
+      "artifact_id": 12752801567,
+      "filename": "hunshacaier-raw_c1-st4000.safetensors",
+      "normalized_name": "hunshacaier-raw_c1-st4000.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5ac1408fee3a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-27T16:54:57Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_40545306754",
+      "run_id": 40545306754,
+      "artifact_id": 12751294671,
+      "filename": "wenqingxuan-raw_c1-st4000.safetensors",
+      "normalized_name": "wenqingxuan-raw_c1-st4000.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9484ab03ea65",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-27T16:54:48Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_40545257341",
+      "run_id": 40545257341,
+      "artifact_id": 12752627197,
+      "filename": "longjiaonan-raw_c1-st4000.safetensors",
+      "normalized_name": "longjiaonan-raw_c1-st4000.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d43f5ef3bb4a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-27T16:54:47Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40544516730",
       "run_id": 40544516730,
