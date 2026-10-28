@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T04:33:18.808Z",
-  "lastRunId": 40632421982,
+  "updatedAt": "2026-10-28T04:35:42.432Z",
+  "lastRunId": 40632431038,
   "items": [
+    {
+      "id": "run_40632431038",
+      "run_id": 40632431038,
+      "artifact_id": 12792022802,
+      "filename": "Qwen3.8-Flash-Next-GSQ-RCO-IQ1_M-00002-of-00002.gguf",
+      "normalized_name": "qwen3.8-flash-next-gsq-rco-iq1_m-00002-of-00002.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7abbcc86c49e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-28T04:35:04Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40632421982",
       "run_id": 40632421982,
@@ -885,19 +898,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-10-27T10:05:47Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_40474481668",
-      "run_id": 40474481668,
-      "artifact_id": 12719918760,
-      "filename": "Qwen3.8-Flash-Next-GSQ-RCO-IQ1_M-00002-of-00002.gguf",
-      "normalized_name": "qwen3.8-flash-next-gsq-rco-iq1_m-00002-of-00002.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/24441661a99c",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-10-27T08:38:41Z",
       "workflow": "upload.yml"
     },
     {
