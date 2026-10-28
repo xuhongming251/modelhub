@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T09:43:13.710Z",
-  "lastRunId": 40666288253,
+  "updatedAt": "2026-10-28T10:04:11.679Z",
+  "lastRunId": 40668944666,
   "items": [
+    {
+      "id": "run_40668944666",
+      "run_id": 40668944666,
+      "artifact_id": 12808090579,
+      "filename": "sonspMossStyleV2.SNlk.safetensors",
+      "normalized_name": "sonspmossstylev2.snlk.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7137ec896bc5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-28T10:03:34Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_40668920863",
+      "run_id": 40668920863,
+      "artifact_id": 12807142745,
+      "filename": "nippleclampsMossMoss.iTy7.safetensors",
+      "normalized_name": "nippleclampsmossmoss.ity7.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1a520a0c3f66",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-28T10:03:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40666288253",
       "run_id": 40666288253,
@@ -159704,7 +159730,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
