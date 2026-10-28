@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T23:57:18.859Z",
-  "lastRunId": 40545349718,
+  "updatedAt": "2026-10-28T02:09:09.305Z",
+  "lastRunId": 40619085311,
   "items": [
+    {
+      "id": "run_40619085311",
+      "run_id": 40619085311,
+      "artifact_id": 12786746159,
+      "filename": "anima niji Aesthetic.safetensors",
+      "normalized_name": "anima niji aesthetic.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4f5bda8863ed",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-28T02:08:22Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40545349718",
       "run_id": 40545349718,
@@ -159522,7 +159535,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 8,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
