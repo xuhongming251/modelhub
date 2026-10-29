@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T16:00:38.819Z",
-  "lastRunId": 40906324723,
+  "updatedAt": "2026-10-29T19:23:41.239Z",
+  "lastRunId": 40939219599,
   "items": [
+    {
+      "id": "run_40939219599",
+      "run_id": 40939219599,
+      "artifact_id": 12925943648,
+      "filename": "SeC-4B-fp16.safetensors",
+      "normalized_name": "sec-4b-fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/934d256e48a9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-29T19:22:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40906172456",
       "run_id": 40906172456,
@@ -85307,19 +85320,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-05T12:29:41Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28740271759",
-      "run_id": 28740271759,
-      "artifact_id": 8091658666,
-      "filename": "SeC-4B-fp16.safetensors",
-      "normalized_name": "sec-4b-fp16.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/96ef949b2ecd",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-05T12:14:19Z",
       "workflow": "upload.yml"
     },
     {
