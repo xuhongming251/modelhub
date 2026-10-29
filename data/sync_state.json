@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T04:53:20.398Z",
-  "lastRunId": 40819546891,
+  "updatedAt": "2026-10-29T05:55:50.657Z",
+  "lastRunId": 40825802056,
   "items": [
+    {
+      "id": "run_40825802056",
+      "run_id": 40825802056,
+      "artifact_id": 12876487739,
+      "filename": "minimax_h3_fl2v_lightx2v_turbo_4step_v0.1_comfy.safetensors",
+      "normalized_name": "minimax_h3_fl2v_lightx2v_turbo_4step_v0.1_comfy.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1RQYAceBICCub_UwGAgur7g?pwd=4d58",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-10-29T05:55:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_40819342621",
       "run_id": 40819342621,
@@ -53275,19 +53288,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-07T14:34:47Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_31185386457",
-      "run_id": 31185386457,
-      "artifact_id": 8996607985,
-      "filename": "minimax_h3_fl2v_lightx2v_turbo_4step_v0.1_comfy.safetensors",
-      "normalized_name": "minimax_h3_fl2v_lightx2v_turbo_4step_v0.1_comfy.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.baidu.com/s/1Q956AjfhcU70bJ0MHEX-QA?pwd=58da",
-      "channel": "baidu",
-      "channel_name": "Baidu",
-      "completed_at": "2026-08-07T14:03:49Z",
       "workflow": "upload.yml"
     },
     {
