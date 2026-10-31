@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T14:16:29.330Z",
-  "lastRunId": 41209250429,
+  "updatedAt": "2026-10-31T14:32:46.660Z",
+  "lastRunId": 41210055573,
   "items": [
+    {
+      "id": "run_41210055573",
+      "run_id": 41210055573,
+      "artifact_id": 13045244447,
+      "filename": "sickOllie_krea2_full_bf16.safetensors",
+      "normalized_name": "sickollie_krea2_full_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c4a9af4c6409",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-31T14:32:12Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41209250429",
       "run_id": 41209250429,
