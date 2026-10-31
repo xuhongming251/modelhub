@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T08:56:45.792Z",
-  "lastRunId": 41186571695,
+  "updatedAt": "2026-10-31T08:58:11.534Z",
+  "lastRunId": 41186666457,
   "items": [
+    {
+      "id": "run_41186666457",
+      "run_id": 41186666457,
+      "artifact_id": 13036879558,
+      "filename": "qingCB-v1.safetensors",
+      "normalized_name": "qingcb-v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fdd63937a510",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-31T08:57:46Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41186653321",
+      "run_id": 41186653321,
+      "artifact_id": 13037335727,
+      "filename": "chenxingS-v2.safetensors",
+      "normalized_name": "chenxings-v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c64a7309817e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-31T08:57:36Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41186577964",
+      "run_id": 41186577964,
+      "artifact_id": 13036969042,
+      "filename": "Chenxing-Jade Arc_(Rouge Bliss)-anima_v1.0.safetensors",
+      "normalized_name": "chenxing-jade arc_(rouge bliss)-anima_v1.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c17991635f40",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-31T08:56:44Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41186571695",
       "run_id": 41186571695,
