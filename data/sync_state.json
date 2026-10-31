@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T04:05:30.048Z",
-  "lastRunId": 41166033890,
+  "updatedAt": "2026-10-31T04:10:13.401Z",
+  "lastRunId": 41167356176,
   "items": [
+    {
+      "id": "run_41167356176",
+      "run_id": 41167356176,
+      "artifact_id": 13029785967,
+      "filename": "windows6.1-kb976932-x64_74865ef2562006e51d7f9333b4a8d45b7a749dab.exe",
+      "normalized_name": "windows6.1-kb976932-x64_74865ef2562006e51d7f9333b4a8d45b7a749dab.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f55b3683d968",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-31T04:09:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41165951288",
       "run_id": 41165951288,
