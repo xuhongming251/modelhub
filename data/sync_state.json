@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T08:53:24.660Z",
-  "lastRunId": 41186351965,
+  "updatedAt": "2026-10-31T08:54:14.861Z",
+  "lastRunId": 41186399250,
   "items": [
+    {
+      "id": "run_41186399250",
+      "run_id": 41186399250,
+      "artifact_id": 13037081015,
+      "filename": "chenxingACB-v1.safetensors",
+      "normalized_name": "chenxingacb-v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/84d205606090",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-31T08:53:34Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41186376132",
+      "run_id": 41186376132,
+      "artifact_id": 13037140708,
+      "filename": "Katya-noob-Tanger.safetensors",
+      "normalized_name": "katya-noob-tanger.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5b83a33feb62",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-31T08:53:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41186351965",
       "run_id": 41186351965,
