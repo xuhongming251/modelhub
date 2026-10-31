@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T02:39:16.964Z",
-  "lastRunId": 41160269044,
+  "updatedAt": "2026-10-31T02:42:18.912Z",
+  "lastRunId": 41161078016,
   "items": [
+    {
+      "id": "run_41161078016",
+      "run_id": 41161078016,
+      "artifact_id": 13027580101,
+      "filename": "moss SytleEDetail2D.Ibyn.safetensors",
+      "normalized_name": "moss sytleedetail2d.ibyn.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ba75190e19b1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-31T02:41:43Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41160269044",
       "run_id": 41160269044,
@@ -160523,7 +160536,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
