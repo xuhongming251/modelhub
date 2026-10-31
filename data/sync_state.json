@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T04:28:07.898Z",
-  "lastRunId": 41167356176,
+  "updatedAt": "2026-10-31T04:43:35.986Z",
+  "lastRunId": 41169661528,
   "items": [
+    {
+      "id": "run_41169661528",
+      "run_id": 41169661528,
+      "artifact_id": 13030402252,
+      "filename": "thank-you",
+      "normalized_name": "thank-you",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a72593ab5337",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-31T04:43:02Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41165981606",
+      "run_id": 41165981606,
+      "artifact_id": 13029558846,
+      "filename": "Qwen3.8-27B-Halloween-Terror-Heretic-Uncensored-NEO-MTP-Q5_K_M.gguf",
+      "normalized_name": "qwen3.8-27b-halloween-terror-heretic-uncensored-neo-mtp-q5_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b0b356a89c68",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-31T04:27:55Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41166002515",
       "run_id": 41166002515,
