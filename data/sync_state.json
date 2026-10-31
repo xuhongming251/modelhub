@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T05:42:23.508Z",
+  "updatedAt": "2026-10-31T05:43:54.522Z",
   "lastRunId": 41173336279,
   "items": [
+    {
+      "id": "run_41173137047",
+      "run_id": 41173137047,
+      "artifact_id": 13032376949,
+      "filename": "Qwen3.8-Flash-Next-UD-Q6_K_XL-00005-of-00006.gguf",
+      "normalized_name": "qwen3.8-flash-next-ud-q6_k_xl-00005-of-00006.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/15300edf365f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-31T05:43:22Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41173131523",
       "run_id": 41173131523,
@@ -8412,19 +8425,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-10-15T14:46:53Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_38740309392",
-      "run_id": 38740309392,
-      "artifact_id": 11981497792,
-      "filename": "Qwen3.8-Flash-Next-UD-Q6_K_XL-00005-of-00006.gguf",
-      "normalized_name": "qwen3.8-flash-next-ud-q6_k_xl-00005-of-00006.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/93b667974465",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-10-15T14:31:24Z",
       "workflow": "upload.yml"
     },
     {
