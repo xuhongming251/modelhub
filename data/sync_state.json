@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T09:07:11.504Z",
-  "lastRunId": 41187277082,
+  "updatedAt": "2026-10-31T09:08:08.193Z",
+  "lastRunId": 41187346687,
   "items": [
+    {
+      "id": "run_41187346687",
+      "run_id": 41187346687,
+      "artifact_id": 13037436712,
+      "filename": "cherno.safetensors",
+      "normalized_name": "cherno.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4844c2f00e95",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-31T09:07:30Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41187328170",
+      "run_id": 41187328170,
+      "artifact_id": 13037441668,
+      "filename": "Marian andreotti-Aquila-noobai_v2.0.safetensors",
+      "normalized_name": "marian andreotti-aquila-noobai_v2.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/24de33f6a87e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-31T09:07:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41187258723",
       "run_id": 41187258723,
