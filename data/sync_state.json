@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T08:54:14.861Z",
-  "lastRunId": 41186399250,
+  "updatedAt": "2026-10-31T08:55:34.128Z",
+  "lastRunId": 41186484593,
   "items": [
+    {
+      "id": "run_41186484593",
+      "run_id": 41186484593,
+      "artifact_id": 13036348959,
+      "filename": "Civitai 模型文件",
+      "normalized_name": "civitai 模型文件",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a2a59882826e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-31T08:54:50Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41186442108",
+      "run_id": 41186442108,
+      "artifact_id": 13035884532,
+      "filename": "LYFE-V2.safetensors",
+      "normalized_name": "lyfe-v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b9147420a932",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-31T08:54:16Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41186427897",
+      "run_id": 41186427897,
+      "artifact_id": 13036902693,
+      "filename": "futiyaCB-V1.1.safetensors",
+      "normalized_name": "futiyacb-v1.1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/26a6507b7c13",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-31T08:53:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41186399250",
       "run_id": 41186399250,
@@ -508,19 +547,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-10-30T19:04:30Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_41110246934",
-      "run_id": 41110246934,
-      "artifact_id": 13003736145,
-      "filename": "Civitai 模型文件",
-      "normalized_name": "civitai 模型文件",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/9f9ad050aff4",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-10-30T18:51:21Z",
       "workflow": "upload.yml"
     },
     {
