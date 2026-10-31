@@ -1,8 +1,60 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T09:05:57.324Z",
-  "lastRunId": 41187208948,
+  "updatedAt": "2026-10-31T09:07:11.504Z",
+  "lastRunId": 41187277082,
   "items": [
+    {
+      "id": "run_41187258723",
+      "run_id": 41187258723,
+      "artifact_id": 13038000452,
+      "filename": "Fritia_ignis-Sparkdrive_(Empress_robe)-anima_v1.0.safetensors",
+      "normalized_name": "fritia_ignis-sparkdrive_(empress_robe)-anima_v1.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6e226658c273",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-31T09:06:41Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41187277082",
+      "run_id": 41187277082,
+      "artifact_id": 13037197141,
+      "filename": "Marian andreotti-riptide_(Fashion Dilemma)-noobai_v2.0.safetensors",
+      "normalized_name": "marian andreotti-riptide_(fashion dilemma)-noobai_v2.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ff8514281ef6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-31T09:06:31Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41187241423",
+      "run_id": 41187241423,
+      "artifact_id": 13037316878,
+      "filename": "Enya murphy-Tempest_(Fall for You)-wai14_v2.0.safetensors",
+      "normalized_name": "enya murphy-tempest_(fall for you)-wai14_v2.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/77d7bc995c65",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-31T09:06:02Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41187223956",
+      "run_id": 41187223956,
+      "artifact_id": 13036269802,
+      "filename": "Vidya_shannon-noobai_v1.0.safetensors",
+      "normalized_name": "vidya_shannon-noobai_v1.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6cd6dd859f06",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-31T09:05:47Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41187208948",
       "run_id": 41187208948,
@@ -161284,7 +161336,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
