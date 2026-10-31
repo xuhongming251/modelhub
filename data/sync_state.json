@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T02:49:24.669Z",
-  "lastRunId": 41161365979,
+  "updatedAt": "2026-10-31T03:50:58.374Z",
+  "lastRunId": 41166033890,
   "items": [
+    {
+      "id": "run_41166033890",
+      "run_id": 41166033890,
+      "artifact_id": 13028937438,
+      "filename": "mmproj-F16.gguf",
+      "normalized_name": "mmproj-f16.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2f07df153dff",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-31T03:50:29Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41166022946",
+      "run_id": 41166022946,
+      "artifact_id": 13029377210,
+      "filename": "mmproj-BF16.gguf",
+      "normalized_name": "mmproj-bf16.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cefdc53adcfe",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-10-31T03:50:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41161365979",
       "run_id": 41161365979,
@@ -27158,19 +27184,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-16T09:22:08Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_35077997534",
-      "run_id": 35077997534,
-      "artifact_id": 10439296245,
-      "filename": "mmproj-BF16.gguf",
-      "normalized_name": "mmproj-bf16.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/5d2b4fb8fa6f",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-16T09:12:03Z",
       "workflow": "upload.yml"
     },
     {
@@ -149176,12 +149189,6 @@
       "normalized_name": "qwen3.5-27b-ud-iq3_xxs.gguf",
       "share_url": "https://pan.quark.cn/s/c842a1e508a4",
       "completed_at": "2026-04-05T16:15:23Z"
-    },
-    {
-      "filename": "mmproj-F16.gguf",
-      "normalized_name": "mmproj-f16.gguf",
-      "share_url": "https://pan.quark.cn/s/2ed1e8006c6a",
-      "completed_at": "2026-04-05T16:11:34Z"
     },
     {
       "filename": "JANKU 训练 + Chenkin & NoobAI + 柔为光辉XL",
