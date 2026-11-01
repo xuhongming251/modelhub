@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T06:07:03.744Z",
-  "lastRunId": 41279194927,
+  "updatedAt": "2026-11-01T06:24:13.816Z",
+  "lastRunId": 41280505535,
   "items": [
+    {
+      "id": "run_41280505535",
+      "run_id": 41280505535,
+      "artifact_id": 13072438931,
+      "filename": "Qwen3.8-Flash-Next-Avalon-IQ3KS-00001-of-00033.gguf",
+      "normalized_name": "qwen3.8-flash-next-avalon-iq3ks-00001-of-00033.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0b6ea6a2040b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-01T06:23:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41279194927",
       "run_id": 41279194927,
