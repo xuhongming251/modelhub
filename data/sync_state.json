@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T06:50:50.677Z",
-  "lastRunId": 41282302510,
+  "updatedAt": "2026-11-01T06:53:52.656Z",
+  "lastRunId": 41282410723,
   "items": [
+    {
+      "id": "run_41282410723",
+      "run_id": 41282410723,
+      "artifact_id": 13073996824,
+      "filename": "mtp-Qwen3.8-Flash-Next-shared-Q4_K_M.gguf",
+      "normalized_name": "mtp-qwen3.8-flash-next-shared-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d3c744b7a965",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-01T06:53:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41282302510",
       "run_id": 41282302510,
