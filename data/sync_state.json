@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T00:12:41.237Z",
-  "lastRunId": 41255550985,
+  "updatedAt": "2026-11-01T00:17:18.836Z",
+  "lastRunId": 41255949196,
   "items": [
+    {
+      "id": "run_41255949196",
+      "run_id": 41255949196,
+      "artifact_id": 13062947118,
+      "filename": "fineviewRedmossv3Fp8.moss.safetensors",
+      "normalized_name": "fineviewredmossv3fp8.moss.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0270b00795fd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-01T00:16:47Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41252118981",
+      "run_id": 41252118981,
+      "artifact_id": 13063185478,
+      "filename": "Krea2-动画AnimeBf16.3.0.safetensors",
+      "normalized_name": "krea2-动画animebf16.3.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0c5fdd7aeee4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-01T00:12:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41255550985",
       "run_id": 41255550985,
