@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T06:46:06.119Z",
-  "lastRunId": 41281992833,
+  "updatedAt": "2026-11-01T06:50:50.677Z",
+  "lastRunId": 41282302510,
   "items": [
+    {
+      "id": "run_41282302510",
+      "run_id": 41282302510,
+      "artifact_id": 13073731345,
+      "filename": "bedroom_of_Smurf3tt3.safetensors",
+      "normalized_name": "bedroom_of_smurf3tt3.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b127e9db7d51",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-01T06:50:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41281992833",
       "run_id": 41281992833,
@@ -162558,7 +162571,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
