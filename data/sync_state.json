@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T09:01:23.465Z",
-  "lastRunId": 41288964852,
+  "updatedAt": "2026-11-01T09:07:53.967Z",
+  "lastRunId": 41291608399,
   "items": [
     {
       "id": "run_41288964852",
@@ -14,6 +14,19 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-11-01T09:29:00Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41291608399",
+      "run_id": 41291608399,
+      "artifact_id": 13077836039,
+      "filename": "miaomiao20harem20MOSS1.9ZiH.safetensors",
+      "normalized_name": "miaomiao20harem20moss1.9zih.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/eb79d257e8b5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-01T09:07:17Z",
       "workflow": "upload.yml"
     },
     {
