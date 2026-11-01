@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T02:14:26.467Z",
-  "lastRunId": 41264268614,
+  "updatedAt": "2026-11-01T03:41:43.562Z",
+  "lastRunId": 41270114102,
   "items": [
+    {
+      "id": "run_41270114102",
+      "run_id": 41270114102,
+      "artifact_id": 13068693114,
+      "filename": "hoseki-lustrousmix-anima-v10",
+      "normalized_name": "hoseki-lustrousmix-anima-v10",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/562f8823beb3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-01T03:41:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41264268614",
       "run_id": 41264268614,
@@ -68199,19 +68212,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-25T06:07:33Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30146806163",
-      "run_id": 30146806163,
-      "artifact_id": 8616290187,
-      "filename": "hoseki-lustrousmix-anima-v10",
-      "normalized_name": "hoseki-lustrousmix-anima-v10",
-      "original_url": "",
-      "share_url": "https://pan.baidu.com/s/1QysiLlFwUlxu_eTKqYQhGA?pwd=2be8",
-      "channel": "baidu",
-      "channel_name": "Baidu",
-      "completed_at": "2026-07-25T06:03:09Z",
       "workflow": "upload.yml"
     },
     {
