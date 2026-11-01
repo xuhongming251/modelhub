@@ -1,8 +1,112 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T06:24:13.816Z",
-  "lastRunId": 41280505535,
+  "updatedAt": "2026-11-01T06:25:49.587Z",
+  "lastRunId": 41280612442,
   "items": [
+    {
+      "id": "run_41280558771",
+      "run_id": 41280558771,
+      "artifact_id": 13073122454,
+      "filename": "Qwen3.8-Flash-Next-Avalon-IQ3KS-00010-of-00033.gguf",
+      "normalized_name": "qwen3.8-flash-next-avalon-iq3ks-00010-of-00033.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5ad49c9955e3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-01T06:25:25Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41280596395",
+      "run_id": 41280596395,
+      "artifact_id": 13073276823,
+      "filename": "Qwen3.8-Flash-Next-Avalon-IQ3KS-00016-of-00033.gguf",
+      "normalized_name": "qwen3.8-flash-next-avalon-iq3ks-00016-of-00033.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2e3c0a5e5232",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-01T06:25:16Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41280612442",
+      "run_id": 41280612442,
+      "artifact_id": 13072808856,
+      "filename": "Qwen3.8-Flash-Next-Avalon-IQ3KS-00019-of-00033.gguf",
+      "normalized_name": "qwen3.8-flash-next-avalon-iq3ks-00019-of-00033.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/876b89973cec",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-01T06:25:15Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41280564249",
+      "run_id": 41280564249,
+      "artifact_id": 13072603769,
+      "filename": "Qwen3.8-Flash-Next-Avalon-IQ3KS-00011-of-00033.gguf",
+      "normalized_name": "qwen3.8-flash-next-avalon-iq3ks-00011-of-00033.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/789c057ad682",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-01T06:25:12Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41280577708",
+      "run_id": 41280577708,
+      "artifact_id": 13072523785,
+      "filename": "Qwen3.8-Flash-Next-Avalon-IQ3KS-00013-of-00033.gguf",
+      "normalized_name": "qwen3.8-flash-next-avalon-iq3ks-00013-of-00033.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/46b0898285c6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-01T06:24:43Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41280540348",
+      "run_id": 41280540348,
+      "artifact_id": 13073415913,
+      "filename": "Qwen3.8-Flash-Next-Avalon-IQ3KS-00007-of-00033.gguf",
+      "normalized_name": "qwen3.8-flash-next-avalon-iq3ks-00007-of-00033.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dfe8372a1858",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-01T06:24:43Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41280523212",
+      "run_id": 41280523212,
+      "artifact_id": 13073311623,
+      "filename": "Qwen3.8-Flash-Next-Avalon-IQ3KS-00004-of-00033.gguf",
+      "normalized_name": "qwen3.8-flash-next-avalon-iq3ks-00004-of-00033.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ced049a3afcf",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-01T06:24:32Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41280528889",
+      "run_id": 41280528889,
+      "artifact_id": 13072543807,
+      "filename": "Qwen3.8-Flash-Next-Avalon-IQ3KS-00005-of-00033.gguf",
+      "normalized_name": "qwen3.8-flash-next-avalon-iq3ks-00005-of-00033.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/56057cd414af",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-01T06:24:18Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41280505535",
       "run_id": 41280505535,
@@ -162103,7 +162207,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
