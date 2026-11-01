@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T06:44:12.586Z",
-  "lastRunId": 41281890186,
+  "updatedAt": "2026-11-01T06:46:06.119Z",
+  "lastRunId": 41281992833,
   "items": [
+    {
+      "id": "run_41281992833",
+      "run_id": 41281992833,
+      "artifact_id": 13073239679,
+      "filename": "Strawberry_Shortcake_berry_h0us3.safetensors",
+      "normalized_name": "strawberry_shortcake_berry_h0us3.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6b052315bda2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-01T06:45:30Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41281855338",
+      "run_id": 41281855338,
+      "artifact_id": 13074125368,
+      "filename": "texture_fix_vae_for_qwen_image_2.1_bf16.safetensors",
+      "normalized_name": "texture_fix_vae_for_qwen_image_2.1_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d76617cb8610",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-01T06:43:55Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41281890186",
       "run_id": 41281890186,
