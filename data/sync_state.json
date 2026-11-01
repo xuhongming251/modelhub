@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T06:31:03.185Z",
-  "lastRunId": 41280694366,
+  "updatedAt": "2026-11-01T06:43:24.752Z",
+  "lastRunId": 41281830883,
   "items": [
+    {
+      "id": "run_41281830883",
+      "run_id": 41281830883,
+      "artifact_id": 13073775568,
+      "filename": "redcraft_30Fixqw21t_fp8.safetensors",
+      "normalized_name": "redcraft_30fixqw21t_fp8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e489da177b74",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-01T06:42:46Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41280676403",
+      "run_id": 41280676403,
+      "artifact_id": 13073138232,
+      "filename": "Qwen3.8-Flash-Next-Avalon-IQ3KS-00030-of-00033.gguf",
+      "normalized_name": "qwen3.8-flash-next-avalon-iq3ks-00030-of-00033.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/685c9c3375dc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-01T06:31:00Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41280653240",
       "run_id": 41280653240,
