@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T23:16:59.190Z",
-  "lastRunId": 41361239503,
+  "updatedAt": "2026-11-01T23:27:18.416Z",
+  "lastRunId": 41361294704,
   "items": [
+    {
+      "id": "run_41361294704",
+      "run_id": 41361294704,
+      "artifact_id": 13105443444,
+      "filename": "asianfusionV10Q2K.wAti.gguf",
+      "normalized_name": "asianfusionv10q2k.wati.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2c7852dfb374",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-01T23:26:38Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41361272511",
+      "run_id": 41361272511,
+      "artifact_id": 13105905522,
+      "filename": "moss-image3dcg",
+      "normalized_name": "moss-image3dcg",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/66fb82f6b557",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-01T23:16:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41361239503",
       "run_id": 41361239503,
