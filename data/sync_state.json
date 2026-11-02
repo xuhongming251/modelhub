@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T06:45:23.031Z",
-  "lastRunId": 41401791135,
+  "updatedAt": "2026-11-02T06:47:27.289Z",
+  "lastRunId": 41401969087,
   "items": [
+    {
+      "id": "run_41401969087",
+      "run_id": 41401969087,
+      "artifact_id": 13122295769,
+      "filename": "pornmasterAnima_baseV1.safetensors",
+      "normalized_name": "pornmasteranima_basev1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a244852ab1fc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-02T06:46:51Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41401866714",
+      "run_id": 41401866714,
+      "artifact_id": 13122006151,
+      "filename": "MatureFemaleSliderAnima.safetensors",
+      "normalized_name": "maturefemaleslideranima.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/02cc2389761a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-02T06:45:23Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41401791135",
       "run_id": 41401791135,
@@ -125935,19 +125961,6 @@
       "workflow": "upload.yml"
     },
     {
-      "id": "run_26619934250",
-      "run_id": 26619934250,
-      "artifact_id": 7283755063,
-      "filename": "pornmasterAnima_baseV1.safetensors",
-      "normalized_name": "pornmasteranima_basev1.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/87660cdca6b9",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-29T05:30:20Z",
-      "workflow": "upload.yml"
-    },
-    {
       "id": "run_26619732058",
       "run_id": 26619732058,
       "artifact_id": 7283686814,
@@ -163728,7 +163741,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
