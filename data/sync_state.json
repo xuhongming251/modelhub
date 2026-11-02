@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T02:35:17.320Z",
-  "lastRunId": 41378413735,
+  "updatedAt": "2026-11-02T02:46:36.948Z",
+  "lastRunId": 41379289010,
   "items": [
+    {
+      "id": "run_41379289010",
+      "run_id": 41379289010,
+      "artifact_id": 13112408490,
+      "filename": "krea2 沐小葵.safetensors",
+      "normalized_name": "krea2 沐小葵.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1757439ce444",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-02T02:45:57Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41378300700",
+      "run_id": 41378300700,
+      "artifact_id": 13111384262,
+      "filename": "krea2 lirseven玻璃风格.safetensors",
+      "normalized_name": "krea2 lirseven玻璃风格.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/869ac764fe88",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-02T02:34:52Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41378413735",
       "run_id": 41378413735,
@@ -163403,7 +163429,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 8,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
