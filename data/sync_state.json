@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T14:09:25.633Z",
-  "lastRunId": 41458985686,
+  "updatedAt": "2026-11-02T14:20:13.610Z",
+  "lastRunId": 41460568546,
   "items": [
+    {
+      "id": "run_41460568546",
+      "run_id": 41460568546,
+      "artifact_id": 13147804877,
+      "filename": "blender-5.2.2-npr-port-win64-47732b164c81-20261101-093522.zip",
+      "normalized_name": "blender-5.2.2-npr-port-win64-47732b164c81-20261101-093522.zip",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1GrVF2utqhEWKn0anG8ZL7Q?pwd=705d",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-11-02T14:19:27Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41458985686",
       "run_id": 41458985686,
