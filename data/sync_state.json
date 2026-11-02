@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T07:37:39.537Z",
-  "lastRunId": 41407391816,
+  "updatedAt": "2026-11-02T07:38:52.006Z",
+  "lastRunId": 41407509731,
   "items": [
+    {
+      "id": "run_41407509731",
+      "run_id": 41407509731,
+      "artifact_id": 13123933181,
+      "filename": "kanzarin_v1_step1500.safetensors",
+      "normalized_name": "kanzarin_v1_step1500.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/061025b3b45b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-02T07:38:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41407391816",
       "run_id": 41407391816,
