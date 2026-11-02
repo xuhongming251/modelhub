@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T00:24:10.320Z",
-  "lastRunId": 41363582938,
+  "updatedAt": "2026-11-02T02:24:22.882Z",
+  "lastRunId": 41377375817,
   "items": [
+    {
+      "id": "run_41377375817",
+      "run_id": 41377375817,
+      "artifact_id": 13111587386,
+      "filename": "krea2 GPT style v2.safetensors",
+      "normalized_name": "krea2 gpt style v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/338865fe58fe",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-02T02:23:39Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41363582938",
       "run_id": 41363582938,
@@ -163377,7 +163390,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 8,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
