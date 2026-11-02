@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T06:47:27.289Z",
-  "lastRunId": 41401969087,
+  "updatedAt": "2026-11-02T06:55:49.588Z",
+  "lastRunId": 41402886072,
   "items": [
+    {
+      "id": "run_41402886072",
+      "run_id": 41402886072,
+      "artifact_id": 13121952212,
+      "filename": "BallsDeep-Anima-V1F-Re.safetensors",
+      "normalized_name": "ballsdeep-anima-v1f-re.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2675d20d4762",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-02T06:55:07Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41401969087",
       "run_id": 41401969087,
@@ -163741,7 +163754,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
