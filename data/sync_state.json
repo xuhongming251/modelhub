@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T06:38:19.235Z",
-  "lastRunId": 41401051990,
+  "updatedAt": "2026-11-02T06:45:23.031Z",
+  "lastRunId": 41401791135,
   "items": [
+    {
+      "id": "run_41401791135",
+      "run_id": 41401791135,
+      "artifact_id": 13121457495,
+      "filename": "Breasts_Size_SliderAnima6.safetensors",
+      "normalized_name": "breasts_size_slideranima6.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c83b702e2b48",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-02T06:44:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41401051990",
       "run_id": 41401051990,
@@ -121372,19 +121385,6 @@
       "workflow": "upload.yml"
     },
     {
-      "id": "run_27046383931",
-      "run_id": 27046383931,
-      "artifact_id": 7449077414,
-      "filename": "Breasts_Size_SliderAnima6.safetensors",
-      "normalized_name": "breasts_size_slideranima6.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/7d7bba0280df",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-05T23:58:14Z",
-      "workflow": "upload.yml"
-    },
-    {
       "id": "run_27046235194",
       "run_id": 27046235194,
       "artifact_id": 7449026019,
@@ -163728,7 +163728,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
