@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T02:46:36.948Z",
-  "lastRunId": 41379289010,
+  "updatedAt": "2026-11-02T02:50:53.290Z",
+  "lastRunId": 41379680356,
   "items": [
+    {
+      "id": "run_41379680356",
+      "run_id": 41379680356,
+      "artifact_id": 13112334592,
+      "filename": "krea2 富江v2.safetensors",
+      "normalized_name": "krea2 富江v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d8d64091e080",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-02T02:50:13Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41379289010",
       "run_id": 41379289010,
@@ -163429,7 +163442,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 8,
       "createdBefore": null,
       "exhausted": false
     }
