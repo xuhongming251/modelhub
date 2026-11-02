@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T07:38:52.006Z",
-  "lastRunId": 41407509731,
+  "updatedAt": "2026-11-02T07:40:22.245Z",
+  "lastRunId": 41407685607,
   "items": [
+    {
+      "id": "run_41407685607",
+      "run_id": 41407685607,
+      "artifact_id": 13123668455,
+      "filename": "NikkeB1.safetensors",
+      "normalized_name": "nikkeb1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1c5ecf7af0ed",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-02T07:39:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41407509731",
       "run_id": 41407509731,
