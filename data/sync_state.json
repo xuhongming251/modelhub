@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T09:07:41.446Z",
-  "lastRunId": 41417943283,
+  "updatedAt": "2026-11-02T09:10:01.569Z",
+  "lastRunId": 41418141889,
   "items": [
+    {
+      "id": "run_41418141889",
+      "run_id": 41418141889,
+      "artifact_id": 13128587121,
+      "filename": "possummachine-A1_v1.safetensors",
+      "normalized_name": "possummachine-a1_v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/13d42e43bd4f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-02T09:09:10Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41417838534",
+      "run_id": 41417838534,
+      "artifact_id": 13127464779,
+      "filename": "concept_pussy_grip_v0.0.3-step00000400.safetensors",
+      "normalized_name": "concept_pussy_grip_v0.0.3-step00000400.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/920ce0c79810",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-02T09:07:43Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41417943283",
       "run_id": 41417943283,
