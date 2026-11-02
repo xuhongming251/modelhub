@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T02:24:22.882Z",
-  "lastRunId": 41377375817,
+  "updatedAt": "2026-11-02T02:35:17.320Z",
+  "lastRunId": 41378413735,
   "items": [
+    {
+      "id": "run_41378413735",
+      "run_id": 41378413735,
+      "artifact_id": 13111509091,
+      "filename": "anima lirseven玻璃风格.safetensors",
+      "normalized_name": "anima lirseven玻璃风格.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ee12d6116a54",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-02T02:34:34Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41377375817",
       "run_id": 41377375817,
@@ -163390,7 +163403,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 8,
       "createdBefore": null,
       "exhausted": false
     }
