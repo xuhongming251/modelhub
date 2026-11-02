@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T06:37:30.309Z",
-  "lastRunId": 41400199849,
+  "updatedAt": "2026-11-02T06:38:19.235Z",
+  "lastRunId": 41401051990,
   "items": [
+    {
+      "id": "run_41401051990",
+      "run_id": 41401051990,
+      "artifact_id": 13121397857,
+      "filename": "Anima Bold v1.safetensors",
+      "normalized_name": "anima bold v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7fd664d4504e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-02T06:37:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41400199849",
       "run_id": 41400199849,
@@ -163715,7 +163728,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
