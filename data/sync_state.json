@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T08:05:43.811Z",
-  "lastRunId": 41410366328,
+  "updatedAt": "2026-11-02T08:09:16.557Z",
+  "lastRunId": 41410808328,
   "items": [
+    {
+      "id": "run_41410808328",
+      "run_id": 41410808328,
+      "artifact_id": 13124749604,
+      "filename": "AnimeEditV2.safetensors",
+      "normalized_name": "animeeditv2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a8d54dfb6ad3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-02T08:08:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41410366328",
       "run_id": 41410366328,
@@ -93328,19 +93341,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-02T00:31:04Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28556859667",
-      "run_id": 28556859667,
-      "artifact_id": 8025937856,
-      "filename": "AnimeEditv2.safetensors",
-      "normalized_name": "animeeditv2.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/ebbb9d6f8155",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-02T00:27:51Z",
       "workflow": "upload.yml"
     },
     {
