@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T06:59:24.335Z",
-  "lastRunId": 41403262673,
+  "updatedAt": "2026-11-02T07:04:16.146Z",
+  "lastRunId": 41403727230,
   "items": [
+    {
+      "id": "run_41403727230",
+      "run_id": 41403727230,
+      "artifact_id": 13122681585,
+      "filename": "mosslmage_base_pruned_int8.safetensors",
+      "normalized_name": "mosslmage_base_pruned_int8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e5340822e850",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-02T07:03:35Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41403314969",
+      "run_id": 41403314969,
+      "artifact_id": 13122012792,
+      "filename": "RealSkin SliderV2.safetensors",
+      "normalized_name": "realskin sliderv2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ace2b8409400",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-02T06:59:17Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41403262673",
       "run_id": 41403262673,
