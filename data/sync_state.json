@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T03:34:30.566Z",
-  "lastRunId": 41383715416,
+  "updatedAt": "2026-11-02T03:53:39.580Z",
+  "lastRunId": 41385368646,
   "items": [
+    {
+      "id": "run_41385368646",
+      "run_id": 41385368646,
+      "artifact_id": 13115046368,
+      "filename": "krea2 96YOTTEA - 艺术家风格.safetensors",
+      "normalized_name": "krea2 96yottea - 艺术家风格.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d328f20f2d0e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-02T03:53:00Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41383771885",
+      "run_id": 41383771885,
+      "artifact_id": 13114855980,
+      "filename": "wan_fingering_pussy_i2v2.2lo_v10.safetensors",
+      "normalized_name": "wan_fingering_pussy_i2v2.2lo_v10.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8accf958e732",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-02T03:34:23Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41383715416",
       "run_id": 41383715416,
@@ -38013,19 +38039,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-02T17:10:33Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_33655554522",
-      "run_id": 33655554522,
-      "artifact_id": 9856564362,
-      "filename": "wan_fingering_pussy_i2v2.2lo_v10.safetensors",
-      "normalized_name": "wan_fingering_pussy_i2v2.2lo_v10.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/e597a6ebf35f",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-02T16:33:15Z",
       "workflow": "upload.yml"
     },
     {
@@ -163468,7 +163481,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 8,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
