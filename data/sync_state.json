@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T09:01:48.985Z",
-  "lastRunId": 41417201843,
+  "updatedAt": "2026-11-02T09:03:43.600Z",
+  "lastRunId": 41417435219,
   "items": [
+    {
+      "id": "run_41417435219",
+      "run_id": 41417435219,
+      "artifact_id": 13128087099,
+      "filename": "Niji_cute_epoch_8.safetensors",
+      "normalized_name": "niji_cute_epoch_8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8e9c2790c839",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-02T09:02:53Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41417291790",
+      "run_id": 41417291790,
+      "artifact_id": 13127524510,
+      "filename": "homenobi.safetensors",
+      "normalized_name": "homenobi.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6b7f0ffd5ae1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-02T09:01:39Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41417201843",
       "run_id": 41417201843,
