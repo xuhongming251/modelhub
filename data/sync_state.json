@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T09:35:07.118Z",
-  "lastRunId": 41421667406,
+  "updatedAt": "2026-11-02T09:37:23.675Z",
+  "lastRunId": 41422036699,
   "items": [
     {
-      "id": "run_41421667406",
-      "run_id": 41421667406,
-      "artifact_id": 13129009362,
+      "id": "run_41422036699",
+      "run_id": 41422036699,
+      "artifact_id": 13129439924,
       "filename": "BuAnime_NSFW_Style_Anima_V2.safetensors",
       "normalized_name": "buanime_nsfw_style_anima_v2.safetensors",
       "original_url": "",
-      "share_url": "https://pan.quark.cn/s/03c8a7045e9f",
+      "share_url": "https://pan.quark.cn/s/c511e70475e4",
       "channel": "quark",
       "channel_name": "Quark",
-      "completed_at": "2026-11-02T09:34:10Z",
+      "completed_at": "2026-11-02T09:36:51Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41421995967",
+      "run_id": 41421995967,
+      "artifact_id": 13130625689,
+      "filename": "uncensored-Anima-v02.safetensors",
+      "normalized_name": "uncensored-anima-v02.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/39b6498ca8fc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-02T09:36:32Z",
       "workflow": "upload.yml"
     },
     {
