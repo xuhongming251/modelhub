@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T08:36:01.060Z",
-  "lastRunId": 41414132679,
+  "updatedAt": "2026-11-02T08:37:02.964Z",
+  "lastRunId": 41414201450,
   "items": [
+    {
+      "id": "run_41414201450",
+      "run_id": 41414201450,
+      "artifact_id": 13126922384,
+      "filename": "age-controlP2.safetensors",
+      "normalized_name": "age-controlp2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/29bc691025ad",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-02T08:36:28Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41414132679",
       "run_id": 41414132679,
