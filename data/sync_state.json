@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T15:37:36.799Z",
-  "lastRunId": 41664546701,
+  "updatedAt": "2026-11-03T16:09:15.227Z",
+  "lastRunId": 41669942780,
   "items": [
+    {
+      "id": "run_41669942780",
+      "run_id": 41669942780,
+      "artifact_id": 13249110826,
+      "filename": "chiarezza_v10.safetensors",
+      "normalized_name": "chiarezza_v10.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ee66e82c4d9f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-03T16:08:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41664546701",
       "run_id": 41664546701,
