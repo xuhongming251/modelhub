@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T13:48:12.027Z",
-  "lastRunId": 41645211239,
+  "updatedAt": "2026-11-03T14:21:24.625Z",
+  "lastRunId": 41652308857,
   "items": [
+    {
+      "id": "run_41652308857",
+      "run_id": 41652308857,
+      "artifact_id": 13238167665,
+      "filename": "Minimax-h3_Singularity_x_10Eros-Max_PRISM_int8.safetensors",
+      "normalized_name": "minimax-h3_singularity_x_10eros-max_prism_int8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2f6a3041ed8f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-03T14:20:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41645211239",
       "run_id": 41645211239,
