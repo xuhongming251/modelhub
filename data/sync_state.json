@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T16:09:15.227Z",
-  "lastRunId": 41669942780,
+  "updatedAt": "2026-11-03T16:35:49.189Z",
+  "lastRunId": 41675433434,
   "items": [
+    {
+      "id": "run_41675433434",
+      "run_id": 41675433434,
+      "artifact_id": 13250072497,
+      "filename": "flatDeltaMix38BQwen0_deltaFlatv1.safetensors",
+      "normalized_name": "flatdeltamix38bqwen0_deltaflatv1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d4dd8906f9b8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-03T16:35:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41669942780",
       "run_id": 41669942780,
