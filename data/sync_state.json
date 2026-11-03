@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T12:23:26.181Z",
-  "lastRunId": 41634811827,
+  "updatedAt": "2026-11-03T12:26:13.486Z",
+  "lastRunId": 41635399225,
   "items": [
+    {
+      "id": "run_41635399225",
+      "run_id": 41635399225,
+      "artifact_id": 13229384981,
+      "filename": "mossRefinedRealism_v2050steps_bf16.safetensors",
+      "normalized_name": "mossrefinedrealism_v2050steps_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e6418845acba",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-03T12:25:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41634811827",
       "run_id": 41634811827,
