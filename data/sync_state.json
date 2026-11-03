@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T23:31:56.918Z",
-  "lastRunId": 41739681443,
+  "updatedAt": "2026-11-03T23:36:32.655Z",
+  "lastRunId": 41739998878,
   "items": [
+    {
+      "id": "run_41739998878",
+      "run_id": 41739998878,
+      "artifact_id": 13280727857,
+      "filename": "qwen35ForMosslmage_v10_fp16.safetensors",
+      "normalized_name": "qwen35formosslmage_v10_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/34e88df04877",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-03T23:35:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41739681443",
       "run_id": 41739681443,
