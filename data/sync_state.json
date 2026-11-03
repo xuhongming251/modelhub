@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T09:18:06.042Z",
-  "lastRunId": 41609752496,
+  "updatedAt": "2026-11-03T12:23:26.181Z",
+  "lastRunId": 41634811827,
   "items": [
+    {
+      "id": "run_41634811827",
+      "run_id": 41634811827,
+      "artifact_id": 13230655467,
+      "filename": "ltx-restore-alpha1-distill4-int8.safetensors.enc",
+      "normalized_name": "ltx-restore-alpha1-distill4-int8.safetensors.enc",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8e378ad94b3c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-03T12:22:48Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41609752496",
       "run_id": 41609752496,
@@ -5669,19 +5682,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-10-28T12:05:56Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_40682761601",
-      "run_id": 40682761601,
-      "artifact_id": 12814113285,
-      "filename": "ltx-restore-alpha1-distill4-int8.safetensors.enc",
-      "normalized_name": "ltx-restore-alpha1-distill4-int8.safetensors.enc",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/8200e4e51f99",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-10-28T12:04:14Z",
       "workflow": "upload.yml"
     },
     {
