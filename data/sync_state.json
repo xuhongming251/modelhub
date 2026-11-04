@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T00:31:55.321Z",
-  "lastRunId": 41747372296,
+  "updatedAt": "2026-11-04T00:43:17.663Z",
+  "lastRunId": 41748582928,
   "items": [
+    {
+      "id": "run_41748582928",
+      "run_id": 41748582928,
+      "artifact_id": 13285515596,
+      "filename": "anima-base-1-light-concepts-v31.safetensors",
+      "normalized_name": "anima-base-1-light-concepts-v31.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5c290218ae1c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-04T00:42:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41747372296",
       "run_id": 41747372296,
@@ -123852,19 +123865,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-04T03:32:52Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26928053854",
-      "run_id": 26928053854,
-      "artifact_id": 7402132076,
-      "filename": "anima-base-1-light-concepts-v31.safetensors",
-      "normalized_name": "anima-base-1-light-concepts-v31.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/acf34b003718",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-04T03:14:55Z",
       "workflow": "upload.yml"
     },
     {
