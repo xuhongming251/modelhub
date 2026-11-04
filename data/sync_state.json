@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T06:04:00.911Z",
-  "lastRunId": 41782960648,
+  "updatedAt": "2026-11-04T06:18:00.782Z",
+  "lastRunId": 41784453170,
   "items": [
+    {
+      "id": "run_41784453170",
+      "run_id": 41784453170,
+      "artifact_id": 13301260119,
+      "filename": "WAN-2.2-I2V-BreastPlay-LOW-v2.safetensors",
+      "normalized_name": "wan-2.2-i2v-breastplay-low-v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e002ba42833a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-04T06:17:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41782960648",
       "run_id": 41782960648,
@@ -40197,19 +40210,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-02T15:00:11Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_33645620110",
-      "run_id": 33645620110,
-      "artifact_id": 9852650606,
-      "filename": "WAN-2.2-I2V-BreastPlay-LOW-v2.safetensors",
-      "normalized_name": "wan-2.2-i2v-breastplay-low-v2.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/19080e137031",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-02T14:59:58Z",
       "workflow": "upload.yml"
     },
     {
