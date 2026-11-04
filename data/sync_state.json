@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T00:48:07.781Z",
-  "lastRunId": 41748972571,
+  "updatedAt": "2026-11-04T00:51:28.174Z",
+  "lastRunId": 41749778872,
   "items": [
+    {
+      "id": "run_41749778872",
+      "run_id": 41749778872,
+      "artifact_id": 13284653923,
+      "filename": "multibj_LB_v1_wan22_HIGH.safetensors",
+      "normalized_name": "multibj_lb_v1_wan22_high.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/56e05be7dfeb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-04T00:50:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41748972571",
       "run_id": 41748972571,
