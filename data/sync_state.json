@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T17:34:04.134Z",
-  "lastRunId": 41874528135,
+  "updatedAt": "2026-11-04T21:44:53.026Z",
+  "lastRunId": 41876772717,
   "items": [
+    {
+      "id": "run_41876691953",
+      "run_id": 41876691953,
+      "artifact_id": 13347682758,
+      "filename": "crDroidAndroid-15.0-20250314-dumpling-v11.2.zip",
+      "normalized_name": "crdroidandroid-15.0-20250314-dumpling-v11.2.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2e38f8ae29c9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-04T17:45:36Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41876772717",
+      "run_id": 41876772717,
+      "artifact_id": 13347461673,
+      "filename": "20250314-recovery.img",
+      "normalized_name": "20250314-recovery.img",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9131dd33e855",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-04T17:41:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41874528135",
       "run_id": 41874528135,
