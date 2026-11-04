@@ -1,8 +1,86 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T16:17:28.251Z",
-  "lastRunId": 41861333913,
+  "updatedAt": "2026-11-04T16:28:18.112Z",
+  "lastRunId": 41867330733,
   "items": [
+    {
+      "id": "run_41867330733",
+      "run_id": 41867330733,
+      "artifact_id": 13342288319,
+      "filename": "mmdMoss.R8XP.safetensors",
+      "normalized_name": "mmdmoss.r8xp.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/07ab5d19e5a7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-04T16:27:49Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41865311033",
+      "run_id": 41865311033,
+      "artifact_id": 13342081637,
+      "filename": "munjiMOSSV1.aRCz.safetensors",
+      "normalized_name": "munjimossv1.arcz.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/97695803e38c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-04T16:25:54Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41864579653",
+      "run_id": 41864579653,
+      "artifact_id": 13341357414,
+      "filename": "skpMossv2.kP3M.safetensors",
+      "normalized_name": "skpmossv2.kp3m.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a89d20fa2b6c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-04T16:25:14Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41865329834",
+      "run_id": 41865329834,
+      "artifact_id": 13341163396,
+      "filename": "h3VBVRProV2.i0hY.safetensors",
+      "normalized_name": "h3vbvrprov2.i0hy.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7a3478465bb3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-04T16:23:41Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41864963791",
+      "run_id": 41864963791,
+      "artifact_id": 13340793915,
+      "filename": "anirealMossLoraV1.eynb.safetensors",
+      "normalized_name": "anirealmosslorav1.eynb.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fe9c688f8d3a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-04T16:23:11Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_41864180616",
+      "run_id": 41864180616,
+      "artifact_id": 13340619106,
+      "filename": "E4BA8CE6B8B8dlss5E9A38E.nZ1i.safetensors",
+      "normalized_name": "e4ba8ce6b8b8dlss5e9a38e.nz1i.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/21eac38af50b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-04T16:21:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41861333913",
       "run_id": 41861333913,
@@ -9075,19 +9153,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-10-25T09:18:10Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_40166410690",
-      "run_id": 40166410690,
-      "artifact_id": 12588153041,
-      "filename": "anirealMossLoraV1.eynb.safetensors",
-      "normalized_name": "anirealmosslorav1.eynb.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/4fb7e40f1a35",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-10-25T05:41:20Z",
       "workflow": "upload.yml"
     },
     {
@@ -165543,7 +165608,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
