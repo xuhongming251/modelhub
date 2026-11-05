@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T04:45:57.271Z",
-  "lastRunId": 41969461434,
+  "updatedAt": "2026-11-05T04:47:20.347Z",
+  "lastRunId": 41969725287,
   "items": [
+    {
+      "id": "run_41969725287",
+      "run_id": 41969725287,
+      "artifact_id": 13389127623,
+      "filename": "BSS_DesireX3_INT8_ConvRot.safetensors",
+      "normalized_name": "bss_desirex3_int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f2c4d6f86d64",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-05T04:46:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41969461434",
       "run_id": 41969461434,
