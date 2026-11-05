@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T04:52:24.281Z",
-  "lastRunId": 41970017621,
+  "updatedAt": "2026-11-05T04:54:46.519Z",
+  "lastRunId": 41970446961,
   "items": [
+    {
+      "id": "run_41970446961",
+      "run_id": 41970446961,
+      "artifact_id": 13388459531,
+      "filename": "MOSS_Realism_sft_bf16.safetensors",
+      "normalized_name": "moss_realism_sft_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2bf2273c8e95",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-05T04:54:05Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41969358032",
       "run_id": 41969358032,
