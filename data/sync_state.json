@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T09:45:00.520Z",
-  "lastRunId": 41999056413,
+  "updatedAt": "2026-11-05T09:50:08.050Z",
+  "lastRunId": 42005327768,
   "items": [
+    {
+      "id": "run_42005327768",
+      "run_id": 42005327768,
+      "artifact_id": 13403589463,
+      "filename": "jfj-deepthroat-W22-I2V-HN.safetensors",
+      "normalized_name": "jfj-deepthroat-w22-i2v-hn.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a6169feabdf1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-05T09:49:29Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41999032512",
       "run_id": 41999032512,
@@ -161905,12 +161918,6 @@
       "normalized_name": "bv1z4411q7pv",
       "share_url": "https://pan.quark.cn/s/3d081ba3a995",
       "completed_at": "2026-03-16T12:49:21Z"
-    },
-    {
-      "filename": "jfj-deepthroat-W22-I2V-HN.safetensors",
-      "normalized_name": "jfj-deepthroat-w22-i2v-hn.safetensors",
-      "share_url": "https://pan.quark.cn/s/36f722a86bb5",
-      "completed_at": "2026-03-16T12:47:23Z"
     },
     {
       "filename": "jfj-deepthroat-W22-I2V-LN.safetensors",
