@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T17:14:30.354Z",
-  "lastRunId": 42072435671,
+  "updatedAt": "2026-11-05T17:15:25.743Z",
+  "lastRunId": 42072449331,
   "items": [
+    {
+      "id": "run_42072449331",
+      "run_id": 42072449331,
+      "artifact_id": 13437341844,
+      "filename": "deepseekWhaleGirlOutfits.OdWP.safetensors",
+      "normalized_name": "deepseekwhalegirloutfits.odwp.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0eb0eb19b769",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-05T17:14:51Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42072435671",
       "run_id": 42072435671,
@@ -20840,19 +20853,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-10-03T09:07:29Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_37107274174",
-      "run_id": 37107274174,
-      "artifact_id": 11268751046,
-      "filename": "deepseekWhaleGirlOutfits.OdWP.safetensors",
-      "normalized_name": "deepseekwhalegirloutfits.odwp.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/176bc97d651d",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-10-03T07:46:18Z",
       "workflow": "upload.yml"
     },
     {
