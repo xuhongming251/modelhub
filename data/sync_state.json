@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T05:39:11.050Z",
-  "lastRunId": 41975185424,
+  "updatedAt": "2026-11-05T05:42:06.567Z",
+  "lastRunId": 41975501143,
   "items": [
+    {
+      "id": "run_41975501143",
+      "run_id": 41975501143,
+      "artifact_id": 13391088693,
+      "filename": "Moody-Moss-Mix-V4.1_clean-int8_convrot.safetensors",
+      "normalized_name": "moody-moss-mix-v4.1_clean-int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5ea62429f1da",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-05T05:41:31Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41975185424",
       "run_id": 41975185424,
