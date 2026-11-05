@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T11:26:32.462Z",
-  "lastRunId": 42018839837,
+  "updatedAt": "2026-11-05T12:34:47.760Z",
+  "lastRunId": 42027015402,
   "items": [
+    {
+      "id": "run_42027015402",
+      "run_id": 42027015402,
+      "artifact_id": 13415440145,
+      "filename": "Qwen3.5-4B-Claude-4.6-OS-Auto-Variable-HERETIC-UNCENSORED-THINKING.Q6_K.gguf",
+      "normalized_name": "qwen3.5-4b-claude-4.6-os-auto-variable-heretic-uncensored-thinking.q6_k.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/101509e9eb70",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-05T12:34:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42018797777",
       "run_id": 42018797777,
