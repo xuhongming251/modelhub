@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T04:50:18.838Z",
+  "updatedAt": "2026-11-05T04:52:24.281Z",
   "lastRunId": 41970017621,
   "items": [
+    {
+      "id": "run_41969358032",
+      "run_id": 41969358032,
+      "artifact_id": 13389805131,
+      "filename": "ASTX-Anima_2.9B_v2_bf16.safetensors",
+      "normalized_name": "astx-anima_2.9b_v2_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5b8ea4b11294",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-05T04:51:51Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41970017621",
       "run_id": 41970017621,
