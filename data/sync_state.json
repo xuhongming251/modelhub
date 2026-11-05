@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T15:54:09.417Z",
-  "lastRunId": 42059283179,
+  "updatedAt": "2026-11-05T17:14:30.354Z",
+  "lastRunId": 42072435671,
   "items": [
+    {
+      "id": "run_42072435671",
+      "run_id": 42072435671,
+      "artifact_id": 13437585191,
+      "filename": "deepseekWhaleGirlAnima.qmU9.safetensors",
+      "normalized_name": "deepseekwhalegirlanima.qmu9.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0458dc129e83",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-05T17:13:44Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42059283179",
       "run_id": 42059283179,
@@ -166122,7 +166135,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
