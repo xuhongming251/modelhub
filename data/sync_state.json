@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T06:38:00.479Z",
-  "lastRunId": 41980294513,
+  "updatedAt": "2026-11-05T08:38:59.847Z",
+  "lastRunId": 41995840782,
   "items": [
+    {
+      "id": "run_41995840782",
+      "run_id": 41995840782,
+      "artifact_id": 13399614269,
+      "filename": "finger-V1.safetensors",
+      "normalized_name": "finger-v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fdfd6df6f362",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-05T08:38:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_41980294513",
       "run_id": 41980294513,
