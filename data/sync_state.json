@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T22:57:25.317Z",
-  "lastRunId": 42308335551,
+  "updatedAt": "2026-11-06T23:01:08.902Z",
+  "lastRunId": 42308788719,
   "items": [
+    {
+      "id": "run_42308788719",
+      "run_id": 42308788719,
+      "artifact_id": 13548230347,
+      "filename": "wan_2.2_i2v_highnoise_broken_v1.0.safetensors",
+      "normalized_name": "wan_2.2_i2v_highnoise_broken_v1.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0eced923c929",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-06T23:00:36Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42308335551",
       "run_id": 42308335551,
