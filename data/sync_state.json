@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T05:17:33.047Z",
-  "lastRunId": 42166246678,
+  "updatedAt": "2026-11-06T05:29:49.836Z",
+  "lastRunId": 42166395667,
   "items": [
+    {
+      "id": "run_42166395667",
+      "run_id": 42166395667,
+      "artifact_id": 13480465569,
+      "filename": "beretMix_Krea2_v20_int8.safetensors",
+      "normalized_name": "beretmix_krea2_v20_int8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5f460057323e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-06T05:29:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42166246678",
       "run_id": 42166246678,
