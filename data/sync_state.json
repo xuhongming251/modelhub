@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T11:54:05.905Z",
-  "lastRunId": 42204043655,
+  "updatedAt": "2026-11-06T12:37:40.130Z",
+  "lastRunId": 42218921732,
   "items": [
+    {
+      "id": "run_42218921732",
+      "run_id": 42218921732,
+      "artifact_id": 13502766585,
+      "filename": "moodyMossMixV225STEPSCFG3.PV7X.safetensors",
+      "normalized_name": "moodymossmixv225stepscfg3.pv7x.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/13e9ea077d87",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-06T12:37:02Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42204043655",
       "run_id": 42204043655,
@@ -166278,7 +166291,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
