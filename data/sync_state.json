@@ -1,8 +1,60 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T13:46:53.279Z",
-  "lastRunId": 42228124789,
+  "updatedAt": "2026-11-06T13:47:42.327Z",
+  "lastRunId": 42228220981,
   "items": [
+    {
+      "id": "run_42228209500",
+      "run_id": 42228209500,
+      "artifact_id": 13505404683,
+      "filename": "pika_h3_flex_turbo_4step_fl2va.safetensors",
+      "normalized_name": "pika_h3_flex_turbo_4step_fl2va.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/997ac1e89a97",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-06T13:47:18Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_42228187812",
+      "run_id": 42228187812,
+      "artifact_id": 13506871714,
+      "filename": "pika_h3_flex_turbo_2step_draft_ref2va.safetensors",
+      "normalized_name": "pika_h3_flex_turbo_2step_draft_ref2va.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/74c5fc77d31e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-06T13:47:09Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_42228220981",
+      "run_id": 42228220981,
+      "artifact_id": 13506468786,
+      "filename": "pika_h3_flex_turbo_4step_fl2va_lite_r32.safetensors",
+      "normalized_name": "pika_h3_flex_turbo_4step_fl2va_lite_r32.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7e638c4a2cc1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-06T13:47:04Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_42228168578",
+      "run_id": 42228168578,
+      "artifact_id": 13505399702,
+      "filename": "zimageIgbaddiePruned.uonJ.safetensors",
+      "normalized_name": "zimageigbaddiepruned.uonj.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/268c4b762247",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-06T13:46:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42228124789",
       "run_id": 42228124789,
