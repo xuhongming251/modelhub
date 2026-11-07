@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T11:42:59.973Z",
-  "lastRunId": 42369273602,
+  "updatedAt": "2026-11-07T11:52:09.379Z",
+  "lastRunId": 42369903721,
   "items": [
+    {
+      "id": "run_42369903721",
+      "run_id": 42369903721,
+      "artifact_id": 13573167772,
+      "filename": "mikozinnDoraR32S2600.K4hG.safetensors",
+      "normalized_name": "mikozinndorar32s2600.k4hg.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d53e41e8a746",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-07T11:51:29Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42369273602",
       "run_id": 42369273602,
@@ -167273,7 +167286,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
