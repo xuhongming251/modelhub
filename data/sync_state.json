@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T05:55:27.057Z",
+  "updatedAt": "2026-11-07T06:25:48.633Z",
   "lastRunId": 42344679224,
   "items": [
+    {
+      "id": "run_42344333354",
+      "run_id": 42344333354,
+      "artifact_id": 13563921873,
+      "filename": "GLM-5.3-Flash-Maya-M-Derisked-IQ2_S-00003-of-00003.gguf",
+      "normalized_name": "glm-5.3-flash-maya-m-derisked-iq2_s-00003-of-00003.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4a599bac0f96",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-07T06:25:16Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42344679224",
       "run_id": 42344679224,
