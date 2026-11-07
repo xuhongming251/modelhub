@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T06:54:57.795Z",
-  "lastRunId": 42347182239,
+  "updatedAt": "2026-11-07T08:19:29.031Z",
+  "lastRunId": 42354907135,
   "items": [
+    {
+      "id": "run_42354907135",
+      "run_id": 42354907135,
+      "artifact_id": 13566224661,
+      "filename": "akipekoanimaV11.nzjF.safetensors",
+      "normalized_name": "akipekoanimav11.nzjf.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/edbcad50c1cd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-07T08:18:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42344322755",
       "run_id": 42344322755,
@@ -48764,19 +48777,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-28T05:00:59Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_33142685543",
-      "run_id": 33142685543,
-      "artifact_id": 9674544244,
-      "filename": "akipekoanimaV11.nzjF.safetensors",
-      "normalized_name": "akipekoanimav11.nzjf.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/292db9d413e0",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-28T04:44:59Z",
       "workflow": "upload.yml"
     },
     {
@@ -167013,7 +167013,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
