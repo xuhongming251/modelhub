@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T11:52:09.379Z",
-  "lastRunId": 42369903721,
+  "updatedAt": "2026-11-07T11:55:42.147Z",
+  "lastRunId": 42370114034,
   "items": [
+    {
+      "id": "run_42370114034",
+      "run_id": 42370114034,
+      "artifact_id": 13573387774,
+      "filename": "rdbt_anima_b1_v0.39.b_ckpt.safetensors",
+      "normalized_name": "rdbt_anima_b1_v0.39.b_ckpt.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a722f95e2416",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-07T11:55:07Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_42370003599",
+      "run_id": 42370003599,
+      "artifact_id": 13572983994,
+      "filename": "ligneclaireMOSSBase.bmmh.safetensors",
+      "normalized_name": "ligneclairemossbase.bmmh.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d1d7ed07f314",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-07T11:55:05Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42369903721",
       "run_id": 42369903721,
