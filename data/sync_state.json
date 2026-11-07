@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T09:11:58.432Z",
-  "lastRunId": 42358631740,
+  "updatedAt": "2026-11-07T09:18:16.346Z",
+  "lastRunId": 42359079525,
   "items": [
+    {
+      "id": "run_42359079525",
+      "run_id": 42359079525,
+      "artifact_id": 13568513040,
+      "filename": "Luo_Xiaohei_-_The_Legend_of_Hei_2_-_Illustrious_Commission.safetensors",
+      "normalized_name": "luo_xiaohei_-_the_legend_of_hei_2_-_illustrious_commission.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/08d23ca4b868",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-07T09:17:36Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42358631740",
       "run_id": 42358631740,
@@ -167091,7 +167104,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
