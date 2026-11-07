@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T11:37:07.434Z",
-  "lastRunId": 42368866940,
+  "updatedAt": "2026-11-07T11:39:49.372Z",
+  "lastRunId": 42369041389,
   "items": [
+    {
+      "id": "run_42369041389",
+      "run_id": 42369041389,
+      "artifact_id": 13572797916,
+      "filename": "nyaliaMossV1Lokr.xgXe.safetensors",
+      "normalized_name": "nyaliamossv1lokr.xgxe.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2c44d5a2cbf7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-07T11:39:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42368866940",
       "run_id": 42368866940,
@@ -12507,19 +12520,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-10-23T09:19:37Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_39930972409",
-      "run_id": 39930972409,
-      "artifact_id": 12491801468,
-      "filename": "nyaliaMossV1Lokr.xgXe.safetensors",
-      "normalized_name": "nyaliamossv1lokr.xgxe.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/094da1df5fc8",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-10-23T09:19:33Z",
       "workflow": "upload.yml"
     },
     {
