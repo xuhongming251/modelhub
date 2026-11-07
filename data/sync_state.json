@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T11:14:37.065Z",
-  "lastRunId": 42367224783,
+  "updatedAt": "2026-11-07T11:18:32.370Z",
+  "lastRunId": 42367552213,
   "items": [
+    {
+      "id": "run_42367552213",
+      "run_id": 42367552213,
+      "artifact_id": 13572730327,
+      "filename": "nai1V5Step1500.XtTb.safetensors",
+      "normalized_name": "nai1v5step1500.xttb.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b3debf0372e5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-07T11:18:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42367224783",
       "run_id": 42367224783,
@@ -167143,7 +167156,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
