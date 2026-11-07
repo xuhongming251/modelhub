@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T04:39:44.551Z",
-  "lastRunId": 42338729385,
+  "updatedAt": "2026-11-07T04:53:30.198Z",
+  "lastRunId": 42339369501,
   "items": [
+    {
+      "id": "run_42339369501",
+      "run_id": 42339369501,
+      "artifact_id": 13561407366,
+      "filename": "AsianFusion_V1.0_NVFP4.safetensors",
+      "normalized_name": "asianfusion_v1.0_nvfp4.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e254be87b305",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-07T04:53:02Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42338614731",
       "run_id": 42338614731,
