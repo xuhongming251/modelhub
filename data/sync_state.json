@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T15:21:24.891Z",
-  "lastRunId": 42385874011,
+  "updatedAt": "2026-11-07T15:24:47.813Z",
+  "lastRunId": 42386023342,
   "items": [
+    {
+      "id": "run_42386023342",
+      "run_id": 42386023342,
+      "artifact_id": 13579362714,
+      "filename": "PRISM_DMAD_PDMD_int8.safetensors",
+      "normalized_name": "prism_dmad_pdmd_int8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ef468b0fbf1b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-07T15:24:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42385874011",
       "run_id": 42385874011,
