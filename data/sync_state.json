@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T09:19:21.122Z",
-  "lastRunId": 42359127081,
+  "updatedAt": "2026-11-07T10:27:22.621Z",
+  "lastRunId": 42363948258,
   "items": [
+    {
+      "id": "run_42363948258",
+      "run_id": 42363948258,
+      "artifact_id": 13570681776,
+      "filename": "mmproj-model-bf16.gguf",
+      "normalized_name": "mmproj-model-bf16.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/846fd6cbe393",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-07T10:26:50Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42359127081",
       "run_id": 42359127081,
