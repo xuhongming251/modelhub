@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T11:26:42.305Z",
-  "lastRunId": 42368134699,
+  "updatedAt": "2026-11-07T11:32:51.995Z",
+  "lastRunId": 42368554738,
   "items": [
+    {
+      "id": "run_42368554738",
+      "run_id": 42368554738,
+      "artifact_id": 13573210186,
+      "filename": "jadetilaurantLora2k.tXNg.safetensors",
+      "normalized_name": "jadetilaurantlora2k.txng.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bd1cb9961a7e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-07T11:32:18Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42368134699",
       "run_id": 42368134699,
@@ -167195,7 +167208,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
