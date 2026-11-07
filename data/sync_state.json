@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T14:10:56.793Z",
-  "lastRunId": 42378860934,
+  "updatedAt": "2026-11-07T14:40:25.270Z",
+  "lastRunId": 42382237403,
   "items": [
+    {
+      "id": "run_42382237403",
+      "run_id": 42382237403,
+      "artifact_id": 13578515899,
+      "filename": "10Eros_Max_h3_8stepTURBO_beta7_fix1-native_int8_protected_edges_HQ.safetensors",
+      "normalized_name": "10eros_max_h3_8stepturbo_beta7_fix1-native_int8_protected_edges_hq.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/682ef3079072",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-07T14:39:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42378852832",
       "run_id": 42378852832,
