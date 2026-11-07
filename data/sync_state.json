@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T11:55:42.147Z",
-  "lastRunId": 42370114034,
+  "updatedAt": "2026-11-07T13:07:53.184Z",
+  "lastRunId": 42375450923,
   "items": [
+    {
+      "id": "run_42375450923",
+      "run_id": 42375450923,
+      "artifact_id": 13575965026,
+      "filename": "siAnimaV2.Ll62.safetensors",
+      "normalized_name": "sianimav2.ll62.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c49a6d3d1f86",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-07T13:07:13Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_42370150880",
+      "run_id": 42370150880,
+      "artifact_id": 13573576459,
+      "filename": "genshinimpactstyle.9bG4.safetensors",
+      "normalized_name": "genshinimpactstyle.9bg4.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ea6d1cb51c52",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-07T11:55:43Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42370114034",
       "run_id": 42370114034,
