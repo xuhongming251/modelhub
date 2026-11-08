@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T16:19:35.216Z",
-  "lastRunId": 42498394272,
+  "updatedAt": "2026-11-08T16:31:10.576Z",
+  "lastRunId": 42500185827,
   "items": [
+    {
+      "id": "run_42500185827",
+      "run_id": 42500185827,
+      "artifact_id": 13624689513,
+      "filename": "view",
+      "normalized_name": "view",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/10bc3c6cc921",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-08T16:30:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42498394272",
       "run_id": 42498394272,
@@ -159233,12 +159246,6 @@
       "normalized_name": "uc",
       "share_url": "https://pan.quark.cn/s/a281def672ce",
       "completed_at": "2026-03-28T15:05:15Z"
-    },
-    {
-      "filename": "view",
-      "normalized_name": "view",
-      "share_url": "https://pan.quark.cn/s/59a77fd01a7d",
-      "completed_at": "2026-03-28T15:00:43Z"
     },
     {
       "filename": "Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-Q4_K_M.gguf",
