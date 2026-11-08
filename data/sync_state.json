@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T04:44:13.944Z",
-  "lastRunId": 42447221283,
+  "updatedAt": "2026-11-08T05:34:07.983Z",
+  "lastRunId": 42451082965,
   "items": [
+    {
+      "id": "run_42451082965",
+      "run_id": 42451082965,
+      "artifact_id": 13605567751,
+      "filename": "PicRand-2.77.0-win64.zip",
+      "normalized_name": "picrand-2.77.0-win64.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9ad19651dcf0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-08T05:33:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42447221283",
       "run_id": 42447221283,
