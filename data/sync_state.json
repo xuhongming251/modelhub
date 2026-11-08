@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T03:48:35.411Z",
-  "lastRunId": 42443256012,
+  "updatedAt": "2026-11-08T04:44:13.944Z",
+  "lastRunId": 42447221283,
   "items": [
+    {
+      "id": "run_42447221283",
+      "run_id": 42447221283,
+      "artifact_id": 13604940234,
+      "filename": "woomixAnima_v180.safetensors",
+      "normalized_name": "woomixanima_v180.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dd7b7e6829ba",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-08T04:43:36Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42443240042",
       "run_id": 42443240042,
@@ -167599,7 +167612,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
