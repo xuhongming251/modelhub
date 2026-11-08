@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T07:02:57.526Z",
-  "lastRunId": 42457052698,
+  "updatedAt": "2026-11-08T07:29:47.177Z",
+  "lastRunId": 42458895576,
   "items": [
+    {
+      "id": "run_42458895576",
+      "run_id": 42458895576,
+      "artifact_id": 13608996747,
+      "filename": "DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic.Q4_K_M.gguf",
+      "normalized_name": "deepseek-v4-pro-qwen3.5-9b-uncensored-heretic.q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/54b2e1aa52a6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-08T07:29:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42457052698",
       "run_id": 42457052698,
