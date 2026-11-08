@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T08:12:48.048Z",
-  "lastRunId": 42461794188,
+  "updatedAt": "2026-11-08T10:40:42.051Z",
+  "lastRunId": 42472276133,
   "items": [
+    {
+      "id": "run_42472276133",
+      "run_id": 42472276133,
+      "artifact_id": 13613892652,
+      "filename": "OneObsession_MOSS_BASE_v1-BF16.safetensors",
+      "normalized_name": "oneobsession_moss_base_v1-bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2809a1fed5b2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-08T10:40:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42461794188",
       "run_id": 42461794188,
