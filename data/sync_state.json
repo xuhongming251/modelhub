@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T10:40:42.051Z",
-  "lastRunId": 42472276133,
+  "updatedAt": "2026-11-08T12:00:48.986Z",
+  "lastRunId": 42478105514,
   "items": [
+    {
+      "id": "run_42478105514",
+      "run_id": 42478105514,
+      "artifact_id": 13616750820,
+      "filename": "DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic.Q4_K_M.gguf",
+      "normalized_name": "deepseek-v4-pro-qwen3.5-9b-uncensored-heretic.q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0f925f410ca4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-08T12:00:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42472276133",
       "run_id": 42472276133,
@@ -27,19 +40,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-11-08T08:12:15Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_42458895576",
-      "run_id": 42458895576,
-      "artifact_id": 13608996747,
-      "filename": "DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic.Q4_K_M.gguf",
-      "normalized_name": "deepseek-v4-pro-qwen3.5-9b-uncensored-heretic.q4_k_m.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/54b2e1aa52a6",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-11-08T07:29:14Z",
       "workflow": "upload.yml"
     },
     {
