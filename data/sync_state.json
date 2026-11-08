@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T06:15:26.981Z",
-  "lastRunId": 42453907596,
+  "updatedAt": "2026-11-08T06:17:08.333Z",
+  "lastRunId": 42454018826,
   "items": [
+    {
+      "id": "run_42454018826",
+      "run_id": 42454018826,
+      "artifact_id": 13606762602,
+      "filename": "MOSS_Image_SFT_8_steps_dmd_v0.1.safetensors",
+      "normalized_name": "moss_image_sft_8_steps_dmd_v0.1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c22766fe3cbe",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-08T06:16:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42453907596",
       "run_id": 42453907596,
