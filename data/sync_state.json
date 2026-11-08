@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T06:13:41.442Z",
-  "lastRunId": 42453785031,
+  "updatedAt": "2026-11-08T06:15:26.981Z",
+  "lastRunId": 42453907596,
   "items": [
+    {
+      "id": "run_42453907596",
+      "run_id": 42453907596,
+      "artifact_id": 13606342763,
+      "filename": "lodestones-8-steps-dmd2-lora.safetensors",
+      "normalized_name": "lodestones-8-steps-dmd2-lora.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3aa314753cee",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-08T06:14:51Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42453785031",
       "run_id": 42453785031,
@@ -167651,7 +167664,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
