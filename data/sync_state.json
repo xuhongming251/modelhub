@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T14:20:05.667Z",
-  "lastRunId": 42632662217,
+  "updatedAt": "2026-11-09T14:33:48.631Z",
+  "lastRunId": 42635456536,
   "items": [
+    {
+      "id": "run_42635456536",
+      "run_id": 42635456536,
+      "artifact_id": 13683610251,
+      "filename": "sunsetblur.safetensors",
+      "normalized_name": "sunsetblur.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b5609287c9cb",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-09T14:33:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42632610069",
       "run_id": 42632610069,
