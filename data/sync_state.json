@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T04:58:53.680Z",
-  "lastRunId": 42564597741,
+  "updatedAt": "2026-11-09T05:18:05.561Z",
+  "lastRunId": 42565549607,
   "items": [
+    {
+      "id": "run_42564487660",
+      "run_id": 42564487660,
+      "artifact_id": 13650629506,
+      "filename": "krea2_photographic_turbo_fp8_scaled.safetensors",
+      "normalized_name": "krea2_photographic_turbo_fp8_scaled.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1581236a394b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-09T05:17:31Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_42565549607",
+      "run_id": 42565549607,
+      "artifact_id": 13651323799,
+      "filename": "sam_moss33_int8_convrot.safetensors",
+      "normalized_name": "sam_moss33_int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/61462dc24e34",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-09T05:17:22Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42564597741",
       "run_id": 42564597741,
