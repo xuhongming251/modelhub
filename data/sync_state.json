@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T10:15:04.529Z",
+  "updatedAt": "2026-11-09T10:16:28.300Z",
   "lastRunId": 42599233476,
   "items": [
+    {
+      "id": "run_42596059702",
+      "run_id": 42596059702,
+      "artifact_id": 13665625725,
+      "filename": "Dongfangshuo-Qwen3.8-27B-NSFW-v4-Q3_K_M.gguf",
+      "normalized_name": "dongfangshuo-qwen3.8-27b-nsfw-v4-q3_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/09e6bc7a0015",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-09T10:15:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42595946250",
       "run_id": 42595946250,
