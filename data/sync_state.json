@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T09:30:57.362Z",
-  "lastRunId": 42593765672,
+  "updatedAt": "2026-11-09T10:02:40.788Z",
+  "lastRunId": 42595931901,
   "items": [
+    {
+      "id": "run_42595931901",
+      "run_id": 42595931901,
+      "artifact_id": 13664312136,
+      "filename": "Dongfangshuo-Qwen3.8-27B-NSFW-Novel-Q3_K_M.gguf",
+      "normalized_name": "dongfangshuo-qwen3.8-27b-nsfw-novel-q3_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/13b5204a8f2b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-09T10:02:07Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42593765672",
       "run_id": 42593765672,
@@ -14769,19 +14782,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-10-19T20:03:08Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_39305189677",
-      "run_id": 39305189677,
-      "artifact_id": 12214706129,
-      "filename": "Dongfangshuo-Qwen3.8-27B-NSFW-Novel-Q3_K_M.gguf",
-      "normalized_name": "dongfangshuo-qwen3.8-27b-nsfw-novel-q3_k_m.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/891ffc25e776",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-10-19T19:02:40Z",
       "workflow": "upload.yml"
     },
     {
