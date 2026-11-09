@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T11:17:08.192Z",
-  "lastRunId": 42607642397,
+  "updatedAt": "2026-11-09T11:38:27.710Z",
+  "lastRunId": 42610246628,
   "items": [
+    {
+      "id": "run_42610246628",
+      "run_id": 42610246628,
+      "artifact_id": 13669303697,
+      "filename": "FileCanvas-0.5.0-Windows-x64.exe",
+      "normalized_name": "filecanvas-0.5.0-windows-x64.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1a3c00102717",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-09T11:37:50Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42607642397",
       "run_id": 42607642397,
