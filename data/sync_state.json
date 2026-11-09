@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T10:06:07.220Z",
-  "lastRunId": 42598184609,
+  "updatedAt": "2026-11-09T10:10:01.514Z",
+  "lastRunId": 42598631053,
   "items": [
+    {
+      "id": "run_42598631053",
+      "run_id": 42598631053,
+      "artifact_id": 13665016073,
+      "filename": "Dragonball_Z_epoch_20.safetensors",
+      "normalized_name": "dragonball_z_epoch_20.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/74b4f64c6080",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-09T10:09:32Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_42598289847",
+      "run_id": 42598289847,
+      "artifact_id": 13664616503,
+      "filename": "m87LoraV1.K924.safetensors",
+      "normalized_name": "m87lorav1.k924.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2bf9366d7408",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-09T10:05:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42598057962",
       "run_id": 42598057962,
