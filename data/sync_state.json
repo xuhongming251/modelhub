@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T17:42:31.531Z",
-  "lastRunId": 42664569628,
+  "updatedAt": "2026-11-09T18:18:41.242Z",
+  "lastRunId": 42667673944,
   "items": [
+    {
+      "id": "run_42667673944",
+      "run_id": 42667673944,
+      "artifact_id": 13698802856,
+      "filename": "Qwen3.8-Flash-Next-GSQ-RCO-IQ2_XS-00002-of-00002.gguf",
+      "normalized_name": "qwen3.8-flash-next-gsq-rco-iq2_xs-00002-of-00002.gguf",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1Bxh8mPaZnA7Fs5xWl8Xf8w?pwd=b6ab",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-11-09T18:17:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42664569628",
       "run_id": 42664569628,
@@ -23531,19 +23544,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-10-03T03:20:25Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_37092288344",
-      "run_id": 37092288344,
-      "artifact_id": 11263015913,
-      "filename": "Qwen3.8-Flash-Next-GSQ-RCO-IQ2_XS-00002-of-00002.gguf",
-      "normalized_name": "qwen3.8-flash-next-gsq-rco-iq2_xs-00002-of-00002.gguf",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/d6fe56a1641c",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-10-03T03:14:08Z",
       "workflow": "upload.yml"
     },
     {
