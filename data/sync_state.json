@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T10:13:01.102Z",
-  "lastRunId": 42599101770,
+  "updatedAt": "2026-11-09T10:14:02.574Z",
+  "lastRunId": 42599233476,
   "items": [
+    {
+      "id": "run_42596069388",
+      "run_id": 42596069388,
+      "artifact_id": 13663754996,
+      "filename": "Dongfangshuo-Qwen3.8-27B-NSFW-v4-Q4_K_M.gguf",
+      "normalized_name": "dongfangshuo-qwen3.8-27b-nsfw-v4-q4_k_m.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/137ddf53d10e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-09T10:13:42Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_42599233476",
+      "run_id": 42599233476,
+      "artifact_id": 13664489274,
+      "filename": "krea2rellaC1St8000.UaqG.safetensors",
+      "normalized_name": "krea2rellac1st8000.uaqg.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7a4f993183af",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-09T10:13:28Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42599101770",
       "run_id": 42599101770,
