@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T14:08:20.781Z",
-  "lastRunId": 42631556292,
+  "updatedAt": "2026-11-09T14:16:34.376Z",
+  "lastRunId": 42632662217,
   "items": [
+    {
+      "id": "run_42632662217",
+      "run_id": 42632662217,
+      "artifact_id": 13681516801,
+      "filename": "seedvr2_ema_vae_fp16.safetensors",
+      "normalized_name": "seedvr2_ema_vae_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/737c30417892",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-09T14:15:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42631556292",
       "run_id": 42631556292,
