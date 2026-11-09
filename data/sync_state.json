@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T14:34:56.575Z",
+  "updatedAt": "2026-11-09T14:35:48.739Z",
   "lastRunId": 42635601975,
   "items": [
+    {
+      "id": "run_42635547662",
+      "run_id": 42635547662,
+      "artifact_id": 13683865389,
+      "filename": "retroanime.safetensors",
+      "normalized_name": "retroanime.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0baad6aed6cd",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-09T14:35:06Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42635601975",
       "run_id": 42635601975,
@@ -168425,7 +168438,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
