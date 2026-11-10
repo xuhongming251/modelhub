@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T06:45:29.795Z",
-  "lastRunId": 42770456524,
+  "updatedAt": "2026-11-10T08:55:08.485Z",
+  "lastRunId": 42783325064,
   "items": [
+    {
+      "id": "run_42783325064",
+      "run_id": 42783325064,
+      "artifact_id": 13747988706,
+      "filename": "aisha_nsfw_beta_v5_1_qwen21_turbo_bf16.safetensors",
+      "normalized_name": "aisha_nsfw_beta_v5_1_qwen21_turbo_bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/67a6582b918a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-10T08:54:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42770456524",
       "run_id": 42770456524,
