@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T13:22:50.228Z",
-  "lastRunId": 42823648194,
+  "updatedAt": "2026-11-10T13:25:07.815Z",
+  "lastRunId": 42823674993,
   "items": [
+    {
+      "id": "run_42823674993",
+      "run_id": 42823674993,
+      "artifact_id": 13766919946,
+      "filename": "relayvsr_flash_vae_x4_fp32.safetensors",
+      "normalized_name": "relayvsr_flash_vae_x4_fp32.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ec26b22f4636",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-10T13:24:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42823648194",
       "run_id": 42823648194,
