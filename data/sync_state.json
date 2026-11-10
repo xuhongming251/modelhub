@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T10:09:05.372Z",
-  "lastRunId": 42796274243,
+  "updatedAt": "2026-11-10T10:22:31.688Z",
+  "lastRunId": 42798424087,
   "items": [
+    {
+      "id": "run_42798424087",
+      "run_id": 42798424087,
+      "artifact_id": 13754407710,
+      "filename": "hongguo-1.0.26-windows-x86_64-setup.exe",
+      "normalized_name": "hongguo-1.0.26-windows-x86_64-setup.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0a2e77eb00ad",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-10T10:21:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42796274243",
       "run_id": 42796274243,
