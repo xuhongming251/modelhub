@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T04:35:37.659Z",
-  "lastRunId": 42756585224,
+  "updatedAt": "2026-11-10T04:41:15.662Z",
+  "lastRunId": 42756980608,
   "items": [
+    {
+      "id": "run_42756980608",
+      "run_id": 42756980608,
+      "artifact_id": 13735673478,
+      "filename": "潜水Krea2V1.bf16.safetensors",
+      "normalized_name": "潜水krea2v1.bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5e66267e8830",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-10T04:40:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42756585224",
       "run_id": 42756585224,
