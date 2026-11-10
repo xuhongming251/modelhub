@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T13:43:21.630Z",
-  "lastRunId": 42826647406,
+  "updatedAt": "2026-11-10T13:44:15.755Z",
+  "lastRunId": 42827107749,
   "items": [
+    {
+      "id": "run_42827107749",
+      "run_id": 42827107749,
+      "artifact_id": 13769821990,
+      "filename": "app-debug.apk",
+      "normalized_name": "app-debug.apk",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/70011f4548e8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-10T13:43:51Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_42827074450",
+      "run_id": 42827074450,
+      "artifact_id": 13768808923,
+      "filename": "Magisk-v31.1.apk",
+      "normalized_name": "magisk-v31.1.apk",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/49f74c2012f2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-10T13:43:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42826647406",
       "run_id": 42826647406,
