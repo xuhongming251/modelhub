@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T04:48:34.308Z",
+  "updatedAt": "2026-11-10T04:57:26.427Z",
   "lastRunId": 42757918147,
   "items": [
+    {
+      "id": "run_42756666307",
+      "run_id": 42756666307,
+      "artifact_id": 13737255455,
+      "filename": "亚洲融合V1.0Fp8.safetensors",
+      "normalized_name": "亚洲融合v1.0fp8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bfc4b6cd71d2",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-10T04:56:53Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42757918147",
       "run_id": 42757918147,
@@ -168620,7 +168633,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
