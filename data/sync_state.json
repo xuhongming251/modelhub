@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T13:25:07.815Z",
+  "updatedAt": "2026-11-10T13:27:45.162Z",
   "lastRunId": 42823674993,
   "items": [
+    {
+      "id": "run_42823607068",
+      "run_id": 42823607068,
+      "artifact_id": 13767989442,
+      "filename": "relayvsr_x2_lightx2v_int8_convrot.safetensors",
+      "normalized_name": "relayvsr_x2_lightx2v_int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1776108c4f29",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-10T13:27:11Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42823674993",
       "run_id": 42823674993,
