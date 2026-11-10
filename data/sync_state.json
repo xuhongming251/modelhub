@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T22:29:01.010Z",
-  "lastRunId": 42914543334,
+  "updatedAt": "2026-11-10T23:02:39.935Z",
+  "lastRunId": 42919741127,
   "items": [
+    {
+      "id": "run_42919741127",
+      "run_id": 42919741127,
+      "artifact_id": 13811451282,
+      "filename": "rt_detr_v4-x-hgnet_fp32.safetensors",
+      "normalized_name": "rt_detr_v4-x-hgnet_fp32.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b43b8f01bd2c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-10T23:02:02Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42914543334",
       "run_id": 42914543334,
