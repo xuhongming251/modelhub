@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T12:39:47.182Z",
-  "lastRunId": 42810894871,
+  "updatedAt": "2026-11-10T13:00:48.298Z",
+  "lastRunId": 42820457711,
   "items": [
+    {
+      "id": "run_42820457711",
+      "run_id": 42820457711,
+      "artifact_id": 13767435586,
+      "filename": "frida-server-17.22.2-android-arm64.xz",
+      "normalized_name": "frida-server-17.22.2-android-arm64.xz",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/aea13358a6e4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-10T13:00:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42810894871",
       "run_id": 42810894871,
