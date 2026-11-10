@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T04:41:15.662Z",
-  "lastRunId": 42756980608,
+  "updatedAt": "2026-11-10T04:48:34.308Z",
+  "lastRunId": 42757918147,
   "items": [
+    {
+      "id": "run_42757918147",
+      "run_id": 42757918147,
+      "artifact_id": 13736711553,
+      "filename": "krea2色情幻想V1.int8.safetensors",
+      "normalized_name": "krea2色情幻想v1.int8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/cd5ee73ba473",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-10T04:48:14Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_42756786152",
+      "run_id": 42756786152,
+      "artifact_id": 13737010108,
+      "filename": "kreros2.0_nvfp4.safetensors",
+      "normalized_name": "kreros2.0_nvfp4.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4e8e6a2f6497",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-10T04:47:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42756980608",
       "run_id": 42756980608,
@@ -168594,7 +168620,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 5,
       "createdBefore": null,
       "exhausted": false
     }
