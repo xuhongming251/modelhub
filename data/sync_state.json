@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T05:28:31.135Z",
-  "lastRunId": 42964821296,
+  "updatedAt": "2026-11-11T06:13:03.438Z",
+  "lastRunId": 42970108096,
   "items": [
+    {
+      "id": "run_42970108096",
+      "run_id": 42970108096,
+      "artifact_id": 13832438667,
+      "filename": "Qwen3.8-Flash-Next-GSQ-RCO-abliterated-IQ3_S-00002-of-00002.gguf",
+      "normalized_name": "qwen3.8-flash-next-gsq-rco-abliterated-iq3_s-00002-of-00002.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d62bea60f8cf",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-11T06:12:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_42964821296",
       "run_id": 42964821296,
