@@ -1,8 +1,60 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T17:34:42.578Z",
-  "lastRunId": 43069341840,
+  "updatedAt": "2026-11-11T17:35:29.035Z",
+  "lastRunId": 43069346183,
   "items": [
+    {
+      "id": "run_43069239486",
+      "run_id": 43069239486,
+      "artifact_id": 13876634174,
+      "filename": "fuzichoco_style_moss_uma_v1.safetensors",
+      "normalized_name": "fuzichoco_style_moss_uma_v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/356cd90e02e6",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-11T17:34:48Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_43069320146",
+      "run_id": 43069320146,
+      "artifact_id": 13877092122,
+      "filename": "koukouya-bf16-r32-1536-ga2-step-002618-comfy.safetensors",
+      "normalized_name": "koukouya-bf16-r32-1536-ga2-step-002618-comfy.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3bb3f8db7499",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-11T17:34:33Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_43069346183",
+      "run_id": 43069346183,
+      "artifact_id": 13878250172,
+      "filename": "shibansfw.safetensors",
+      "normalized_name": "shibansfw.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/db1970fe9129",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-11T17:34:30Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_43069215850",
+      "run_id": 43069215850,
+      "artifact_id": 13877715655,
+      "filename": "Frieren_Krea2_Characters_20261020_V1.safetensors",
+      "normalized_name": "frieren_krea2_characters_20261020_v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/96fdd4515506",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-11T17:34:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43069210409",
       "run_id": 43069210409,
@@ -169400,7 +169452,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 5,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
