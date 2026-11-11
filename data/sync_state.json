@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T14:52:06.458Z",
-  "lastRunId": 43042249521,
+  "updatedAt": "2026-11-11T15:17:34.388Z",
+  "lastRunId": 43042959916,
   "items": [
+    {
+      "id": "run_43042959916",
+      "run_id": 43042959916,
+      "artifact_id": 13867561417,
+      "filename": "muKrea2-gamma-FP8.safetensors",
+      "normalized_name": "mukrea2-gamma-fp8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1c73d8b9ce7c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-11T15:16:58Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43042249521",
       "run_id": 43042249521,
