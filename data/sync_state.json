@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T04:34:05.577Z",
-  "lastRunId": 43155463865,
+  "updatedAt": "2026-11-12T04:42:18.018Z",
+  "lastRunId": 43156344554,
   "items": [
+    {
+      "id": "run_43156344554",
+      "run_id": 43156344554,
+      "artifact_id": 13915243855,
+      "filename": "minmax-420.safetensors",
+      "normalized_name": "minmax-420.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1RsSmfwWzxQNfOlYQO6I-yg?pwd=12fa",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-11-12T04:41:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43155463865",
       "run_id": 43155463865,
