@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T19:23:40.043Z",
-  "lastRunId": 43289534601,
+  "updatedAt": "2026-11-12T19:25:11.767Z",
+  "lastRunId": 43289543852,
   "items": [
+    {
+      "id": "run_43289523454",
+      "run_id": 43289523454,
+      "artifact_id": 13975798349,
+      "filename": "moss-masterpieces-moss-timestep.safetensors",
+      "normalized_name": "moss-masterpieces-moss-timestep.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/373e2c5c0fc3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-12T19:24:36Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_43289543852",
+      "run_id": 43289543852,
+      "artifact_id": 13976487829,
+      "filename": "BikaBaka_MOSS-base_v1.safetensors",
+      "normalized_name": "bikabaka_moss-base_v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/aa53d7e716ea",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-12T19:23:38Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_43289539145",
+      "run_id": 43289539145,
+      "artifact_id": 13976926858,
+      "filename": "krea2_lora_example-000002.safetensors",
+      "normalized_name": "krea2_lora_example-000002.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e2ca76ccccf3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-12T19:23:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43289534601",
       "run_id": 43289534601,
