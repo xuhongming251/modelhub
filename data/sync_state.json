@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T03:52:17.642Z",
-  "lastRunId": 43150892295,
+  "updatedAt": "2026-11-12T03:56:50.817Z",
+  "lastRunId": 43151331822,
   "items": [
+    {
+      "id": "run_43151331822",
+      "run_id": 43151331822,
+      "artifact_id": 13914471378,
+      "filename": "MOSS-V1.safetensors",
+      "normalized_name": "moss-v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1D7ZYW53o9QuOIEbW20Eaig?pwd=0ffb",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-11-12T03:56:13Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43150892295",
       "run_id": 43150892295,
