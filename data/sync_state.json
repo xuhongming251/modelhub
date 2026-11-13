@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T06:15:53.613Z",
-  "lastRunId": 43356347263,
+  "updatedAt": "2026-11-13T06:46:45.201Z",
+  "lastRunId": 43378363633,
   "items": [
+    {
+      "id": "run_43378363633",
+      "run_id": 43378363633,
+      "artifact_id": 14016208912,
+      "filename": "Krea2 - 晶体图.fp8.safetensors",
+      "normalized_name": "krea2 - 晶体图.fp8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6a30ec7b299f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-13T06:46:12Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43356347263",
       "run_id": 43356347263,
@@ -170011,7 +170024,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
