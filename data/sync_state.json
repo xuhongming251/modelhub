@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T01:21:39.952Z",
-  "lastRunId": 43289543852,
+  "updatedAt": "2026-11-13T01:46:26.065Z",
+  "lastRunId": 43347115899,
   "items": [
+    {
+      "id": "run_43347115899",
+      "run_id": 43347115899,
+      "artifact_id": 14002132189,
+      "filename": "krea2 2.5d3d.safetensors",
+      "normalized_name": "krea2 2.5d3d.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/fca7d91234e8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-13T01:45:52Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43289523454",
       "run_id": 43289523454,
@@ -169946,7 +169959,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
