@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T10:50:59.142Z",
-  "lastRunId": 43412038700,
+  "updatedAt": "2026-11-13T14:15:00.462Z",
+  "lastRunId": 43437479563,
   "items": [
+    {
+      "id": "run_43437479563",
+      "run_id": 43437479563,
+      "artifact_id": 14044283949,
+      "filename": "dasiwaMinimaxH3Ref2vaV5xs.w8tU.safetensors",
+      "normalized_name": "dasiwaminimaxh3ref2vav5xs.w8tu.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/15V5V3TFv7BoJjT5HnKiHOA?pwd=a9a2",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-11-13T14:14:18Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43412038700",
       "run_id": 43412038700,
@@ -170102,7 +170115,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
