@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T06:50:26.113Z",
-  "lastRunId": 43378777092,
+  "updatedAt": "2026-11-13T07:00:00.692Z",
+  "lastRunId": 43382351472,
   "items": [
+    {
+      "id": "run_43382351472",
+      "run_id": 43382351472,
+      "artifact_id": 14016872661,
+      "filename": "kroma-v0.3-base-lora-custom-unlock-no-reupload.safetensors",
+      "normalized_name": "kroma-v0.3-base-lora-custom-unlock-no-reupload.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1wSjqSbFGqt4sF643rREMCA?pwd=3481",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-11-13T06:59:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43378777092",
       "run_id": 43378777092,
@@ -41380,19 +41393,6 @@
       "channel": "baidu",
       "channel_name": "Baidu",
       "completed_at": "2026-09-08T17:46:27Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_34252616666",
-      "run_id": 34252616666,
-      "artifact_id": 10066602359,
-      "filename": "kroma-v0.3-base-lora-custom-unlock-no-reupload.safetensors",
-      "normalized_name": "kroma-v0.3-base-lora-custom-unlock-no-reupload.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/ea6c1c096304",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-08T16:42:33Z",
       "workflow": "upload.yml"
     },
     {
