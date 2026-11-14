@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T04:32:48.214Z",
-  "lastRunId": 43556874398,
+  "updatedAt": "2026-11-14T04:37:59.424Z",
+  "lastRunId": 43557523565,
   "items": [
+    {
+      "id": "run_43557523565",
+      "run_id": 43557523565,
+      "artifact_id": 14098253757,
+      "filename": "minimax_music3_dav.safetensors",
+      "normalized_name": "minimax_music3_dav.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dd3f68302b6a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-14T04:37:30Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_43557384903",
+      "run_id": 43557384903,
+      "artifact_id": 14097939797,
+      "filename": "minimax_music3_dit_int8_convrot.safetensors",
+      "normalized_name": "minimax_music3_dit_int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c456981b654b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-14T04:37:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43556874398",
       "run_id": 43556874398,
@@ -60194,19 +60220,6 @@
       "workflow": "upload.yml"
     },
     {
-      "id": "run_31799918108",
-      "run_id": 31799918108,
-      "artifact_id": 9218839644,
-      "filename": "minimax_music3_dit_int8_convrot.safetensors",
-      "normalized_name": "minimax_music3_dit_int8_convrot.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/bc1f0a9a5bd7",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-14T12:21:35Z",
-      "workflow": "upload.yml"
-    },
-    {
       "id": "run_31799858944",
       "run_id": 31799858944,
       "artifact_id": 9218820563,
@@ -60217,19 +60230,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-14T12:20:56Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_31799897456",
-      "run_id": 31799897456,
-      "artifact_id": 9218821026,
-      "filename": "minimax_music3_dav.safetensors",
-      "normalized_name": "minimax_music3_dav.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/09bd2fde969f",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-14T12:20:55Z",
       "workflow": "upload.yml"
     },
     {
@@ -170167,7 +170167,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
