@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T15:25:07.591Z",
-  "lastRunId": 43609923402,
+  "updatedAt": "2026-11-14T15:30:32.893Z",
+  "lastRunId": 43610056676,
   "items": [
+    {
+      "id": "run_43610056676",
+      "run_id": 43610056676,
+      "artifact_id": 14119876994,
+      "filename": "rdbt_v3.0_sma_anima_b1_ckpt_int8convrot.safetensors",
+      "normalized_name": "rdbt_v3.0_sma_anima_b1_ckpt_int8convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c7cf1912d20e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-14T15:30:00Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43609923402",
       "run_id": 43609923402,
