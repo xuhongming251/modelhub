@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T14:03:57.799Z",
-  "lastRunId": 43602785374,
+  "updatedAt": "2026-11-14T14:33:08.898Z",
+  "lastRunId": 43605350233,
   "items": [
+    {
+      "id": "run_43605350233",
+      "run_id": 43605350233,
+      "artifact_id": 14117982694,
+      "filename": "v1.5.3",
+      "normalized_name": "v1.5.3",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3a0bcdf99466",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-14T14:32:32Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_43602793528",
+      "run_id": 43602793528,
+      "artifact_id": 14116384423,
+      "filename": "jasna-windows-0.12.3.7z.001",
+      "normalized_name": "jasna-windows-0.12.3.7z.001",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8e9d275001ab",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-14T14:03:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43602705825",
       "run_id": 43602705825,
