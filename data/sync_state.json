@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T02:53:00.887Z",
+  "updatedAt": "2026-11-14T02:56:32.805Z",
   "lastRunId": 43548486510,
   "items": [
+    {
+      "id": "run_43544754436",
+      "run_id": 43544754436,
+      "artifact_id": 14095327442,
+      "filename": "Krea 2 穆迪混音 - 最终典藏版bf16.safetensors",
+      "normalized_name": "krea 2 穆迪混音 - 最终典藏版bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9a24bd121a6d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-14T02:55:48Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43548486510",
       "run_id": 43548486510,
@@ -170141,7 +170154,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
