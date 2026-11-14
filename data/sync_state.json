@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T05:52:23.296Z",
-  "lastRunId": 43563280660,
+  "updatedAt": "2026-11-14T07:59:19.839Z",
+  "lastRunId": 43573522661,
   "items": [
+    {
+      "id": "run_43573522661",
+      "run_id": 43573522661,
+      "artifact_id": 14105396573,
+      "filename": "flowhmr_latest.ckpt",
+      "normalized_name": "flowhmr_latest.ckpt",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3e04fd472f00",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-14T07:58:41Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43563280660",
       "run_id": 43563280660,
