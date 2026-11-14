@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T05:46:28.857Z",
-  "lastRunId": 43563051621,
+  "updatedAt": "2026-11-14T05:52:23.296Z",
+  "lastRunId": 43563280660,
   "items": [
+    {
+      "id": "run_43563280660",
+      "run_id": 43563280660,
+      "artifact_id": 14100992829,
+      "filename": "original_sd_checkpoint.safetensors",
+      "normalized_name": "original_sd_checkpoint.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/c1f09cf08686",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-14T05:51:43Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43563051621",
       "run_id": 43563051621,
