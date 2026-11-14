@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T04:37:59.424Z",
+  "updatedAt": "2026-11-14T04:40:17.652Z",
   "lastRunId": 43557523565,
   "items": [
+    {
+      "id": "run_43557461611",
+      "run_id": 43557461611,
+      "artifact_id": 14099205118,
+      "filename": "minimax_music3_text_encoder_pruned_int8_convrot.safetensors",
+      "normalized_name": "minimax_music3_text_encoder_pruned_int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8dd580ec71f3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-14T04:39:37Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43557523565",
       "run_id": 43557523565,
@@ -60204,19 +60217,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-14T12:23:57Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_31799884830",
-      "run_id": 31799884830,
-      "artifact_id": 9218842803,
-      "filename": "minimax_music3_text_encoder_pruned_int8_convrot.safetensors",
-      "normalized_name": "minimax_music3_text_encoder_pruned_int8_convrot.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/70757b293248",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-14T12:21:42Z",
       "workflow": "upload.yml"
     },
     {
@@ -170167,7 +170167,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
