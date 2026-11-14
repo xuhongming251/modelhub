@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T01:59:16.070Z",
-  "lastRunId": 43540165411,
+  "updatedAt": "2026-11-14T02:53:00.887Z",
+  "lastRunId": 43548486510,
   "items": [
+    {
+      "id": "run_43548486510",
+      "run_id": 43548486510,
+      "artifact_id": 14095706042,
+      "filename": "krea2 暖暖无限风格.safetensors",
+      "normalized_name": "krea2 暖暖无限风格.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d0ab4dfb883a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-14T02:52:27Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43540165411",
       "run_id": 43540165411,
@@ -170128,7 +170141,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
