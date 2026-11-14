@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T15:13:19.256Z",
-  "lastRunId": 43608898848,
+  "updatedAt": "2026-11-14T15:25:07.591Z",
+  "lastRunId": 43609923402,
   "items": [
+    {
+      "id": "run_43609923402",
+      "run_id": 43609923402,
+      "artifact_id": 14119583041,
+      "filename": "rdbt_v3.0_sma_anima_b1_ckpt.safetensors",
+      "normalized_name": "rdbt_v3.0_sma_anima_b1_ckpt.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/923628d4b136",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-14T15:24:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43608898848",
       "run_id": 43608898848,
