@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T15:27:26.230Z",
-  "lastRunId": 43722687302,
+  "updatedAt": "2026-11-15T15:51:55.538Z",
+  "lastRunId": 43732077026,
   "items": [
+    {
+      "id": "run_43732077026",
+      "run_id": 43732077026,
+      "artifact_id": 14168632095,
+      "filename": "pika_h3_flex_turbo_8step_hd_ref2va.safetensors",
+      "normalized_name": "pika_h3_flex_turbo_8step_hd_ref2va.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/076223cc74a1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-15T15:51:15Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_43729881549",
+      "run_id": 43729881549,
+      "artifact_id": 14167818219,
+      "filename": "pika_h3_flex_turbo_4step_ref2va.safetensors",
+      "normalized_name": "pika_h3_flex_turbo_4step_ref2va.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3869207087c8",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-15T15:27:26Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43722687302",
       "run_id": 43722687302,
@@ -5360,19 +5386,6 @@
       "workflow": "upload.yml"
     },
     {
-      "id": "run_42228332407",
-      "run_id": 42228332407,
-      "artifact_id": 13505619284,
-      "filename": "pika_h3_flex_turbo_8step_hd_ref2va.safetensors",
-      "normalized_name": "pika_h3_flex_turbo_8step_hd_ref2va.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/040674236cd8",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-11-06T13:48:24Z",
-      "workflow": "upload.yml"
-    },
-    {
       "id": "run_42228324029",
       "run_id": 42228324029,
       "artifact_id": 13505904038,
@@ -5383,19 +5396,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-11-06T13:48:24Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_42228308719",
-      "run_id": 42228308719,
-      "artifact_id": 13507350531,
-      "filename": "pika_h3_flex_turbo_4step_ref2va.safetensors",
-      "normalized_name": "pika_h3_flex_turbo_4step_ref2va.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/882bc505f646",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-11-06T13:48:04Z",
       "workflow": "upload.yml"
     },
     {
