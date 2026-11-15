@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T07:50:56.636Z",
-  "lastRunId": 43691665204,
+  "updatedAt": "2026-11-15T07:51:42.132Z",
+  "lastRunId": 43691731939,
   "items": [
+    {
+      "id": "run_43691731939",
+      "run_id": 43691731939,
+      "artifact_id": 14152911832,
+      "filename": "my_anima_lora6.2-step00004000.safetensors",
+      "normalized_name": "my_anima_lora6.2-step00004000.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a7b5dda3cbba",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-15T07:51:08Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43691665204",
       "run_id": 43691665204,
