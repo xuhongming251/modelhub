@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T03:43:03.813Z",
-  "lastRunId": 43673455755,
+  "updatedAt": "2026-11-15T04:48:04.909Z",
+  "lastRunId": 43678239252,
   "items": [
+    {
+      "id": "run_43678239252",
+      "run_id": 43678239252,
+      "artifact_id": 14146803827,
+      "filename": "nai5-style.safetensors",
+      "normalized_name": "nai5-style.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3ac87f66ab18",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-15T04:47:27Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43673455755",
       "run_id": 43673455755,
