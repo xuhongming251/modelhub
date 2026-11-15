@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T07:51:42.132Z",
-  "lastRunId": 43691731939,
+  "updatedAt": "2026-11-15T07:52:31.206Z",
+  "lastRunId": 43691801230,
   "items": [
+    {
+      "id": "run_43691801230",
+      "run_id": 43691801230,
+      "artifact_id": 14153115000,
+      "filename": "moss-anima.safetensors",
+      "normalized_name": "moss-anima.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7a3db1ee0eb9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-15T07:51:54Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43691731939",
       "run_id": 43691731939,
