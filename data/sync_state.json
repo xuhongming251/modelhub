@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T04:54:32.707Z",
-  "lastRunId": 43678628237,
+  "updatedAt": "2026-11-15T04:55:52.705Z",
+  "lastRunId": 43678689898,
   "items": [
+    {
+      "id": "run_43678689898",
+      "run_id": 43678689898,
+      "artifact_id": 14147737117,
+      "filename": "emilia-re-zero-moss-sft-lora-v1-0.safetensors",
+      "normalized_name": "emilia-re-zero-moss-sft-lora-v1-0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4980177a3cfe",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-15T04:55:15Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43678628237",
       "run_id": 43678628237,
