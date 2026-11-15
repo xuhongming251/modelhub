@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T11:27:12.386Z",
-  "lastRunId": 43708873321,
+  "updatedAt": "2026-11-15T11:35:10.280Z",
+  "lastRunId": 43709400106,
   "items": [
+    {
+      "id": "run_43709400106",
+      "run_id": 43709400106,
+      "artifact_id": 14160195814,
+      "filename": "dasiwaMinimaxH3Ref2vaV5xs.w8tU.safetensors",
+      "normalized_name": "dasiwaminimaxh3ref2vav5xs.w8tu.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5d09a8d59564",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-15T11:34:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43708873321",
       "run_id": 43708873321,
@@ -1041,19 +1054,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-11-14T01:35:30Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_43437479563",
-      "run_id": 43437479563,
-      "artifact_id": 14044283949,
-      "filename": "dasiwaMinimaxH3Ref2vaV5xs.w8tU.safetensors",
-      "normalized_name": "dasiwaminimaxh3ref2vav5xs.w8tu.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.baidu.com/s/15V5V3TFv7BoJjT5HnKiHOA?pwd=a9a2",
-      "channel": "baidu",
-      "channel_name": "Baidu",
-      "completed_at": "2026-11-13T14:14:18Z",
       "workflow": "upload.yml"
     },
     {
