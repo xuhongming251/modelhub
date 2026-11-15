@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T06:06:15.550Z",
-  "lastRunId": 43683637151,
+  "updatedAt": "2026-11-15T06:10:08.711Z",
+  "lastRunId": 43684054760,
   "items": [
+    {
+      "id": "run_43684054760",
+      "run_id": 43684054760,
+      "artifact_id": 14149063225,
+      "filename": "REDQW21-UNLOCKED-v3-INT8C-ComfyMCP-builtwithqwen.safetensors",
+      "normalized_name": "redqw21-unlocked-v3-int8c-comfymcp-builtwithqwen.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f5bd59beb003",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-15T06:09:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43683637151",
       "run_id": 43683637151,
