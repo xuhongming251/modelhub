@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T09:12:27.203Z",
-  "lastRunId": 43698011625,
+  "updatedAt": "2026-11-15T10:07:58.912Z",
+  "lastRunId": 43701575761,
   "items": [
+    {
+      "id": "run_43701575761",
+      "run_id": 43701575761,
+      "artifact_id": 14157067519,
+      "filename": "SekkaAnima.safetensors",
+      "normalized_name": "sekkaanima.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/32640ddde101",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-15T10:07:22Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43698011625",
       "run_id": 43698011625,
