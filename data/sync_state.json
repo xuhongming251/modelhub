@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T03:17:11.561Z",
+  "updatedAt": "2026-11-16T03:45:24.714Z",
   "lastRunId": 43795870776,
   "items": [
+    {
+      "id": "run_43795408455",
+      "run_id": 43795408455,
+      "artifact_id": 14196091456,
+      "filename": "finepornV6BF16.safetensors",
+      "normalized_name": "finepornv6bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d5afcd390094",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-16T03:44:51Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_43795510490",
+      "run_id": 43795510490,
+      "artifact_id": 14196147135,
+      "filename": "bssDesirex4BF16.safetensors",
+      "normalized_name": "bssdesirex4bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8227030148ae",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-16T03:44:09Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_43795290192",
+      "run_id": 43795290192,
+      "artifact_id": 14195134168,
+      "filename": "真实的Krea2 Max 超级混合艺术.bf16.safetensors",
+      "normalized_name": "真实的krea2 max 超级混合艺术.bf16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9918cb60f977",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-16T03:42:49Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43795870776",
       "run_id": 43795870776,
@@ -171207,7 +171246,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
