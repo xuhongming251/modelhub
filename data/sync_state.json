@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T07:46:34.644Z",
+  "updatedAt": "2026-11-16T07:51:41.332Z",
   "lastRunId": 43825847899,
   "items": [
+    {
+      "id": "run_43823753532",
+      "run_id": 43823753532,
+      "artifact_id": 14207335468,
+      "filename": "Qwen-Image-2.1-PE-I2I-Heretic-ARA-int8_convrot.safetensors",
+      "normalized_name": "qwen-image-2.1-pe-i2i-heretic-ara-int8_convrot.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/72907ea5fc3e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-16T07:51:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43825847899",
       "run_id": 43825847899,
