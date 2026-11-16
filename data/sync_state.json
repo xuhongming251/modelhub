@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T03:45:24.714Z",
-  "lastRunId": 43795870776,
+  "updatedAt": "2026-11-16T04:37:21.237Z",
+  "lastRunId": 43802820293,
   "items": [
+    {
+      "id": "run_43802820293",
+      "run_id": 43802820293,
+      "artifact_id": 14198186106,
+      "filename": "krea2色情角色扮演Int8.safetensors",
+      "normalized_name": "krea2色情角色扮演int8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ed472c4c203e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-16T04:36:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43795408455",
       "run_id": 43795408455,
@@ -53,19 +66,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-11-16T03:16:30Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_43795649956",
-      "run_id": 43795649956,
-      "artifact_id": 14194710311,
-      "filename": "krea2色情角色扮演Int8.safetensors",
-      "normalized_name": "krea2色情角色扮演int8.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/faa46eb7140d",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-11-16T03:03:21Z",
       "workflow": "upload.yml"
     },
     {
@@ -171246,7 +171246,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 6,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
