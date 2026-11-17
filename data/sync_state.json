@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T11:53:55.833Z",
-  "lastRunId": 44074345543,
+  "updatedAt": "2026-11-17T12:30:01.414Z",
+  "lastRunId": 44083326479,
   "items": [
     {
-      "id": "run_44074345543",
-      "run_id": 44074345543,
-      "artifact_id": 14324919016,
+      "id": "run_44083326479",
+      "run_id": 44083326479,
+      "artifact_id": 14328690573,
+      "filename": "pornmasterMossMIXV2.zhlz.safetensors",
+      "normalized_name": "pornmastermossmixv2.zhlz.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/15c43a5d39af",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-17T12:29:27Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_44077865784",
+      "run_id": 44077865784,
+      "artifact_id": 14325533393,
       "filename": "Qwen_Qwen3-VL-30B-A3B-Instruct-IQ3_XS.gguf",
       "normalized_name": "qwen_qwen3-vl-30b-a3b-instruct-iq3_xs.gguf",
       "original_url": "",
-      "share_url": "https://pan.quark.cn/s/d3a1b463d75e",
+      "share_url": "https://pan.quark.cn/s/8fd4b9507108",
       "channel": "quark",
       "channel_name": "Quark",
-      "completed_at": "2026-11-17T11:53:20Z",
+      "completed_at": "2026-11-17T11:54:00Z",
       "workflow": "upload.yml"
     },
     {
@@ -1145,19 +1158,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-11-15T22:18:02Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_43767057343",
-      "run_id": 43767057343,
-      "artifact_id": 14182732020,
-      "filename": "pornmasterMossMIXV2.zhlz.safetensors",
-      "normalized_name": "pornmastermossmixv2.zhlz.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/4727c6938621",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-11-15T22:04:13Z",
       "workflow": "upload.yml"
     },
     {
@@ -172078,7 +172078,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
