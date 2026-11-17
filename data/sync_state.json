@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T13:01:44.644Z",
-  "lastRunId": 44085627703,
+  "updatedAt": "2026-11-17T13:17:59.030Z",
+  "lastRunId": 44088403236,
   "items": [
+    {
+      "id": "run_44088403236",
+      "run_id": 44088403236,
+      "artifact_id": 14330019992,
+      "filename": "bf16_moss_winpic_1.2_00001_.safetensors",
+      "normalized_name": "bf16_moss_winpic_1.2_00001_.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/3749c0585a32",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-17T13:17:23Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_44085627703",
       "run_id": 44085627703,
