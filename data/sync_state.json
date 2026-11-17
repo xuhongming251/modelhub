@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T16:02:52.673Z",
+  "updatedAt": "2026-11-17T16:08:22.649Z",
   "lastRunId": 44120972523,
   "items": [
+    {
+      "id": "run_44119133928",
+      "run_id": 44119133928,
+      "artifact_id": 14345112950,
+      "filename": "xavier_v10.safetensors",
+      "normalized_name": "xavier_v10.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1LAT8_a5JvoIgpa81t2IExw?pwd=912e",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-11-17T16:07:43Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_44120972523",
       "run_id": 44120972523,
