@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T01:57:26.500Z",
-  "lastRunId": 43984779049,
+  "updatedAt": "2026-11-17T02:02:04.455Z",
+  "lastRunId": 43999737743,
   "items": [
+    {
+      "id": "run_43999737743",
+      "run_id": 43999737743,
+      "artifact_id": 14290699511,
+      "filename": "凡人修仙传-凤冰.safetensors",
+      "normalized_name": "凡人修仙传-凤冰.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/59e3390f3e49",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-17T02:01:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_43984779049",
       "run_id": 43984779049,
@@ -171740,7 +171753,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
