@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T11:15:09.934Z",
+  "updatedAt": "2026-11-17T11:39:12.322Z",
   "lastRunId": 44071884461,
   "items": [
+    {
+      "id": "run_44071634400",
+      "run_id": 44071634400,
+      "artifact_id": 14325475828,
+      "filename": "Qwen_Qwen3-VL-30B-A3B-Instruct-IQ3_XS.gguf",
+      "normalized_name": "qwen_qwen3-vl-30b-a3b-instruct-iq3_xs.gguf",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a144d411a6c0",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-17T11:38:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_44071884461",
       "run_id": 44071884461,
