@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T13:48:06.438Z",
-  "lastRunId": 44317211888,
+  "updatedAt": "2026-11-18T13:49:33.195Z",
+  "lastRunId": 44317435270,
   "items": [
+    {
+      "id": "run_44317435270",
+      "run_id": 44317435270,
+      "artifact_id": 14433241547,
+      "filename": "minimax_h3_latent_upscaler_3d_conv_v1_fp16.safetensors",
+      "normalized_name": "minimax_h3_latent_upscaler_3d_conv_v1_fp16.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/63052aee08da",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-18T13:48:57Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_44317211888",
       "run_id": 44317211888,
