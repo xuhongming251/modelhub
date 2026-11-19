@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T15:50:02.541Z",
-  "lastRunId": 44558928223,
+  "updatedAt": "2026-11-19T15:52:04.308Z",
+  "lastRunId": 44559279037,
   "items": [
+    {
+      "id": "run_44559279037",
+      "run_id": 44559279037,
+      "artifact_id": 14544459767,
+      "filename": "musaigen-no-phantom-world-izumireina.safetensors",
+      "normalized_name": "musaigen-no-phantom-world-izumireina.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1547e17c327c",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-19T15:51:26Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_44559091598",
+      "run_id": 44559091598,
+      "artifact_id": 14546272757,
+      "filename": "mgartstyle_corrupted_lora.safetensors",
+      "normalized_name": "mgartstyle_corrupted_lora.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/95d03f922b40",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-19T15:49:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_44558928223",
       "run_id": 44558928223,
