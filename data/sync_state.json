@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T15:57:31.891Z",
-  "lastRunId": 44560329302,
+  "updatedAt": "2026-11-19T15:58:40.198Z",
+  "lastRunId": 44560550421,
   "items": [
+    {
+      "id": "run_44560550421",
+      "run_id": 44560550421,
+      "artifact_id": 14546633198,
+      "filename": "setsuna.safetensors",
+      "normalized_name": "setsuna.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8ed68378267d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-19T15:58:03Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_44560329302",
       "run_id": 44560329302,
