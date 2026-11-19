@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T13:26:08.978Z",
-  "lastRunId": 44533152558,
+  "updatedAt": "2026-11-19T13:27:51.068Z",
+  "lastRunId": 44533257385,
   "items": [
     {
-      "id": "run_44533152558",
-      "run_id": 44533152558,
-      "artifact_id": 14534233653,
+      "id": "run_44532605776",
+      "run_id": 44532605776,
+      "artifact_id": 14534273778,
       "filename": "anima20bluebug2017.seJz.safetensors",
       "normalized_name": "anima20bluebug2017.sejz.safetensors",
       "original_url": "",
-      "share_url": "https://pan.quark.cn/s/43a9f88fbd4c",
+      "share_url": "https://pan.baidu.com/s/1WqNuFVACDhLHV2Kl7R8ldw?pwd=717e",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-11-19T13:27:18Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_44533257385",
+      "run_id": 44533257385,
+      "artifact_id": 14533898415,
+      "filename": "kuonji-alice-witch-on-the-holy-night-mahotsukai-no-yoru-anima.safetensors",
+      "normalized_name": "kuonji-alice-witch-on-the-holy-night-mahotsukai-no-yoru-anima.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f683b2afc27d",
       "channel": "quark",
       "channel_name": "Quark",
-      "completed_at": "2026-11-19T13:25:29Z",
+      "completed_at": "2026-11-19T13:26:07Z",
       "workflow": "upload.yml"
     },
     {
