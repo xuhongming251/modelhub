@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T14:27:45.618Z",
-  "lastRunId": 44543734731,
+  "updatedAt": "2026-11-19T14:28:28.634Z",
+  "lastRunId": 44543906575,
   "items": [
+    {
+      "id": "run_44543906575",
+      "run_id": 44543906575,
+      "artifact_id": 14539163031,
+      "filename": "edna-tales-of-zestiria.safetensors",
+      "normalized_name": "edna-tales-of-zestiria.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2b2035ac87e9",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-19T14:27:52Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_44542962401",
+      "run_id": 44542962401,
+      "artifact_id": 14538969402,
+      "filename": "HotaruBreedAnima29B_v20.safetensors",
+      "normalized_name": "hotarubreedanima29b_v20.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/de41889273fc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-19T14:27:47Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_44543734731",
       "run_id": 44543734731,
