@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T13:37:04.340Z",
-  "lastRunId": 44535047400,
+  "updatedAt": "2026-11-19T13:42:05.781Z",
+  "lastRunId": 44535845755,
   "items": [
+    {
+      "id": "run_44535845755",
+      "run_id": 44535845755,
+      "artifact_id": 14535652737,
+      "filename": "naganami-azur-lane.safetensors",
+      "normalized_name": "naganami-azur-lane.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/b3cb29b4659b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-19T13:41:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_44535047400",
       "run_id": 44535047400,
