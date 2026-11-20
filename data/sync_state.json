@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T16:35:43.923Z",
-  "lastRunId": 44774717577,
+  "updatedAt": "2026-11-20T16:39:05.176Z",
+  "lastRunId": 44775304977,
   "items": [
+    {
+      "id": "run_44775304977",
+      "run_id": 44775304977,
+      "artifact_id": 14650295825,
+      "filename": "nsfw-flux-klein-no-face-change",
+      "normalized_name": "nsfw-flux-klein-no-face-change",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/7f3d63286dcc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-20T16:38:26Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_44774717577",
       "run_id": 44774717577,
@@ -167468,12 +167481,6 @@
       "normalized_name": "instansfwv1.w593.safetensors",
       "share_url": "https://pan.quark.cn/s/a9975d822949",
       "completed_at": "2026-03-21T09:31:33Z"
-    },
-    {
-      "filename": "nsfw-flux-klein-no-face-change",
-      "normalized_name": "nsfw-flux-klein-no-face-change",
-      "share_url": "https://pan.quark.cn/s/8d937e3a8cd1",
-      "completed_at": "2026-03-21T09:20:40Z"
     },
     {
       "filename": "aniedit9bV2.m2di.safetensors",
