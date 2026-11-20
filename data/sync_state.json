@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T17:08:00.267Z",
+  "updatedAt": "2026-11-20T18:20:00.591Z",
   "lastRunId": 44778199710,
   "items": [
+    {
+      "id": "run_44746931012",
+      "run_id": 44746931012,
+      "artifact_id": 14657515222,
+      "filename": "krea2-Cc-天魔-身材.safetensors",
+      "normalized_name": "krea2-cc-天魔-身材.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1WyN98e-mjQPotokysY-L3w?pwd=6e73",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-11-20T18:19:20Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_44778199710",
       "run_id": 44778199710,
@@ -36817,19 +36830,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-09-21T20:09:26Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_35649202979",
-      "run_id": 35649202979,
-      "artifact_id": 10661458060,
-      "filename": "krea2-Cc-天魔-身材.safetensors",
-      "normalized_name": "krea2-cc-天魔-身材.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/87032f2503b1",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-09-21T20:09:10Z",
       "workflow": "upload.yml"
     },
     {
