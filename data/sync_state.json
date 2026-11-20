@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T18:20:00.591Z",
-  "lastRunId": 44778199710,
+  "updatedAt": "2026-11-20T18:21:27.773Z",
+  "lastRunId": 44787961181,
   "items": [
+    {
+      "id": "run_44787961181",
+      "run_id": 44787961181,
+      "artifact_id": 14656328341,
+      "filename": "krea2Bloomgirls.vowO.safetensors",
+      "normalized_name": "krea2bloomgirls.vowo.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1EKGreGNGxh8iiCuG0JG3Lg?pwd=cb51",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-11-20T18:20:50Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_44746931012",
       "run_id": 44746931012,
@@ -59710,19 +59723,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-22T11:00:57Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_32568437206",
-      "run_id": 32568437206,
-      "artifact_id": 9474693200,
-      "filename": "krea2Bloomgirls.vowO.safetensors",
-      "normalized_name": "krea2bloomgirls.vowo.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/b60a8ffeba69",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-22T10:45:41Z",
       "workflow": "upload.yml"
     },
     {
