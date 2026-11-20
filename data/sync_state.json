@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T04:02:08.699Z",
-  "lastRunId": 44670067591,
+  "updatedAt": "2026-11-20T05:02:51.938Z",
+  "lastRunId": 44675011966,
   "items": [
+    {
+      "id": "run_44675011966",
+      "run_id": 44675011966,
+      "artifact_id": 14603186648,
+      "filename": "muKrea2-delta-INT8.safetensors",
+      "normalized_name": "mukrea2-delta-int8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/eaeb68732384",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-20T05:02:18Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_44666830115",
       "run_id": 44666830115,
