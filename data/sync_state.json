@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T06:29:43.712Z",
-  "lastRunId": 44688050805,
+  "updatedAt": "2026-11-20T06:44:20.091Z",
+  "lastRunId": 44689815327,
   "items": [
+    {
+      "id": "run_44689815327",
+      "run_id": 44689815327,
+      "artifact_id": 14607817833,
+      "filename": "MysticXXX-Moss-V1.safetensors",
+      "normalized_name": "mysticxxx-moss-v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9379ef495c12",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-20T06:43:58Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_44689786334",
+      "run_id": 44689786334,
+      "artifact_id": 14607129540,
+      "filename": "lodestones-8-steps-dmd2-lora.safetensors",
+      "normalized_name": "lodestones-8-steps-dmd2-lora.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2d3b8cd5bac5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-20T06:43:49Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_44688130725",
+      "run_id": 44688130725,
+      "artifact_id": 14607601126,
+      "filename": "hinaMossimagesft.8526cef53f8145ed391e87879959bd2f.safetensors",
+      "normalized_name": "hinamossimagesft.8526cef53f8145ed391e87879959bd2f.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0d2140dcd65d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-20T06:29:48Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_44688050805",
       "run_id": 44688050805,
@@ -6514,19 +6553,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-11-08T06:16:30Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_42453907596",
-      "run_id": 42453907596,
-      "artifact_id": 13606342763,
-      "filename": "lodestones-8-steps-dmd2-lora.safetensors",
-      "normalized_name": "lodestones-8-steps-dmd2-lora.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/3aa314753cee",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-11-08T06:14:51Z",
       "workflow": "upload.yml"
     },
     {
