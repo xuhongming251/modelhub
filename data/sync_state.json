@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T09:23:09.860Z",
-  "lastRunId": 44889029913,
+  "updatedAt": "2026-11-21T09:30:56.167Z",
+  "lastRunId": 44889843562,
   "items": [
+    {
+      "id": "run_44889843562",
+      "run_id": 44889843562,
+      "artifact_id": 14701627785,
+      "filename": "python-manager-26.4.msix",
+      "normalized_name": "python-manager-26.4.msix",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4c330c5bb4fa",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-21T09:30:20Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_44889029913",
       "run_id": 44889029913,
