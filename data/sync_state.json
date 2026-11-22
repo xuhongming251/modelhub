@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T15:33:24.863Z",
-  "lastRunId": 45035517772,
+  "updatedAt": "2026-11-22T15:38:22.110Z",
+  "lastRunId": 45039324841,
   "items": [
+    {
+      "id": "run_45039324841",
+      "run_id": 45039324841,
+      "artifact_id": 14761375655,
+      "filename": "anby-demara-zenless-zone-zero-illustrious",
+      "normalized_name": "anby-demara-zenless-zone-zero-illustrious",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/d7cdc7dede53",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-22T15:37:49Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_45038650896",
+      "run_id": 45038650896,
+      "artifact_id": 14761160849,
+      "filename": "minimax_h3_hybrid_turbo_pruned_partial-int8.safetensors",
+      "normalized_name": "minimax_h3_hybrid_turbo_pruned_partial-int8.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/66c32a178354",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-22T15:33:00Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45035517772",
       "run_id": 45035517772,
