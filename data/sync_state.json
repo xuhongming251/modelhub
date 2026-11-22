@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T15:52:21.755Z",
-  "lastRunId": 45040572272,
+  "updatedAt": "2026-11-22T16:14:42.622Z",
+  "lastRunId": 45042534214,
   "items": [
+    {
+      "id": "run_45042534214",
+      "run_id": 45042534214,
+      "artifact_id": 14761974355,
+      "filename": "ramthrustspinkalchem.OFfv.safetensors",
+      "normalized_name": "ramthrustspinkalchem.offv.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/334e9b1e37f5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-22T16:14:09Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45040572272",
       "run_id": 45040572272,
@@ -83084,19 +83097,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-23T14:58:44Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30016800825",
-      "run_id": 30016800825,
-      "artifact_id": 8567530466,
-      "filename": "ramthrustspinkalchem.OFfv.safetensors",
-      "normalized_name": "ramthrustspinkalchem.offv.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/7e9353b92608",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-23T14:41:21Z",
       "workflow": "upload.yml"
     },
     {
