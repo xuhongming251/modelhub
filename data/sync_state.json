@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T07:45:22.442Z",
-  "lastRunId": 44999291195,
+  "updatedAt": "2026-11-22T07:47:51.888Z",
+  "lastRunId": 44999709582,
   "items": [
+    {
+      "id": "run_44999709582",
+      "run_id": 44999709582,
+      "artifact_id": 14744987943,
+      "filename": "basalt-v0.5.5-windows-x64.zip",
+      "normalized_name": "basalt-v0.5.5-windows-x64.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/934b08e33ae4",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-22T07:47:16Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_44999291195",
       "run_id": 44999291195,
