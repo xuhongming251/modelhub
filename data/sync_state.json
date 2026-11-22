@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T05:58:18.584Z",
-  "lastRunId": 44991539045,
+  "updatedAt": "2026-11-22T07:16:04.804Z",
+  "lastRunId": 44995459534,
   "items": [
+    {
+      "id": "run_44995459534",
+      "run_id": 44995459534,
+      "artifact_id": 14744162692,
+      "filename": "10Eros_Max_8stepTurbo_v1.0_hybrid-int8_HQ.safetensors",
+      "normalized_name": "10eros_max_8stepturbo_v1.0_hybrid-int8_hq.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1dX23yLbZnrW-DyhkIUQCCQ?pwd=b057",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-11-22T07:15:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_44991539045",
       "run_id": 44991539045,
