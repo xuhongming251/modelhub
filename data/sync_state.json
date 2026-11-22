@@ -1,8 +1,99 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T04:20:50.720Z",
-  "lastRunId": 44984569321,
+  "updatedAt": "2026-11-22T04:21:41.292Z",
+  "lastRunId": 44984640175,
   "items": [
+    {
+      "id": "run_44984626300",
+      "run_id": 44984626300,
+      "artifact_id": 14738633420,
+      "filename": "trickcalAnima.bANd.safetensors",
+      "normalized_name": "trickcalanima.band.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0f72f2ad43ec",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-22T04:21:21Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_44984640175",
+      "run_id": 44984640175,
+      "artifact_id": 14738787931,
+      "filename": "dabaitu20v1.dkb0.safetensors",
+      "normalized_name": "dabaitu20v1.dkb0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0b4e9c17f40b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-22T04:21:18Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_44984631825",
+      "run_id": 44984631825,
+      "artifact_id": 14739362625,
+      "filename": "quasarcake.6UOF.safetensors",
+      "normalized_name": "quasarcake.6uof.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/27c95204e41f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-22T04:21:09Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_44984617619",
+      "run_id": 44984617619,
+      "artifact_id": 14739267995,
+      "filename": "nnmbpxV1Epoch22.DAxy.safetensors",
+      "normalized_name": "nnmbpxv1epoch22.daxy.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e86bc71948c7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-22T04:21:04Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_44984611279",
+      "run_id": 44984611279,
+      "artifact_id": 14739322752,
+      "filename": "40syurikenmaru2cchibi.1iWO.safetensors",
+      "normalized_name": "40syurikenmaru2cchibi.1iwo.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1640b91e2a6d",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-22T04:20:55Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_44984605252",
+      "run_id": 44984605252,
+      "artifact_id": 14739277935,
+      "filename": "muninshiki.S2qk.safetensors",
+      "normalized_name": "muninshiki.s2qk.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4bd6bd010891",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-22T04:20:50Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_44984582924",
+      "run_id": 44984582924,
+      "artifact_id": 14738844167,
+      "filename": "poppy20yu20v1.ogEC.safetensors",
+      "normalized_name": "poppy20yu20v1.ogec.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1a82ef302824",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-22T04:20:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_44984569321",
       "run_id": 44984569321,
@@ -3225,19 +3316,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-11-16T13:13:56Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_43873661030",
-      "run_id": 43873661030,
-      "artifact_id": 14228174681,
-      "filename": "dabaitu20v1.dkb0.safetensors",
-      "normalized_name": "dabaitu20v1.dkb0.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/a2f79177f060",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-11-16T13:13:35Z",
       "workflow": "upload.yml"
     },
     {
@@ -174341,7 +174419,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
