@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T16:27:04.162Z",
-  "lastRunId": 45043812716,
+  "updatedAt": "2026-11-22T16:54:28.139Z",
+  "lastRunId": 45046247790,
   "items": [
+    {
+      "id": "run_45046247790",
+      "run_id": 45046247790,
+      "artifact_id": 14764185509,
+      "filename": "plant20milkWalnut201.Cgjs.safetensors",
+      "normalized_name": "plant20milkwalnut201.cgjs.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/82669adf7322",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-22T16:53:55Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45043812716",
       "run_id": 45043812716,
@@ -100192,19 +100205,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-07-06T08:55:27Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_28778795229",
-      "run_id": 28778795229,
-      "artifact_id": 8103779901,
-      "filename": "plant20milkWalnut201.Cgjs.safetensors",
-      "normalized_name": "plant20milkwalnut201.cgjs.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/460645627337",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-07-06T08:39:07Z",
       "workflow": "upload.yml"
     },
     {
