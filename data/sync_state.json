@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T11:03:39.321Z",
-  "lastRunId": 45155738200,
+  "updatedAt": "2026-11-23T11:27:34.839Z",
+  "lastRunId": 45165123696,
   "items": [
+    {
+      "id": "run_45165123696",
+      "run_id": 45165123696,
+      "artifact_id": 14814507567,
+      "filename": "strata-hy4-0.1.66-windows-x86_64-cuda-cuda13.tar.gz",
+      "normalized_name": "strata-hy4-0.1.66-windows-x86_64-cuda-cuda13.tar.gz",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1oIVV2q7GJr1Dsqn_Kcs-0A?pwd=9e48",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-11-23T11:26:59Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45155738200",
       "run_id": 45155738200,
