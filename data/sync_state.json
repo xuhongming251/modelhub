@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T10:24:51.903Z",
-  "lastRunId": 45155559326,
+  "updatedAt": "2026-11-23T11:03:39.321Z",
+  "lastRunId": 45155738200,
   "items": [
+    {
+      "id": "run_45155738200",
+      "run_id": 45155738200,
+      "artifact_id": 14809130343,
+      "filename": "Strata-0.2.20-windows-x64-setup.exe",
+      "normalized_name": "strata-0.2.20-windows-x64-setup.exe",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bb870d069f6b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-23T10:24:33Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45155559326",
       "run_id": 45155559326,
