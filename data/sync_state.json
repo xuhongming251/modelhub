@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T02:27:18.029Z",
-  "lastRunId": 45100040641,
+  "updatedAt": "2026-11-23T02:28:44.815Z",
+  "lastRunId": 45100312730,
   "items": [
+    {
+      "id": "run_45100312730",
+      "run_id": 45100312730,
+      "artifact_id": 14784793436,
+      "filename": "anima Photoreal Anime Face v1.safetensors",
+      "normalized_name": "anima photoreal anime face v1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5bb2a0d014df",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-23T02:28:10Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_45100223483",
+      "run_id": 45100223483,
+      "artifact_id": 14785365542,
+      "filename": "anima Photoreal Anime Face v2.safetensors",
+      "normalized_name": "anima photoreal anime face v2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5f687d88ed40",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-23T02:27:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45100040641",
       "run_id": 45100040641,
@@ -175056,7 +175082,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
