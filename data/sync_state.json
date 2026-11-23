@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T21:36:14.832Z",
-  "lastRunId": 45066671508,
+  "updatedAt": "2026-11-23T01:57:14.937Z",
+  "lastRunId": 45097214162,
   "items": [
+    {
+      "id": "run_45097214162",
+      "run_id": 45097214162,
+      "artifact_id": 14783912500,
+      "filename": "krea2 MF NIJI realistic style.safetensors",
+      "normalized_name": "krea2 mf niji realistic style.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f0902f652329",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-23T01:56:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45066671508",
       "run_id": 45066671508,
@@ -174978,7 +174991,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 6,
       "createdBefore": null,
       "exhausted": false
     }
