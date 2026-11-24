@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T13:17:10.583Z",
-  "lastRunId": 45401649542,
+  "updatedAt": "2026-11-24T13:27:11.877Z",
+  "lastRunId": 45403382054,
   "items": [
+    {
+      "id": "run_45403382054",
+      "run_id": 45403382054,
+      "artifact_id": 14923748116,
+      "filename": "H3_Motion_BoosterV2.safetensors",
+      "normalized_name": "h3_motion_boosterv2.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bc937eca985a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-24T13:26:39Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45401649542",
       "run_id": 45401649542,
@@ -62076,19 +62089,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-21T19:11:48Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_32515230004",
-      "run_id": 32515230004,
-      "artifact_id": 9458520454,
-      "filename": "H3_Motion_BoosterV2.safetensors",
-      "normalized_name": "h3_motion_boosterv2.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/336a61f43dab",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-21T18:49:06Z",
       "workflow": "upload.yml"
     },
     {
