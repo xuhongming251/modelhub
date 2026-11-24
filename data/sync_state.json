@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T13:16:07.244Z",
-  "lastRunId": 45401460059,
+  "updatedAt": "2026-11-24T13:17:10.583Z",
+  "lastRunId": 45401649542,
   "items": [
+    {
+      "id": "run_45401649542",
+      "run_id": 45401649542,
+      "artifact_id": 14922693352,
+      "filename": "lena_liechtenauer_v1.0.safetensors",
+      "normalized_name": "lena_liechtenauer_v1.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0e5b4c16b107",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-24T13:16:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45401460059",
       "run_id": 45401460059,
