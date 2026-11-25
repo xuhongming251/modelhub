@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T17:39:47.238Z",
-  "lastRunId": 45663257420,
+  "updatedAt": "2026-11-25T17:48:32.035Z",
+  "lastRunId": 45668365736,
   "items": [
+    {
+      "id": "run_45668365736",
+      "run_id": 45668365736,
+      "artifact_id": 15048218074,
+      "filename": "HMNSFW-Extreme-Realism.safetensors",
+      "normalized_name": "hmnsfw-extreme-realism.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/e8f382eced6e",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-25T17:47:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45663257420",
       "run_id": 45663257420,
@@ -2796,19 +2809,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-11-21T05:41:56Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_44867863043",
-      "run_id": 44867863043,
-      "artifact_id": 14692623110,
-      "filename": "HMNSFW-Extreme-Realism.safetensors",
-      "normalized_name": "hmnsfw-extreme-realism.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.baidu.com/s/1LuzPUqsygxhqW_Ng0ZPKOQ?pwd=e097",
-      "channel": "baidu",
-      "channel_name": "Baidu",
-      "completed_at": "2026-11-21T04:49:56Z",
       "workflow": "upload.yml"
     },
     {
