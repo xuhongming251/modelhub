@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T09:51:38.728Z",
-  "lastRunId": 45792993929,
+  "updatedAt": "2026-11-26T10:40:02.133Z",
+  "lastRunId": 45803206672,
   "items": [
+    {
+      "id": "run_45803186903",
+      "run_id": 45803186903,
+      "artifact_id": 15108596823,
+      "filename": "MiaoMiao_Anima_LH3D2.9B_1.0.safetensors",
+      "normalized_name": "miaomiao_anima_lh3d2.9b_1.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ee8f8114a7f7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-26T10:39:30Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_45803206672",
+      "run_id": 45803206672,
+      "artifact_id": 15108292632,
+      "filename": "MiaoMiao_Anima_lh3d_1.2_n.safetensors",
+      "normalized_name": "miaomiao_anima_lh3d_1.2_n.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1a8898a11541",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-26T10:39:23Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45791979780",
       "run_id": 45791979780,
