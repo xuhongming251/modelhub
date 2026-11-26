@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T08:45:30.351Z",
-  "lastRunId": 45785622708,
+  "updatedAt": "2026-11-26T08:58:02.427Z",
+  "lastRunId": 45787408552,
   "items": [
+    {
+      "id": "run_45787408552",
+      "run_id": 45787408552,
+      "artifact_id": 15101565776,
+      "filename": "yutaistyleAnimav31.gls5.safetensors",
+      "normalized_name": "yutaistyleanimav31.gls5.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/47d6c8f72463",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-26T08:57:18Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45785622708",
       "run_id": 45785622708,
@@ -31968,19 +31981,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-10-03T09:37:31Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_37113577229",
-      "run_id": 37113577229,
-      "artifact_id": 11270996576,
-      "filename": "yutaistyleAnimav31.gls5.safetensors",
-      "normalized_name": "yutaistyleanimav31.gls5.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/f394358145c2",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-10-03T09:36:08Z",
       "workflow": "upload.yml"
     },
     {
