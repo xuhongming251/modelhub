@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T12:02:01.444Z",
-  "lastRunId": 45815616552,
+  "updatedAt": "2026-11-26T12:03:00.066Z",
+  "lastRunId": 45815760450,
   "items": [
+    {
+      "id": "run_45815760450",
+      "run_id": 45815760450,
+      "artifact_id": 15115696872,
+      "filename": "soultide-cecilia-dit.safetensors",
+      "normalized_name": "soultide-cecilia-dit.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/eb7be977331a",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-26T12:02:23Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45815616552",
       "run_id": 45815616552,
@@ -176720,7 +176733,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 8,
       "createdBefore": null,
       "exhausted": false
     }
