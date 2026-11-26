@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T15:38:36.902Z",
-  "lastRunId": 45850949354,
+  "updatedAt": "2026-11-26T15:42:04.759Z",
+  "lastRunId": 45851503790,
   "items": [
+    {
+      "id": "run_45851503790",
+      "run_id": 45851503790,
+      "artifact_id": 15133417796,
+      "filename": "civitai_male_anatomy_lora.json",
+      "normalized_name": "civitai_male_anatomy_lora.json",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6276ec6dc2cc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-26T15:41:23Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45850949354",
       "run_id": 45850949354,
@@ -177214,7 +177227,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 8,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
