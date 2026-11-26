@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T02:29:18.585Z",
-  "lastRunId": 45742611731,
+  "updatedAt": "2026-11-26T03:08:13.354Z",
+  "lastRunId": 45746836640,
   "items": [
+    {
+      "id": "run_45746836640",
+      "run_id": 45746836640,
+      "artifact_id": 15083737010,
+      "filename": "urushihara20satoshi.Rqca.safetensors",
+      "normalized_name": "urushihara20satoshi.rqca.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/089341260665",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-26T03:07:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45742611731",
       "run_id": 45742611731,
@@ -58397,19 +58410,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-28T05:58:47Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_33146357051",
-      "run_id": 33146357051,
-      "artifact_id": 9675919364,
-      "filename": "urushihara20satoshi.Rqca.safetensors",
-      "normalized_name": "urushihara20satoshi.rqca.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/0ea78c314e34",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-28T05:58:19Z",
       "workflow": "upload.yml"
     },
     {
