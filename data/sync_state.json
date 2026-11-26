@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T11:51:36.280Z",
-  "lastRunId": 45814096201,
+  "updatedAt": "2026-11-26T11:53:14.971Z",
+  "lastRunId": 45814433592,
   "items": [
+    {
+      "id": "run_45814433592",
+      "run_id": 45814433592,
+      "artifact_id": 15115310391,
+      "filename": "castorice-honkai-star-rail-moss-image.safetensors",
+      "normalized_name": "castorice-honkai-star-rail-moss-image.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/4e13f795c0d1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-26T11:52:47Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_45814335451",
+      "run_id": 45814335451,
+      "artifact_id": 15113984293,
+      "filename": "shu-arknights-moss-image-lora.safetensors",
+      "normalized_name": "shu-arknights-moss-image-lora.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2e2103923f13",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-26T11:52:40Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45814096201",
       "run_id": 45814096201,
