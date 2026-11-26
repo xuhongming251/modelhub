@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T07:48:19.160Z",
-  "lastRunId": 45777805282,
+  "updatedAt": "2026-11-26T07:51:07.645Z",
+  "lastRunId": 45778262902,
   "items": [
+    {
+      "id": "run_45778262902",
+      "run_id": 45778262902,
+      "artifact_id": 15097146195,
+      "filename": "bfs_body_swap_selective_magenta_v1.0_qwen_2.1.safetensors",
+      "normalized_name": "bfs_body_swap_selective_magenta_v1.0_qwen_2.1.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/2b7fa7d94976",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-26T07:50:32Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45777805282",
       "run_id": 45777805282,
