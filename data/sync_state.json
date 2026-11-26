@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T04:32:48.602Z",
-  "lastRunId": 45755770752,
+  "updatedAt": "2026-11-26T04:36:27.379Z",
+  "lastRunId": 45756171394,
   "items": [
+    {
+      "id": "run_45756171394",
+      "run_id": 45756171394,
+      "artifact_id": 15088260640,
+      "filename": "daikiKaseV2Epoch40.HnkE.safetensors",
+      "normalized_name": "daikikasev2epoch40.hnke.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/18086bcd5b64",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-26T04:35:55Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45755770752",
       "run_id": 45755770752,
@@ -127895,19 +127908,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-06-13T07:27:12Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_27460268666",
-      "run_id": 27460268666,
-      "artifact_id": 7608594820,
-      "filename": "daikiKaseV2Epoch40.HnkE.safetensors",
-      "normalized_name": "daikikasev2epoch40.hnke.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/4d3f64cad2cc",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-06-13T07:25:19Z",
       "workflow": "upload.yml"
     },
     {
