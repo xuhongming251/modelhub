@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T13:05:30.020Z",
-  "lastRunId": 45824906291,
+  "updatedAt": "2026-11-26T13:09:09.869Z",
+  "lastRunId": 45826076509,
   "items": [
+    {
+      "id": "run_45826076509",
+      "run_id": 45826076509,
+      "artifact_id": 15118943952,
+      "filename": "suzukiMiranoRSAnimaV1.fKMA.safetensors",
+      "normalized_name": "suzukimiranorsanimav1.fkma.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/0de6f4f61a00",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-26T13:08:30Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45824906291",
       "run_id": 45824906291,
@@ -176876,7 +176889,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 8,
       "createdBefore": null,
       "exhausted": false
     }
