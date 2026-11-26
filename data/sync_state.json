@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T14:20:43.456Z",
-  "lastRunId": 45837048444,
+  "updatedAt": "2026-11-26T14:25:05.579Z",
+  "lastRunId": 45838323608,
   "items": [
+    {
+      "id": "run_45838323608",
+      "run_id": 45838323608,
+      "artifact_id": 15126217600,
+      "filename": "MOSS-Image-pose-control-lora.zip",
+      "normalized_name": "moss-image-pose-control-lora.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/29381a1b92c3",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-26T14:24:23Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_45837936636",
+      "run_id": 45837936636,
+      "artifact_id": 15126267198,
+      "filename": "okazeAnima.BT1p.safetensors",
+      "normalized_name": "okazeanima.bt1p.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/80ca91aabdc1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-26T14:20:35Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45837048444",
       "run_id": 45837048444,
