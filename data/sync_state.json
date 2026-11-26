@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T12:00:08.209Z",
-  "lastRunId": 45815392140,
+  "updatedAt": "2026-11-26T12:02:01.444Z",
+  "lastRunId": 45815616552,
   "items": [
+    {
+      "id": "run_45815616552",
+      "run_id": 45815616552,
+      "artifact_id": 15116370369,
+      "filename": "tokkyu-style.safetensors",
+      "normalized_name": "tokkyu-style.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ae91c6a48e87",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-26T12:01:36Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_45815546880",
+      "run_id": 45815546880,
+      "artifact_id": 15114802604,
+      "filename": "nmc-moss古风.safetensors",
+      "normalized_name": "nmc-moss古风.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/1447ad7972ad",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-26T12:01:25Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_45815356873",
+      "run_id": 45815356873,
+      "artifact_id": 15114972181,
+      "filename": "munin-female-detective-silver-palace-moss.safetensors",
+      "normalized_name": "munin-female-detective-silver-palace-moss.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/6596a3d73acc",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-26T12:00:13Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45815392140",
       "run_id": 45815392140,
@@ -176681,7 +176720,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 8,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
