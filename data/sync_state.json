@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T16:13:16.916Z",
-  "lastRunId": 45856518481,
+  "updatedAt": "2026-11-26T16:49:30.478Z",
+  "lastRunId": 45862134213,
   "items": [
+    {
+      "id": "run_45862134213",
+      "run_id": 45862134213,
+      "artifact_id": 15137843582,
+      "filename": "xiaohuan-5000.safetensors",
+      "normalized_name": "xiaohuan-5000.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/9b82b4ca3dee",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-26T16:48:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45856518481",
       "run_id": 45856518481,
