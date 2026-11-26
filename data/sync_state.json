@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T11:38:09.489Z",
-  "lastRunId": 45812079571,
+  "updatedAt": "2026-11-26T11:39:03.048Z",
+  "lastRunId": 45812262697,
   "items": [
+    {
+      "id": "run_45812169338",
+      "run_id": 45812169338,
+      "artifact_id": 15112543708,
+      "filename": "red-rose-silverpalace-spatial-asymmetry-character-lora-moss-image.safetensors",
+      "normalized_name": "red-rose-silverpalace-spatial-asymmetry-character-lora-moss-image.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a370cdf608b5",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-26T11:38:22Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_45812262697",
+      "run_id": 45812262697,
+      "artifact_id": 15113491881,
+      "filename": "moss-anima-ill-wlop-ghostblade-artist-style.safetensors",
+      "normalized_name": "moss-anima-ill-wlop-ghostblade-artist-style.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/edc6a5ede816",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-26T11:38:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45812079571",
       "run_id": 45812079571,
@@ -176460,7 +176486,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 8,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
