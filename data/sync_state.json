@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T12:03:00.066Z",
-  "lastRunId": 45815760450,
+  "updatedAt": "2026-11-26T12:14:17.811Z",
+  "lastRunId": 45817483597,
   "items": [
+    {
+      "id": "run_45817483597",
+      "run_id": 45817483597,
+      "artifact_id": 15115524323,
+      "filename": "少司缘_moss.safetensors",
+      "normalized_name": "少司缘_moss.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/8d57b8b6c3cf",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-26T12:13:33Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_45815202472",
+      "run_id": 45815202472,
+      "artifact_id": 15115098327,
+      "filename": "tinMossImageSft4steps.0a526d4f32997f2eb5a602d4cf64bcea.safetensors",
+      "normalized_name": "tinmossimagesft4steps.0a526d4f32997f2eb5a602d4cf64bcea.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5c92e045c847",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-26T12:07:29Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45815760450",
       "run_id": 45815760450,
