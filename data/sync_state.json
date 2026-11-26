@@ -1,8 +1,34 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T11:34:14.621Z",
-  "lastRunId": 45811551209,
+  "updatedAt": "2026-11-26T11:35:00.611Z",
+  "lastRunId": 45811701808,
   "items": [
+    {
+      "id": "run_45811701808",
+      "run_id": 45811701808,
+      "artifact_id": 15114066121,
+      "filename": "moss-krea2-anima-yoneyama-mai-artist-style.safetensors",
+      "normalized_name": "moss-krea2-anima-yoneyama-mai-artist-style.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/5bdd50e90d48",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-26T11:34:26Z",
+      "workflow": "upload.yml"
+    },
+    {
+      "id": "run_45811659347",
+      "run_id": 45811659347,
+      "artifact_id": 15113206978,
+      "filename": "moss-krea2-anima-il-meion-meion39-artist-style.safetensors",
+      "normalized_name": "moss-krea2-anima-il-meion-meion39-artist-style.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f76687defafa",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-26T11:34:10Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45811551209",
       "run_id": 45811551209,
@@ -176408,7 +176434,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 8,
+      "page": 7,
       "createdBefore": null,
       "exhausted": false
     }
