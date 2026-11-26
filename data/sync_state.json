@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T17:34:26.514Z",
-  "lastRunId": 45868173035,
+  "updatedAt": "2026-11-26T19:32:56.699Z",
+  "lastRunId": 45884160616,
   "items": [
+    {
+      "id": "run_45884160616",
+      "run_id": 45884160616,
+      "artifact_id": 15148393798,
+      "filename": "cinnamonSaphireV3.03165b4666a0f6552d282a7df3e1ef3b.safetensors",
+      "normalized_name": "cinnamonsaphirev3.03165b4666a0f6552d282a7df3e1ef3b.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/a906ee136c0b",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-26T19:32:12Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45868173035",
       "run_id": 45868173035,
@@ -177253,7 +177266,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 8,
       "createdBefore": null,
       "exhausted": false
     }
