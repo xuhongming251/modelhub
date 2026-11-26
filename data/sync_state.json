@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T11:13:51.532Z",
-  "lastRunId": 45808427318,
+  "updatedAt": "2026-11-26T11:22:57.690Z",
+  "lastRunId": 45809775317,
   "items": [
+    {
+      "id": "run_45809775317",
+      "run_id": 45809775317,
+      "artifact_id": 15112870664,
+      "filename": "王昭君_moss.safetensors",
+      "normalized_name": "王昭君_moss.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/605e5bfc6146",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-26T11:22:24Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45808427318",
       "run_id": 45808427318,
@@ -176369,7 +176382,7 @@
   ],
   "scanState": {
     "upload.yml": {
-      "page": 7,
+      "page": 8,
       "createdBefore": null,
       "exhausted": false
     }
