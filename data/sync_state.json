@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T08:30:26.065Z",
-  "lastRunId": 45964656673,
+  "updatedAt": "2026-11-27T10:43:40.468Z",
+  "lastRunId": 45984323910,
   "items": [
+    {
+      "id": "run_45984323910",
+      "run_id": 45984323910,
+      "artifact_id": 15190303651,
+      "filename": "nova-furry-xl",
+      "normalized_name": "nova-furry-xl",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/dd96f9769d50",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-27T10:43:01Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_45964656673",
       "run_id": 45964656673,
@@ -162271,12 +162284,6 @@
       "normalized_name": "novafurryilv17.gwr8.safetensors",
       "share_url": "https://pan.quark.cn/s/1c38af157fae",
       "completed_at": "2026-04-22T16:13:57Z"
-    },
-    {
-      "filename": "nova-furry-xl",
-      "normalized_name": "nova-furry-xl",
-      "share_url": "https://pan.quark.cn/s/5b2ecabb8b5d",
-      "completed_at": "2026-04-22T16:09:15Z"
     },
     {
       "filename": "HEZI_竖版像素游戏风格SD15.safetensors",
