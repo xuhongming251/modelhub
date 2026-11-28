@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-28T01:53:13.712Z",
-  "lastRunId": 46095183713,
+  "updatedAt": "2026-11-28T04:44:57.040Z",
+  "lastRunId": 46108582960,
   "items": [
+    {
+      "id": "run_46108582960",
+      "run_id": 46108582960,
+      "artifact_id": 15248737103,
+      "filename": "seedvr2_7b_fp8_e4m3fn.safetensors",
+      "normalized_name": "seedvr2_7b_fp8_e4m3fn.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/21ad807952d1",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-28T04:44:21Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_46095183713",
       "run_id": 46095183713,
