@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-28T06:20:16.338Z",
-  "lastRunId": 46115770599,
+  "updatedAt": "2026-11-28T06:23:14.852Z",
+  "lastRunId": 46116003175,
   "items": [
+    {
+      "id": "run_46116003175",
+      "run_id": 46116003175,
+      "artifact_id": 15251328672,
+      "filename": "openpose_s6000.safetensors",
+      "normalized_name": "openpose_s6000.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1x9-kE0oQZqGzjDdZHk7MrA?pwd=0952",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-11-28T06:22:42Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_46115770599",
       "run_id": 46115770599,
