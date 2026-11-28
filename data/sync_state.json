@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-28T05:05:18.232Z",
-  "lastRunId": 46110120972,
+  "updatedAt": "2026-11-28T06:10:54.298Z",
+  "lastRunId": 46115316495,
   "items": [
+    {
+      "id": "run_46115316495",
+      "run_id": 46115316495,
+      "artifact_id": 15251436449,
+      "filename": "ComfyUI-SeedVR2_VideoUpscaler.zip",
+      "normalized_name": "comfyui-seedvr2_videoupscaler.zip",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/bf6e6060a3b7",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-28T06:10:14Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_46110120972",
       "run_id": 46110120972,
@@ -75895,19 +75908,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-08-03T14:27:47Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_30822452657",
-      "run_id": 30822452657,
-      "artifact_id": 8859406830,
-      "filename": "ComfyUI-SeedVR2_VideoUpscaler.zip",
-      "normalized_name": "comfyui-seedvr2_videoupscaler.zip",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/aef3d2417ae2",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-08-03T14:23:54Z",
       "workflow": "upload.yml"
     },
     {
