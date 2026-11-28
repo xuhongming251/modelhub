@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-28T13:31:32.207Z",
-  "lastRunId": 46149921654,
+  "updatedAt": "2026-11-28T13:33:31.249Z",
+  "lastRunId": 46150042226,
   "items": [
+    {
+      "id": "run_46150042226",
+      "run_id": 46150042226,
+      "artifact_id": 15265221427,
+      "filename": "DucHaiten-Pony-no_score_v4.0.safetensors",
+      "normalized_name": "duchaiten-pony-no_score_v4.0.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/f8a4d92d1644",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-28T13:32:56Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_46149921654",
       "run_id": 46149921654,
@@ -1977,19 +1990,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-11-26T07:12:22Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_45772779262",
-      "run_id": 45772779262,
-      "artifact_id": 15093899401,
-      "filename": "DucHaiten-Pony-no_score_v4.0.safetensors",
-      "normalized_name": "duchaiten-pony-no_score_v4.0.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/7e03c3872b04",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-11-26T07:07:02Z",
       "workflow": "upload.yml"
     },
     {
