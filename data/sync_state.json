@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-28T06:10:54.298Z",
-  "lastRunId": 46115316495,
+  "updatedAt": "2026-11-28T06:20:16.338Z",
+  "lastRunId": 46115770599,
   "items": [
+    {
+      "id": "run_46115770599",
+      "run_id": 46115770599,
+      "artifact_id": 15251512599,
+      "filename": "IllustriousXL_openpose.safetensors",
+      "normalized_name": "illustriousxl_openpose.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.baidu.com/s/1PvuevEcgePs1lqx8e2_ckw?pwd=fbe0",
+      "channel": "baidu",
+      "channel_name": "Baidu",
+      "completed_at": "2026-11-28T06:19:38Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_46115316495",
       "run_id": 46115316495,
@@ -138815,19 +138828,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-05-31T12:33:53Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_26712517225",
-      "run_id": 26712517225,
-      "artifact_id": 7316684081,
-      "filename": "IllustriousXL_openpose.safetensors",
-      "normalized_name": "illustriousxl_openpose.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/c46933f8029e",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-05-31T12:24:56Z",
       "workflow": "upload.yml"
     },
     {
