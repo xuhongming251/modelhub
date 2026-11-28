@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-28T09:07:49.147Z",
-  "lastRunId": 46128918569,
+  "updatedAt": "2026-11-28T09:13:59.029Z",
+  "lastRunId": 46129407055,
   "items": [
+    {
+      "id": "run_46129407055",
+      "run_id": 46129407055,
+      "artifact_id": 15256463722,
+      "filename": "Civitai 模型文件",
+      "normalized_name": "civitai 模型文件",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/ad7d7ef0886f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-28T09:13:27Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_46128918569",
       "run_id": 46128918569,
@@ -3537,19 +3550,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-11-22T20:29:52Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_45025815372",
-      "run_id": 45025815372,
-      "artifact_id": 14766037937,
-      "filename": "Civitai 模型文件",
-      "normalized_name": "civitai 模型文件",
-      "original_url": "",
-      "share_url": "https://pan.baidu.com/s/1QK1DQk_hcxDHzIoFq4J9Cw?pwd=9b0f",
-      "channel": "baidu",
-      "channel_name": "Baidu",
-      "completed_at": "2026-11-22T18:09:33Z",
       "workflow": "upload.yml"
     },
     {
