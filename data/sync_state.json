@@ -1,8 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-28T04:44:57.040Z",
-  "lastRunId": 46108582960,
+  "updatedAt": "2026-11-28T04:59:17.477Z",
+  "lastRunId": 46109882378,
   "items": [
+    {
+      "id": "run_46109882378",
+      "run_id": 46109882378,
+      "artifact_id": 15249262203,
+      "filename": "miaomiao-harem-moss.safetensors",
+      "normalized_name": "miaomiao-harem-moss.safetensors",
+      "original_url": "",
+      "share_url": "https://pan.quark.cn/s/eca7a9954e8f",
+      "channel": "quark",
+      "channel_name": "Quark",
+      "completed_at": "2026-11-28T04:58:44Z",
+      "workflow": "upload.yml"
+    },
     {
       "id": "run_46108582960",
       "run_id": 46108582960,
@@ -7840,19 +7853,6 @@
       "channel": "quark",
       "channel_name": "Quark",
       "completed_at": "2026-11-15T15:27:26Z",
-      "workflow": "upload.yml"
-    },
-    {
-      "id": "run_43722687302",
-      "run_id": 43722687302,
-      "artifact_id": 14165460255,
-      "filename": "miaomiao-harem-moss.safetensors",
-      "normalized_name": "miaomiao-harem-moss.safetensors",
-      "original_url": "",
-      "share_url": "https://pan.quark.cn/s/e4eff92b2bd4",
-      "channel": "quark",
-      "channel_name": "Quark",
-      "completed_at": "2026-11-15T14:09:33Z",
       "workflow": "upload.yml"
     },
     {
